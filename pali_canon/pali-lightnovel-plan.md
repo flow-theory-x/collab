@@ -298,5 +298,44 @@ pali_canon/
 
 ---
 
+## 12. 参考文献・資料リンク
+
+### flow_theory（マスター）のnote記事群
+
+| 記事 | URL | 用途 |
+|------|-----|------|
+| Theravada minimal｜Contents | https://note.com/flow_theory/n/nc070409188b5 | 全体構成・目次 |
+| Theravada minimal｜煩悩駆動開発のススメ | https://note.com/flow_theory/n/n367c4ed09ae1 | 導入・コンセプト・KDD |
+| 第1章：パーリ経典とは何か | https://note.com/flow_theory/n/n03232c59c225 | テーラヴァーダの基礎 |
+| 第2章：Buddhismの基本OS | https://note.com/flow_theory/n/n2362e9875130 | 四正諦・八正道・十波羅蜜 |
+| 第3章：心を整える - 瞑想とマインドフルネス | https://note.com/flow_theory/n/n5be74520fe0d | 瞑想・四念処・呼吸瞑想 |
+| 第6章：重要経典10選 | https://note.com/flow_theory/n/n9ed9d575249d | 経典ガイド |
+| 玄同とスコープ：老子から八正道へ | https://note.com/flow_theory/n/nc54aa120f732 | 道徳経×仏教の交差点 |
+| 文学作品としての仏教 | https://note.com/flow_theory/n/n517cc64bfc2b | 物語化の先行考察 |
+| Re-Buddhism: 記号創発による仏教の再定義 | https://note.com/flow_theory/n/n78525e5f197f | 理論的背景 |
+| AI時代の宗教改革：仏教のOSS的実践 | https://note.com/flow_theory/n/nfaf2e767eb47 | 原典回帰の思想 |
+| 仏教の本質｜その活動はバージョンアップさせたか？ | https://note.com/flow_theory/n/n2fc713e115c6 | 実践の本質 |
+
+> 💡 上記記事はRAGに投入済み。執筆時にRAG検索で横断参照可能。
+
+### 原典資料（本プロジェクトで収集）
+
+| 資料 | パス | 内容 |
+|------|------|------|
+| 日本語概要 | `original/*.md` | 6経典の概要・抜粋（以前作成） |
+| 日本語要約 | `original/summary/` | 全経典の構造要約＋執筆ヒント |
+| 英文フルテキスト | `original/detail/` | 全41ファイル、1.2MB |
+
+### 外部ソース
+
+| サイト | URL | 収録内容 |
+|--------|-----|----------|
+| Access to Insight | https://accesstoinsight.org | ダンマパダ・経典4本の英訳（Buddharakkhita訳等） |
+| Ancient Buddhist Texts | https://ancient-buddhist-texts.net | ジャータカ十大本生話の英訳 |
+| SuttaCentral | https://suttacentral.net | パーリ原文＋多言語訳 |
+
+---
+
 *企画書作成：flow_theory / 2026-02-10*
 *資料方針追記：2026-02-10*
+*参考文献追記：2026-02-10*
