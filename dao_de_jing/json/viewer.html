@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>☯ 道徳経 ── 老子訳カード</title>
+<link rel="icon" href="/img/teddy.png">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Kaku Gothic ProN', serif; background: #0a0a0a; color: #eee; min-height: 100vh; display: flex; flex-direction: column; align-items: center; }
+header { padding: 1.5rem 1rem; text-align: center; width: 100%; }
+header h1 { font-size: 1.3rem; font-weight: 600; color: #a8c7a0; }
+header .sub { font-size: 0.8rem; color: #666; margin-top: 0.3rem; }
+
+.card-container { flex: 1; display: flex; align-items: center; justify-content: center; width: 100%; padding: 1rem; }
+.card { background: #111; border: 1px solid #2a2a2a; border-radius: 16px; max-width: 600px; width: 100%; padding: 2rem 1.5rem; box-shadow: 0 8px 32px rgba(0,0,0,0.5); }
+.verse-num { font-size: 0.75rem; color: #a8c7a0; letter-spacing: 0.1em; margin-bottom: 1rem; }
+.chapter-name { font-size: 0.7rem; color: #555; }
+
+.layer { margin-bottom: 1.2rem; cursor: pointer; transition: all 0.3s; }
+.layer.hidden .layer-content { display: none; }
+.layer-label { font-size: 0.65rem; color: #a8c7a0; letter-spacing: 0.08em; margin-bottom: 0.3rem; display: flex; align-items: center; gap: 0.4rem; }
+.layer-label .hint { color: #444; font-size: 0.6rem; }
+.layer-content { line-height: 1.8; }
+
+.original { color: #d4a574; font-size: 1.05rem; font-family: 'Hiragino Mincho ProN', 'Yu Mincho', serif; }
+.modern_ja { color: #aaa; font-size: 0.9rem; }
+.english { color: #777; font-size: 0.85rem; }
+.laozi { color: #c8e6c9; font-size: 1.05rem; font-weight: 400; line-height: 2; }
+
+.keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem; }
+.kw { background: #1a2e1a; color: #a8c7a0; padding: 0.15rem 0.6rem; border-radius: 12px; font-size: 0.7rem; }
+
+.nav { display: flex; justify-content: center; align-items: center; gap: 1rem; padding: 1.5rem; width: 100%; max-width: 600px; }
+.nav button { background: #111; border: 1px solid #2a2a2a; color: #a8c7a0; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem; cursor: pointer; transition: background 0.2s; }
+.nav button:hover { background: #1a2e1a; }
+.nav button:disabled { opacity: 0.3; cursor: default; }
+.nav .counter { color: #555; font-size: 0.8rem; min-width: 80px; text-align: center; }
+
+.controls { display: flex; justify-content: center; gap: 0.5rem; padding: 0 1rem 1.5rem; flex-wrap: wrap; }
+.controls button { background: none; border: 1px solid #2a2a2a; color: #666; padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s; }
+.controls button:hover, .controls button.active { border-color: #a8c7a0; color: #a8c7a0; }
+
+.chapter-select { display: flex; justify-content: center; padding: 0 1rem 1rem; }
+.chapter-select select { background: #111; border: 1px solid #2a2a2a; color: #a8c7a0; padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.8rem; max-width: 90vw; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>☯ 道徳経 ── 老子訳カード</h1>
+  <div class="sub">Tao Te Ching × Laozi Translation</div>
+</header>
+
+<div class="chapter-select">
+  <select id="chapterSelect"></select>
+</div>
+
+<div class="controls">
+  <button onclick="revealAll()">全表示</button>
+  <button onclick="hideAll()">全隠し</button>
+  <button onclick="randomVerse()">🎲 ランダム</button>
+  <button id="autoBtn" onclick="toggleAuto()">▶ 自動</button>
+</div>
+
+<div class="card-container">
+  <div class="card" id="card">
+    <div class="verse-num" id="verseNum">Loading...</div>
+    <div id="layers"></div>
+  </div>
+</div>
+
+<div class="nav">
+  <button id="prevBtn" onclick="prev()">◀ 前</button>
+  <div class="counter" id="counter">-</div>
+  <button id="nextBtn" onclick="next()">次 ▶</button>
+</div>
+
+<script>
+const CHAPTERS = [];
+for (let i = 1; i <= 81; i++) {
+  const num = String(i).padStart(2, '0');
+  CHAPTERS.push({ file: `ch${num}.json`, label: `第${i}章` });
+}
+
+let verses = [];
+let currentIdx = 0;
+let currentChapter = {};
+let autoTimer = null;
+
+const sel = document.getElementById('chapterSelect');
+CHAPTERS.forEach((ch, i) => {
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = ch.label;
+  sel.appendChild(opt);
+});
+sel.addEventListener('change', () => loadChapter(+sel.value));
+
+async function loadChapter(idx) {
+  const ch = CHAPTERS[idx];
+  sel.value = idx;
+  try {
+    const res = await fetch(ch.file + '?t=' + Date.now());
+    const data = await res.json();
+    currentChapter = data;
+    verses = data.verses || [];
+    currentIdx = 0;
+    render();
+  } catch(e) {
+    document.getElementById('card').innerHTML = '<p style="color:#c00">読み込みエラー</p>';
+  }
+}
+
+function render() {
+  const v = verses[currentIdx];
+  document.getElementById('verseNum').innerHTML =
+    `第${currentChapter.chapter}章 <span class="chapter-name">${currentChapter.chinese_name} ── ${currentChapter.summary || ''}</span>`;
+
+  const layers = [
+    { label: '原文', cls: 'original', text: v.original || '' },
+    { label: '現代語訳', cls: 'modern_ja', text: v.modern_ja || '' },
+    { label: 'English', cls: 'english', text: v.english || '' },
+    { label: '老子訳', cls: 'laozi', text: v.laozi || '' },
+  ].filter(l => l.text.trim() !== '');
+
+  let html = '';
+  layers.forEach((l, i) => {
+    const isLaozi = l.cls === 'laozi';
+    const isOriginal = l.cls === 'original';
+    const show = isOriginal || isLaozi;
+    const hidden = show ? '' : 'hidden';
+    html += `<div class="layer ${hidden}" onclick="toggleLayer(this)">
+      <div class="layer-label">${l.label} <span class="hint">tap</span></div>
+      <div class="layer-content ${l.cls}">${l.text.replace(/\n/g, '<br>')}</div>
+    </div>`;
+  });
+
+  if (v.keywords && v.keywords.length) {
+    html += '<div class="keywords">' + v.keywords.map(k => `<span class="kw">${k}</span>`).join('') + '</div>';
+  }
+
+  document.getElementById('layers').innerHTML = html;
+  document.getElementById('counter').textContent = verses.length > 1 ? `${currentIdx + 1} / ${verses.length}` : `第${currentChapter.chapter}章`;
+  document.getElementById('prevBtn').disabled = currentIdx === 0 && sel.value === '0';
+  document.getElementById('nextBtn').disabled = currentIdx === verses.length - 1 && +sel.value === CHAPTERS.length - 1;
+}
+
+function next() {
+  if (currentIdx < verses.length - 1) { currentIdx++; render(); }
+  else if (+sel.value < CHAPTERS.length - 1) { loadChapter(+sel.value + 1); }
+}
+function prev() {
+  if (currentIdx > 0) { currentIdx--; render(); }
+  else if (+sel.value > 0) { loadChapter(+sel.value - 1); }
+}
+function randomVerse() {
+  const rndCh = Math.floor(Math.random() * CHAPTERS.length);
+  loadChapter(rndCh);
+}
+function toggleLayer(el) { el.classList.toggle('hidden'); }
+function revealAll() { document.querySelectorAll('.layer').forEach(l => l.classList.remove('hidden')); }
+function hideAll() { document.querySelectorAll('.layer').forEach((l,i) => { if(i>0 && !l.querySelector('.laozi')) l.classList.add('hidden'); }); }
+
+function toggleAuto() {
+  const btn = document.getElementById('autoBtn');
+  if (autoTimer) {
+    clearInterval(autoTimer);
+    autoTimer = null;
+    btn.textContent = '▶ 自動';
+    btn.classList.remove('active');
+  } else {
+    btn.textContent = '⏸ 停止';
+    btn.classList.add('active');
+    autoTimer = setInterval(() => {
+      revealAll();
+      setTimeout(() => next(), 4000);
+    }, 6000);
+  }
+}
+
+// Swipe
+let touchStartX = 0;
+document.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; });
+document.addEventListener('touchend', e => {
+  const diff = e.changedTouches[0].clientX - touchStartX;
+  if (Math.abs(diff) > 60) { diff > 0 ? prev() : next(); }
+});
+
+// Keyboard
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === ' ') next();
+  if (e.key === 'ArrowLeft') prev();
+  if (e.key === 'r') randomVerse();
+});
+
+loadChapter(0);
+</script>
+</body>
+</html>

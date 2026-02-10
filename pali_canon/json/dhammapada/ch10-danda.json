@@ -1,0 +1,146 @@
+{
+  "chapter": 10,
+  "pali_name": "Dandavagga",
+  "japanese_name": "暴力品",
+  "english_name": "Violence",
+  "summary": "すべての生きものは暴力に震え、死を恐れる。自分の身に置き換えろ──殺すな、傷つけるな。鞭を恐れる駿馬のように自分を律し、水を引く者のように己を調えるのが本物だ。",
+  "verse_range": "129-145",
+  "verses": [
+    {
+      "number": 129,
+      "pali": "Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno;\nattānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "reading": "サッベー タサンティ ダンダッサ、サッベー バーヤンティ マッチュノー；\nアッターナン ウパマン カットゥヴァー、ナ ハネッヤ ナ ガータイェー。",
+      "english": "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.",
+      "sezon": "すべての生きものは暴力に震え、すべての生きものは死を恐れる。自分と同じだと思え。──殺すな、殺させるな。",
+      "keywords": ["daṇḍa", "maccu", "attānaṃ", "ahiṃsā"]
+    },
+    {
+      "number": 130,
+      "pali": "Sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ;\nattānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "reading": "サッベー タサンティ ダンダッサ、サッベーサン ジーヴィタン ピヤン；\nアッターナン ウパマン カットゥヴァー、ナ ハネッヤ ナ ガータイェー。",
+      "english": "All tremble at violence; life is dear to all. Putting oneself in the place of another, one should not kill nor cause another to kill.",
+      "sezon": "すべての者は暴力に震える。命はすべての者にとって愛しい。──自分に置き換えて考えろ。殺すな、殺させるな。",
+      "keywords": ["daṇḍa", "jīvita", "piya", "ahiṃsā"]
+    },
+    {
+      "number": 131,
+      "pali": "Sukhakāmāni bhūtāni, yo daṇḍena vihiṃsati;\nattano sukhamesāno, pecca so na labhate sukhaṃ.",
+      "reading": "スカカーマーニ ブーターニ、ヨー ダンデーナ ヴィヒンサティ；\nアッタノー スカメーサーノー、ペッチャ ソー ナ ラバテー スカン。",
+      "english": "One who, while himself seeking happiness, oppresses with violence other beings who also desire happiness, will not attain happiness hereafter.",
+      "sezon": "幸せを求めてる生きものを暴力で苦しめて、自分だけ幸せになろうってか？──来世で幸福は手に入らねぇよ。",
+      "keywords": ["sukha", "daṇḍa", "vihiṃsati", "bhūta"]
+    },
+    {
+      "number": 132,
+      "pali": "Sukhakāmāni bhūtāni, yo daṇḍena na hiṃsati;\nattano sukhamesāno, pecca so labhate sukhaṃ.",
+      "reading": "スカカーマーニ ブーターニ、ヨー ダンデーナ ナ ヒンサティ；\nアッタノー スカメーサーノー、ペッチャ ソー ラバテー スカン。",
+      "english": "One who, while himself seeking happiness, does not oppress with violence other beings who also desire happiness, will find happiness hereafter.",
+      "sezon": "幸せを望む生きものを傷つけねぇ奴は、自分も来世で幸福を得る。──当たり前の道理だ。",
+      "keywords": ["sukha", "ahiṃsā", "bhūta"]
+    },
+    {
+      "number": 133,
+      "pali": "Māvoca pharusaṃ kañci, vuttā paṭivadeyyu taṃ;\ndukkhā hi sārambhakathā, paṭidaṇḍā phuseyyu taṃ.",
+      "reading": "マーヴォーチャ パルサン カンチ、ヴッター パティヴァデッユ タン；\nドゥッカー ヒ サーランバカター、パティダンダー プセッユ タン。",
+      "english": "Speak not harshly to anyone, for those thus spoken to might retort. Indeed, angry speech hurts, and retaliation may overtake you.",
+      "sezon": "誰にも荒い言葉をぶつけるな。言われた相手はやり返す。怒りの言葉は苦をもたらし、報復がテメェに降りかかるぞ。",
+      "keywords": ["pharusa", "vācā", "sārambha", "paṭidaṇḍa"]
+    },
+    {
+      "number": 134,
+      "pali": "Sace neresi attānaṃ, kaṃso upahato yathā;\nesa pattosi nibbānaṃ, sārambho te na vijjati.",
+      "reading": "サチェー ネーレーシ アッターナン、カンソー ウパハトー ヤター；\nエーサ パットーシ ニッバーナン、サーランボー テー ナ ヴィッジャティ。",
+      "english": "If, like a broken gong, you silence yourself, you have approached Nibbana, for vindictiveness is no longer in you.",
+      "sezon": "割れた銅鑼みてぇに黙れるなら、お前はもう涅槃に近い。──報復心がもうねぇからだ。",
+      "keywords": ["kaṃsa", "nibbāna", "sārambha"]
+    },
+    {
+      "number": 135,
+      "pali": "Yathā daṇḍena gopālo, gāvo pājeti gocaraṃ;\nevaṃ jarā ca maccu ca, āyuṃ pājenti pāṇinaṃ.",
+      "reading": "ヤター ダンデーナ ゴーパーロー、ガーヴォー パージェーティ ゴーチャラン；\nエーヴァン ジャラー チャ マッチュ チャ、アーユン パージェンティ パーニナン。",
+      "english": "Just as a cowherd drives the cattle to pasture with a staff, so do old age and death drive the life force of beings (from existence to existence).",
+      "sezon": "牛飼いが杖で牛を牧場へ追い立てるように、老いと死が生きものの命を追い立てていく。",
+      "keywords": ["gopāla", "jarā", "maccu", "āyu"]
+    },
+    {
+      "number": 136,
+      "pali": "Atha pāpāni kammāni, karaṃ bālo na bujjhati;\nsehi kammehi dummedho, aggidaḍḍhova tappati.",
+      "reading": "アタ パーパーニ カンマーニ、カラン バーロー ナ ブッジャティ；\nセーヒ カンメーヒ ドゥンメードー、アッギダッドーヴァ タッパティ。",
+      "english": "When the fool commits evil deeds, he does not realize (their evil nature). The witless man is tormented by his own deeds, like one burnt by fire.",
+      "sezon": "愚か者は悪業をやらかしても、その悪さに気づかねぇ。自分の業に焼かれる──火に焼かれる奴みてぇにな。",
+      "keywords": ["bāla", "pāpa", "kamma", "aggi"]
+    },
+    {
+      "number": 137,
+      "pali": "Yo daṇḍena adaṇḍesu, appaduṭṭhesu dussati;\ndasannamaññataraṃ ṭhānaṃ, khippameva nigacchati.",
+      "reading": "ヨー ダンデーナ アダンデース、アッパドゥッテース ドゥッサティ；\nダサンナマンニャタラン ターナン、キッパメーヴァ ニガッチャティ。",
+      "english": "He who inflicts violence on those who are unarmed, and offends those who are inoffensive, will soon come upon one of these ten states:",
+      "sezon": "武器を持たぬ者に暴力を振るい、罪なき者を傷つける奴は、すぐにこの十の報いのどれかに遭う──",
+      "keywords": ["daṇḍa", "adaṇḍa", "appaduṭṭha"]
+    },
+    {
+      "number": 138,
+      "pali": "Vedanaṃ pharusaṃ jāniṃ, sarīrassa ca bhedanaṃ;\ngarukaṃ vāpi ābādhaṃ, cittakkhepañca pāpuṇe.",
+      "reading": "ヴェーダナン パルサン ジャーニン、サリーラッサ チャ ベーダナン；\nガルカン ヴァーピ アーバーダン、チッタッケーパンチャ パープネー。",
+      "english": "Sharp pain, or disaster, bodily injury, serious illness, or derangement of mind,",
+      "sezon": "激しい痛み、災難、身体の損傷、重い病、心の錯乱──",
+      "keywords": ["vedanā", "ābādha", "cittakkhepa"]
+    },
+    {
+      "number": 139,
+      "pali": "Rājato vā upasaggaṃ, abbhakkhānañca dāruṇaṃ;\nparikkhayañca ñātīnaṃ, bhogānañca pabhaṅguraṃ.",
+      "reading": "ラージャトー ヴァー ウパサッガン、アッバッカーナンチャ ダールナン；\nパリッカヤンチャ ニャーティーナン、ボーガーナンチャ パバングラン。",
+      "english": "trouble from the government, or grave charges, loss of relatives, or loss of wealth,",
+      "sezon": "権力者からの厄介事、重い告発、親族の喪失、財産の崩壊──",
+      "keywords": ["rāja", "upasagga", "ñāti", "bhoga"]
+    },
+    {
+      "number": 140,
+      "pali": "Atha vāssa agārāni, aggi ḍahati pāvako;\nkāyassa bhedā duppañño, nirayaṃ sopapajjati.",
+      "reading": "アタ ヴァッサ アガーラーニ、アッギ ダハティ パーヴァコー；\nカーヤッサ ベーダー ドゥッパンニョー、ニラヤン ソーパパッジャティ。",
+      "english": "or houses destroyed by ravaging fire; upon dissolution of the body that ignorant man is born in hell.",
+      "sezon": "あるいは家が火に焼かれる。──そして身体が壊れた後、その愚か者は地獄に生まれる。",
+      "keywords": ["aggi", "niraya", "kāya", "duppañña"]
+    },
+    {
+      "number": 141,
+      "pali": "Na naggacariyā na jaṭā na paṅkā, nānāsakā thaṇḍilasāyikā vā;\nrajojallaṃ ukkuṭikappadhānaṃ, sodhenti maccaṃ avitiṇṇakaṅkhaṃ.",
+      "reading": "ナ ナッガチャリヤー ナ ジャター ナ パンカー、ナーナーサカー タンディラサーイカー ヴァー；\nラジョージャッラン ウックティカッパダーナン、ソーデンティ マッチャン アヴィティンナカンカン。",
+      "english": "Neither going about naked, nor matted locks, nor filth, nor fasting, nor lying on the ground, nor smearing oneself with ashes and dust, nor sitting on the heels (in penance) can purify a mortal who has not overcome doubt.",
+      "sezon": "裸で歩こうが、髪を結おうが、泥を塗ろうが、断食しようが、地べたに寝ようが、灰まみれになろうが──疑いを超えてねぇ奴は浄まらねぇ。",
+      "keywords": ["naggacariyā", "jaṭā", "sodhenti", "kaṅkhā"]
+    },
+    {
+      "number": 142,
+      "pali": "Alaṅkato cepi samaṃ careyya, santo danto niyato brahmacārī;\nsabbesu bhūtesu nidhāya daṇḍaṃ, so brāhmaṇo so samaṇo sa bhikkhu.",
+      "reading": "アランカトー チェーピ サマン チャレッヤ、サントー ダントー ニヤトー ブラフマチャーリー；\nサッベース ブーテース ニダーヤ ダンダン、ソー ブラーフマノー ソー サマノー サ ビック。",
+      "english": "Even though he be well-attired, yet if he is poised, calm, controlled and established in the holy life, having set aside violence towards all beings — he, truly, is a holy man, a renunciate, a monk.",
+      "sezon": "着飾っていようが、静かで落ち着いて、自制し、清らかに生き、すべての生きものへの暴力を捨てているなら──そいつが本物のバラモンであり、沙門であり、比丘だ。",
+      "keywords": ["samaṇa", "brāhmaṇa", "bhikkhu", "daṇḍa", "ahiṃsā"]
+    },
+    {
+      "number": 143,
+      "pali": "Hirīnisedho puriso, koci lokasmi vijjati;\nyo niddaṃ apabodheti, asso bhadro kasāmiva.",
+      "reading": "ヒリーニセードー プリソー、コーチ ローカスミ ヴィッジャティ；\nヨー ニッダン アパボーデーティ、アッソー バドロー カサーミヴァ。",
+      "english": "Only rarely is there a man in this world who, restrained by modesty, avoids reproach, as a thoroughbred horse avoids the whip.",
+      "sezon": "恥を知って自分を抑え、非難を避ける奴は──鞭を避ける名馬みてぇに──この世にゃ滅多にいねぇ。",
+      "keywords": ["hirī", "assa", "kasā", "niddā"]
+    },
+    {
+      "number": 144,
+      "pali": "Asso yathā bhadro kasāniviṭṭho, ātāpino saṃvegino bhavātha;\nsaddhāya sīlena ca vīriyena ca, samādhinā dhammavinicchayena ca;\nsampannavijjācaraṇā patissatā, jahissatha dukkhamidaṃ anappakan.",
+      "reading": "アッソー ヤター バドロー カサーニヴィットー、アーターピノー サンヴェーギノー バヴァータ；\nサッダーヤ スィーレーナ チャ ヴィーリイェーナ チャ、サマーディナー ダンマヴィニッチャイェーナ チャ；\nサンパンナヴィッジャーチャラナー パティッサター、ジャヒッサタ ドゥッカミダン アナッパカン。",
+      "english": "Like a thoroughbred horse touched by the whip, be strenuous, be filled with spiritual yearning. By faith and moral purity, by effort and meditation, by investigation of the truth, by being rich in knowledge and virtue, and by being mindful, destroy this unlimited suffering.",
+      "sezon": "鞭に触れた名馬のように奮い立て。信と戒と精進と、禅定と法の見極めと、明と行と念──これで限りなき苦を断て。",
+      "keywords": ["saddhā", "sīla", "vīriya", "samādhi", "paññā"]
+    },
+    {
+      "number": 145,
+      "pali": "Udakaṃ hi nayanti nettikā, usukārā namayanti tejanaṃ;\ndāruṃ namayanti tacchakā, attānaṃ damayanti subbatā.",
+      "reading": "ウダカン ヒ ナヤンティ ネッティカー、ウスカーラー ナマヤンティ テージャナン；\nダールン ナマヤンティ タッチャカー、アッターナン ダマヤンティ スッバター。",
+      "english": "Irrigators regulate the waters, fletchers straighten arrow shafts, carpenters shape wood, and the good control themselves.",
+      "sezon": "水を引く者は水を操り、矢師は矢を整え、大工は木を削る。──善き者は自分自身を調える。",
+      "keywords": ["nettika", "usukāra", "tacchaka", "attānaṃ", "damayanti"]
+    }
+  ]
+}

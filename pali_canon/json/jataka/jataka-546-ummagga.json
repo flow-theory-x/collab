@@ -1,0 +1,82 @@
+{
+  "jataka_number": 546,
+  "pali_name": "Mahā-Ummagga Jātaka",
+  "japanese_name": "マハーウンマッガ本生",
+  "english_name": "The Great Tunnel Story (Mahosadha)",
+  "parami": "般若波羅蜜（Paññā）",
+  "summary": "パンチャーラ国の賢者マホーサダ（菩薩）が、幼少から超人的な知恵で四人のライバル賢者を圧倒し、数々の難題を解決する。王に仕えながら陰謀を切り抜け、最後は敵国の大軍を地下トンネルの奇策で退け、百一カ国の王を知恵の力だけで屈服させる壮大な物語。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "賢者の誕生と少年時代",
+      "pali": "Mahosadha",
+      "reading": "マホーサダ",
+      "english": "The Bodhisatta is born as Mahosadha in a merchant's family. Even as a baby he clutches a medicinal herb. As a boy of seven, he solves complex disputes—like the case of the boy and the cart, where he determines ownership by asking what the cart carried. His fame reaches King Vedeha.",
+      "sezon": "マホーサダは生まれた時から薬草を握りしめていた。知恵の化身だ。七歳の時にはもう大人顔負けの裁きをしていた。ガキ同士で小さな車の所有権を争えば、「その車に何を乗せてた？」と聞くだけで嘘つきを見抜く。蛇と蛙の見分けも一発。近所の連中は舌を巻いた。「あの子は只者じゃない」と。噂はやがてヴェーデーハ王の耳に届いた。",
+      "keywords": ["Mahosadha", "少年の知恵", "裁き", "Vedeha", "薬草"]
+    },
+    {
+      "number": 2,
+      "title": "四賢者との対決",
+      "pali": "Catupaṇḍita",
+      "reading": "チャトゥパンディタ",
+      "english": "King Vedeha has four court sages—Senaka, Pukkusa, Kāvinda, and Devinda—who become jealous of Mahosadha. They repeatedly scheme to discredit him through impossible puzzles and riddles, but Mahosadha solves every one, from the 'Question of the Gem' to identifying hidden objects and exposing liars.",
+      "sezon": "王宮には四人の賢者がいた。セーナカ、プックサ、カーヴィンダ、デーヴィンダ。マホーサダが来ると聞いて震え上がった。案の定、難題をふっかけるたびに返り討ちだ。「宝石が本物かどうか」「糸を通せぬ曲がった宝石に糸を通せ」——マホーサダは蟻に糸を結んで通した。「この女の本当の夫は？」——赤ん坊に選ばせた。四賢者は何度挑んでも勝てない。悔しさで顔を歪めるしかなかった。",
+      "keywords": ["四賢者", "Senaka", "謎解き", "知恵比べ", "宝石の糸"]
+    },
+    {
+      "number": 3,
+      "title": "裁きの数々",
+      "pali": "Vinicchaya",
+      "reading": "ヴィニッチャヤ",
+      "english": "Mahosadha becomes the king's chief judge and solves a series of famous cases: the woman whose child was seized by a Yakkhinī (he draws a line and has them pull the child; the real mother lets go rather than hurt the baby), the farmer whose ox was stolen, the merchant's stolen gold, and many others through brilliant deduction.",
+      "sezon": "マホーサダは王の裁判官になった。有名なのは母親争いの裁きだ。夜叉の女が人間の赤ん坊を「自分の子だ」と言い張った。マホーサダは線を引いて子供を置き、「引っ張れ」と命じた。夜叉は力任せに引いた。本当の母親は子が泣くのを見て手を離した。「本物の母は子を傷つけられない」。盗まれた牛も、隠された金も、全部見破った。知恵ってのは力じゃない、相手の心を読む力だ。",
+      "keywords": ["裁判", "母親争い", "夜叉女", "推理", "正義"]
+    },
+    {
+      "number": 4,
+      "title": "苦行者ベーリーの問い",
+      "pali": "Bherī",
+      "reading": "ベーリー",
+      "english": "The wandering ascetic Bherī tests Mahosadha through silent hand gestures. Court spies misinterpret the exchange as treasonous plotting. The king investigates and discovers the innocent truth. Later Bherī poses the famous Question of the Water Rakkhasa to reveal the king's true esteem for Mahosadha above all others.",
+      "sezon": "苦行者ベーリーとマホーサダが手振りで会話した。ベーリーが手を開けば「王は気前がいいか？」、マホーサダが拳を握れば「ケチだ」。これを見た密偵が「謀反の相談だ！」と王に告げ口した。だが真相は他愛もない。その後ベーリーは「水の夜叉」の問いを王に投げた。「七人で船に乗って夜叉に襲われたら、誰から差し出す？」。王の答え——母も妻も弟も友も家臣も自分さえも差し出すが、マホーサダだけは渡さない。知恵の価値は命より重い。",
+      "keywords": ["Bherī", "手話", "水の夜叉", "王の信頼", "知恵の価値"]
+    },
+    {
+      "number": 5,
+      "title": "敵王ケーヴァッタの陰謀",
+      "pali": "Kevaṭṭa",
+      "reading": "ケーヴァッタ",
+      "english": "King Brahmadatta of Pañcāla, advised by his crafty minister Kevaṭṭa, plots to conquer all of India by defeating Vedeha. They plan to lure Vedeha to Pañcāla with the promise of Princess Pañcālacaṇḍī in marriage, then capture and kill him. Mahosadha alone sees through the trap.",
+      "sezon": "パンチャーラ国のブラフマダッタ王と、その軍師ケーヴァッタが動いた。「ヴェーデーハ王をおびき出して殺せば、インド全土が手に入る」と。餌は絶世の美女パンチャーラチャンディー。「この姫をやるから来い」と。四賢者は大喜びで「行きましょう！」と。マホーサダだけが言った。「罠だ」。だが誰も聞かない。王も姫に目がくらんだ。マホーサダは仕方なく、独自の対策を練り始めた。",
+      "keywords": ["Brahmadatta", "Kevaṭṭa", "陰謀", "美人局", "Pañcālacaṇḍī"]
+    },
+    {
+      "number": 6,
+      "title": "大トンネル作戦",
+      "pali": "Ummagga",
+      "reading": "ウンマッガ",
+      "english": "Mahosadha secretly constructs an enormous underground tunnel from Mithilā to the enemy's capital Uttarapañcāla, complete with rooms, ventilation, lighting, and even underground lakes. When King Vedeha walks into the trap, Mahosadha uses the tunnel to rescue him and kidnap the enemy's queen, mother and daughter, turning the tables completely.",
+      "sezon": "ここからがマホーサダの真骨頂だ。敵の首都ウッタラパンチャーラまで、地下に巨大トンネルを掘った。ただのトンネルじゃない。部屋があり、換気口があり、灯りがあり、池まである。地下宮殿だ。王がノコノコ敵地に乗り込んで案の定捕まりかけた時、マホーサダはトンネルで王を脱出させ、ついでに敵の王妃と王母と姫を地下から拉致した。攻めてきた奴が、気づいたら人質を取られてる。知恵の戦争に力は要らん。",
+      "keywords": ["トンネル", "Uttarapañcāla", "救出作戦", "地下宮殿", "逆転"]
+    },
+    {
+      "number": 7,
+      "title": "百一王の屈服",
+      "pali": "Ekarājā",
+      "reading": "エーカラージャー",
+      "english": "Brahmadatta had assembled 101 kings to attack Mithilā. Mahosadha uses diplomacy, psychological warfare, and strategic gifts to turn each king against Brahmadatta. He exposes Kevaṭṭa's treachery and forces the enemy to sue for peace. All 101 kings acknowledge Mahosadha's supreme wisdom.",
+      "sezon": "ブラフマダッタは百一カ国の王を集めてミティラーを攻めようとした。マホーサダは一人も殺さず、全員を屈服させた。各国の王に密使を送り、「ブラフマダッタはお前たちも利用してるだけだ」と囁いた。贈り物を送り、弱みを突き、味方に引き入れた。ケーヴァッタの裏切りを暴き、ブラフマダッタを孤立させた。最後は敵王自ら和平を乞うた。百一の王が一人の賢者に膝を折った。一滴の血も流さずに。",
+      "keywords": ["百一王", "外交戦", "心理戦", "和平", "般若の力"]
+    },
+    {
+      "number": 8,
+      "title": "知恵の完成",
+      "pali": "Paññāpāramī",
+      "reading": "パンニャーパーラミー",
+      "english": "The story concludes with all parties reconciled. Vedeha marries Pañcālacaṇḍī legitimately. Mahosadha's wisdom is celebrated throughout India. The Buddha identifies Mahosadha as himself in a former life, declaring this the perfection of wisdom (paññā-pāramī), the greatest of all the ten perfections.",
+      "sezon": "全てが丸く収まった。ヴェーデーハ王はパンチャーラチャンディーを正式に娶り、両国は和平した。マホーサダの名はインド中に轟いた。——ブッダが言った。「マホーサダは私の前世だ。セーナカは今のデーヴァダッタ、ケーヴァッタもデーヴァダッタ、ヴェーデーハ王はラーウダーイーだ」。十の波羅蜜の最後にして最高のもの、般若波羅蜜。知恵がなければ、他の九つの徳も完成しない。それがこの壮大な物語の結論だ。",
+      "keywords": ["般若波羅蜜", "十波羅蜜の頂点", "和平", "Pañcālacaṇḍī", "完成"]
+    }
+  ]
+}

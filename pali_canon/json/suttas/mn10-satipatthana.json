@@ -1,0 +1,81 @@
+{
+  "sutta_id": "MN10",
+  "pali_name": "Satipaṭṭhāna Sutta",
+  "japanese_name": "大念処経",
+  "english_name": "The Discourse on the Arousing of Mindfulness",
+  "summary": "悟りへの唯一の道（ekāyano maggo）として四念処——身・受・心・法の観察を体系的に説いた瞑想の根本経典。呼吸観察から死体観察まで身の観察を詳細に述べ、受・心・法の各段階を通じて涅槃に至る実践体系を提示する。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "唯一の道：四念処の宣言",
+      "pali": "Ekāyano ayaṃ bhikkhave maggo",
+      "reading": "エーカーヤノー・アヤン・ビッカヴェー・マッゴー",
+      "english": "'This is the only way, O bhikkhus, for the purification of beings, for the overcoming of sorrow and lamentation, for the destruction of suffering and grief, for reaching the right path, for the attainment of Nibbana, namely, the Four Arousings of Mindfulness.'",
+      "sezon": "「これが唯一の道だ」とブッダは言い切った。衆生の浄化、悲しみの克服、苦しみの滅尽、正道への到達、ニッバーナの証得——全部これ一本だ。四念処。身体の中の身体を、感受の中の感受を、心の中の心を、法の中の法を観じる。熱心に、正知して、念を持って。世界への貪りと憂いを乗り越えてな。",
+      "keywords": ["ekāyano maggo", "唯一の道", "satipaṭṭhāna", "四念処"]
+    },
+    {
+      "number": 2,
+      "title": "身随観①：呼吸の観察（アーナーパーナサティ）",
+      "pali": "Ānāpānasati",
+      "reading": "アーナーパーナサティ",
+      "english": "The monk sits cross-legged, body erect, mindfulness to the fore. He breathes in and out mindfully, discerning long and short breaths, training to experience the whole body and calm bodily formation. Like a skilled turner who knows when turning long or short.",
+      "sezon": "森へ行け、木の下に座れ、足を組め、背筋を伸ばせ。そして息を観ろ。長い息は「長い」と知り、短い息は「短い」と知る。全身を感じながら吸い、全身を感じながら吐く。身行を静めながら吸い、静めながら吐く。ろくろ師が長く回せば「長い」と分かるように。これがスタートラインだ。呼吸に気づくことから全ては始まる。",
+      "keywords": ["ānāpānasati", "呼吸", "kāyānupassanā", "身随観"]
+    },
+    {
+      "number": 3,
+      "title": "身随観②：威儀・正知・不浄観・界分別",
+      "pali": "Iriyāpatha, sampajañña, paṭikūlamanasikāra, dhātumanasikāra",
+      "reading": "イリヤーパタ、サンパジャンニャ、パティクーラマナシカーラ、ダートゥマナシカーラ",
+      "english": "Four postures awareness (walking, standing, sitting, lying). Clear comprehension in all activities. Reflection on body's 32 impure parts (like a bag of mixed grain). Analysis into four elements: solidity, cohesion, heat, motion — like a butcher who has divided a cow at a crossroads.",
+      "sezon": "歩いてる時は「歩いてる」と知れ。立って、座って、寝て——全部同じだ。飯を食う時も、クソする時も正知せよ。次に身体の中身を見ろ。髪、皮膚、肉、骨、腎臓、胆汁、膿、血……二つ口のある袋に色んな穀物が入ってるようなもんだ。さらに四大——地・水・火・風に分解しろ。肉屋が牛を解体するように。美しい身体？そんなもんはどこにもない。",
+      "keywords": ["iriyāpatha", "sampajañña", "paṭikūla", "dhātu", "威儀", "不浄観", "四大"]
+    },
+    {
+      "number": 4,
+      "title": "身随観③：九墓地観",
+      "pali": "Navasivathika",
+      "reading": "ナヴァシヴァティカ",
+      "english": "Nine cemetery contemplations: observing corpses in progressive stages of decay — swollen and blue, eaten by animals, skeleton with flesh, skeleton with blood, dry skeleton, scattered bones, white bones, heaped bones, bones turned to dust. Each time thinking: 'This body of mine too is of the same nature.'",
+      "sezon": "墓場に行け。九段階の死体を観ろ。膨れて青くなった死体。鳥や犬に食われてる死体。肉がまだ残った骨。血まみれの骨。乾いた骨。バラバラの骨。白い骨。山積みの骨。そして塵になった骨。その度に思え、「俺の身体もこうなる」と。これを避けられる奴はいない。この身体への執着が、いかにバカげてるか。それを骨の髄まで知れ。",
+      "keywords": ["navasivathika", "九墓地観", "asubha", "不浄", "死体観察"]
+    },
+    {
+      "number": 5,
+      "title": "受随観：三種の感受の観察",
+      "pali": "Vedanānupassanā",
+      "reading": "ヴェーダナーヌパッサナー",
+      "english": "Contemplating feelings: pleasant, painful, neither-pleasant-nor-painful — each in worldly and spiritual forms (nine types total). Observing their arising and passing, establishing mindfulness that 'feeling exists' just for knowledge and remembrance, living independent, clinging to nothing.",
+      "sezon": "次は感受だ。楽な感じ、苦しい感じ、どちらでもない感じ。それぞれに世俗的なものと出世間的なものがある。九種類だ。ポイントは「ああ気持ちいい」で終わりじゃなく、「今、楽の感受がある」と知ること。そして生じるのを見て、滅するのを見る。「感受がある」とだけ知って、何にも執着しない。これが受の観察だ。",
+      "keywords": ["vedanānupassanā", "受随観", "vedanā", "感受", "sukha", "dukkha"]
+    },
+    {
+      "number": 6,
+      "title": "心随観：十六の心の状態",
+      "pali": "Cittānupassanā",
+      "reading": "チッターヌパッサナー",
+      "english": "Contemplating consciousness in sixteen states: with/without lust, hate, ignorance; shrunken/distracted; become great/not; surpassable/unsurpassable; quieted/not quieted; freed/unfreed. Simply knowing each state as it is.",
+      "sezon": "心を観ろ。貪りのある心は「貪りがある」と知れ。怒りのある心、無知の心、縮こまった心、散乱した心、広がった心、静まった心、解放された心——十六の状態をただ知れ。ジャッジするな。「あ、今怒ってる」でいい。それだけだ。だが「それだけ」が一番難しい。心を心として、内に外に、生滅を観じ続けろ。",
+      "keywords": ["cittānupassanā", "心随観", "citta", "心", "貪", "瞋", "痴"]
+    },
+    {
+      "number": 7,
+      "title": "法随観：五蓋・五蘊・六処・七覚支・四聖諦",
+      "pali": "Dhammānupassanā",
+      "reading": "ダンマーヌパッサナー",
+      "english": "Contemplating mental objects in five categories: (1) Five hindrances — sensuality, anger, sloth-torpor, agitation-worry, doubt; (2) Five aggregates of clinging; (3) Six internal and external sense-bases with their fetters; (4) Seven factors of enlightenment; (5) Four Noble Truths. For each, knowing presence/absence and how arising/abandoning occurs.",
+      "sezon": "最後は法の観察。五つの障害——欲・怒り・眠気・焦り・疑い。あるなら「ある」、ないなら「ない」と知れ。どう生じてどう消えるかも知れ。次に五蘊——色受想行識の生滅。六つの感覚器官とそこに生じる束縛。七覚支——念・択法・精進・喜・軽安・定・捨が育っていくプロセス。そして四聖諦。これがDhammaの全体像だ。全部を「今ここ」で観じろ。",
+      "keywords": ["dhammānupassanā", "法随観", "nīvaraṇa", "五蓋", "khandha", "五蘊", "āyatana", "六処", "bojjhaṅga", "七覚支", "ariyasacca"]
+    },
+    {
+      "number": 8,
+      "title": "成就の保証：七年から七日で悟りへ",
+      "pali": "Paṭiññā",
+      "reading": "パティンニャー",
+      "english": "The Buddha guarantees: anyone maintaining the four foundations of mindfulness for seven years can expect either arahantship or non-returning. He progressively reduces: six years... one year... seven months... one month... even seven days of practice can yield these results.",
+      "sezon": "七年この四念処をやれば、阿羅漢か不還果のどちらかだ。いや七年じゃなくても六年、五年……一年でもいい。七ヶ月でも。一ヶ月でも。半月でも。たった七日でもだ。七日だぞ？ブッダがここまで言い切るってことは、これがマジで「唯一の道」だってことだ。やるかやらないか。それだけだろ。",
+      "keywords": ["paṭiññā", "成就の保証", "arahant", "阿羅漢", "anāgāmī", "不還", "七日"]
+    }
+  ]
+}

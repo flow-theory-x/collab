@@ -1,0 +1,73 @@
+{
+  "jataka_number": 542,
+  "pali_name": "Khaṇḍahāla Jātaka (Candakumāra Jātaka)",
+  "japanese_name": "カンダハーラ本生（チャンダクマーラ本生）",
+  "english_name": "The Story of the Family Priest Khaṇḍahāla",
+  "parami": "持戒波羅蜜（Sīla）",
+  "summary": "正義の王子チャンダクマーラは、賄賂好きの司祭カンダハーラに恨まれていた。カンダハーラは愚かな王エーカラージャに「息子・后・商人・動物を生贄にすれば天界に行ける」と嘘を吹き込む。何度も解放と再捕獲が繰り返された末、帝釈天が介入し、カンダハーラは群衆に殺され、チャンダが新王となった。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "正義の裁きとカンダハーラの恨み",
+      "pali": "Khaṇḍahāla",
+      "reading": "カンダハーラ",
+      "english": "Prince Candakumāra corrects an unjust verdict by the bribe-taking family priest Khaṇḍahāla. The people cheer, the king gives Canda the judge's role. Khaṇḍahāla's income drops and he conceives a burning hatred, watching for a chance to destroy the prince.",
+      "sezon": "プッパヴァティー（花の都）に王子チャンダクマーラがいた。正義の男だ。司祭カンダハーラは賄賂で裁判を曲げる悪党で、泣きながら出てきた訴訟人がチャンダに助けを求めた。チャンダが正しい判決を出すと民が歓声を上げ、王が裁判権をチャンダに移した。カンダハーラの収入が干上がった。ここから恨みが始まる。一人の正義が、一人の悪意に火をつけた。",
+      "keywords": ["正義の裁判", "賄賂", "恨み", "カンダハーラ"]
+    },
+    {
+      "number": 2,
+      "title": "天界の夢と邪悪な助言",
+      "pali": "Ekarājā",
+      "reading": "エーカラージャ",
+      "english": "King Ekarājā dreams of the Heaven of the Thirty-Three and longs to go there. He asks Khaṇḍahāla the way. The priest sees his chance: 'Offer exceeding gifts and destroy those who do not deserve death—your sons, queens, merchants, elephants, horses, and bulls. Four kinds of victims.' The road to hell disguised as the road to heaven.",
+      "sezon": "ある朝、王エーカラージャが三十三天の夢を見た。宝石の壁、黄金の道、天女の園。「あそこに行きたい」と目を輝かせてカンダハーラに聞いた。「天界への道を教えろ」。待ってましたとばかりにカンダハーラが答えた。「息子も后も商人も象も馬も牛も、全部殺して捧げろ。それが天への道だ」。地獄への道を、天への道と偽って差し出した。暗愚な王は信じた。",
+      "keywords": ["天界の夢", "邪悪な助言", "四種の生贄", "暗愚"]
+    },
+    {
+      "number": 3,
+      "title": "生贄の命令と嘆きの連鎖",
+      "pali": "",
+      "reading": "",
+      "english": "The king orders his four sons, four daughters, queens, and four merchants to be seized. The merchants' families beg: 'Shave our heads, make us slaves, but spare our lives.' Grandparents Vasavatti plead with their son. The mother says: 'Give alms and hurt no living thing—that is the path to heaven.' The king refuses all.",
+      "sezon": "王は息子四人、娘四人、后たち、商人四人を捕らえろと命じた。商人の一族が泣いて懇願する。「頭を丸めて奴隷にしてくれ、命だけは」。祖父母が駆けつけて「正気か」と叫ぶ。母が言った。「施しをして、生き物を傷つけるな。それが天への道だ」。だが王の耳にはカンダハーラの言葉しか残っていない。全員の嘆きを、壁のように跳ね返した。",
+      "keywords": ["生贄の命令", "嘆き", "祖父母の諫言", "正しい道"]
+    },
+    {
+      "number": 4,
+      "title": "チャンダの三度の懇願と三度の裏切り",
+      "pali": "Candakumāra",
+      "reading": "チャンダクマーラ",
+      "english": "Three times Canda begs: 'Make us Khaṇḍahāla's slaves, but spare our lives.' Three times the king relents. Three times Khaṇḍahāla rushes in: 'I warned you this sacrifice would be hard! Why stop now?' Each time the king reverses his decision. The cycle of mercy and cruelty repeats.",
+      "sezon": "チャンダは三度、父の足元に身を投げた。「カンダハーラの奴隷にしてくれ。馬小屋を掃除する。鎖を嵌めてくれ。だが殺すな」。三度、王の心が折れて「放せ」と言った。三度、カンダハーラが走ってきて「弱気を出すな！天への道を途中で止めるのか！」と叫んだ。三度、王は息子を再び捕らえた。優柔不断と邪悪が手を組むと、こうなる。最悪の組み合わせだ。",
+      "keywords": ["三度の懇願", "三度の裏切り", "優柔不断", "邪悪"]
+    },
+    {
+      "number": 5,
+      "title": "供犠の穴——后と子の最後の嘆き",
+      "pali": "",
+      "reading": "",
+      "english": "Canda is led to the sacrificial pit. His 700 queens follow with disheveled hair. His wife Candā begs: 'Slay me first! Slay us together!' His son Vāsula toddles to the throne: 'Spare our father, we are children.' Citizens cry to the birds: 'Fly to the east gate—the mad king sacrifices his sons!' Mother Gotamī curses Khaṇḍahāla.",
+      "sezon": "チャンダが供犠の穴に引かれていく。700人の后が髪を振り乱して泣きながら続く。妻チャンダーが叫ぶ。「先に私を殺せ！一緒に殺せ！二つの魂が天に昇る方が功徳が大きいだろう！」。幼い息子ヴァースラがよちよち歩きで王の前に出た。「お父さんを返して。僕たちは子供なんだ」。市民たちは鳥に向かって叫んだ。「肉が欲しけりゃ東門へ飛べ！狂った王が息子を殺すぞ！」。母ゴータミーがカンダハーラを呪った。",
+      "keywords": ["供犠の穴", "后の嘆き", "子の懇願", "呪い"]
+    },
+    {
+      "number": 6,
+      "title": "チャンダーの真実の誓願と帝釈天の介入",
+      "pali": "Saccakiriyā, Sakka",
+      "reading": "サッチャキリヤー、サッカ",
+      "english": "As Khaṇḍahāla raises the sword over Canda's neck, Queen Candā performs an Assertion of Truth before the assembly: 'As truly as this brahmin works vilely by guile, may I be reunited with my lord.' Sakka hears her cry, descends with a blazing iron mass, and terrifies the king: 'Harm not your guiltless son!'",
+      "sezon": "カンダハーラが黄金の鉢を構え、剣を振り上げた。チャンダの首が差し出されている。その瞬間、妻チャンダーが群衆の中を歩き、真実の誓願を唱えた。「この悪党が企む通りに邪悪であることが真実なら、夫を返してくれ」。帝釈天がそれを聞いた。燃える鉄の塊を振りかざして降りてきた。「暴君よ、俺が誰か分かるか。罪なき息子に手を出すな」。王は震え上がった。",
+      "keywords": ["真実の誓願", "帝釈天", "介入", "燃える鉄"]
+    },
+    {
+      "number": 7,
+      "title": "カンダハーラの最期とチャンダの即位",
+      "pali": "",
+      "reading": "",
+      "english": "All captives are freed. The mob seizes sticks and stones and kills Khaṇḍahāla on the spot. They want to kill the king too, but Sakka protects him. The king is stripped of royal garments, dressed in yellow, and banished to an outcaste settlement. Canda is anointed as the new king. All who approved the sacrifice go to hell.",
+      "sezon": "全員が解放された。群衆が棒と石を持ってカンダハーラに殺到した。その場で叩き殺された。王も殺そうとしたが、帝釈天が庇った。代わりに王衣を剥がれ、黄色い布を着せられ、不可触民の集落に追放された。チャンダクマーラが新王として即位した。供犠を実行した者も、賛成した者も、全員地獄行きだ。邪悪な助言を信じた罪は、信じた者にも返ってくる。これが持戒波羅蜜の教えだ——正しくあり続けることが、命を賭ける価値のある唯一のことだ。",
+      "keywords": ["カンダハーラの死", "追放", "即位", "持戒波羅蜜"]
+    }
+  ]
+}

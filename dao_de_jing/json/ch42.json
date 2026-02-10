@@ -1,0 +1,45 @@
+{
+  "chapter": 42,
+  "chinese_name": "道生一",
+  "japanese_name": "万物の生成",
+  "summary": "道から一が生まれ万物に至り、陰陽の調和が全てを成す。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以為和。",
+      "modern_ja": "道が一を生じ、一が二を生じ、二が三を生じ、三が万物を生じる。万物は陰を負い陽を抱き、沖気をもって和をなす。",
+      "english": "The Way gives birth to one, one to two, two to three, and three to all things. All things carry yin and embrace yang, achieving harmony through blending qi.",
+      "laozi": "一から二。二から三。三から全部だ。陰と陽が混ざって、ちょうどいい。それだけ",
+      "keywords": [
+        "道生一",
+        "陰陽",
+        "沖気",
+        "万物"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "人之所惡，唯孤、寡、不穀，而王公以為稱。故物或損之而益，或益之而損。",
+      "modern_ja": "人の嫌うものは「孤」「寡」「不穀」だが、王公はこれを自称とする。だから物は損じて益し、益して損じることがある。",
+      "english": "People despise being 'orphaned,' 'lonely,' or 'unworthy,' yet lords use these as titles. Things may gain by losing and lose by gaining.",
+      "laozi": "みんな「孤独」を嫌うだろ？ でも王はそう名乗る。減らせば増える。増やせば…減る。逆なんだよ、全部",
+      "keywords": [
+        "損益",
+        "逆説",
+        "孤寡不穀"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "人之所教，我亦教之。強梁者不得其死，吾將以為教父。",
+      "modern_ja": "人の教えるところ、私もまた教える。強梁なる者はその死を得ず。私はこれを教えの父としよう。",
+      "english": "What others teach, I also teach: the violent do not die a natural death. I take this as the father of my teaching.",
+      "laozi": "力で押し通す奴は、ろくな死に方しない。これだけは覚えとけ",
+      "keywords": [
+        "強梁",
+        "教え",
+        "暴力"
+      ]
+    }
+  ]
+}

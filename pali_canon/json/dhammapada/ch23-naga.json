@@ -1,0 +1,122 @@
+{
+  "chapter": 23,
+  "pali_name": "Nagavagga",
+  "japanese_name": "象品",
+  "english_name": "The Elephant",
+  "summary": "象のように耐え、象のように進め。罵倒も苦難も、調御された心で受け流す──自分を飼い慣らした者だけが、誰も踏み入れたことのない涅槃の地へ行ける。",
+  "verse_range": "320-333",
+  "verses": [
+    {
+      "number": 320,
+      "pali": "Ahaṃ nāgo va saṅgāme, cāpato patitaṃ saraṃ;\nativākyaṃ titikkhissaṃ, dussīlo hi bahujjano.",
+      "reading": "アハン ナーゴー ヴァ サンガーメー、チャーパトー パティタン サラン；\nアティヴァーキャン ティティッキッサン、ドゥッシーロー ヒ バフッジャノー。",
+      "english": "As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse. There are many, indeed, who lack virtue.",
+      "sezon": "戦場の象が四方から飛んでくる矢を耐えるように、オレも罵倒を耐え抜く。──徳のねぇ奴は、そこら中にいるからな。",
+      "keywords": ["nāga", "titikkhā", "dussīla"]
+    },
+    {
+      "number": 321,
+      "pali": "Dantaṃ nayanti samitiṃ, dantaṃ rājā bhirūhati;\ndanto seṭṭho manussesu, yo'tivākyaṃ titikkhati.",
+      "reading": "ダンタン ナヤンティ サミティン、ダンタン ラージャー アビルーハティ；\nダントー セットー マヌッセース、ヨーティヴァーキャン ティティッカティ。",
+      "english": "A tamed elephant is led into a crowd, and the king mounts a tamed elephant. Best among men is the subdued one who endures abuse.",
+      "sezon": "調教された象は群衆の中へ連れ出される。王が乗るのも調教された象だ。人間の中で最上なのは、罵倒を耐え忍ぶ者──自分を調御した奴だ。",
+      "keywords": ["danta", "titikkhā", "seṭṭha"]
+    },
+    {
+      "number": 322,
+      "pali": "Varamassatarā dantā, ājānīyā ca sindhavā;\nkuñjarā ca mahānāgā, attadanto tato varaṃ.",
+      "reading": "ヴァラマッサタラー ダンター、アージャーニーヤー チャ シンダヴァー；\nクンジャラー チャ マハーナーガー、アッタダントー タトー ヴァラン。",
+      "english": "Excellent are well-trained mules, thoroughbred Sindhu horses and noble tusker elephants. But better still is the man who has subdued himself.",
+      "sezon": "よく調教された騾馬もいい。シンドゥの名馬もいい。巨大な牙象もいい。──だが、自分を調御した者はそれ以上だ。",
+      "keywords": ["danta", "attadanta", "nāga"]
+    },
+    {
+      "number": 323,
+      "pali": "Na hi etehi yānehi, gaccheyya agataṃ disaṃ;\nyathā'ttanā sudantena, danto dantena gacchati.",
+      "reading": "ナ ヒ エーテーヒ ヤーネーヒ、ガッチェッヤ アガタン ディサン；\nヤターッタナー スダンテーナ、ダントー ダンテーナ ガッチャティ。",
+      "english": "Not by these mounts, however, would one go to the Untrodden Land (Nibbana), as one who is self-tamed goes by his own tamed and well-controlled mind.",
+      "sezon": "だが、どんな乗り物でも「まだ誰も行ったことのない場所（涅槃）」には行けねぇ。自分を調御した者だけが、よく調御された心で、そこへ行く。",
+      "keywords": ["agataṃ disaṃ", "danta", "nibbāna"]
+    },
+    {
+      "number": 324,
+      "pali": "Dhanapālo nāma kuñjaro, kaṭukabhedano dunnivārayo;\nbaddho kabaḷaṃ na bhuñjati, sumarati nāgavanassa kuñjaro.",
+      "reading": "ダナパーロー ナーマ クンジャロー、カトゥカベーダノー ドゥンニヴァーラヨー；\nバッドー カバラン ナ ブンジャティ、スマラティ ナーガヴァナッサ クンジャロー。",
+      "english": "Musty during rut, the tusker named Dhanapalaka is uncontrollable. Held in captivity, the tusker does not touch a morsel, but only longingly calls to mind the elephant forest.",
+      "sezon": "発情期のダナパーラカという象は、手がつけられねぇ。だが捕まえて繋いでも、一口も食わねぇ。──あの象は、象の森を恋しがってるんだ。",
+      "keywords": ["Dhanapāla", "nāgavana", "kuñjara"]
+    },
+    {
+      "number": 325,
+      "pali": "Middhī yadā hoti mahagghaso ca, niddāyitā samparivattasāyī;\nmahāvarāho va nivāpapuṭṭho, punappunaṃ gabbham upeti mando.",
+      "reading": "ミッディー ヤダー ホーティ マハッガソー チャ、ニッダーイター サンパリヴァッタサーイー；\nマハーヴァラーホー ヴァ ニヴァーパプットー、プナップナン ガッバムペーティ マンドー。",
+      "english": "When a man is sluggish and gluttonous, sleeping and rolling around in bed like a fat domestic pig, that sluggard undergoes rebirth again and again.",
+      "sezon": "怠けて大飯食らい、寝てばかりでゴロゴロ転がってる奴──餌で太った豚みてぇなもんだ。そういう愚か者は、何度も何度も生まれ変わる。",
+      "keywords": ["middhi", "mahagghasa", "gabbha", "manda"]
+    },
+    {
+      "number": 326,
+      "pali": "Idaṃ pure cittam acāri cārikaṃ, yenicchakaṃ yatthakāmaṃ yathāsukhaṃ;\ntadajja'haṃ niggahessāmi yoniso, hatthippabhinnaṃ viya aṅkusaggaho.",
+      "reading": "イダン プレー チッタマチャーリ チャーリカン、イェーニッチャカン ヤッタカーマン ヤタースカン；\nタダッジャハン ニッガヘッサーミ ヨーニソー、ハッティッパビンナン ヴィヤ アンクサッガホー。",
+      "english": "Formerly this mind wandered about as it liked, where it wished and according to its pleasure, but now I shall thoroughly master it with wisdom as a mahout controls with his ankus an elephant in rut.",
+      "sezon": "以前、この心は好き勝手にさまよっていた。行きたい所へ、好きなように。──だが今日からオレは、象使いが鉤で暴れ象を制するように、智慧でこの心を徹底的に制御する。",
+      "keywords": ["citta", "niggaha", "aṅkusa", "yoniso"]
+    },
+    {
+      "number": 327,
+      "pali": "Appamādaratā hotha, sacittam anurakkhatha;\nduggā uddharathattānaṃ, paṅke sanno va kuñjaro.",
+      "reading": "アッパマーダラター ホータ、サチッタマヌラッカタ；\nドゥッガー ウッダラタッターナン、パンケー サンノー ヴァ クンジャロー。",
+      "english": "Delight in heedfulness! Guard well your thoughts! Draw yourself out of this bog of evil, even as an elephant draws himself out of the mud.",
+      "sezon": "不放逸を喜べ！自分の心をしっかり守れ！──泥沼から這い出る象のように、悪の泥沼から自分を引き上げろ。",
+      "keywords": ["appamāda", "citta", "kuñjara"]
+    },
+    {
+      "number": 328,
+      "pali": "Sace labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ;\nabhibhuyya sabbāni parissayāni, careyya ten'attamano satīmā.",
+      "reading": "サチェー ラベータ ニパカン サハーヤン、サッディン チャラン サードゥヴィハーリディーラン；\nアビブッヤ サッバーニ パリッサヤーニ、チャレッヤ テーナッタマノー サティーマー。",
+      "english": "If for company you find a wise and prudent friend who leads a good life, you should, overcoming all impediments, keep his company joyously and mindfully.",
+      "sezon": "もし賢くて思慮深い、善き暮らしを送る友を見つけたなら──あらゆる障害を乗り越えて、喜びと正念をもってそいつと共に歩め。",
+      "keywords": ["sahāya", "nipaka", "satīmā"]
+    },
+    {
+      "number": 329,
+      "pali": "No ce labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ;\nrājā va raṭṭhaṃ vijitaṃ pahāya, eko care mātaṅgaraññe va nāgo.",
+      "reading": "ノー チェー ラベータ ニパカン サハーヤン、サッディン チャラン サードゥヴィハーリディーラン；\nラージャー ヴァ ラッタン ヴィジタン パハーヤ、エーコー チャレー マータンガランニェー ヴァ ナーゴー。",
+      "english": "If for company you cannot find a wise and prudent friend who leads a good life, then, like a king who leaves behind a conquered kingdom, or like a lone elephant in the elephant forest, you should go your way alone.",
+      "sezon": "もし賢い友が見つからねぇなら──征服した国を捨てる王のように、象の森の一頭象のように、一人で歩け。",
+      "keywords": ["eka", "nāga", "sahāya"]
+    },
+    {
+      "number": 330,
+      "pali": "Ekassa caritaṃ seyyo, natthi bāle sahāyatā;\neko care na ca pāpāni kayirā, appossukko mātaṅgaraññe va nāgo.",
+      "reading": "エーカッサ チャリタン セッヨー、ナッティ バーレー サハーヤター；\nエーコー チャレー ナ チャ パーパーニ カイラー、アッポッスッコー マータンガランニェー ヴァ ナーゴー。",
+      "english": "Better it is to live alone; there is no fellowship with a fool. Live alone and do no evil; be carefree like an elephant in the elephant forest.",
+      "sezon": "一人で生きる方がマシだ。愚か者との付き合いに実りはねぇ。一人で歩け、悪を為すな──象の森の象のように、悠然と。",
+      "keywords": ["eka", "bāla", "nāga", "appossukka"]
+    },
+    {
+      "number": 331,
+      "pali": "Atthamhi jātamhi sukhā sahāyā, tuṭṭhī sukhā yā itarītarena;\npuññaṃ sukhaṃ jīvitasaṅkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ.",
+      "reading": "アッタンヒ ジャータンヒ スカー サハーヤー、トゥッティー スカー ヤー イタリータレーナ；\nプンニャン スカン ジーヴィタサンカヤンヒ、サッバッサ ドゥッカッサ スカン パハーナン。",
+      "english": "Good are friends when need arises; good is contentment with just what one has; good is merit when life is at an end, and good is the abandoning of all suffering (through Arahantship).",
+      "sezon": "困った時の友は善い。あるもので満足するのは善い。命尽きる時の功徳は善い。そして一切の苦を捨て去ること──これが最善だ。",
+      "keywords": ["sahāya", "tuṭṭhi", "puñña", "pahāna"]
+    },
+    {
+      "number": 332,
+      "pali": "Sukhā matteyyatā loke, atho petteyyatā sukhā;\nsukhā sāmaññatā loke, atho brahmaññatā sukhā.",
+      "reading": "スカー マッテッヤター ローケー、アトー ペッテッヤター スカー；\nスカー サーマンニャター ローケー、アトー ブラフマンニャター スカー。",
+      "english": "In this world, good it is to serve one's mother, good it is to serve one's father, good it is to serve the monks, and good it is to serve the holy men.",
+      "sezon": "この世で母に仕えるのは善い。父に仕えるのも善い。修行者に仕えるのは善い。聖者に仕えるのも善い。",
+      "keywords": ["matteyyatā", "petteyyatā", "sāmaññatā"]
+    },
+    {
+      "number": 333,
+      "pali": "Sukhaṃ yāva jarā sīlaṃ, sukhā saddhā patiṭṭhitā;\nsukho paññāya paṭilābho, pāpānaṃ akaraṇaṃ sukhaṃ.",
+      "reading": "スカン ヤーヴァ ジャラー シーラン、スカー サッダー パティッティター；\nスコー パンニャーヤ パティラーボー、パーパーナン アカラナン スカン。",
+      "english": "Good is virtue until life's end, good is faith that is steadfast, good is the acquisition of wisdom, and good is the avoidance of evil.",
+      "sezon": "老いるまで戒を守るのは善い。揺るがぬ信は善い。智慧を手に入れるのは善い。悪を為さぬこと──これが善い。",
+      "keywords": ["sīla", "saddhā", "paññā", "pāpa"]
+    }
+  ]
+}

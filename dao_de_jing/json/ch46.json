@@ -1,0 +1,32 @@
+{
+  "chapter": 46,
+  "chinese_name": "天下有道",
+  "japanese_name": "知足の幸福",
+  "summary": "足るを知ることが最大の満足であり、欲望こそ最大の禍である。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。",
+      "modern_ja": "天下に道があれば、軍馬を退けて畑を耕す。天下に道がなければ、軍馬が郊外に生まれる。",
+      "english": "When the world has the Way, warhorses are retired to fertilize fields. When it lacks the Way, warhorses are bred on the frontier.",
+      "laozi": "道があれば馬は畑を耕す。道がなければ馬は戦場に送られる。それだけで世の中がわかる",
+      "keywords": [
+        "有道",
+        "無道",
+        "軍馬"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。",
+      "modern_ja": "禍は足るを知らないことより大きなものはなく、咎は欲深いことより大きなものはない。だから足るを知る足りは、常に足りるのだ。",
+      "english": "No disaster is greater than not knowing contentment; no fault greater than desire for gain. One who knows the sufficiency of contentment is always sufficient.",
+      "laozi": "一番の災いは「足りない」と思うこと。足りてると知ってる奴は…ずっと足りてる。当たり前だろ",
+      "keywords": [
+        "知足",
+        "欲得",
+        "禍"
+      ]
+    }
+  ]
+}

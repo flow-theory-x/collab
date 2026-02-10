@@ -1,0 +1,98 @@
+{
+  "chapter": 11,
+  "pali_name": "Jaravagga",
+  "japanese_name": "老品",
+  "english_name": "Old Age",
+  "summary": "この身体は崩れる、老いは容赦しねぇ──だがダンマは老いない。輪廻の家の棟木を折った者だけが、生老病死の繰り返しから抜け出せる。",
+  "verse_range": "146-156",
+  "verses": [
+    {
+      "number": 146,
+      "pali": "Ko nu hāso kimānando, niccaṃ pajjalite sati;\nandhakārena onaddhā, padīpaṃ na gavesatha.",
+      "reading": "コー ヌ ハーソー キマーナンドー、ニッチャン パッジャリテー サティ；\nアンダカーレーナ オナッダー、パディーパン ナ ガヴェーサタ。",
+      "english": "When this world is ever ablaze, why this laughter, why this jubilation? Shrouded in darkness, will you not see the light?",
+      "sezon": "世界が燃え続けてるのに、何を笑ってるんだ？何を喜んでるんだ？──闇に包まれてるなら、灯りを探せよ。",
+      "keywords": ["hāsa", "pajjalita", "andhakāra", "padīpa"]
+    },
+    {
+      "number": 147,
+      "pali": "Passa cittakataṃ bimbaṃ, arukāyaṃ samussitaṃ;\nāturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.",
+      "reading": "パッサ チッタカタン ビンバン、アルカーヤン サムッシタン；\nアートゥラン バフサンカッパン、ヤッサ ナッティ ドゥヴァン ティティ。",
+      "english": "Behold this body — a painted image, a mass of heaped up sores, infirm, full of hankering — of which nothing is lasting or stable!",
+      "sezon": "この身体を見ろ──塗りたくった人形、できもの寄せ集め、病みやすく、欲まみれ。何ひとつ永続きしねぇ。",
+      "keywords": ["bimba", "arukāya", "ātura", "dhuva"]
+    },
+    {
+      "number": 148,
+      "pali": "Parijiṇṇamidaṃ rūpaṃ, roganiḍḍhaṃ pabhaṅguraṃ;\nbhijjati pūtisandeho, maraṇantañhi jīvitaṃ.",
+      "reading": "パリジンナミダン ルーパン、ローガニッダン パバングラン；\nビッジャティ プーティサンデーホー、マラナンタンヒ ジーヴィタン。",
+      "english": "Fully worn out is this body, a nest of disease, and fragile. This foul mass breaks up, for death is the end of life.",
+      "sezon": "すっかりガタが来たこの身体、病気の巣窟、もろくて脆い。この腐った塊は崩れる──命の終わりは死だからな。",
+      "keywords": ["rūpa", "roga", "pabhaṅgura", "maraṇa"]
+    },
+    {
+      "number": 149,
+      "pali": "Yānimāni apatthāni, alābūneva sārade;\nkāpotakāni aṭṭhīni, tāni disvāna kā rati.",
+      "reading": "ヤーニマーニ アパッターニ、アラーブーネーヴァ サーラデー；\nカーポータカーニ アッティーニ、ターニ ディスヴァーナ カー ラティ。",
+      "english": "These dove-colored bones are like gourds that lie scattered about in autumn. Having seen them, how can one seek delight?",
+      "sezon": "秋に転がる瓢箪みてぇな灰色の骨──それを見て、何を楽しめるっていうんだ？",
+      "keywords": ["aṭṭhi", "alābū", "rati"]
+    },
+    {
+      "number": 150,
+      "pali": "Aṭṭhīnaṃ nagaraṃ kataṃ, maṃsalohitalepanaṃ;\nyattha jarā ca maccu ca, māno makkho ca ohito.",
+      "reading": "アッティーナン ナガラン カタン、マンサローヒタレーパナン；\nヤッタ ジャラー チャ マッチュ チャ、マーノー マッコー チャ オーヒトー。",
+      "english": "This city (body) is built of bones, plastered with flesh and blood; within are decay and death, pride and jealousy.",
+      "sezon": "骨で組み上げ、肉と血で塗り固めた城──中には老いと死と、慢心と嫉妬が棲んでいる。",
+      "keywords": ["aṭṭhi", "nagara", "jarā", "maccu", "māna"]
+    },
+    {
+      "number": 151,
+      "pali": "Jīranti ve rājarathā sucittā, atho sarīrampi jaraṃ upeti;\nsatañca dhammo na jaraṃ upeti, santo have sabbhi pavedayanti.",
+      "reading": "ジーランティ ヴェー ラージャラター スチッター、アトー サリーランピ ジャラン ウペーティ；\nサタンチャ ダンモー ナ ジャラン ウペーティ、サントー ハヴェー サッビ パヴェーダヤンティ。",
+      "english": "Even gorgeous royal chariots wear out, and indeed this body too wears out. But the Dhamma of the Good does not age; thus the Good make it known to the good.",
+      "sezon": "豪華な王の車も朽ちる、この身体も朽ちる。──だがダンマは老いねぇ。善き者が善き者にそう伝えてきた。",
+      "keywords": ["rājaratha", "jarā", "dhamma", "santa"]
+    },
+    {
+      "number": 152,
+      "pali": "Appassutāyaṃ puriso, balivaddova jīrati;\nmaṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.",
+      "reading": "アッパッスターヤン プリソー、バリヴァッドーヴァ ジーラティ；\nマンサーニ タッサ ヴァッダンティ、パンニャー タッサ ナ ヴァッダティ。",
+      "english": "The man of little learning grows old like a bull. He grows only in bulk, but, his wisdom does not grow.",
+      "sezon": "学ばねぇ奴は牛みてぇに老いる。体ばっかりデカくなって、智慧はちっとも育たねぇ。",
+      "keywords": ["appassuta", "balivadda", "maṃsa", "paññā"]
+    },
+    {
+      "number": 153,
+      "pali": "Anekajātisaṃsāraṃ, sandhāvissaṃ anibbisaṃ;\ngahakāraṃ gavesanto, dukkhā jāti punappunaṃ.",
+      "reading": "アネーカジャーティサンサーラン、サンダーヴィッサン アニッビサン；\nガハカーラン ガヴェーサントー、ドゥッカー ジャーティ プナップナン。",
+      "english": "Through many a birth in samsara have I wandered in vain, seeking the builder of this house (of life). Repeated birth is indeed suffering!",
+      "sezon": "幾多の生を輪廻の中でさまよった──この家を建てた奴を探し続けてな。繰り返す生は苦だ。",
+      "keywords": ["saṃsāra", "gahakāra", "jāti", "dukkha"]
+    },
+    {
+      "number": 154,
+      "pali": "Gahakāraka diṭṭhosi, puna gehaṃ na kāhasi;\nsabbā te phāsukā bhaggā, gahakūṭaṃ visaṅkhataṃ;\nvisaṅkhāragataṃ cittaṃ, taṇhānaṃ khayamajjhagā.",
+      "reading": "ガハカーラカ ディットーシ、プナ ゲーハン ナ カーハシ；\nサッバー テー パースカー バッガー、ガハクータン ヴィサンカタン；\nヴィサンカーラガタン チッタン、タンハーナン カヤマッジャガー。",
+      "english": "O house-builder, you are seen! You will not build this house again. For your rafters are broken and your ridgepole shattered. My mind has reached the Unconditioned; I have attained the destruction of craving.",
+      "sezon": "家の建て主よ、見つけたぞ！もう二度と家は建てさせねぇ。お前の垂木は折れ、棟木は砕けた。──俺の心は無為に達した。渇愛は滅びた。",
+      "keywords": ["gahakāraka", "phāsukā", "gahakūṭa", "visaṅkhata", "taṇhā"]
+    },
+    {
+      "number": 155,
+      "pali": "Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ;\njiṇṇakoñcāva jhāyanti, khīṇamaccheva pallale.",
+      "reading": "アチャリットゥヴァー ブラフマチャリヤン、アラッダー ヨッバネー ダナン；\nジンナコンチャーヴァ ジャーヤンティ、キーナマッチェーヴァ パッラレー。",
+      "english": "Those who in youth have not led the holy life, or have failed to acquire wealth, languish like old cranes in the pond without fish.",
+      "sezon": "若い時に清らかに生きもせず、財も蓄えなかった奴らは──魚のいねぇ池の年寄り鶴みてぇに、しょぼくれてるんだ。",
+      "keywords": ["brahmacariya", "yobbana", "dhana", "jiṇṇakoñca"]
+    },
+    {
+      "number": 156,
+      "pali": "Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ;\nsenti cāpātikhīṇāva, purāṇāni anutthunaṃ.",
+      "reading": "アチャリットゥヴァー ブラフマチャリヤン、アラッダー ヨッバネー ダナン；\nセンティ チャーパーティキーナーヴァ、プラーナーニ アヌットゥナン。",
+      "english": "Those who in youth have not lead the holy life, or have failed to acquire wealth, lie sighing over the past, like worn out arrows (shot from) a bow.",
+      "sezon": "若い時に修行もせず財も得なかった奴らは──弓から射尽くされた矢みてぇに、過去を嘆いて横たわる。",
+      "keywords": ["brahmacariya", "cāpa", "purāṇa", "anutthunaṃ"]
+    }
+  ]
+}

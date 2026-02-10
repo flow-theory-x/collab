@@ -1,0 +1,138 @@
+{
+  "chapter": 8,
+  "pali_name": "Sahassavagga",
+  "japanese_name": "千品",
+  "english_name": "Thousands",
+  "summary": "千の無意味な言葉より、聞いて心が静まる一語のほうが値打ちがある──量じゃねぇ、質だ。自分に勝つこと、一日でも真理に目覚めて生きること、そっちのほうが千倍マシだと叩き込む章だ。",
+  "verse_range": "100-115",
+  "verses": [
+    {
+      "number": 100,
+      "pali": "Sahassamapi ce vācā, anatthapadasaṃhitā;\nekaṃ atthapadaṃ seyyo, yaṃ sutvā upasammati.",
+      "reading": "サハッサマピ チェー ヴァーチャー、アナッタパダサンヒター；\nエーカン アッタパダン セッヨー、ヤン スットゥヴァー ウパサンマティ。",
+      "english": "Better than a thousand useless words is one useful word, hearing which one attains peace.",
+      "sezon": "無駄な言葉が千あるよりも、聞いて心が鎮まる一語のほうがよっぽど値打ちがある。──量じゃねぇんだよ。",
+      "keywords": ["sahassa", "vācā", "upasammati", "atthapadaṃ"]
+    },
+    {
+      "number": 101,
+      "pali": "Sahassamapi ce gāthā, anatthapadasaṃhitā;\nekaṃ gāthāpadaṃ seyyo, yaṃ sutvā upasammati.",
+      "reading": "サハッサマピ チェー ガーター、アナッタパダサンヒター；\nエーカン ガーターパダン セッヨー、ヤン スットゥヴァー ウパサンマティ。",
+      "english": "Better than a thousand useless verses is one useful verse, hearing which one attains peace.",
+      "sezon": "意味のねぇ詩が千あったって、聞いて心が静まる一偈にゃ敵わねぇ。",
+      "keywords": ["gāthā", "sahassa", "upasammati"]
+    },
+    {
+      "number": 102,
+      "pali": "Yo ca gāthā sataṃ bhāse, anatthapadasaṃhitā;\nekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.",
+      "reading": "ヨー チャ ガーター サタン バーセー、アナッタパダサンヒター；\nエーカン ダンマパダン セッヨー、ヤン スットゥヴァー ウパサンマティ。",
+      "english": "Better than reciting a hundred meaningless verses is the reciting of one verse of Dhamma, hearing which one attains peace.",
+      "sezon": "中身のねぇ詩を百回唱えるより、法の一偈を聞いて静まるほうがマシだ。──唱えりゃいいってもんじゃねぇ。",
+      "keywords": ["dhammapadaṃ", "gāthā", "upasammati"]
+    },
+    {
+      "number": 103,
+      "pali": "Yo sahassaṃ sahassena, saṅgāme mānuse jine;\nekañca jeyyamattānaṃ, sa ve saṅgāmajuttamo.",
+      "reading": "ヨー サハッサン サハッセーナ、サンガーメー マーヌセー ジネー；\nエーカンチャ ジェッヤマッターナン、サ ヴェー サンガーマジュッタモー。",
+      "english": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself.",
+      "sezon": "戦場で百万の兵を倒したところで、自分自身に勝った奴が最強の勝者だ。──外の敵じゃねぇ、内だよ。",
+      "keywords": ["sahassa", "saṅgāma", "attānaṃ", "jine"]
+    },
+    {
+      "number": 104,
+      "pali": "Attā have jitaṃ seyyo, yā cāyaṃ itarā pajā;\nattadantassa posassa, niccaṃ saññatacārino.",
+      "reading": "アッター ハヴェー ジタン セッヨー、ヤー チャーヤン イタラー パジャー；\nアッタダンタッサ ポーサッサ、ニッチャン サンニャタチャーリノー。",
+      "english": "Self-conquest is far better than the conquest of others. Not even a god, an angel, Mara or Brahma can turn into defeat the victory of a person who is self-subdued and ever restrained in conduct.",
+      "sezon": "自分を制した奴の勝利は、他人を倒すより遥かに上等だ。",
+      "keywords": ["attā", "jitaṃ", "attadanta", "saññata"]
+    },
+    {
+      "number": 105,
+      "pali": "Neva devo na gandhabbo, na māro saha brahmunā;\njitaṃ apajitaṃ kayirā, tathārūpassa jantuno.",
+      "reading": "ネーヴァ デーヴォー ナ ガンダッボー、ナ マーロー サハ ブラフムナー；\nジタン アパジタン カイラー、タターループッサ ジャントゥノー。",
+      "english": "Not even a god, an angel, Mara or Brahma can turn into defeat the victory of a person who is self-subdued and ever restrained in conduct.",
+      "sezon": "神だろうがガンダッバだろうが、マーラだろうがブラフマーだろうが──自分を調えた奴の勝利をひっくり返すことはできねぇ。",
+      "keywords": ["deva", "māra", "brahmā", "jitaṃ"]
+    },
+    {
+      "number": 106,
+      "pali": "Māse māse sahassena, yo yajetha sataṃ samaṃ;\nekañca bhāvitattānaṃ, muhuttamapi pūjaye;\nsā yeva pūjanā seyyo, yañce vassasataṃ hutaṃ.",
+      "reading": "マーセー マーセー サハッセーナ、ヨー ヤジェータ サタン サマン；\nエーカンチャ バーヴィタッターナン、ムフッタマピ プージャイェー；\nサー イェーヴァ プージャナー セッヨー、ヤンチェー ヴァッササタン フタン。",
+      "english": "Though month after month for a hundred years one should offer sacrifices by the thousands, yet if only for a moment one should worship those of perfected minds that honor is indeed better than a century of sacrifice.",
+      "sezon": "百年かけて毎月千の供物を捧げようが、心を完成した者に一瞬でも敬意を示すほうが、よっぽど上だ。",
+      "keywords": ["pūjanā", "sahassa", "bhāvitattānaṃ", "yajati"]
+    },
+    {
+      "number": 107,
+      "pali": "Yo ca vassasataṃ jantu, aggiṃ paricare vane;\nekañca bhāvitattānaṃ, muhuttamapi pūjaye;\nsā yeva pūjanā seyyo, yañce vassasataṃ hutaṃ.",
+      "reading": "ヨー チャ ヴァッササタン ジャントゥ、アッギン パリチャレー ヴァネー；\nエーカンチャ バーヴィタッターナン、ムフッタマピ プージャイェー；\nサー イェーヴァ プージャナー セッヨー、ヤンチェー ヴァッササタン フタン。",
+      "english": "Though for a hundred years one should tend the sacrificial fire in the forest, yet if only for a moment one should worship those of perfected minds, that worship is indeed better than a century of sacrifice.",
+      "sezon": "森で百年火を焚き続けたって、心を磨き上げた者に一瞬でも礼を尽くすほうが勝る。──火を拝んでる場合じゃねぇ。",
+      "keywords": ["aggi", "pūjanā", "bhāvitattānaṃ", "vana"]
+    },
+    {
+      "number": 108,
+      "pali": "Yaṃ kiñci yiṭṭhaṃ va hutaṃ va loke,\nsaṃvaccharaṃ yajetha puññapekkho;\nsabbampi taṃ na catubhāgameti,\nabhivādanā ujjugatesu seyyo.",
+      "reading": "ヤン キンチ イッタン ヴァ フタン ヴァ ローケー、\nサンヴァッチャラン ヤジェータ プンニャペッコー；\nサッバンピ タン ナ チャトゥバーガメーティ、\nアビヴァーダナー ウッジュガテース セッヨー。",
+      "english": "Whatever gifts and oblations one seeking merit might offer in this world for a whole year, all that is not worth one fourth of the merit gained by revering the Upright Ones, which is truly excellent.",
+      "sezon": "功徳を求めて一年間どんだけ布施しようが、まっすぐ生きてる者に一礼するほうが四倍以上の値打ちがある。",
+      "keywords": ["yiṭṭha", "puñña", "abhivādanā", "ujjugata"]
+    },
+    {
+      "number": 109,
+      "pali": "Abhivādanasīlissa, niccaṃ vuḍḍhāpacāyino;\ncattāro dhammā vaḍḍhanti, āyu vaṇṇo sukhaṃ balaṃ.",
+      "reading": "アビヴァーダナスィーリッサ、ニッチャン ヴッダーパチャーイノー；\nチャッターロー ダンマー ヴァッダンティ、アーユ ヴァンノー スカン バラン。",
+      "english": "To one ever eager to revere and serve the elders, these four blessing accrue: long life and beauty, happiness and power.",
+      "sezon": "年長者を敬い仕える奴には、四つの恵みが増す──寿命、美しさ、幸福、力だ。素直にやっとけ。",
+      "keywords": ["abhivādana", "vuḍḍha", "āyu", "sukha", "bala"]
+    },
+    {
+      "number": 110,
+      "pali": "Yo ca vassasataṃ jīve, dussīlo asamāhito;\nekāhaṃ jīvitaṃ seyyo, sīlavantassa jhāyino.",
+      "reading": "ヨー チャ ヴァッササタン ジーヴェー、ドゥッスィーロー アサマーヒトー；\nエーカーハン ジーヴィタン セッヨー、スィーラヴァンタッサ ジャーイノー。",
+      "english": "Better it is to live one day virtuous and meditative than to live a hundred years immoral and uncontrolled.",
+      "sezon": "戒も定もねぇまま百年生きるより、戒を保ち瞑想に励む一日のほうがマシだ。",
+      "keywords": ["sīla", "jhāyin", "vassasata", "jīve"]
+    },
+    {
+      "number": 111,
+      "pali": "Yo ca vassasataṃ jīve, duppañño asamāhito;\nekāhaṃ jīvitaṃ seyyo, paññavantassa jhāyino.",
+      "reading": "ヨー チャ ヴァッササタン ジーヴェー、ドゥッパンニョー アサマーヒトー；\nエーカーハン ジーヴィタン セッヨー、パンニャヴァンタッサ ジャーイノー。",
+      "english": "Better it is to live one day wise and meditative than to live a hundred years foolish and uncontrolled.",
+      "sezon": "愚かで散漫なまま百年生きるより、智慧をもって瞑想する一日のほうが上だ。",
+      "keywords": ["paññā", "jhāyin", "vassasata", "duppañña"]
+    },
+    {
+      "number": 112,
+      "pali": "Yo ca vassasataṃ jīve, kusīto hīnavīriyo;\nekāhaṃ jīvitaṃ seyyo, vīriyamārabhato daḷhaṃ.",
+      "reading": "ヨー チャ ヴァッササタン ジーヴェー、クスィートー ヒーナヴィーリヨー；\nエーカーハン ジーヴィタン セッヨー、ヴィーリヤマーラバトー ダルハン。",
+      "english": "Better it is to live one day strenuous and resolute than to live a hundred years sluggish and dissipated.",
+      "sezon": "怠けて腑抜けた百年より、精進して腹の据わった一日のほうが値打ちがある。",
+      "keywords": ["vīriya", "kusīta", "daḷha", "vassasata"]
+    },
+    {
+      "number": 113,
+      "pali": "Yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ;\nekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.",
+      "reading": "ヨー チャ ヴァッササタン ジーヴェー、アパッサン ウダヤッバヤン；\nエーカーハン ジーヴィタン セッヨー、パッサトー ウダヤッバヤン。",
+      "english": "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.",
+      "sezon": "生滅を見ずに百年過ごすより、ものごとの生じては滅する姿を見抜く一日のほうがいい。",
+      "keywords": ["udayabbaya", "passati", "vassasata"]
+    },
+    {
+      "number": 114,
+      "pali": "Yo ca vassasataṃ jīve, apassaṃ amataṃ padaṃ;\nekāhaṃ jīvitaṃ seyyo, passato amataṃ padaṃ.",
+      "reading": "ヨー チャ ヴァッササタン ジーヴェー、アパッサン アマタン パダン；\nエーカーハン ジーヴィタン セッヨー、パッサトー アマタン パダン。",
+      "english": "Better it is to live one day seeing the Deathless than to live a hundred years without ever seeing the Deathless.",
+      "sezon": "不死の境地を見ずに百年生きるより、それを一日でも見るほうが遥かにマシだ。",
+      "keywords": ["amata", "pada", "passati", "vassasata"]
+    },
+    {
+      "number": 115,
+      "pali": "Yo ca vassasataṃ jīve, apassaṃ dhammamuttamaṃ;\nekāhaṃ jīvitaṃ seyyo, passato dhammamuttamaṃ.",
+      "reading": "ヨー チャ ヴァッササタン ジーヴェー、アパッサン ダンマムッタマン；\nエーカーハン ジーヴィタン セッヨー、パッサトー ダンマムッタマン。",
+      "english": "Better it is to live one day seeing the Supreme Truth than to live a hundred years without ever seeing the Supreme Truth.",
+      "sezon": "最高の真理を見ねぇまま百年生きるより、それを見た一日のほうが上だ。──長さじゃねぇ、深さだよ。",
+      "keywords": ["dhamma", "uttama", "passati", "vassasata"]
+    }
+  ]
+}

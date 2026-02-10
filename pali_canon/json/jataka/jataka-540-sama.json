@@ -1,0 +1,73 @@
+{
+  "jataka_number": 540,
+  "pali_name": "Sāma Jātaka (Suvaṇṇasāma Jātaka)",
+  "japanese_name": "サーマ本生（スヴァンナサーマ本生）",
+  "english_name": "The Story of the Wise Sāma",
+  "parami": "慈悲波羅蜜（Mettā）",
+  "summary": "梵天界から来た二人の修行者の間に生まれた黄金の少年サーマは、蛇の毒で盲目になった両親を一人で世話していた。狩猟好きのピリヤッカ王に毒矢で射られるが、母・父・天女の真実の誓願により蘇生し、両親も視力を回復した。孝行と慈悲の力を示す物語。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "梵天界からの両親と誕生",
+      "pali": "Dukūla, Pārikā",
+      "reading": "ドゥクーラ、パーリカー",
+      "english": "Two hunter's children, Dukūla and Pārikā, both reborn from the Brahma realm, refuse marriage but are wed by their parents. They live celibately, then renounce to become ascetics in the Himalayas. Sakka warns them of coming blindness and tells Dukūla to touch Pārikā's navel. The Bodhisatta descends from heaven and is born golden—Suvaṇṇasāma.",
+      "sezon": "猟師の村に生まれた二人だが、前世は梵天界の住人だ。結婚させられても互いに触れもしない。出家してヒマラヤに入った。帝釈天が来て「お前ら目が見えなくなるぞ。子供を作れ」と言う。「そんなことできるか」。「じゃあ臍を触れ」。それだけで菩薩が天から降りてきて、黄金の子が生まれた。名をスヴァンナサーマ。キンナラたちが育児を手伝った。",
+      "keywords": ["梵天界", "清浄な受胎", "黄金の子", "ヒマラヤ"]
+    },
+    {
+      "number": 2,
+      "title": "蛇の毒と盲目の両親",
+      "pali": "Migasammatā",
+      "reading": "ミガサンマター",
+      "english": "One evening, the parents take shelter under a tree during rain. A snake in an anthill below, angered by the smell of their sweat, breathes poison and blinds them both. Young Sāma finds them, weeps and laughs—weeps for their blindness, laughs because now he can serve them.",
+      "sezon": "ある雨の夕方、両親が木の根元で雨宿りした。下の蟻塚に蛇がいた。汗の匂いに怒って毒の息を吹きかけ、二人とも目が見えなくなった。サーマが迎えに行くと、二人が闇の中で呼び合っている。サーマは泣いた。そして笑った。「泣いたのは、まだ若いのに目が見えなくなったから。笑ったのは、これから俺が全部やれるからだ」。この一言に慈悲の全てがある。",
+      "keywords": ["蛇の毒", "盲目", "孝行の決意", "泣きと笑い"]
+    },
+    {
+      "number": 3,
+      "title": "サーマの献身的な介護",
+      "pali": "",
+      "reading": "",
+      "english": "Sāma ties ropes throughout the hermitage so his parents can navigate. Every morning he sweeps, fetches water, prepares food and toothbrushes. In the evening he heats water for their bath, steams their limbs, and serves sweet fruits. Surrounded by deer, he gathers forest produce daily.",
+      "sezon": "サーマは庵中に綱を張り巡らせた。昼の部屋、夜の部屋、回廊、全部。盲目の両親が一人で動けるように。毎朝掃除して、水を汲み、歯ブラシと食事を準備する。夕方には湯を沸かして体を拭き、蒸し布で四肢を温め、甘い果実を食べさせる。鹿の群れに囲まれて森に入り、キンナラたちと果実を集める。これを毎日、毎日。文句一つ言わずに。",
+      "keywords": ["介護", "献身", "日課", "鹿の群れ"]
+    },
+    {
+      "number": 4,
+      "title": "ピリヤッカ王の毒矢",
+      "pali": "Piliyakkha",
+      "reading": "ピリヤッカ",
+      "english": "King Piliyakkha of Benares, obsessed with hunting, reaches the river where Sāma draws water. Not knowing if the golden figure is god or Nāga, he decides to wound first, ask later. He shoots a poisoned arrow through Sāma's right side. Sāma collapses on the sand, bleeding, but does not curse—only worries about his blind parents.",
+      "sezon": "バーラーナシーの王ピリヤッカは狩り狂いだ。ヒマラヤまで来て、川辺で水を汲む黄金の姿を見つけた。「神か蛇か？撃って聞けばいい」。毒矢がサーマの右脇腹を貫き、左から出た。砂の上に倒れ、口から血が溢れる。だがサーマは王を罵らない。「俺が死ぬのは構わない。だが盲目の父と母を、誰が世話するんだ」。自分の命より親の水瓶を心配した。",
+      "keywords": ["毒矢", "ピリヤッカ王", "孝行", "無瞋恚"]
+    },
+    {
+      "number": 5,
+      "title": "王の悔悟と両親への報告",
+      "pali": "",
+      "reading": "",
+      "english": "The king is stricken with guilt. He vows to care for Sāma's parents himself. A Devadhītā from Gandhamādana mountain urges him to go. He carries Sāma's water jar to the hermitage. The blind father hears unfamiliar footsteps. The king confesses: 'I have slain your son.' The parents do not curse him.",
+      "sezon": "王は後悔で打ちのめされた。「地獄行きだ。せめてあの子の代わりに親を世話しよう」。天女が空から声をかける。「行け、罪を償え」。王はサーマの水瓶を持って庵に向かった。盲目の父が聞きなれない足音に気づく。「誰だ？サーマの足音ではない」。王が告白する。「お前たちの息子を、殺した」。だが両親は呪わなかった。「王よ、怒りは賢者が禁じるものです」。この慈悲がすべてを変える。",
+      "keywords": ["悔悟", "告白", "不瞋恚", "慈悲"]
+    },
+    {
+      "number": 6,
+      "title": "三つの真実の誓願と蘇生",
+      "pali": "Saccakiriyā",
+      "reading": "サッチャキリヤー",
+      "english": "The parents are led to Sāma's body. Mother performs an Assertion of Truth: 'If Sāma lived virtuously, may the poison lose its power.' Sāma turns. Father makes the same assertion—Sāma turns again. The Devadhītā adds her own. At that moment: Sāma revives, both parents regain their sight, and dawn breaks—four miracles at once.",
+      "sezon": "両親はサーマの体のそばに座った。母が真実の誓願を唱える。「サーマが清く生きたことが真実なら、毒よ消えろ」。サーマの体が動いた。父も同じ誓願を唱える。また動いた。天女も唱えた。その瞬間——サーマが目を開け、両親の目に光が戻り、夜が明けた。四つの奇跡が同時に起きた。真実の力、孝行の力、慈悲の力。これが全部、一つに重なった瞬間だ。",
+      "keywords": ["真実の誓願", "蘇生", "奇跡", "視力回復"]
+    },
+    {
+      "number": 7,
+      "title": "王への十の教えと大団円",
+      "pali": "Dasa rājadhamma",
+      "reading": "ダサ・ラージャダンマ",
+      "english": "Sāma teaches King Piliyakkha the ten duties of a king: duty to parents, children, wife, friends, ministers, soldiers, towns, realm, ascetics, and animals. 'Duty fulfilled in this life brings heaven hereafter.' The king accepts the five precepts and returns to Benares to rule righteously. Sāma and his parents attain the Super Knowledges and are reborn in the Brahma realm.",
+      "sezon": "生き返ったサーマは王に十の王の義務を説いた。親への義務、子への義務、妻、友、大臣、兵士、町、国、修行者、そして獣への義務。「この世で義務を果たせ。それが来世の天への切符だ」。王は五戒を受けてバーラーナシーに帰り、善政を敷いた。サーマと両親は神通力を得て梵天界に生まれ変わった。孝行は、死すら覆す。慈悲は、毒すら消す。これがサーマ本生の核心だ。",
+      "keywords": ["十王法", "五戒", "梵天界", "慈悲波羅蜜の完成"]
+    }
+  ]
+}

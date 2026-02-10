@@ -1,0 +1,106 @@
+{
+  "chapter": 2,
+  "pali_name": "Appamādavagga",
+  "japanese_name": "不放逸品",
+  "english_name": "Heedfulness",
+  "summary": "不放逸（アッパマーダ）──つまり「気ィ抜くな」ってことだ。この章でセゾンは、怠けずに目ェ覚まして生きることが不死（ニッバーナ）への道だと説く。逆に放逸（パマーダ）＝ボーッと生きてるやつは、生きながら死んでるようなもんだ。偈21〜32の12偈で、不放逸の重要性をこれでもかと叩き込む。",
+  "verse_range": "21-32",
+  "verses": [
+    {
+      "number": 21,
+      "pali": "Appamādo amatapadaṃ\npamādo maccuno padaṃ\nappamattā na mīyanti\nye pamattā yathā matā.",
+      "reading": "アッパマード アマタパダン\nパマード マッチュノ パダン\nアッパマッター ナ ミーヤンティ\nイェー パマッター ヤター マター",
+      "english": "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already.",
+      "sezon": "不放逸は不死への道だ。放逸は死への道だ。気ィ抜かねぇやつは死なねぇ。ボケッとしてるやつは──もう死んでんのと同じだ",
+      "keywords": ["appamāda", "amata", "pamāda", "maccu"]
+    },
+    {
+      "number": 22,
+      "pali": "Evaṃ visesato ñatvā\nappamādamhi paṇḍitā\nappamāde pamodanti\nariyānaṃ gocare ratā.",
+      "reading": "エーヴァン ヴィセーサトー ニャトヴァー\nアッパマーダンヒ パンディター\nアッパマーデー パモーダンティ\nアリヤーナン ゴーチャレー ラター",
+      "english": "Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones.",
+      "sezon": "この違いをちゃんと分かってるやつ──つまり賢ェやつは、不放逸を楽しんでやがる。聖者たちの境地に喜んで浸ってんだ",
+      "keywords": ["appamāda", "paṇḍita", "ariya"]
+    },
+    {
+      "number": 23,
+      "pali": "Te jhāyino sātatikā\nniccaṃ daḷhaparakkamā\nphusanti dhīrā nibbānaṃ\nyogakkhemaṃ anuttaraṃ.",
+      "reading": "テー ジャーイノー サータティカー\nニッチャン ダルハパラッカマー\nプサンティ ディーラー ニッバーナン\nヨーガッケーマン アヌッタラン",
+      "english": "The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.",
+      "sezon": "瞑想に没頭して、常に怠らず、ガッツリ精進し続けるやつら──そういう賢者だけが、束縛から解き放たれた無上のニッバーナに到達する。それ以外に道はねぇ",
+      "keywords": ["jhāna", "nibbāna", "yogakkhema", "parakkama"]
+    },
+    {
+      "number": 24,
+      "pali": "Uṭṭhānavato satīmato\nsucikammassa nisammakarino\nsaññatassa ca dhammajīvino\nappamattassa yaso bhivaḍḍhati.",
+      "reading": "ウッターナヴァトー サティーマトー\nスチカンマッサ ニサンマカリノー\nサンニャタッサ チャ ダンマジーヴィノー\nアッパマッタッサ ヤソー ビヴァッダティ",
+      "english": "Ever grows the glory of him who is energetic, mindful and pure in conduct, discerning and self-controlled, righteous and heedful.",
+      "sezon": "精進するやつ、気づきのあるやつ、行いが清ェやつ、よく考えてから動くやつ、自分を律してるやつ、法に則って生きてるやつ、怠けねぇやつ──そういうやつの名声は、どんどん上がる。当たり前だろ",
+      "keywords": ["uṭṭhāna", "sati", "saññata", "appamatta", "yasa"]
+    },
+    {
+      "number": 25,
+      "pali": "Uṭṭhānenappamādena\nsaṃyamena damena ca\ndīpaṃ kayirātha medhāvī\nyaṃ ogho nābhikīrati.",
+      "reading": "ウッターネーナッパマーデーナ\nサンヤメーナ ダメーナ チャ\nディーパン カイラータ メーダーヴィー\nヤン オーゴー ナービキーラティ",
+      "english": "By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm.",
+      "sezon": "努力と不放逸と、自制と調御でもって──賢ェやつは自分自身を島にしろ。どんな洪水にも沈まねぇ島をな。（誰も助けちゃくれねぇぞ。自分が自分の拠り所だ）",
+      "keywords": ["dīpa", "appamāda", "saṃyama", "dama", "ogha"]
+    },
+    {
+      "number": 26,
+      "pali": "Pamādamanuyuñjanti\nbālā dummedhino janā\nappamādañca medhāvī\ndhanaṃ seṭṭhaṃva rakkhati.",
+      "reading": "パマーダマヌユンジャンティ\nバーラー ドゥンメーディノー ジャナー\nアッパマーダンチャ メーダーヴィー\nダナン セッタンヴァ ラッカティ",
+      "english": "The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.",
+      "sezon": "愚か者どもは放逸にふける。バカはボーッとすんのが好きだからな。だが賢ェやつは、不放逸を最高の宝みてぇに守る。金銀財宝より大事なもんだ",
+      "keywords": ["pamāda", "bāla", "appamāda", "medhāvī", "dhana"]
+    },
+    {
+      "number": 27,
+      "pali": "Mā pamādamanuyuñjetha\nmā kāmaratisanthavaṃ\nappamatto hi jhāyanto\npappoti vipulaṃ sukhaṃ.",
+      "reading": "マー パマーダマヌユンジェータ\nマー カーマラティサンタヴァン\nアッパマットー ヒ ジャーヤントー\nパッポーティ ヴィプラン スカン",
+      "english": "Do not give way to heedlessness. Do not indulge in sensual pleasures. Only the heedful and meditative attain great happiness.",
+      "sezon": "放逸にふけるな。欲楽に溺れるな。不放逸で瞑想に励むやつだけが、でっけぇ幸福を手に入れる。──快楽と幸福は違ぇぞ、間違えんな",
+      "keywords": ["pamāda", "kāma", "jhāna", "sukha"]
+    },
+    {
+      "number": 28,
+      "pali": "Pamādaṃ appamādena\nyadā nudati paṇḍito\npaññāpāsādamāruyha\nasoko sokinīṃ pajaṃ\npabbataṭṭhova bhūmaṭṭhe\ndhīro bāle avekkhati.",
+      "reading": "パマーダン アッパマーデーナ\nヤダー ヌダティ パンディトー\nパンニャーパーサーダマールイハ\nアソーコー ソーキニーン パジャン\nパッバタットーヴァ ブーマッテー\nディーロー バーレー アヴェッカティ",
+      "english": "Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude.",
+      "sezon": "賢ェやつが不放逸で放逸をブッ飛ばした時──そいつは智慧の高楼に登る。憂いなき者として、憂いに沈む衆生を見下ろす。山の頂上から平地のやつらを見るみてぇにな。（見下してんじゃねぇ。見えてんだよ、全部が）",
+      "keywords": ["paññā", "appamāda", "pabbata", "dhīra"]
+    },
+    {
+      "number": 29,
+      "pali": "Appamatto pamattesu\nsuttesu bahujāgaro\nabalassaṃva sīghasso\nhitvā yāti sumedhaso.",
+      "reading": "アッパマットー パマッテース\nスッテース バフジャーガロー\nアバラッサンヴァ スィーガッソー\nヒトヴァー ヤーティ スメーダソー",
+      "english": "Heedful among the heedless, wide-awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.",
+      "sezon": "怠けてるやつらの中で怠けねぇ。寝ぼけてるやつらの中で目ェ覚ましてる。賢者ってのは──駿馬みてぇに、駄馬を置き去りにしてブッちぎって進む",
+      "keywords": ["appamatta", "jāgara", "sumedhasa"]
+    },
+    {
+      "number": 30,
+      "pali": "Appamādena maghavā\ndevānaṃ seṭṭhataṃ gato\nappamādaṃ pasaṃsanti\npamādo garahito sadā.",
+      "reading": "アッパマーデーナ マガヴァー\nデーヴァーナン セッタタン ガトー\nアッパマーダン パサンサンティ\nパマードー ガラヒトー サダー",
+      "english": "By Heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised.",
+      "sezon": "不放逸によって、マガヴァ（インドラ）は神々の王になった。不放逸は常に称えられ、放逸は常にけなされる。──神々のボスですら、怠けずにやったから今がある。お前らに言い訳はねぇだろ",
+      "keywords": ["appamāda", "maghavā", "deva", "pamāda"]
+    },
+    {
+      "number": 31,
+      "pali": "Appamādarato bhikkhu\npamāde bhayadassī vā\nsaṃyojanaṃ aṇuṃ thūlaṃ\nḍahaṃ aggīva gacchati.",
+      "reading": "アッパマーダラトー ビック\nパマーデー バヤダッスィー ヴァー\nサンヨージャナン アヌン トゥーラン\nダハン アッギーヴァ ガッチャティ",
+      "english": "The monk who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters, small and large.",
+      "sezon": "不放逸を楽しみ、放逸を恐れる比丘は──火のように進む。大小すべての束縛を、燃やし尽くしながらな。（中途半端はねぇ。全部焼く）",
+      "keywords": ["appamāda", "bhikkhu", "saṃyojana", "aggi"]
+    },
+    {
+      "number": 32,
+      "pali": "Appamādarato bhikkhu\npamāde bhayadassī vā\nabhabbo parihānāya\nnibbānasseva santike.",
+      "reading": "アッパマーダラトー ビック\nパマーデー バヤダッスィー ヴァー\nアバッボー パリハーナーヤ\nニッバーナッセーヴァ サンティケー",
+      "english": "The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbana.",
+      "sezon": "不放逸を楽しみ、放逸を恐れる比丘は──堕ちることがねぇ。そいつはもう、ニッバーナのすぐそばにいる",
+      "keywords": ["appamāda", "bhikkhu", "nibbāna"]
+    }
+  ]
+}

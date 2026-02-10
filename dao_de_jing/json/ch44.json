@@ -1,0 +1,32 @@
+{
+  "chapter": 44,
+  "chinese_name": "名與身孰親",
+  "japanese_name": "知足の戒め",
+  "summary": "名声や財貨への執着を捨て、足るを知ることで長久を得る。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "名與身孰親？身與貨孰多？得與亡孰病？",
+      "modern_ja": "名声と身体、どちらが親しいか。身体と財貨、どちらが大切か。得ることと失うこと、どちらが病か。",
+      "english": "Fame or your body—which is dearer? Body or wealth—which is worth more? Gain or loss—which is sickness?",
+      "laozi": "名前と身体、どっちが大事？ 金と命、どっちが重い？ 聞くまでもないだろ",
+      "keywords": [
+        "名声",
+        "身体",
+        "財貨"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。",
+      "modern_ja": "だからひどく愛すれば必ず大いに費え、多く蓄えれば必ず厚く失う。足るを知れば辱められず、止まることを知れば危うくない。こうして長久でありうる。",
+      "english": "Therefore, excessive love leads to great cost; hoarding leads to heavy loss. Know contentment and avoid disgrace; know when to stop and avoid danger. Thus one endures.",
+      "laozi": "愛しすぎれば消耗する。溜め込めば失う。足りてるって気づけば、それでいい。…止まれる奴が、一番遠くまで行く",
+      "keywords": [
+        "知足",
+        "知止",
+        "長久"
+      ]
+    }
+  ]
+}

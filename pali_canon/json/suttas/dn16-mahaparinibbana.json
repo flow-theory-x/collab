@@ -1,0 +1,108 @@
+{
+  "sutta_id": "DN16",
+  "pali_name": "Mahāparinibbāna Sutta",
+  "japanese_name": "大般涅槃経",
+  "english_name": "The Great Discourse on the Final Passing",
+  "summary": "ブッダ最後の旅路を描いた最長の経典。ラージャガハからクシナーラーまでの道中、国の繁栄条件・四念処・自灯明の教えなど核心的な遺訓を残し、最期にパリニッバーナ（完全なる涅槃）に入る。仏教史上最も劇的かつ感動的な記録。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "ヴァッジ族の繁栄条件と国の福祉",
+      "pali": "Aparihāniyā dhammā",
+      "reading": "アパリハーニヤー・ダンマー",
+      "english": "The Buddha teaches seven conditions for a nation's welfare: frequent assemblies, acting in concord, respecting ancient laws, honoring elders, protecting women, maintaining shrines, and safeguarding the holy ones. As long as these endure, growth is expected, not decline.",
+      "sezon": "アジャータサットゥが戦争したがってるって？まぁ聞けよ。ヴァッジ族が衰退しない条件ってのがある。みんなで集まって話し合う。勝手に法を変えない。年長者を敬う。女を守る。聖なるものを大事にする。こういう当たり前のことができてりゃ、どんな敵にもやられねぇんだ。国だろうがサンガだろうが同じこった。",
+      "keywords": ["aparihāniyā dhammā", "ヴァッジ族", "七不退法", "和合"]
+    },
+    {
+      "number": 2,
+      "title": "比丘サンガの七つの福祉条件",
+      "pali": "Sīla, samādhi, paññā",
+      "reading": "シーラ、サマーディ、パンニャー",
+      "english": "The Buddha sets forth conditions for the Sangha's welfare: frequent assembly, acting in harmony, not abolishing training rules, respecting elders, not yielding to craving, cherishing forest dwellings, and establishing mindfulness. He repeatedly teaches: 'Great is the fruit of concentration developed by virtue; great is the fruit of wisdom developed by concentration.'",
+      "sezon": "サンガにも同じ七つの条件がある。集まれ、仲良くやれ、ルールを守れ、先輩を敬え、欲に流されるな、森に住め、マインドフルでいろ。それから戒・定・慧だ。戒があってこそ定が実り、定があってこそ智慧が実る。この三つを何度も何度も繰り返し説いた。最後の旅だからな、核心だけ言うんだ。",
+      "keywords": ["sīla", "samādhi", "paññā", "サンガの福祉", "七覚支"]
+    },
+    {
+      "number": 3,
+      "title": "サーリプッタの獅子吼と法の城塞",
+      "pali": "Sīhanāda",
+      "reading": "シーハナーダ",
+      "english": "Sariputta declares his faith that no recluse surpasses the Buddha in enlightenment. The Buddha challenges him — do you know all Buddhas past, future, present? Sariputta replies with a parable: like a gatekeeper who knows all must pass through one gate, he knows the lawfulness of Dhamma — all Buddhas abandon five hindrances, establish four foundations of mindfulness, and cultivate seven factors of enlightenment.",
+      "sezon": "サーリプッタが「あなた以上の覚者はいない」と吠えた。ブッダは突っ込む。「過去・未来・現在の仏を全部知ってるのか？」「いいえ」「じゃあなぜ言える？」サーリプッタの答えがいい。城の門番みたいなもんだと。大きな生き物は全部この門を通る。同じように、全ての覚者はDhammaの法則性を通る。五蓋を捨て、四念処を立て、七覚支を修める。これがDhammaの門だ。",
+      "keywords": ["sīhanāda", "獅子吼", "サーリプッタ", "五蓋", "四念処", "七覚支"]
+    },
+    {
+      "number": 4,
+      "title": "四聖諦とガンジス河を渡る",
+      "pali": "Cattāri ariyasaccāni",
+      "reading": "チャッターリ・アリヤサッチャーニ",
+      "english": "At Kotigama, the Buddha teaches: 'It is through not realizing the Four Noble Truths that this long course of birth and death has been undergone. Now that these are penetrated, craving is cut off and there is no fresh becoming.' He then miraculously crosses the Ganges while others search for boats.",
+      "sezon": "四聖諦を見抜けなかったから、俺もお前らも延々と輪廻してきたんだ。苦・集・滅・道。これを貫通した今、もう新たな生存はない。渇愛はぶった切られた。ガンジス河？みんなが船やイカダを探してるのに、ブッダは腕を伸ばすように一瞬で対岸に立った。智慧のある奴は大海すら渡る。他の奴らはまだイカダを縛ってるってわけだ。",
+      "keywords": ["cattāri ariyasaccāni", "四聖諦", "苦集滅道", "渡河"]
+    },
+    {
+      "number": 5,
+      "title": "法の鏡と預流果の確認",
+      "pali": "Dhammādāsa",
+      "reading": "ダンマーダーサ",
+      "english": "At Nadika, Ananda asks about the fate of deceased disciples. The Buddha teaches the Mirror of Dhamma: one who has unwavering faith in the Buddha, Dhamma, and Sangha, and possesses noble virtues, can declare themselves a stream-enterer, safe from lower realms and bound for enlightenment.",
+      "sezon": "アーナンダがいちいち「あの人は死後どうなりました？」と聞くもんだから、ブッダは法の鏡ってのを授けた。仏・法・僧への揺るぎない信と、聖者に愛される戒。この四つがあれば、自分で「俺は預流者だ、悪趣にはもう落ちない」と分かる。いちいち聞くなってことだ。自分で確かめろ。",
+      "keywords": ["dhammādāsa", "法の鏡", "sotāpanna", "預流果", "三宝への信"]
+    },
+    {
+      "number": 6,
+      "title": "アンバパーリーの供養とヴェーサーリーでの教え",
+      "pali": "Sati, sampajañña",
+      "reading": "サティ、サンパジャンニャ",
+      "english": "At Vesali, the Buddha teaches mindfulness and clear comprehension. The courtesan Ambapali invites the Buddha for a meal, outbidding the Licchavi princes. She donates her mango grove to the Sangha. The Buddha exhorts: 'Mindful should you dwell, clearly comprehending.'",
+      "sezon": "ヴェーサーリーで「念を持って住め、正知せよ」と説いた。身・受・心・法を観じろと。遊女アンバパーリーがブッダを食事に招いた。リッチャヴィ族の王子たちが「譲れ」と言っても「ヴェーサーリーをくれてもお断り」と突っぱねた。この女、気骨があるじゃねぇか。最後にはマンゴー園をサンガに寄進した。",
+      "keywords": ["sati", "sampajañña", "念", "正知", "アンバパーリー", "ヴェーサーリー"]
+    },
+    {
+      "number": 7,
+      "title": "重病と自灯明の教え",
+      "pali": "Attadīpā viharatha, dhammadīpā",
+      "reading": "アッタディーパー・ヴィハラタ、ダンマディーパー",
+      "english": "At Beluva, the Buddha falls severely ill with deadly pains but endures them mindfully. He suppresses the illness by will. To Ananda who hoped for final instructions, the Buddha declares: 'I have taught without holding anything back. Be islands unto yourselves, refuges unto yourselves, with the Dhamma as your island and refuge.'",
+      "sezon": "ベールヴァ村で重病にかかった。激痛だ。だがブッダは念を持って、動じずに耐えた。意志の力で病を抑え込んだ。アーナンダが「最後の遺言を」と期待したら、ブッダは言った。「俺は何も隠してない。握り拳の中に秘密なんかない。自分自身を島とせよ、法を島とせよ。他に頼るな。」これが遺訓の核心だ。",
+      "keywords": ["attadīpā", "dhammadīpā", "自灯明", "法灯明", "自洲", "法洲"]
+    },
+    {
+      "number": 8,
+      "title": "寿命の放棄とマーラの誘い",
+      "pali": "Āyusaṅkhāra ossajjana",
+      "reading": "アーユサンカーラ・オッサッジャナ",
+      "english": "At the Capala shrine, the Buddha hints three times that a Tathagata could extend his life to the end of the aeon, but Ananda fails to ask him to do so. Mara then urges the Buddha to pass away. The Buddha relinquishes the will to live, and the earth quakes. He announces his Parinibbana in three months.",
+      "sezon": "チャーパラ聖所で三度もヒントを出した。「如来は望めば一劫の終わりまで生きられるんだがなぁ」と。だがアーナンダは気づかなかった。マーラが来て「もう逝け」と言った。ブッダは寿命の形成力を手放した。大地が震えた。三ヶ月後にパリニッバーナに入ると宣言した。アーナンダの不覚がドラマの核心だ。",
+      "keywords": ["āyusaṅkhāra", "寿命の放棄", "マーラ", "チャーパラ聖所"]
+    },
+    {
+      "number": 9,
+      "title": "チュンダの供養と最後の食事",
+      "pali": "Sūkaramaddava",
+      "reading": "スーカラマッダヴァ",
+      "english": "At Pava, the smith Cunda offers the Buddha his last meal containing sūkaramaddava (tender pork or truffles). The Buddha falls gravely ill with bloody dysentery but presses on toward Kusinara. He asks Ananda to console Cunda, saying his offering bears the greatest merit — equal to the meal before enlightenment.",
+      "sezon": "鍛冶屋チュンダが最後の食事を供養した。スーカラマッダヴァ——豚肉か茸か、いまだに論争があるが、そんなことはどうでもいい。ブッダは激しい下痢と出血に見舞われた。だがチュンダを責めるなよ。成道前の食事とパリニッバーナ前の食事、この二つが最上の功徳だとブッダ自身が言ったんだ。",
+      "keywords": ["sūkaramaddava", "チュンダ", "最後の食事", "パーヴァー"]
+    },
+    {
+      "number": 10,
+      "title": "クシナーラーでの最後の教えと遺言",
+      "pali": "Vayadhammā saṅkhārā, appamādena sampādetha",
+      "reading": "ヴァヤダンマー・サンカーラー、アッパマーデーナ・サンパーデータ",
+      "english": "At Kusinara, between the twin sala trees, the Buddha gives final teachings: the Sangha should rely on the Dhamma and Vinaya as teacher after his passing. Subhadda becomes the last direct disciple. The Buddha's final words: 'All conditioned things are subject to decay. Strive with diligence.' He then enters the jhanas and passes into Parinibbana.",
+      "sezon": "クシナーラーの沙羅双樹の間で横たわった。「俺の死後、DhammaとVinayaがお前たちの師だ」と言った。最後の弟子スバッダを受け入れた。そして最後の言葉。「もろもろの形成されたものは滅びゆく。怠ることなく精進せよ」——Vayadhammā saṅkhārā, appamādena sampādetha。初禅から四禅、そして涅槃へ。これがブッダの最期だ。",
+      "keywords": ["vayadhammā saṅkhārā", "appamāda", "不放逸", "パリニッバーナ", "遺言"]
+    },
+    {
+      "number": 11,
+      "title": "大地の震動と舎利の分配",
+      "pali": "Dhātu vibhajana",
+      "reading": "ダートゥ・ヴィバジャナ",
+      "english": "After the Parinibbana, Anuruddha calms the grieving monks. Maha Kassapa leads the funeral rites. The Mallas of Kusinara honor the body for seven days. Eight portions of relics are distributed among kings and clans, with stupas built to enshrine them.",
+      "sezon": "ブッダが逝った。悟った者は静かだったが、まだ執着のある者たちは泣き叫んだ。アヌルッダが「泣くな、ブッダ自身が言ったじゃないか、愛するものとは別れるんだと」と諫めた。マハーカッサパが荼毘を執り行い、舎利は八つに分けられた。遺骨を巡って戦争しかけた連中もいた。人間ってのはそういうもんだ。だが舎利塔は建てられ、法は続いた。",
+      "keywords": ["dhātu", "舎利分配", "荼毘", "ストゥーパ", "マハーカッサパ"]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "chapter": 26,
+  "pali_name": "Brahmanavagga",
+  "japanese_name": "婆羅門品",
+  "english_name": "The Holy Man",
+  "summary": "真の婆羅門は血筋じゃねぇ。執着を断ち、彼岸に渡り、一切の結縛から解き放たれた者──それをオレは「聖者」と呼ぶ。全41偈で、その条件を一つずつ叩き込む。",
+  "verse_range": "383-423",
+  "verses": [
+    {
+      "number": 383,
+      "pali": "Chinda sotaṃ parakkamma, kāme panūda brāhmaṇa;\nsaṅkhārānaṃ khayaṃ ñatvā, akataññū si brāhmaṇa.",
+      "reading": "チンダ ソータン パラッカンマ、カーメー パヌーダ ブラーフマナ；\nサンカーラーナン カヤン ニャトヴァー、アカタンニュー シ ブラーフマナ。",
+      "english": "Exert yourself, O holy man! Cut off the stream (of craving), and discard sense desires. Knowing the destruction of all the conditioned things, become, O holy man, the knower of the Uncreated (Nibbana)!",
+      "sezon": "奮い立て、聖者よ！渇愛の流れを断て、感覚的欲望を捨てろ。一切の行の滅尽を知って、無為（涅槃）を知る者となれ。",
+      "keywords": ["sota", "kāma", "saṅkhāra", "akata"]
+    },
+    {
+      "number": 384,
+      "pali": "Yadā dvayesu dhammesu, pāragū hoti brāhmaṇo;\nathassa sabbe saṃyogā, atthaṃ gacchanti jānato.",
+      "reading": "ヤダー ドヴァイェース ダンメース、パーラグー ホーティ ブラーフマノー；\nアタッサ サッベー サンヨーガー、アッタン ガッチャンティ ジャーナトー。",
+      "english": "When a holy man has reached the summit of two paths (meditative concentration and insight), he knows the truth and all his fetters fall away.",
+      "sezon": "聖者が止と観の二つの道の頂に達した時──真理を知り、一切の結縛が崩れ落ちる。",
+      "keywords": ["dvaya", "pāragū", "saṃyoga"]
+    },
+    {
+      "number": 385,
+      "pali": "Yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati;\nvītaddaraṃ visaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヤッサ パーラン アパーラン ヴァー、パーラーパーラン ナ ヴィッジャティ；\nヴィータッダラン ヴィサンユッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He for whom there is neither this shore nor the other shore, nor yet both, he who is free of cares and is unfettered — him do I call a holy man.",
+      "sezon": "此岸もなく彼岸もなく、両岸もない。憂いなく束縛なき者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["pāra", "apāra", "visaṃyutta"]
+    },
+    {
+      "number": 386,
+      "pali": "Jhāyiṃ virajam āsīnaṃ, katakiccam anāsavaṃ;\nuttamatthaṃ anuppattaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ジャーイン ヴィラジャマーシーナン、カタキッチャマナーサヴァン；\nウッタマッタン アヌッパッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who is meditative, stainless and settled, whose work is done and who is free from cankers, having reached the highest goal — him do I call a holy man.",
+      "sezon": "瞑想し、垢なく、落ち着き、為すべきを為し終え、煩悩を滅し、最高の目的に到達した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["jhāyī", "viraja", "katakicca", "anāsava"]
+    },
+    {
+      "number": 387,
+      "pali": "Divā tapati ādicco, rattim ābhāti candimā;\nsannaddho khattiyo tapati, jhāyī tapati brāhmaṇo;\natha sabbamahorattiṃ, buddho tapati tejasā.",
+      "reading": "ディヴァー タパティ アーディッチョー、ラッティマーバーティ チャンディマー；\nサンナッドー カッティヨー タパティ、ジャーイー タパティ ブラーフマノー；\nアタ サッバマホーラッティン、ブッドー タパティ テージャサー。",
+      "english": "The sun shines by day, the moon shines by night. The warrior shines in armor, the holy man shines in meditation. But the Buddha shines resplendent all day and all night.",
+      "sezon": "太陽は昼に輝き、月は夜に輝く。武人は鎧に輝き、聖者は瞑想に輝く。──だが仏陀は昼も夜も、常に光り輝く。",
+      "keywords": ["ādicca", "candimā", "jhāyī", "buddha"]
+    },
+    {
+      "number": 388,
+      "pali": "Bāhitapāpo ti brāhmaṇo, samacariyā samaṇo ti vuccati;\npabbājayam attano malaṃ, tasmā pabbajito ti vuccati.",
+      "reading": "バーヒタパーポーティ ブラーフマノー、サマチャリヤー サマノーティ ヴッチャティ；\nパッバージャヤマッタノー マラン、タスマー パッバジトーティ ヴッチャティ。",
+      "english": "Because he has discarded evil, he is called a holy man. Because he is serene in conduct, he is called a recluse. And because he has renounced his impurities, he is called a renunciate.",
+      "sezon": "悪を退けたから「婆羅門」と呼ばれる。行いが静かだから「沙門」と呼ばれる。自らの汚れを追い出したから「出家者」と呼ばれる。",
+      "keywords": ["bāhitapāpa", "samaṇa", "pabbajita"]
+    },
+    {
+      "number": 389,
+      "pali": "Na brāhmaṇassa pahareyya, nāssa muñcetha brāhmaṇo;\ndhī brāhmaṇassa hantāraṃ, tato dhī yassa muñcati.",
+      "reading": "ナ ブラーフマナッサ パハレッヤ、ナッサ ムンチェータ ブラーフマノー；\nディー ブラーフマナッサ ハンターラン、タトー ディー ヤッサ ムンチャティ。",
+      "english": "One should not strike a holy man, nor should a holy man, when struck, give way to anger. Shame on him who strikes a holy man, and more shame on him who gives way to anger.",
+      "sezon": "聖者を打つな。聖者も打たれて怒りに身を任せるな。聖者を打つ者に恥あれ──怒りに任せる者にはもっと恥あれ。",
+      "keywords": ["brāhmaṇa", "pahara", "dhī"]
+    },
+    {
+      "number": 390,
+      "pali": "Na brāhmaṇassetadakiñci seyyo, yadā nisedho manaso piyehi;\nyato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.",
+      "reading": "ナ ブラーフマナッセータダキンチ セッヨー、ヤダー ニセードー マナソー ピイェーヒ；\nヤトー ヤトー ヒンサマノー ニヴァッタティ、タトー タトー サンマティメーヴァ ドゥッカン。",
+      "english": "Nothing is better for a holy man than when he holds his mind back from what is endearing. To the extent the intent to harm wears away, to that extent does suffering subside.",
+      "sezon": "聖者にとって、愛しいものから心を引き離すこと以上に良いことはねぇ。害意が退く分だけ、苦も退く。",
+      "keywords": ["nisedha", "hiṃsā", "dukkha"]
+    },
+    {
+      "number": 391,
+      "pali": "Yassa kāyena vācāya, manasā natthi dukkaṭaṃ;\nsaṃvutaṃ tīhi ṭhānehi, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヤッサ カーイェーナ ヴァーチャーヤ、マナサー ナッティ ドゥッカタン；\nサンヴタン ティーヒ ターネーヒ、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who does no evil in deed, word and thought, who is restrained in these three ways — him do I call a holy man.",
+      "sezon": "身・口・意で悪を為さず、この三つにおいて制御された者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["kāya", "vācā", "manas", "saṃvuta"]
+    },
+    {
+      "number": 392,
+      "pali": "Yamhā dhammaṃ vijāneyya, sammāsambuddhadesitaṃ;\nsakkaccaṃ taṃ namasseyya, aggihuttaṃ va brāhmaṇo.",
+      "reading": "ヤンハー ダンマン ヴィジャーネッヤ、サンマーサンブッダデーシタン；\nサッカッチャン タン ナマッセッヤ、アッギフッタン ヴァ ブラーフマノー。",
+      "english": "Just as a brahman priest reveres his sacrificial fire, even so should one devoutly revere the person from whom one has learned the Dhamma taught by the Buddha.",
+      "sezon": "バラモンが祭火を敬うように、正等覚者が説いた法を学んだ相手を、心から敬え。",
+      "keywords": ["dhamma", "sammāsambuddha", "namasseyya"]
+    },
+    {
+      "number": 393,
+      "pali": "Na jaṭāhi na gottena, na jaccā hoti brāhmaṇo;\nyamhi saccañca dhammo ca, so sucī so ca brāhmaṇo.",
+      "reading": "ナ ジャターヒ ナ ゴッテーナ、ナ ジャッチャー ホーティ ブラーフマノー；\nヤンヒ サッチャンチャ ダンモー チャ、ソー スチー ソー チャ ブラーフマノー。",
+      "english": "Not by matted hair, nor by lineage, nor by birth does one become a holy man. But he in whom truth and righteousness exist — he is pure, he is a holy man.",
+      "sezon": "縺れ髪でも、家柄でも、生まれでも聖者にはなれねぇ。真実と正法がある者──そいつが清浄であり、聖者だ。",
+      "keywords": ["jaṭā", "gotta", "sacca", "dhamma"]
+    },
+    {
+      "number": 394,
+      "pali": "Kiṃ te jaṭāhi dummedha, kiṃ te ajinasāṭiyā;\nabbhantaraṃ te gahaṇaṃ, bāhiraṃ parimajjasi.",
+      "reading": "キン テー ジャターヒ ドゥンメーダ、キン テー アジナサーティヤー；\nアッバンタラン テー ガハナン、バーヒラン パリマッジャシ。",
+      "english": "What is the use of your matted hair, O witless man? What of your garment of antelope's hide? Within you is the tangle (of passion); only outwardly do you cleanse yourself.",
+      "sezon": "愚か者よ、その縺れ髪が何になる？鹿皮の衣が何になる？お前の内側は煩悩の密林だ──外側だけ磨いてどうする。",
+      "keywords": ["jaṭā", "dummedha", "gahana"]
+    },
+    {
+      "number": 395,
+      "pali": "Paṃsukūladharaṃ jantuṃ, kisaṃ dhamanisanthataṃ;\nekaṃ vanasmiṃ jhāyantaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "パンスクーラダラン ジャントゥン、キサン ダマニサンタタン；\nエーカン ヴァナスミン ジャーヤンタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "The person who wears a robe made of rags, who is lean, with veins showing all over the body, and who meditates alone in the forest — him do I call a holy man.",
+      "sezon": "糞掃衣をまとい、痩せて血管が浮き出た身体で、森の中で独り瞑想する者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["paṃsukūla", "jhāyanta", "vana"]
+    },
+    {
+      "number": 396,
+      "pali": "Na cāhaṃ brāhmaṇaṃ brūmi, yonijaṃ mattisambhavaṃ;\nbhovādi nāma so hoti, sace hoti sakiñcano;\nakiñcanaṃ anādānaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ナ チャーハン ブラーフマナン ブルーミ、ヨーニジャン マッティサンバヴァン；\nボーヴァーディ ナーマ ソー ホーティ、サチェー ホーティ サキンチャノー；\nアキンチャナン アナーダーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "I do not call him a holy man because of his lineage or high-born mother. If he is full of impeding attachments, he is just a supercilious man. But who is free from impediments and clinging — him do I call a holy man.",
+      "sezon": "血筋や高貴な母から生まれたからって聖者とは呼ばねぇ。執着まみれなら、ただの傲慢な奴だ。障碍なく執着なき者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["yonija", "akiñcana", "anādāna"]
+    },
+    {
+      "number": 397,
+      "pali": "Sabbasaṃyojanaṃ chetvā, yo ve na paritassati;\nsaṅgātigaṃ visaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "サッバサンヨージャナン チェトヴァー、ヨー ヴェー ナ パリタッサティ；\nサンガーティガン ヴィサンユッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who, having cut off all fetters, trembles no more, who has overcome all attachments and is emancipated — him do I call a holy man.",
+      "sezon": "一切の結縛を断ち切り、もう震えることのない者。一切の執着を超え、解脱した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["saṃyojana", "saṅgātiga", "visaṃyutta"]
+    },
+    {
+      "number": 398,
+      "pali": "Chetvā naddhiṃ varattañca, sandānaṃ sahanukkamaṃ;\nukkkhittapalighaṃ buddhaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "チェトヴァー ナッディン ヴァラッタンチャ、サンダーナン サハヌッカマン；\nウッキッタパリガン ブッダン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who has cut off the thong (of hatred), the band (of craving), and the rope (of false views), together with the appurtenances (latent evil tendencies), he who has removed the crossbar (of ignorance) and is enlightened — him do I call a holy man.",
+      "sezon": "瞋恚の革紐、渇愛の帯、邪見の綱、そして随眠という付属品を断ち切り、無明の閂を外して覚った者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["naddhi", "varatta", "sandāna", "paligha", "buddha"]
+    },
+    {
+      "number": 399,
+      "pali": "Akkosaṃ vadhabandhañca, aduṭṭho yo titikkhati;\nkhantībalaṃ balānīkaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "アッコーサン ヴァダバンダンチャ、アドゥットー ヨー ティティッカティ；\nカンティーバラン バラーニーカン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who without resentment endures abuse, beating and punishment; whose power, real might, is patience — him do I call a holy man.",
+      "sezon": "怨みなく罵倒・暴行・罰を耐え忍ぶ者。忍耐を力とし、忍耐を軍勢とする者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["akkosa", "titikkhā", "khantī"]
+    },
+    {
+      "number": 400,
+      "pali": "Akkodhanaṃ vatavantaṃ, sīlavantaṃ anussadaṃ;\ndantaṃ antimasārīraṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "アッコーダナン ヴァタヴァンタン、シーラヴァンタン アヌッサダン；\nダンタン アンティマサーリーラン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who is free from anger, is devout, virtuous, without craving, self-subdued and bears his final body — him do I call a holy man.",
+      "sezon": "怒りなく、敬虔で、戒を持ち、渇愛なく、自らを調御し、最後の身体を持つ者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["akkodhana", "sīlavanta", "danta", "antimasārīra"]
+    },
+    {
+      "number": 401,
+      "pali": "Vāri pokkharapatte va, āraggeriva sāsapo;\nyo na limpati kāmesu, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヴァーリ ポッカラパッテー ヴァ、アーラッゲーリヴァ サーサポー；\nヨー ナ リンパティ カーメース、タマハン ブルーミ ブラーフマナン。",
+      "english": "Like water on a lotus leaf, or a mustard seed on the point of a needle, he who does not cling to sensual pleasures — him do I call a holy man.",
+      "sezon": "蓮の葉の水滴のように、針の先の芥子粒のように、感覚的快楽にくっつかねぇ者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["pokkharapatta", "sāsapa", "kāma"]
+    },
+    {
+      "number": 402,
+      "pali": "Yo dukkhassa pajānāti, idh'eva khayam attano;\npannabhāraṃ visaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヨー ドゥッカッサ パジャーナーティ、イデーヴァ カヤマッタノー；\nパンナバーラン ヴィサンユッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who in this very life realizes for himself the end of suffering, who has laid aside the burden and become emancipated — him do I call a holy man.",
+      "sezon": "この生において自ら苦の終わりを悟り、荷を下ろし、束縛を離れた者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["dukkha", "khaya", "pannabhāra", "visaṃyutta"]
+    },
+    {
+      "number": 403,
+      "pali": "Gambhīrapaññaṃ medhāviṃ, maggāmaggassa kovidaṃ;\nuttamatthaṃ anuppattaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ガンビーラパンニャン メーダーヴィン、マッガーマッガッサ コーヴィダン；\nウッタマッタン アヌッパッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who has profound knowledge, who is wise, skilled in discerning the right or wrong path, and has reached the highest goal — him do I call a holy man.",
+      "sezon": "深い智慧を持ち、聡明で、正道と邪道を見分ける達人、最高の目的に到達した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["gambhīrapaññā", "medhāvī", "maggāmagga"]
+    },
+    {
+      "number": 404,
+      "pali": "Asaṃsaṭṭhaṃ gahaṭṭhehi, anāgārehi cūbhayaṃ;\nanokasārim appicchṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "アサンサッタン ガハッテーヒ、アナーガーレーヒ チューバヤン；\nアノーカサーリマッピッチャン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who holds aloof from householders and ascetics alike, and wanders about with no fixed abode and but few wants — him do I call a holy man.",
+      "sezon": "在家にも出家にも馴れ合わず、定まった住処なく、欲少なく遍歴する者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["asaṃsaṭṭha", "anokasārī", "appiccha"]
+    },
+    {
+      "number": 405,
+      "pali": "Nidhāya daṇḍaṃ bhūtesu, tasesu thāvaresu ca;\nyo na hanti na ghāteti, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ニダーヤ ダンダン ブーテース、タセース ターヴァレース チャ；\nヨー ナ ハンティ ナ ガーテーティ、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who has renounced violence towards all living beings, weak or strong, who neither kills nor causes others to kill — him do I call a holy man.",
+      "sezon": "弱き者にも強き者にも、一切の生き物への暴力を捨て、自ら殺さず他に殺させもしねぇ者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["daṇḍa", "bhūta", "ahiṃsā"]
+    },
+    {
+      "number": 406,
+      "pali": "Aviruddhaṃ viruddhesu, attadaṇḍesu nibbutaṃ;\nsādānesu anādānaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "アヴィルッダン ヴィルッデース、アッタダンデース ニッブタン；\nサーダーネース アナーダーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who is friendly amidst the hostile, peaceful amidst the violent, and unattached amidst the attached — him do I call a holy man.",
+      "sezon": "敵意ある者の中で友好的、暴力的な者の中で平和、執着する者の中で執着なき者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["aviruddha", "nibbuta", "anādāna"]
+    },
+    {
+      "number": 407,
+      "pali": "Yassa rāgo ca doso ca, māno makkho ca pātito;\nsāsaporiva āraggā, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヤッサ ラーゴー チャ ドーソー チャ、マーノー マッコー チャ パーティトー；\nサーサポーリヴァ アーラッガー、タマハン ブルーミ ブラーフマナン。",
+      "english": "He whose lust and hatred, pride and hypocrisy have fallen off like a mustard seed from the point of a needle — him do I call a holy man.",
+      "sezon": "貪欲・瞋恚・慢心・偽善が、針の先から落ちる芥子粒のように落ちた者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["rāga", "dosa", "māna", "makkha"]
+    },
+    {
+      "number": 408,
+      "pali": "Akakkasaṃ viññāpaniṃ, giraṃ saccam udīraye;\nyāya nābhisaje kañci, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "アカッカサン ヴィンニャーパニン、ギラン サッチャムディーライェー；\nヤーヤ ナービサジェー カンチ、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who utters gentle, instructive and truthful words, who imprecates none — him do I call a holy man.",
+      "sezon": "穏やかで、教え諭す、真実の言葉を語り、誰も罵らねぇ者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["akakkasa", "sacca", "girā"]
+    },
+    {
+      "number": 409,
+      "pali": "Yo'dha dīghaṃ va rassaṃ vā, aṇuṃ thūlaṃ subhāsubhaṃ;\nloke adinnaṃ nādiyati, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヨーダ ディーガン ヴァ ラッサン ヴァー、アヌン トゥーラン スバースバン；\nローケー アディンナン ナーディヤティ、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who in this world takes nothing that is not given to him, be it long or short, small or big, good or bad — him do I call a holy man.",
+      "sezon": "この世で与えられていないものを取らねぇ者──長かろうが短かろうが、小さかろうが大きかろうが、善かろうが悪かろうが。そいつをオレは聖者と呼ぶ。",
+      "keywords": ["adinna", "nādiyati"]
+    },
+    {
+      "number": 410,
+      "pali": "Āsā yassa na vijjanti, asmiṃ loke paramhi ca;\nnirāsāsaṃ visaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "アーサー ヤッサ ナ ヴィッジャンティ、アスミン ローケー パランヒ チャ；\nニラーサーサン ヴィサンユッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who wants nothing of either this world or the next, who is desire-free and emancipated — him do I call a holy man.",
+      "sezon": "この世にも来世にも何も望まねぇ者。欲なく、束縛を離れた者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["āsā", "nirāsāsa", "visaṃyutta"]
+    },
+    {
+      "number": 411,
+      "pali": "Yassālayā na vijjanti, aññāya akathaṃkathī;\namatogadhaṃ anuppattaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヤッサーラヤー ナ ヴィッジャンティ、アンニャーヤ アカタンカティー；\nアマトーガダン アヌッパッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who has no attachment, who through perfect knowledge is free from doubts and has plunged into the Deathless — him do I call a holy man.",
+      "sezon": "執着なく、完全な知によって疑いを離れ、不死に沈潜した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["ālaya", "akathaṃkathī", "amata"]
+    },
+    {
+      "number": 412,
+      "pali": "Yo'dha puññañca pāpañca, ubho saṅgam upaccagā;\nasokaṃ virajaṃ suddhaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヨーダ プンニャンチャ パーパンチャ、ウボー サンガムパッチャガー；\nアソーカン ヴィラジャン スッダン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who in this world has transcended the ties of both merit and demerit, who is sorrowless, stainless and pure — him do I call a holy man.",
+      "sezon": "この世で善悪両方の結縛を超え、憂いなく、垢なく、清浄な者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["puñña", "pāpa", "asoka", "viraja"]
+    },
+    {
+      "number": 413,
+      "pali": "Candaṃ va vimalaṃ suddhaṃ, vippasannam anāvilaṃ;\nnandībhavaparikkhīṇaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "チャンダン ヴァ ヴィマラン スッダン、ヴィッパサンナマナーヴィラン；\nナンディーバヴァパリッキーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He, who, like the moon, is spotless and pure, serene and clear, who has destroyed the delight in existence — him do I call a holy man.",
+      "sezon": "月のように汚れなく清浄で、静かで澄んだ、存在への歓喜を滅した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["canda", "vimala", "nandībhava"]
+    },
+    {
+      "number": 414,
+      "pali": "Yo imaṃ palipathaṃ duggaṃ, saṃsāraṃ moham accagā;\ntiṇṇo pāragato jhāyī, anejo akathaṃkathī;\nanupādāya nibbuto, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヨー イマン パリパタン ドゥッガン、サンサーラン モーハマッチャガー；\nティンノー パーラガトー ジャーイー、アネージョー アカタンカティー；\nアヌパーダーヤ ニッブトー、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who, having traversed this miry, perilous and delusive round of existence, has crossed over and reached the other shore; who is meditative, calm, free from doubt, and, clinging to nothing, has attained to Nibbana — him do I call a holy man.",
+      "sezon": "この泥濘の、危険な、迷妄の輪廻を渡り切り、彼岸に到達した者。瞑想し、静かで、疑いなく、何にも執着せず涅槃に達した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["saṃsāra", "pāragata", "nibbuta"]
+    },
+    {
+      "number": 415,
+      "pali": "Yo'dha kāme pahantvāna, anāgāro paribbaje;\nkāmabhavaparikkhīṇaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヨーダ カーメー パハントヴァーナ、アナーガーロー パリッバジェー；\nカーマバヴァパリッキーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who, having abandoned sensual pleasures, has renounced the household life and become a homeless one; has destroyed both sensual desire and continued existence — him do I call a holy man.",
+      "sezon": "感覚的快楽を捨て、家を出て遍歴の身となり、欲界と有を滅し尽くした者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["kāma", "anāgāra", "kāmabhava"]
+    },
+    {
+      "number": 416,
+      "pali": "Yo'dha taṇhaṃ pahantvāna, anāgāro paribbaje;\ntaṇhābhavaparikkhīṇaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヨーダ タンハン パハントヴァーナ、アナーガーロー パリッバジェー；\nタンハーバヴァパリッキーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who, having abandoned craving, has renounced the household life and become a homeless one, has destroyed both craving and continued existence — him do I call a holy man.",
+      "sezon": "渇愛を捨て、家を出て遍歴の身となり、渇愛と有を滅し尽くした者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["taṇhā", "anāgāra", "taṇhābhava"]
+    },
+    {
+      "number": 417,
+      "pali": "Hitvā mānusakaṃ yogaṃ, dibbaṃ yogaṃ upaccagā;\nsabbayogavisaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヒトヴァー マーヌサカン ヨーガン、ディッバン ヨーガン ウパッチャガー；\nサッバヨーガヴィサンユッタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who, casting off human bonds and transcending heavenly ties, is wholly delivered of all bondages — him do I call a holy man.",
+      "sezon": "人間の絆を捨て、天上の絆をも超え、一切の束縛から完全に解き放たれた者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["mānusakayoga", "dibbayoga", "visaṃyutta"]
+    },
+    {
+      "number": 418,
+      "pali": "Hitvā ratiñca aratiñca, sītibhūtaṃ nirūpadhiṃ;\nsabbalokābhibhuṃ vīraṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヒトヴァー ラティンチャ アラティンチャ、シーティブータン ニルーパディン；\nサッバローカービブン ヴィーラン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who, having cast off likes and dislikes, has become tranquil, is rid of the substrata of existence and like a hero has conquered all the worlds — him do I call a holy man.",
+      "sezon": "好悪を捨て、静まり、存在の基盤を離れ、英雄のように一切の世界を征服した者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["rati", "arati", "sītibhūta", "nirūpadhi"]
+    },
+    {
+      "number": 419,
+      "pali": "Cutiṃ yo vedi sattānaṃ, upapattiñca sabbaso;\nasattaṃ sugataṃ buddhaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "チュティン ヨー ヴェーディ サッターナン、ウパパッティンチャ サッバソー；\nアサッタン スガタン ブッダン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who in every way knows the death and rebirth of all beings, and is totally detached, blessed and enlightened — him do I call a holy man.",
+      "sezon": "あらゆる衆生の死と再生をあまねく知り、完全に離着し、善く逝き、覚った者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["cuti", "upapatti", "asatta", "buddha"]
+    },
+    {
+      "number": 420,
+      "pali": "Yassa gatiṃ na jānanti, devā gandhabbamānusā;\nkhīṇāsavaṃ arahantaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヤッサ ガティン ナ ジャーナンティ、デーヴァー ガンダッバマーヌサー；\nキーナーサヴァン アラハンタン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He whose track no gods, no angels, no humans trace, the arahant who has destroyed all cankers — him do I call a holy man.",
+      "sezon": "神も天使も人間もその行方を辿れねぇ、一切の煩悩を滅した阿羅漢──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["gati", "deva", "khīṇāsava", "arahanta"]
+    },
+    {
+      "number": 421,
+      "pali": "Yassa pure ca pacchā ca, majjhe ca natthi kiñcanaṃ;\nakiñcanaṃ anādānaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ヤッサ プレー チャ パッチャー チャ、マッジェー チャ ナッティ キンチャナン；\nアキンチャナン アナーダーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who clings to nothing of the past, present and future, who has no attachment and holds on to nothing — him do I call a holy man.",
+      "sezon": "過去にも現在にも未来にも何一つ執着せず、一切の所有なく、何も掴まねぇ者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["akiñcana", "anādāna"]
+    },
+    {
+      "number": 422,
+      "pali": "Usabhaṃ pavaraṃ vīraṃ, mahesiṃ vijitāvinaṃ;\nanejaṃ nhātakaṃ buddhaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "ウサバン パヴァラン ヴィーラン、マヘーシン ヴィジターヴィナン；\nアネージャン ナータカン ブッダン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He, the Noble, the Excellent, the Heroic, the Great Sage, the Conqueror, the Passionless, the Pure, the Enlightened one — him do I call a holy man.",
+      "sezon": "高貴にして、卓越し、勇猛にして、大聖者にして、征服者にして、離欲にして、清浄にして、覚者──そいつをオレは聖者と呼ぶ。",
+      "keywords": ["usabha", "mahesi", "vijitāvī", "buddha"]
+    },
+    {
+      "number": 423,
+      "pali": "Pubbenivāsaṃ yo vedi, saggāpāyañca passati;\natho jātikkhayaṃ patto, abhiññāvosito munī;\nsabbavositavosānaṃ, tam ahaṃ brūmi brāhmaṇaṃ.",
+      "reading": "プッベーニヴァーサン ヨー ヴェーディ、サッガーパーヤンチャ パッサティ；\nアトー ジャーティッカヤン パットー、アビンニャーヴォーシトー ムニー；\nサッバヴォーシタヴォーサーナン、タマハン ブルーミ ブラーフマナン。",
+      "english": "He who knows his former births, who sees heaven and hell, who has reached the end of births and attained to the perfection of insight, the sage who has reached the summit of spiritual excellence — him do I call a holy man.",
+      "sezon": "過去世を知り、天界と地獄を見通し、生の終焉に達し、神通の完成を果たした聖者──霊的卓越の頂に立つ者、そいつをオレは聖者と呼ぶ。",
+      "keywords": ["pubbenivāsa", "jātikkhaya", "abhiññā", "muni"]
+    }
+  ]
+}

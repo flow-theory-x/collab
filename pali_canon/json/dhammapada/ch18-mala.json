@@ -1,0 +1,178 @@
+{
+  "chapter": 18,
+  "pali_name": "Malavagga",
+  "japanese_name": "垢品",
+  "english_name": "Impurity",
+  "summary": "心身にこびりつく垢──怠惰、無知、貪欲、邪見。鍛冶屋が銀から滓を除くように、一つずつ丁寧に削ぎ落とせ。放っとけば錆みてぇに自分を喰い尽くすぞ。",
+  "verse_range": "235-255",
+  "verses": [
+    {
+      "number": 235,
+      "pali": "Paṇḍupalāsova dānisi,\nyamapurisāpi ca te upaṭṭhitā;\nuyyogamukhe ca tiṭṭhasi,\npātheyyampi ca te na vijjati.",
+      "reading": "パンドゥパラーソーヴァ ダーニシ、\nヤマプリサーピ チャ テー ウパッティター；\nウッヨーガムケー チャ ティッタシ、\nパーテッヤンピ チャ テー ナ ヴィッジャティ。",
+      "english": "Like a withered leaf are you now; death's messengers await you. You stand on the eve of your departure, yet you have made no provision for your journey!",
+      "sezon": "おまえはもう枯葉だ。死神の使いがそこに立ってる。旅立ちの入口にいるってのに、路銀の用意もねぇじゃねぇか。",
+      "keywords": ["paṇḍupalāsa", "yama", "maraṇa", "uyyoga"]
+    },
+    {
+      "number": 236,
+      "pali": "So karohi dīpamattano,\nkhippaṃ vāyama paṇḍito bhava;\nniddhantamalo anaṅgaṇo,\ndibbaṃ ariyabhūmiṃ upehisi.",
+      "reading": "ソー カローヒ ディーパマッタノー、\nキッパン ヴァーヤマ パンディトー バヴァ；\nニッダンタマロー アナンガノー、\nディッバン アリヤブーミン ウペーヒシ。",
+      "english": "Make an island for yourself! Strive hard and become wise! Rid of impurities and cleansed of stain, you shall enter the celestial abode of the Noble Ones.",
+      "sezon": "自分自身を島にしろ。全力で精進して、賢くなれ。垢を落とし、汚れを祓えば、聖者たちの天上の境地に至る。",
+      "keywords": ["dīpa", "vāyama", "mala", "ariyabhūmi"]
+    },
+    {
+      "number": 237,
+      "pali": "Upanītavayo ca dānisi,\nsampayātosi yamassa santike;\nvāso te natthi antarā,\npātheyyampi ca te na vijjati.",
+      "reading": "ウパニータヴァヨー チャ ダーニシ、\nサンパヤートーシ ヤマッサ サンティケー；\nヴァーソー テー ナッティ アンタラー、\nパーテッヤンピ チャ テー ナ ヴィッジャティ。",
+      "english": "Your life has come to an end now; You are setting forth into the presence of Yama, the king of death. No resting place is there for you on the way, yet you have made no provision for the journey!",
+      "sezon": "おまえの寿命はもう尽きかけてる。閻魔の前に引っ立てられるところだ。途中に宿もねぇのに、旅支度すらしてねぇだろ。",
+      "keywords": ["yama", "vayo", "maraṇa", "pātheyya"]
+    },
+    {
+      "number": 238,
+      "pali": "So karohi dīpamattano,\nkhippaṃ vāyama paṇḍito bhava;\nniddhantamalo anaṅgaṇo,\nna puna jātijaraṃ upehisi.",
+      "reading": "ソー カローヒ ディーパマッタノー、\nキッパン ヴァーヤマ パンディトー バヴァ；\nニッダンタマロー アナンガノー、\nナ プナ ジャーティジャラン ウペーヒシ。",
+      "english": "Make an island unto yourself! Strive hard and become wise! Rid of impurities and cleansed of stain, you shall not come again to birth and decay.",
+      "sezon": "自分を島にしろ。急いで精進して、智者になれ。垢を振り払い、汚れを消せば、もう生老の輪廻には戻らねぇ。",
+      "keywords": ["dīpa", "vāyama", "jāti", "jarā"]
+    },
+    {
+      "number": 239,
+      "pali": "Anupubbena medhāvī,\nthokaṃ thokaṃ khaṇe khaṇe;\nkammāro rajatasseva,\nniddhame malamattano.",
+      "reading": "アヌプッベーナ メーダーヴィー、\nトーカン トーカン カネー カネー；\nカンマーロー ラジャタッセーヴァ、\nニッダメー マラマッタノー。",
+      "english": "One by one, little by little, moment by moment, a wise man should remove his own impurities, as a smith removes his dross from silver.",
+      "sezon": "少しずつ、一つずつ、刻々と──賢い奴は自分の垢を削ぎ落とす。鍛冶屋が銀から滓を取り除くようにな。",
+      "keywords": ["medhāvī", "mala", "kammāra", "rajata"]
+    },
+    {
+      "number": 240,
+      "pali": "Ayasā va malaṃ samuṭṭhitaṃ,\ntaduṭṭhāya tameva khādati;\nevaṃ atidhonacārinaṃ,\nsāni kammāni nayanti duggatiṃ.",
+      "reading": "アヤサー ヴァ マラン サムッティタン、\nタドゥッターヤ タメーヴァ カーダティ；\nエーヴァン アティドーナチャーリナン、\nサーニ カンマーニ ナヤンティ ドゥッガティン。",
+      "english": "Just as rust arising from iron eats away the base from which it arises, even so, their own deeds lead transgressors to states of woe.",
+      "sezon": "鉄から生まれた錆が、その鉄自身を蝕むように──己の悪業が、やらかした本人を地獄に引きずり込む。",
+      "keywords": ["ayasa", "mala", "kamma", "duggati"]
+    },
+    {
+      "number": 241,
+      "pali": "Asajjhāyamalā mantā,\nanuṭṭhānamalā gharā;\nmalaṃ vaṇṇassa kosajjaṃ,\npamādo rakkhato malaṃ.",
+      "reading": "アサッジャーヤマラー マンター、\nアヌッターナマラー ガラー；\nマラン ヴァンナッサ コーサッジャン、\nパマードー ラッカトー マラン。",
+      "english": "Non-repetition is the bane of scriptures; neglect is the bane of a home; slovenliness is the bane of personal appearance, and heedlessness is the bane of a guard.",
+      "sezon": "唱えねぇと聖典は腐る。手入れしねぇと家は廃れる。怠けりゃ容姿は崩れる。油断は番人の命取りだ。",
+      "keywords": ["asajjhāya", "mala", "kosajja", "pamāda"]
+    },
+    {
+      "number": 242,
+      "pali": "Malitthiyā duccaritaṃ,\nmaccheraṃ dadato malaṃ;\nmalā ve pāpakā dhammā,\nasmiṃ loke paramhi ca.",
+      "reading": "マリッティヤー ドゥッチャリタン、\nマッチェーラン ダダトー マラン；\nマラー ヴェー パーパカー ダンマー、\nアスミン ローケー パランヒ チャ。",
+      "english": "Unchastity is the taint in a woman; niggardliness is the taint in a giver. Taints, indeed, are all evil things, both in this world and the next.",
+      "sezon": "不品行は女の垢、ケチは施す者の垢。悪しき法はすべて垢だ──この世でも、あの世でもな。",
+      "keywords": ["duccarita", "macchera", "mala", "pāpa"]
+    },
+    {
+      "number": 243,
+      "pali": "Tato malā malataraṃ,\navijjā paramaṃ malaṃ;\netaṃ malaṃ pahantvāna,\nnimmalā hotha bhikkhavo.",
+      "reading": "タトー マラー マラタラン、\nアヴィッジャー パラマン マラン；\nエータン マラン パハントヴァーナ、\nニンマラー ホータ ビッカヴォー。",
+      "english": "A worse taint than these is ignorance, the worst of all taints. Destroy this one taint and become taintless, O monks!",
+      "sezon": "だがそれらより酷ぇ垢がある。無知だ──最悪の汚れだ。この垢をぶっ壊せ。垢なき者になれ、比丘たちよ。",
+      "keywords": ["avijjā", "mala", "pahāna", "nimmala"]
+    },
+    {
+      "number": 244,
+      "pali": "Sujīvaṃ ahirikena,\nkākasūrena dhaṃsinā;\npakkhandinā pagabbhena,\nsaṃkiliṭṭhena jīvitaṃ.",
+      "reading": "スジーヴァン アヒリケーナ、\nカーカスーレーナ ダンシナー；\nパッカンディナー パガッベーナ、\nサンキリッテーナ ジーヴィタン。",
+      "english": "Easy is life for the shameless one who is impudent as a crow, is backbiting and forward, arrogant and corrupt.",
+      "sezon": "恥知らずには楽な人生だ。カラスみてぇに図々しく、陰口叩いて、厚かましく、傲慢で腐りきってる──そんな奴の暮らしは気楽なもんさ。",
+      "keywords": ["ahirika", "kākasūra", "pagabbha", "saṃkiliṭṭha"]
+    },
+    {
+      "number": 245,
+      "pali": "Hirīmatā ca dujjīvaṃ,\nniccaṃ sucigavesīnā;\nalīnenāppagabbhena,\nsuddhājīvena passatā.",
+      "reading": "ヒリーマター チャ ドゥッジーヴァン、\nニッチャン スチガヴェーシーナー；\nアリーネーナッパガッベーナ、\nスッダージーヴェーナ パッサター。",
+      "english": "Difficult is life for the modest one who always seeks purity, is detached and unassuming, clean in life, and discerning.",
+      "sezon": "恥を知る者には辛ぇ人生だ。常に清さを求め、執着せず、控えめで、清浄に生き、よく見極める──そういう奴の道は険しい。",
+      "keywords": ["hirī", "suci", "suddhājīva", "passatā"]
+    },
+    {
+      "number": 246,
+      "pali": "Yo pāṇamatipāteti,\nmusāvādañca bhāsati;\nloke adinnaṃ ādiyati,\nparadārañca gacchati.",
+      "reading": "ヨー パーナマティパーテーティ、\nムサーヴァーダンチャ バーサティ；\nローケー アディンナン アーディヤティ、\nパラダーランチャ ガッチャティ。",
+      "english": "One who destroys life, utters lies, takes what is not given, goes to another man's wife,",
+      "sezon": "命を奪い、嘘をつき、盗みを働き、他人の女に手を出す──",
+      "keywords": ["pāṇātipāta", "musāvāda", "adinna", "paradāra"]
+    },
+    {
+      "number": 247,
+      "pali": "Surāmerayapānañca,\nyo naro anuyuñjati;\nidhevameso lokasmiṃ,\nmūlaṃ khaṇati attano.",
+      "reading": "スラーメーラヤパーナンチャ、\nヨー ナロー アヌユンジャティ；\nイデーヴァメーソー ローカスミン、\nムーラン カナティ アッタノー。",
+      "english": "and is addicted to intoxicating drinks — such a man digs up his own root even in this world.",
+      "sezon": "──酒に溺れる。こういう奴は、この世で自分の根っこを掘り起こしてるようなもんだ。",
+      "keywords": ["surāmeraya", "mūla", "khaṇati", "pañcasīla"]
+    },
+    {
+      "number": 248,
+      "pali": "Evaṃ bho purisa jānāhi,\npāpadhammā asaññatā;\nmā taṃ lobho adhammo ca,\nciraṃ dukkhāya randhayuṃ.",
+      "reading": "エーヴァン ボー プリサ ジャーナーヒ、\nパーパダンマー アサンニャター；\nマー タン ローボー アダンモー チャ、\nチラン ドゥッカーヤ ランダユン。",
+      "english": "Know this, O good man: evil things are difficult to control. Let not greed and wickedness drag you to protracted misery.",
+      "sezon": "いいか、よく聞け──悪しき法は制御しがてぇ。貪りと不正に、長ぇ苦しみの中へ引きずり込まれるんじゃねぇぞ。",
+      "keywords": ["lobha", "adhammo", "dukkha", "asaññata"]
+    },
+    {
+      "number": 249,
+      "pali": "Dadāti ve yathāsaddhaṃ,\nyathāpasādanaṃ jano;\ntattha yo ca maṅku bhavati,\nparesaṃ pānabhojane;\nna so divā vā rattiṃ vā,\nsamādhimadhigacchati.",
+      "reading": "ダダーティ ヴェー ヤターサッダン、\nヤターパサーダナン ジャノー；\nタッタ ヨー チャ マンク バヴァティ、\nパレーサン パーナボージャネー；\nナ ソー ディヴァー ヴァー ラッティン ヴァー、\nサマーディマディガッチャティ。",
+      "english": "People give according to their faith or regard. If one becomes discontented with the food and drink given by others, one does not attain meditative absorption, either by day or by night.",
+      "sezon": "人は信仰と敬意に応じて施す。他人がもらう飯や飲み物に不満を抱く奴は、昼も夜も三昧に至れねぇ。",
+      "keywords": ["saddhā", "dāna", "maṅku", "samādhi"]
+    },
+    {
+      "number": 250,
+      "pali": "Yassa cetaṃ samucchinnaṃ,\nmūlaghaccaṃ samūhataṃ;\nsa ve divā vā rattiṃ vā,\nsamādhimadhigacchati.",
+      "reading": "ヤッサ チェータン サムッチンナン、\nムーラガッチャン サムーハタン；\nサ ヴェー ディヴァー ヴァー ラッティン ヴァー、\nサマーディマディガッチャティ。",
+      "english": "But he in whom this (discontent) is fully destroyed, uprooted and extinct, he attains absorption, both by day and by night.",
+      "sezon": "だがその不満を根こそぎ断ち切った者は、昼も夜も三昧に達する。",
+      "keywords": ["samucchinna", "mūlaghacca", "samādhi"]
+    },
+    {
+      "number": 251,
+      "pali": "Natthi rāgasamo aggi,\nnatthi dosasamo gaho;\nnatthi mohasamaṃ jālaṃ,\nnatthi taṇhāsamā nadī.",
+      "reading": "ナッティ ラーガサモー アッギ、\nナッティ ドーササモー ガホー；\nナッティ モーハサマン ジャーラン、\nナッティ タンハーサマー ナディー。",
+      "english": "There is no fire like lust; there is no grip like hatred; there is no net like delusion; there is no river like craving.",
+      "sezon": "貪欲ほどの炎はねぇ。怒りほどの鉄の掴みはねぇ。愚かさほどの網はねぇ。渇愛ほどの急流はねぇ。",
+      "keywords": ["rāga", "dosa", "moha", "taṇhā"]
+    },
+    {
+      "number": 252,
+      "pali": "Sudassaṃ vajjamaññesaṃ,\nattano pana duddasaṃ;\nparesaṃ hi so vajjāni,\nopunāti yathā bhusaṃ;\nattano pana chādeti,\nkaliṃva kitavā saṭho.",
+      "reading": "スダッサン ヴァッジャマンニェーサン、\nアッタノー パナ ドゥッダサン；\nパレーサン ヒ ソー ヴァッジャーニ、\nオープナーティ ヤター ブサン；\nアッタノー パナ チャーデーティ、\nカリンヴァ キタヴァー サトー。",
+      "english": "Easily seen is the fault of others, but one's own fault is difficult to see. Like chaff one winnows another's faults, but hides one's own, even as a crafty fowler hides behind sham branches.",
+      "sezon": "他人の欠点はすぐ見える。自分のはなかなか見えねぇ。人の過ちは籾殻みてぇに吹き飛ばすくせに、自分のは隠す──ずる賢ぇ鳥刺しが偽の枝に身を潜めるようにな。",
+      "keywords": ["vajja", "sudassa", "duddasa", "kitavā"]
+    },
+    {
+      "number": 253,
+      "pali": "Paravajjānupassissa,\nniccaṃ ujjhānasaññino;\nāsavā tassa vaḍḍhanti,\nārā so āsavakkhayā.",
+      "reading": "パラヴァッジャーヌパッシッサ、\nニッチャン ウッジャーナサンニノー；\nアーサヴァー タッサ ヴァッダンティ、\nアーラー ソー アーサヴァッカヤー。",
+      "english": "He who seeks another's faults, who is ever censorious — his cankers grow. He is far from destruction of the cankers.",
+      "sezon": "他人の過ちばかり探し、いつもケチをつける奴──そいつの煩悩は膨らむ一方だ。漏尽からは遥か遠ぇ。",
+      "keywords": ["paravajja", "ujjhāna", "āsava", "āsavakkhaya"]
+    },
+    {
+      "number": 254,
+      "pali": "Ākāseva padaṃ natthi,\nsamaṇo natthi bāhire;\npapañcābhiratā pajā,\nnippapañcā tathāgatā.",
+      "reading": "アーカーセーヴァ パダン ナッティ、\nサマノー ナッティ バーヒレー；\nパパンチャービラター パジャー、\nニッパパンチャー タターガター。",
+      "english": "There is no track in the sky, and no recluse outside (the Buddha's dispensation). Mankind delights in worldliness, but the Buddhas are free from worldliness.",
+      "sezon": "空に轍は残らねぇ。仏の教えの外に沙門はいねぇ。衆生は戯論を好むが、如来は戯論から自由だ。",
+      "keywords": ["ākāsa", "samaṇa", "papañca", "tathāgata"]
+    },
+    {
+      "number": 255,
+      "pali": "Ākāseva padaṃ natthi,\nsamaṇo natthi bāhire;\nsaṅkhārā sassatā natthi,\nnatthi buddhānamiñjitaṃ.",
+      "reading": "アーカーセーヴァ パダン ナッティ、\nサマノー ナッティ バーヒレー；\nサンカーラー サッサター ナッティ、\nナッティ ブッダーナミンジタン。",
+      "english": "There is no track in the sky, and no recluse outside (the Buddha's dispensation). There are no conditioned things that are eternal, and no instability in the Buddhas.",
+      "sezon": "空に足跡はねぇ。仏法の外に沙門はいねぇ。永遠の行（サンカーラ）なんぞ存在しねぇ。そして仏たちに動揺はねぇ。",
+      "keywords": ["ākāsa", "saṅkhāra", "sassata", "buddha"]
+    }
+  ]
+}

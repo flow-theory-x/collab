@@ -1,0 +1,114 @@
+{
+  "chapter": 9,
+  "pali_name": "Papavagga",
+  "japanese_name": "悪品",
+  "english_name": "Evil",
+  "summary": "悪は一滴ずつ溜まる──水瓶みてぇにな。軽く見るな、逃げ場はねぇ。善も同じ理屈で積み上がる。どっちを溜めるかはテメェ次第だ。",
+  "verse_range": "116-128",
+  "verses": [
+    {
+      "number": 116,
+      "pali": "Abhittharetha kalyāṇe, pāpā cittaṃ nivāraye;\ndandhañhi karoto puññaṃ, pāpasmiṃ ramatī mano.",
+      "reading": "アビッタレータ カルヤーネー、パーパー チッタン ニヴァーラィェー；\nダンダンヒ カロートー プンニャン、パーパスミン ラマティー マノー。",
+      "english": "Hasten to do good; restrain your mind from evil. He who is slow in doing good, his mind delights in evil.",
+      "sezon": "善いことは急げ。心を悪から遠ざけろ。──善を怠ける奴の心は、悪に染まっていくもんだ。",
+      "keywords": ["kalyāṇa", "pāpa", "citta", "puñña"]
+    },
+    {
+      "number": 117,
+      "pali": "Pāpañce puriso kayirā, na naṃ kayirā punappunaṃ;\nna tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.",
+      "reading": "パーパンチェー プリソー カイラー、ナ ナン カイラー プナップナン；\nナ タンヒ チャンダン カイラータ、ドゥッコー パーパッサ ウッチャヨー。",
+      "english": "Should a person commit evil, let him not do it again and again. Let him not find pleasure therein, for painful is the accumulation of evil.",
+      "sezon": "悪をやっちまったなら、繰り返すな。そこに快楽を見出すな。──悪の積み重ねは苦しみだ。",
+      "keywords": ["pāpa", "dukkha", "uccaya", "chanda"]
+    },
+    {
+      "number": 118,
+      "pali": "Puññañce puriso kayirā, kayirā naṃ punappunaṃ;\ntamhi chandaṃ kayirātha, sukho puññassa uccayo.",
+      "reading": "プンニャンチェー プリソー カイラー、カイラー ナン プナップナン；\nタンヒ チャンダン カイラータ、スコー プンニャッサ ウッチャヨー。",
+      "english": "Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.",
+      "sezon": "善をやったなら、何度でもやれ。そこに喜びを見出せ。──善の積み重ねは幸福だ。",
+      "keywords": ["puñña", "sukha", "uccaya"]
+    },
+    {
+      "number": 119,
+      "pali": "Pāpopi passati bhadraṃ, yāva pāpaṃ na paccati;\nyadā ca paccati pāpaṃ, atha pāpo pāpāni passati.",
+      "reading": "パーポーピ パッサティ バドラン、ヤーヴァ パーパン ナ パッチャティ；\nヤダー チャ パッチャティ パーパン、アタ パーポー パーパーニ パッサティ。",
+      "english": "It may be well with the evil-doer as long as the evil ripens not. But when it does ripen, then the evil-doer sees (the painful results of) his evil deeds.",
+      "sezon": "悪い奴も、悪が実るまでは調子がいい。だが実った時──そいつは自分の悪業の報いを嫌ってほど見ることになる。",
+      "keywords": ["pāpa", "paccati", "bhadra"]
+    },
+    {
+      "number": 120,
+      "pali": "Bhadropi passati pāpaṃ, yāva bhadraṃ na paccati;\nyadā ca paccati bhadraṃ, atha bhadro bhadrāni passati.",
+      "reading": "バドローピ パッサティ パーパン、ヤーヴァ バドラン ナ パッチャティ；\nヤダー チャ パッチャティ バドラン、アタ バドロー バドラーニ パッサティ。",
+      "english": "It may be ill with the doer of good as long as the good ripens not. But when it does ripen, then the doer of good sees (the pleasant results of) his good deeds.",
+      "sezon": "善い奴も、善が実るまでは辛ぇこともある。だが実った時──善の果報をたっぷり味わうことになる。",
+      "keywords": ["bhadra", "paccati", "pāpa"]
+    },
+    {
+      "number": 121,
+      "pali": "Māvamaññetha pāpassa, na mantaṃ āgamissati;\nudabindunipātena, udakumbhopi pūrati;\nbālo pūrati pāpassa, thokaṃ thokampi ācinaṃ.",
+      "reading": "マーヴァマンニェータ パーパッサ、ナ マンタン アーガミッサティ；\nウダビンドゥニパーテーナ、ウダクンボーピ プーラティ；\nバーロー プーラティ パーパッサ、トーカン トーカンピ アーチナン。",
+      "english": "Think not lightly of evil, saying, \"It will not come to me.\" Drop by drop is the water pot filled. Likewise, the fool, gathering it little by little, fills himself with evil.",
+      "sezon": "『俺には関係ねぇ』と悪を軽く見るな。水瓶だって一滴ずつ満ちる。──愚か者は少しずつ悪を溜め込んで、いっぱいになるんだ。",
+      "keywords": ["pāpa", "udabindu", "udakumbha", "bāla"]
+    },
+    {
+      "number": 122,
+      "pali": "Māvamaññetha puññassa, na mantaṃ āgamissati;\nudabindunipātena, udakumbhopi pūrati;\ndhīro pūrati puññassa, thokaṃ thokampi ācinaṃ.",
+      "reading": "マーヴァマンニェータ プンニャッサ、ナ マンタン アーガミッサティ；\nウダビンドゥニパーテーナ、ウダクンボーピ プーラティ；\nディーロー プーラティ プンニャッサ、トーカン トーカンピ アーチナン。",
+      "english": "Think not lightly of good, saying, \"It will not come to me.\" Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.",
+      "sezon": "『善なんて俺にゃ来ねぇ』と侮るな。水瓶は一滴ずつ満ちる。──賢い奴は少しずつ善を積んで、いっぱいにするんだ。",
+      "keywords": ["puñña", "udabindu", "dhīra", "ācinaṃ"]
+    },
+    {
+      "number": 123,
+      "pali": "Vāṇijova bhayaṃ maggaṃ, appasattho mahaddhano;\nvisaṃ jīvitukāmova, pāpāni parivajjaye.",
+      "reading": "ヴァーニジョーヴァ バヤン マッガン、アッパサットー マハッダノー；\nヴィサン ジーヴィトゥカーモーヴァ、パーパーニ パリヴァッジャイェー。",
+      "english": "Just as a trader with a small escort and great wealth would avoid a perilous route, or just as one desiring to live avoids poison, even so should one shun evil.",
+      "sezon": "大金持ちの商人が護衛なしで危ねぇ道を避けるように、生きたい奴が毒を避けるように──悪は避けて通れ。",
+      "keywords": ["vāṇija", "visa", "pāpa", "parivajjaye"]
+    },
+    {
+      "number": 124,
+      "pali": "Pāṇimhi ce vaṇo nāssa, hareyya pāṇinā visaṃ;\nnābbaṇaṃ visamanveti, natthi pāpaṃ akubbato.",
+      "reading": "パーニンヒ チェー ヴァノー ナッサ、ハレッヤ パーニナー ヴィサン；\nナーッバナン ヴィサマンヴェーティ、ナッティ パーパン アクッバトー。",
+      "english": "If on the hand there is no wound, one may carry even poison in it. Poison does not affect one who is free from wounds. For him who does no evil, there is no ill.",
+      "sezon": "手に傷がなきゃ、毒を持っても平気だ。傷のない者に毒は効かねぇ。──悪をなさねぇ奴に、悪い報いはねぇ。",
+      "keywords": ["vaṇa", "visa", "pāpa", "akubbato"]
+    },
+    {
+      "number": 125,
+      "pali": "Yo appaduṭṭhassa narassa dussati, suddhassa posassa anaṅgaṇassa;\ntameva bālaṃ pacceti pāpaṃ, sukhumo rajo paṭivātaṃva khitto.",
+      "reading": "ヨー アッパドゥッタッサ ナラッサ ドゥッサティ、スッダッサ ポーサッサ アナンガナッサ；\nタメーヴァ バーラン パッチェーティ パーパン、スクモー ラジョー パティヴァータンヴァ キットー。",
+      "english": "Like fine dust thrown against the wind, evil falls back upon that fool who offends an inoffensive, pure and guiltless man.",
+      "sezon": "罪のねぇ清い奴に悪さをすれば、その悪は向かい風に投げた砂埃みてぇに自分に返ってくる。──愚か者め。",
+      "keywords": ["rajo", "paṭivāta", "pāpa", "suddha", "bāla"]
+    },
+    {
+      "number": 126,
+      "pali": "Gabbhameke uppajjanti, nirayaṃ pāpakammino;\nsaggaṃ sugatino yanti, parinibbanti anāsavā.",
+      "reading": "ガッバメーケー ウッパッジャンティ、ニラヤン パーパカンミノー；\nサッガン スガティノー ヤンティ、パリニッバンティ アナーサヴァー。",
+      "english": "Some are born in the womb; the wicked are born in hell; the devout go to heaven; the stainless pass into Nibbana.",
+      "sezon": "ある者は母胎に生まれ、悪い奴は地獄に落ちる。善い奴は天に昇り、煩悩を滅した者は涅槃に入る。──行き先はテメェで決まる。",
+      "keywords": ["gabbha", "niraya", "sagga", "parinibbāna", "anāsava"]
+    },
+    {
+      "number": 127,
+      "pali": "Na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa;\nna vijjatī so jagatippadeso, yatthaṭṭhito mucceyya pāpakammā.",
+      "reading": "ナ アンタリッケー ナ サムッダマッジェー、ナ パッバターナン ヴィヴァラン パヴィッサ；\nナ ヴィッジャティー ソー ジャガティッパデーソー、ヤッタッティトー ムッチェッヤ パーパカンマー。",
+      "english": "Neither in the sky nor in mid-ocean, nor by entering into mountain clefts, nowhere in the world is there a place where one may escape from the results of evil deeds.",
+      "sezon": "空の上だろうが海の底だろうが山の奥だろうが──悪業の報いから逃げられる場所は、この世のどこにもねぇ。",
+      "keywords": ["antalikkha", "samudda", "pabbata", "pāpakamma"]
+    },
+    {
+      "number": 128,
+      "pali": "Na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa;\nna vijjatī so jagatippadeso, yatthaṭṭhitaṃ nappasaheyya maccu.",
+      "reading": "ナ アンタリッケー ナ サムッダマッジェー、ナ パッバターナン ヴィヴァラン パヴィッサ；\nナ ヴィッジャティー ソー ジャガティッパデーソー、ヤッタッティタン ナッパサヘッヤ マッチュ。",
+      "english": "Neither in the sky nor in mid-ocean, nor by entering into mountain clefts, nowhere in the world is there a place where one will not be overcome by death.",
+      "sezon": "空だろうが海だろうが山だろうが──死に打ち勝てる場所は、この世のどこにもねぇ。逃げ場なしだ。",
+      "keywords": ["maccu", "antalikkha", "samudda", "pabbata"]
+    }
+  ]
+}

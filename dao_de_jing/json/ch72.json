@@ -1,0 +1,33 @@
+{
+  "chapter": 72,
+  "chinese_name": "民不畏威",
+  "japanese_name": "自知と自愛",
+  "summary": "民を圧迫するな。聖人は自らを知るが見せびらかさない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。",
+      "modern_ja": "民が威圧を恐れなくなれば、大いなる威がやってくる。その住まいを狭めるな、その生を圧迫するな。圧迫しないからこそ、圧迫されない。",
+      "english": "When people no longer fear authority, a greater authority will appear. Do not confine their dwellings; do not oppress their lives. Only by not oppressing will you not be oppressed.",
+      "laozi": "脅しが効かなくなったら？ もっとでかい災いが来る。圧すな。狭めるな。圧さなきゃ、圧されない。それだけの話",
+      "keywords": [
+        "威",
+        "圧迫",
+        "不厭"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "是以聖人自知不自見；自愛不自貴。故去彼取此。",
+      "modern_ja": "だから聖人は自らを知るが自らを見せびらかさず、自らを愛するが自らを貴しとしない。あちらを捨ててこちらを取る。",
+      "english": "The sage knows himself but does not display himself; loves himself but does not exalt himself. He lets go of that and chooses this.",
+      "laozi": "自分を知れ。でも見せびらかすな。自分を大事にしろ。でも偉そうにするな。それだけだ",
+      "keywords": [
+        "自知",
+        "自愛",
+        "不自見",
+        "去彼取此"
+      ]
+    }
+  ]
+}

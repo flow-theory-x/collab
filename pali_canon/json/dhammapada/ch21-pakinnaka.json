@@ -1,0 +1,138 @@
+{
+  "chapter": 21,
+  "pali_name": "Pakiṇṇakavagga",
+  "japanese_name": "雑品",
+  "english_name": "Miscellaneous",
+  "summary": "小さな楽を捨てて大きな楽を掴め。仏・法・僧への随念、身念処、非暴力、瞑想──雑多だが、どれも修行者の骨格を成す急所ばかりだ。",
+  "verse_range": "290-305",
+  "verses": [
+    {
+      "number": 290,
+      "pali": "Mattāsukhapariccāgā,\npasse ce vipulaṃ sukhaṃ;\ncaje mattāsukhaṃ dhīro,\nsampassaṃ vipulaṃ sukhaṃ.",
+      "reading": "マッタースカパリッチャーガー、\nパッセー チェー ヴィプラン スカン；\nチャジェー マッタースカン ディーロー、\nサンパッサン ヴィプラン スカン。",
+      "english": "If by renouncing a lesser happiness one may realize a greater happiness, let the wise man renounce the lesser, having regard for the greater.",
+      "sezon": "小さな楽を捨てて大きな楽が見えるなら、賢者は迷わず小さい方を手放す。大きな幸福を見据えてな。",
+      "keywords": ["mattāsukha", "vipulasukha", "pariccāga", "dhīra"]
+    },
+    {
+      "number": 291,
+      "pali": "Paradukkhupadānena,\nattano sukhamicchati;\nverasaṃsaggasaṃsaṭṭho,\nverā so na parimuccati.",
+      "reading": "パラドゥックパダーネーナ、\nアッタノー スカミッチャティ；\nヴェーラサンサッガサンサットー、\nヴェーラー ソー ナ パリムッチャティ。",
+      "english": "Entangled by the bonds of hate, he who seeks his own happiness by inflicting pain on others, is never delivered from hatred.",
+      "sezon": "他人を苦しめて自分の幸福を求める奴は、怨みの絆に絡め取られて、いつまでも怨みから解き放たれねぇ。",
+      "keywords": ["paradukkha", "vera", "saṃsagga", "parimuccati"]
+    },
+    {
+      "number": 292,
+      "pali": "Yaṃ hi kiccaṃ apaviddhaṃ,\nakiccaṃ pana kayirati;\nunnaḷānaṃ pamattānaṃ,\ntesaṃ vaḍḍhanti āsavā.",
+      "reading": "ヤン ヒ キッチャン アパヴィッダン、\nアキッチャン パナ カイラティ；\nウンナラーナン パマッターナン、\nテーサン ヴァッダンティ アーサヴァー。",
+      "english": "The cankers only increase for those who are arrogant and heedless, who leave undone what should be done and do what should not be done.",
+      "sezon": "やるべき事を放り出し、やるべきでねぇ事に手を出す──傲慢で怠慢な奴の煩悩は膨らむ一方だ。",
+      "keywords": ["kicca", "unnaḷa", "pamatta", "āsava"]
+    },
+    {
+      "number": 293,
+      "pali": "Yesañca susamāraddhā,\nniccaṃ kāyagatā sati;\nakiccaṃ te na sevanti,\nkicce sātaccakārino;\nsatānaṃ sampajānānaṃ,\natthaṃ gacchanti āsavā.",
+      "reading": "イェーサンチャ ススマーラッダー、\nニッチャン カーヤガター サティ；\nアキッチャン テー ナ セーヴァンティ、\nキッチェー サータッチャカーリノー；\nサターナン サンパジャーナーナン、\nアッタン ガッチャンティ アーサヴァー。",
+      "english": "The cankers cease for those mindful and clearly comprehending ones who always earnestly practice mindfulness of the body, who do not resort to what should not be done, and steadfastly pursue what should be done.",
+      "sezon": "常に身念処をきっちり修め、やるべき事をやり続ける者──正念と正知を備えた奴の煩悩は消え失せる。",
+      "keywords": ["kāyagatāsati", "sampajāna", "sata", "āsavakkhaya"]
+    },
+    {
+      "number": 294,
+      "pali": "Mātaraṃ pitaraṃ hantvā,\nrājāno dve ca khattiye;\nraṭṭhaṃ sānucaraṃ hantvā,\nanīgho yāti brāhmaṇo.",
+      "reading": "マータラン ピタラン ハントヴァー、\nラージャーノー ドゥヴェー チャ カッティイェー；\nラッタン サーヌチャラン ハントヴァー、\nアニーゴー ヤーティ ブラーマノー。",
+      "english": "Having slain mother (craving), father (self-conceit), two warrior-kings (eternalism and nihilism), and destroyed a country (sense organs and sense objects) together with its treasurer (attachment and lust), ungrieving goes the holy man.",
+      "sezon": "母（渇愛）を殺し、父（慢）を殺し、二人の王（常見と断見）を殺し、国土（六根六境）を従者（愛着）もろとも滅ぼして──聖者は悲しみなく行く。",
+      "keywords": ["mātā", "pitā", "khattiya", "brāhmaṇa"]
+    },
+    {
+      "number": 295,
+      "pali": "Mātaraṃ pitaraṃ hantvā,\nrājāno dve ca sotthiye;\nveyagghapañcamaṃ hantvā,\nanīgho yāti brāhmaṇo.",
+      "reading": "マータラン ピタラン ハントヴァー、\nラージャーノー ドゥヴェー チャ ソッティイェー；\nヴェーヤッガパンチャマン ハントヴァー、\nアニーゴー ヤーティ ブラーマノー。",
+      "english": "Having slain mother, father, two brahman kings (two extreme views), and a tiger as the fifth (the five mental hindrances), ungrieving goes the holy man.",
+      "sezon": "母と父を殺し、二人の婆羅門王（二辺見）を殺し、虎のごとき第五（五蓋の疑）を殺して──聖者は悲しみなく行く。",
+      "keywords": ["mātā", "pitā", "veyaggha", "nīvaraṇa"]
+    },
+    {
+      "number": 296,
+      "pali": "Suppabuddhaṃ pabujjhanti,\nsadā gotamasāvakā;\nyesaṃ divā ca ratto ca,\nniccaṃ buddhāgatā sati.",
+      "reading": "スッパブッダン パブッジャンティ、\nサダー ゴータマサーヴァカー；\nイェーサン ディヴァー チャ ラットー チャ、\nニッチャン ブッダーガター サティ。",
+      "english": "Those disciples of Gotama ever awaken happily who day and night constantly practice the Recollection of the Qualities of the Buddha.",
+      "sezon": "ゴータマの弟子たちは、いつも気持ちよく目覚める──昼も夜も仏随念を怠らねぇからだ。",
+      "keywords": ["suppabuddha", "buddhāgatāsati", "gotama", "sāvaka"]
+    },
+    {
+      "number": 297,
+      "pali": "Suppabuddhaṃ pabujjhanti,\nsadā gotamasāvakā;\nyesaṃ divā ca ratto ca,\nniccaṃ dhammāgatā sati.",
+      "reading": "スッパブッダン パブッジャンティ、\nサダー ゴータマサーヴァカー；\nイェーサン ディヴァー チャ ラットー チャ、\nニッチャン ダンマーガター サティ。",
+      "english": "Those disciples of Gotama ever awaken happily who day and night constantly practice the Recollection of the Qualities of the Dhamma.",
+      "sezon": "ゴータマの弟子たちは、いつも気持ちよく目覚める──昼も夜も法随念を怠らねぇからだ。",
+      "keywords": ["dhammāgatāsati", "gotama", "sāvaka"]
+    },
+    {
+      "number": 298,
+      "pali": "Suppabuddhaṃ pabujjhanti,\nsadā gotamasāvakā;\nyesaṃ divā ca ratto ca,\nniccaṃ saṅghāgatā sati.",
+      "reading": "スッパブッダン パブッジャンティ、\nサダー ゴータマサーヴァカー；\nイェーサン ディヴァー チャ ラットー チャ、\nニッチャン サンガーガター サティ。",
+      "english": "Those disciples of Gotama ever awaken happily who day and night constantly practice the Recollection of the Qualities of the Sangha.",
+      "sezon": "ゴータマの弟子たちは、いつも気持ちよく目覚める──昼も夜も僧随念を怠らねぇからだ。",
+      "keywords": ["saṅghāgatāsati", "gotama", "sāvaka"]
+    },
+    {
+      "number": 299,
+      "pali": "Suppabuddhaṃ pabujjhanti,\nsadā gotamasāvakā;\nyesaṃ divā ca ratto ca,\nniccaṃ kāyāgatā sati.",
+      "reading": "スッパブッダン パブッジャンティ、\nサダー ゴータマサーヴァカー；\nイェーサン ディヴァー チャ ラットー チャ、\nニッチャン カーヤーガター サティ。",
+      "english": "Those disciples of Gotama ever awaken happily who day and night constantly practice Mindfulness of the Body.",
+      "sezon": "ゴータマの弟子たちは、いつも気持ちよく目覚める──昼も夜も身念処を怠らねぇからだ。",
+      "keywords": ["kāyāgatāsati", "gotama", "sāvaka"]
+    },
+    {
+      "number": 300,
+      "pali": "Suppabuddhaṃ pabujjhanti,\nsadā gotamasāvakā;\nyesaṃ divā ca ratto ca,\nahiṃsāya rato mano.",
+      "reading": "スッパブッダン パブッジャンティ、\nサダー ゴータマサーヴァカー；\nイェーサン ディヴァー チャ ラットー チャ、\nアヒンサーヤ ラトー マノー。",
+      "english": "Those disciples of Gotama ever awaken happily whose minds by day and night delight in the practice of non-violence.",
+      "sezon": "ゴータマの弟子たちは、いつも気持ちよく目覚める──昼も夜も心が不害を楽しんでるからだ。",
+      "keywords": ["ahiṃsā", "rato", "gotama", "sāvaka"]
+    },
+    {
+      "number": 301,
+      "pali": "Suppabuddhaṃ pabujjhanti,\nsadā gotamasāvakā;\nyesaṃ divā ca ratto ca,\nbhāvanāya rato mano.",
+      "reading": "スッパブッダン パブッジャンティ、\nサダー ゴータマサーヴァカー；\nイェーサン ディヴァー チャ ラットー チャ、\nバーヴァナーヤ ラトー マノー。",
+      "english": "Those disciples of Gotama ever awaken happily whose minds by day and night delight in the practice of meditation.",
+      "sezon": "ゴータマの弟子たちは、いつも気持ちよく目覚める──昼も夜も心が修習を楽しんでるからだ。",
+      "keywords": ["bhāvanā", "rato", "gotama", "sāvaka"]
+    },
+    {
+      "number": 302,
+      "pali": "Duppabbajjaṃ durabhiramaṃ,\ndurāvāsā gharā dukhā;\ndukkho'samānasaṃvāso,\ndukkhānupatitaddhagū;\ntasmā na caddhagū siyā,\nna ca dukkhānupatito siyā.",
+      "reading": "ドゥッパッバッジャン ドゥラビラマン、\nドゥラーヴァーサー ガラー ドゥッカー；\nドゥッコーサマーナサンヴァーソー、\nドゥッカーヌパティタッダグー；\nタスマー ナ チャッダグー シヤー、\nナ チャ ドゥッカーヌパティトー シヤー。",
+      "english": "Difficult is life as a monk; difficult is it to delight therein. Also difficult and sorrowful is the household life. Suffering comes from association with unequals; suffering comes from wandering in samsara. Therefore, be not an aimless wanderer, be not a pursuer of suffering.",
+      "sezon": "出家は難しい、そこに喜びを見出すのも難しい。在家もまた辛く苦しい。合わねぇ奴との暮らしは苦、輪廻の旅路も苦だ。だから目的もなく彷徨うな。苦を追いかける者になるな。",
+      "keywords": ["duppabbajja", "dukkha", "saṃsāra", "addhagū"]
+    },
+    {
+      "number": 303,
+      "pali": "Saddho sīlena sampanno,\nyaso bhogasamappito;\nyaṃ yaṃ padesaṃ bhajati,\ntattha tattheva pūjito.",
+      "reading": "サッドー シーレーナ サンパンノー、\nヤソー ボーガサマッピトー；\nヤン ヤン パデーサン バジャティ、\nタッタ タッテーヴァ プージトー。",
+      "english": "He who is full of faith and virtue, and possesses good repute and wealth — he is respected everywhere, in whatever land he travels.",
+      "sezon": "信仰と戒を備え、名声と財にも恵まれた者は──どこへ行っても敬われる。",
+      "keywords": ["saddhā", "sīla", "yasa", "bhoga"]
+    },
+    {
+      "number": 304,
+      "pali": "Dūre santo pakāsenti,\nhimavanto va pabbato;\nasantettha na dissanti,\nrattiṃ khittā yathā sarā.",
+      "reading": "ドゥーレー サントー パカーセンティ、\nヒマヴァントーヴァ パッバトー；\nアサンテッタ ナ ディッサンティ、\nラッティン キッター ヤター サラー。",
+      "english": "The good shine from afar, like the Himalaya mountains. But the wicked are unseen, like arrows shot in the night.",
+      "sezon": "善き者は遠くからでも輝く──ヒマラヤの山のように。悪しき者は見えねぇ──夜に射たれた矢のようにな。",
+      "keywords": ["santa", "himavanta", "asanta", "sara"]
+    },
+    {
+      "number": 305,
+      "pali": "Ekāsanaṃ ekaseyyaṃ,\neko caramatandito;\neko damayamattānaṃ,\nvanante ramito siyā.",
+      "reading": "エーカーサナン エーカセッヤン、\nエーコー チャラマタンディトー；\nエーコー ダマヤマッターナン、\nヴァナンテー ラミトー シヤー。",
+      "english": "He who sits alone, sleeps alone, and walks alone, who is strenuous and subdues himself alone, will find delight in the solitude of the forest.",
+      "sezon": "独り坐り、独り臥し、独り歩む。たゆまず独りで自分を制する者は、森の孤独の中に喜びを見出すだろう。",
+      "keywords": ["eka", "damaya", "vananta", "atandita"]
+    }
+  ]
+}

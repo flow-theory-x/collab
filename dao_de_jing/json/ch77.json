@@ -1,0 +1,44 @@
+{
+  "chapter": 77,
+  "chinese_name": "天之道其猶張弓與",
+  "japanese_name": "天の道は弓のごとし",
+  "summary": "天は余りを減らし不足を補うが、人は不足から奪い余りに捧げる。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "天之道，其猶張弓與？高者抑之，下者舉之；有餘者損之，不足者補之。天之道，損有餘而補不足。",
+      "modern_ja": "天の道は、弓を張るようなものか。高い方は抑え、低い方は挙げ、余りあるものは減らし、足りないものは補う。天の道は有余を損じて不足を補う。",
+      "english": "The Way of Heaven is like drawing a bow: what is high is pulled down, what is low is raised up; what has excess is reduced, what is lacking is supplemented. Heaven's way reduces the excessive and supplements the insufficient.",
+      "laozi": "天の道は弓だ。高いのを下げ、低いのを上げる。余ってるとこから減らし、足りないとこに足す。公平だろ",
+      "keywords": [
+        "天道",
+        "張弓",
+        "損有余補不足"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "人之道，則不然，損不足以奉有餘。孰能有餘以奉天下，唯有道者。",
+      "modern_ja": "人の道はそうではなく、不足を損じて有余に奉じる。誰が有余をもって天下に奉じうるか、ただ道ある者のみ。",
+      "english": "The way of humans is the opposite — they take from those who have little to serve those who have plenty. Who can offer their surplus to the world? Only those who have the Dao.",
+      "laozi": "人間は逆をやる。足りない奴から奪って、余ってる奴に渡す。誰がそれを正せる？ …道を持つ者だけだ",
+      "keywords": [
+        "人道",
+        "損不足奉有余",
+        "有道者"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "是以聖人為而不恃，功成而不處，其不欲見賢。",
+      "modern_ja": "だから聖人は為しても頼まず、功成っても処らない。賢を見せようとしない。",
+      "english": "The sage acts without relying on results, accomplishes without claiming credit, and has no desire to display superiority.",
+      "laozi": "やっても威張らない。成し遂げても居座らない。賢く見られたい？ そういうの、いらない",
+      "keywords": [
+        "為而不恃",
+        "功成不処",
+        "不見賢"
+      ]
+    }
+  ]
+}

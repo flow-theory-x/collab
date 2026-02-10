@@ -1,0 +1,73 @@
+{
+  "jataka_number": 541,
+  "pali_name": "Nimi Jātaka",
+  "japanese_name": "ニミ本生",
+  "english_name": "The Story of King Nimi",
+  "parami": "出離波羅蜜（Nekkhamma）",
+  "summary": "マカーデーヴァ王に始まる8万4千人の王の出家の系譜。その最後を飾るニミ王は布施と戒行のどちらが勝るかを問い、帝釈天に答えを得た。マーターリの戦車で地獄と天界を巡り、業の果報を目の当たりにした後、自らも出家して一族の出離の伝統を完成させた。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "マカーデーヴァ王の伝統——白髪を見て出家",
+      "pali": "Makhādeva",
+      "reading": "マカーデーヴァ",
+      "english": "King Makhādeva of Mithilā instructs his barber to tell him when grey hairs appear. When they do, he sees death clinging to his forehead, gives his son the kingdom, and becomes an ascetic. He attains the four Divine Abidings and is reborn in Brahma's realm. 84,000 kings follow this exact tradition.",
+      "sezon": "昔、ミティラーにマカーデーヴァって王がいた。床屋に「白髪が生えたら教えろ」と命じた。白髪が来た日、王はそれを手のひらに載せて見つめた。「死が額に張り付いている」。息子に王座を渡し、マンゴー園で出家した。以来、8万4千人の王が同じことをやった。白髪を見て、王冠を脱いで、森に入る。代々、一人の例外もなく。",
+      "keywords": ["白髪", "出家の伝統", "マカーデーヴァ", "8万4千人"]
+    },
+    {
+      "number": 2,
+      "title": "ニミ王の誕生と大布施",
+      "pali": "Nemikumāra",
+      "reading": "ネミクマーラ",
+      "english": "Makhādeva himself is reborn as the last king in the line—Prince Nimi, 'the Ring' who will complete the circle. Nimi establishes five alms halls, distributing 500,000 coins daily. He keeps the precepts, preaches Dhamma, and guides the populace. Heaven fills up; hell empties.",
+      "sezon": "マカーデーヴァ本人が梵天界から降りてきて、最後の王として生まれた。「一族を完成させる輪」という意味でニミと名付けられた。ニミは四門と市の中央に施しの館を建て、毎日50万枚の金貨をばらまいた。戒を守り、法を説き、民に施しと善行を勧めた。結果どうなったか？天界が満杯になり、地獄がほぼ空になった。",
+      "keywords": ["ニミ王", "大布施", "五つの施しの館", "天界満杯"]
+    },
+    {
+      "number": 3,
+      "title": "帝釈天の訪問——布施と戒行の問答",
+      "pali": "Sakka",
+      "reading": "サッカ",
+      "english": "Nimi wonders: which is more fruitful—giving alms or living a holy life? Sakka's throne grows hot. He descends to Nimi's chamber in blazing light and answers: holy living in the highest degree brings perfect purity; alms alone cannot transcend the Peta world. But both are thoughts of great men.",
+      "sezon": "ある夜、ニミ王は考え込んだ。「布施と持戒、どっちが上だ？」。帝釈天の玉座が熱くなった。光り輝いてニミの寝室に現れ、答えた。「最高の持戒は完全な清浄をもたらす。布施だけでは餓鬼道の先に行けん」。だが言い添えた。「両方やれ。布施も戒行も、大人物の思考だ」。片方だけじゃ足りない。両輪で回せ。",
+      "keywords": ["布施と持戒", "帝釈天", "問答", "両輪"]
+    },
+    {
+      "number": 4,
+      "title": "マーターリの戦車で地獄巡り",
+      "pali": "Mātali, Vetaraṇī",
+      "reading": "マーターリ、ヴェータラニー",
+      "english": "The gods in heaven long to see their teacher Nimi. Sakka sends Mātali with his divine chariot. On a full-moon night, two moons appear in the sky—the second is the chariot. Nimi chooses to see hell first. Mātali shows Vetaraṇī river, torture by dogs and vultures, burning coals, iron cauldrons, and other hells. Each punishment matches the deed: oppressors in boiling rivers, misers torn by crows, cheaters swallowing hooks, adulterers buried waist-deep in flame.",
+      "sezon": "天の神々が「ニミ王に会いたい」と騒いだ。帝釈天がマーターリに千頭立ての戦車を駆らせた。満月の夜、空に月が二つ現れた——一つは本物、もう一つは戦車だ。ニミは「まず地獄を見せろ」と言った。ヴェータラニー川——腐食する塩水が燃えている。弱者を虐げた者が煮られている。ケチは鴉に食われ、詐欺師は釣り針を飲まされ、不倫した女は腰まで地面に埋まって上半身が燃えている。全部、自分がやったことの返しだ。",
+      "keywords": ["地獄巡り", "マーターリ", "業の果報", "ヴェータラニー"]
+    },
+    {
+      "number": 5,
+      "title": "天界巡り——善業の果報",
+      "pali": "Sudhammā",
+      "reading": "スダンマー",
+      "english": "Mātali then shows heavenly mansions: Bīraṇī the slave woman who welcomed a guest and now lives in a jeweled palace; Soṇadinna who built seven hermitages; faithful lay sisters in crystal mansions; householders from various cities who gave alms and kept the sabbath. Finally they reach Sudhammā Hall where the Thirty-Three Gods welcome Nimi.",
+      "sezon": "次は天界だ。奴隷だったビーラニーが客をもてなしただけで宝石の宮殿に住んでいる。七つの庵を建てたソーナディンナは七つの黄金の館。在家の女性たちが布薩を守っただけで水晶の宮殿。各地の施主たちが果実の庭園つきの天宮にいる。最後にスダンマー大講堂——三十三天の神々がニミを迎えて歓声を上げた。「我らの師よ、ようこそ！」",
+      "keywords": ["天界巡り", "善業の果報", "天宮", "三十三天"]
+    },
+    {
+      "number": 6,
+      "title": "天の享楽を辞退し人間界へ",
+      "pali": "",
+      "reading": "",
+      "english": "Sakka offers Nimi immortal pleasures among the gods. Nimi declines: 'Borrowed bliss is like borrowed goods. My merit is mine only when I stand on my own deeds.' He stays seven days, then returns to Mithilā to continue ruling and giving.",
+      "sezon": "帝釈天が「ここに住め、天の楽を味わえ」と誘った。ニミは断った。「人の手から受けた幸せは、借り物の荷車と同じだ。自分の行いの上に立ってこそ、自分のものになる」。7日間天界に滞在し、神々に別れを告げてミティラーに戻った。地獄も天界も見た上で、人間界でやるべきことをやる。それがニミの選択だ。",
+      "keywords": ["天の享楽の辞退", "自力", "借り物の幸福", "帰還"]
+    },
+    {
+      "number": 7,
+      "title": "出家と一族の伝統の完成",
+      "pali": "Kaḷārajanaka",
+      "reading": "カラーラジャナカ",
+      "english": "When a grey hair appears, Nimi follows the ancient tradition: gives a village to his barber, makes his son king, and renounces. He develops the four Divine Abidings in the mango grove and is destined for Brahma's realm. His son Kaḷārajanaka also renounces, completing the line of 84,000 ascetic kings.",
+      "sezon": "白髪が来た。ニミは伝統通りに動いた。床屋に村を与え、息子を王にし、マンゴー園で出家した。四梵住を修めて梵天界へ。息子のカラーラジャナカも同じ道を歩み、8万4千人の出家王の系譜が完結した。マカーデーヴァが始めた輪を、ニミが閉じた。これが出離波羅蜜だ——王座を捨てることが、最も王らしい行いだった。",
+      "keywords": ["出家", "白髪の伝統", "系譜の完成", "出離波羅蜜"]
+    }
+  ]
+}

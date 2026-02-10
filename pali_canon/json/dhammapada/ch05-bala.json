@@ -1,0 +1,138 @@
+{
+  "chapter": 5,
+  "pali_name": "Bālavagga",
+  "japanese_name": "愚者品",
+  "english_name": "The Fool",
+  "summary": "愚か者ってのは他人じゃねぇ、自分がそうなる可能性の話だ。愚者は苦い果実を自ら育て、賢者の隣にいても匙がスープの味を知らねぇように何も学ばねぇ──そんな16偈。",
+  "verse_range": "60-75",
+  "verses": [
+    {
+      "number": 60,
+      "pali": "Dīghā jāgarato ratti\ndīghaṃ santassa yojanaṃ\ndīgho bālānaṃ saṃsāro\nsaddhammaṃ avijānataṃ.",
+      "reading": "ディーガー ジャーガラトー ラッティ\nディーガン サンタッサ ヨージャナン\nディーゴー バーラーナン サンサーロー\nサッダンマン アヴィジャーナタン",
+      "english": "Long is the night to the sleepless; long is the league to the weary. Long is worldly existence to fools who know not the Sublime Truth.",
+      "sezon": "眠れねぇ奴にとって夜は長ぇ。疲れた奴にとって一里は長ぇ。正しい法（ダンマ）を知らねぇ愚者にとって──輪廻は果てしなく長ぇんだ",
+      "keywords": ["ratti", "bāla", "saṃsāra", "saddhamma"]
+    },
+    {
+      "number": 61,
+      "pali": "Carañce nādhigaccheyya\nseyyaṃ sadisamattano\nekacariyaṃ daḷhaṃ kayirā\nnatthi bāle sahāyatā.",
+      "reading": "チャランチェー ナーディガッチェッヤ\nセッヤン サディサマッタノー\nエーカチャリヤン ダラン カイラー\nナッティ バーレー サハーヤター",
+      "english": "Should a seeker not find a companion who is better or equal, let him resolutely pursue a solitary course; there is no fellowship with the fool.",
+      "sezon": "自分より優れた、あるいは同等の仲間が見つからねぇなら──一人で断固として歩け。愚者と連れ立つくらいなら孤独の方がマシだ",
+      "keywords": ["ekacariya", "bāla", "sahāyatā"]
+    },
+    {
+      "number": 62,
+      "pali": "Puttā matthi dhanammatthi\niti bālo vihaññati\nattā hi attano natthi\nkuto puttā kuto dhanaṃ.",
+      "reading": "プッター マッティ ダナンマッティ\nイティ バーロー ヴィハンニャティ\nアッター ヒ アッタノー ナッティ\nクトー プッター クトー ダナン",
+      "english": "The fool worries, thinking, \"I have sons, I have wealth.\" Indeed, when he himself is not his own, whence are sons, whence is wealth?",
+      "sezon": "「俺には息子がいる、財産がある」と愚者は思い悩む。だがな──てめぇ自身すら自分のモンじゃねぇのに、息子がどこにある？ 財産がどこにあるってんだ？",
+      "keywords": ["putta", "dhana", "bāla", "attā"]
+    },
+    {
+      "number": 63,
+      "pali": "Yo bālo maññati bālyaṃ\npaṇḍito vāpi tena so\nbālo ca paṇḍitamānī\nsa ve bāloti vuccati.",
+      "reading": "ヨー バーロー マンニャティ バーリヤン\nパンディトー ヴァーピ テーナ ソー\nバーロー チャ パンディタマーニー\nサ ヴェー バーローティ ヴッチャティ",
+      "english": "A fool who knows his foolishness is wise at least to that extent, but a fool who thinks himself wise is a fool indeed.",
+      "sezon": "自分が愚かだと知ってる愚者は、少なくともその点じゃ賢ぇ。だが自分を賢いと思い込んでる愚者──そいつこそ本物の愚者だ",
+      "keywords": ["bāla", "paṇḍita", "bālya", "mānī"]
+    },
+    {
+      "number": 64,
+      "pali": "Yāvajīvampi ce bālo\npaṇḍitaṃ payirupāsati\nna so dhammaṃ vijānāti\ndabbī sūparasaṃ yathā.",
+      "reading": "ヤーヴァジーヴァンピ チェー バーロー\nパンディタン パイルパーサティ\nナ ソー ダンマン ヴィジャーナーティ\nダッビー スーパラサン ヤター",
+      "english": "Though all his life a fool associates with a wise man, he no more comprehends the Truth than a spoon tastes the flavor of the soup.",
+      "sezon": "一生かけて賢者のそばにいたって、愚者は法（ダンマ）を理解しねぇ。匙がスープの味を知らねぇのと同じだ",
+      "keywords": ["bāla", "paṇḍita", "dhamma", "dabbī", "sūpa"]
+    },
+    {
+      "number": 65,
+      "pali": "Muhuttamapi ce viññū\npaṇḍitaṃ payirupāsati\nkhippaṃ dhammaṃ vijānāti\njivhā sūparasaṃ yathā.",
+      "reading": "ムフッタマピ チェー ヴィンニュー\nパンディタン パイルパーサティ\nキッパン ダンマン ヴィジャーナーティ\nジヴァー スーパラサン ヤター",
+      "english": "Though only for a moment a discerning person associates with a wise man, quickly he comprehends the Truth, just as the tongue tastes the flavor of the soup.",
+      "sezon": "だが賢ぇ奴はほんの一瞬でも賢者と交われば、すぐに法（ダンマ）を理解する。舌がスープの味をたちまち知るようにな",
+      "keywords": ["viññū", "paṇḍita", "dhamma", "jivhā", "sūpa"]
+    },
+    {
+      "number": 66,
+      "pali": "Caranti bālā dummedhā\namitteneva attanā\nkarontā pāpakaṃ kammaṃ\nyaṃ hoti kaṭukapphalaṃ.",
+      "reading": "チャランティ バーラー ドゥンメーダー\nアミッテーネーヴァ アッタナー\nカロンター パーパカン カンマン\nヤン ホーティ カトゥカッパラン",
+      "english": "Fools of little wit are enemies unto themselves as they move about doing evil deeds, the fruits of which are bitter.",
+      "sezon": "知恵のねぇ愚者どもは、自分自身の敵だ。悪い行いを撒き散らしながら歩き回り──その果実は苦ぇ。苦ぇんだよ",
+      "keywords": ["bāla", "dummedha", "pāpa", "kamma", "kaṭuka"]
+    },
+    {
+      "number": 67,
+      "pali": "Na taṃ kammaṃ kataṃ sādhu\nyaṃ katvā anutappati\nyassa assumukho rodaṃ\nvipākaṃ paṭisevati.",
+      "reading": "ナ タン カンマン カタン サードゥ\nヤン カトヴァー アヌタッパティ\nヤッサ アッスムコー ローダン\nヴィパーカン パティセーヴァティ",
+      "english": "Ill done is that action of doing which one repents later, and the fruit of which one, weeping, reaps with tears.",
+      "sezon": "やった後に後悔するような行い──泣きべそかきながらその報いを受けるような行い、そんなもんはロクなもんじゃねぇ",
+      "keywords": ["kamma", "anutappati", "vipāka", "rodaṃ"]
+    },
+    {
+      "number": 68,
+      "pali": "Tañca kammaṃ kataṃ sādhu\nyaṃ katvā nānutappati\nyassa patīto sumano\nvipākaṃ paṭisevati.",
+      "reading": "タンチャ カンマン カタン サードゥ\nヤン カトヴァー ナーヌタッパティ\nヤッサ パティートー スマノー\nヴィパーカン パティセーヴァティ",
+      "english": "Well done is that action of doing which one repents not later, and the fruit of which one reaps with delight and happiness.",
+      "sezon": "やった後に後悔しねぇ行い──その報いを喜びと幸福で受け取れる行い、そいつこそ善くなされた行為ってもんだ",
+      "keywords": ["kamma", "vipāka", "sumana", "patīta"]
+    },
+    {
+      "number": 69,
+      "pali": "Madhuvā maññati bālo\nyāva pāpaṃ na paccati\nyadā ca paccati pāpaṃ\natha bālo dukkhaṃ nigacchati.",
+      "reading": "マドゥヴァー マンニャティ バーロー\nヤーヴァ パーパン ナ パッチャティ\nヤダー チャ パッチャティ パーパン\nアタ バーロー ドゥッカン ニガッチャティ",
+      "english": "So long as an evil deed has not ripened, the fool thinks it as sweet as honey. But when the evil deed ripens, the fool comes to grief.",
+      "sezon": "悪業が実を結ぶまでは、愚者はそいつを蜜のように甘ぇと思いやがる。だが悪業が熟した時──愚者は苦しみに突っ込むんだ",
+      "keywords": ["madhu", "bāla", "pāpa", "dukkha"]
+    },
+    {
+      "number": 70,
+      "pali": "Māse māse kusaggena\nbālo bhuñjeyya bhojanaṃ\nna so saṅkhatadhammānaṃ\nkalaṃ agghati soḷasiṃ.",
+      "reading": "マーセー マーセー クサッゲーナ\nバーロー ブンジェッヤ ボージャナン\nナ ソー サンカタダンマーナン\nカラン アッガティ ソーラスィン",
+      "english": "Month after month a fool may eat his food with the tip of a blade of grass, but he still is not worth a sixteenth part of the those who have comprehended the Truth.",
+      "sezon": "毎月毎月、草の先っちょで飯を食う苦行をしたところで──愚者は法（ダンマ）を悟った者の十六分の一の価値もねぇ",
+      "keywords": ["bāla", "kusa", "saṅkhatadhamma", "soḷasī"]
+    },
+    {
+      "number": 71,
+      "pali": "Na hi pāpaṃ kataṃ kammaṃ\nsajju khīraṃva muccati\nḍahantaṃ bālamanveti\nbhasmacchannova pāvako.",
+      "reading": "ナ ヒ パーパン カタン カンマン\nサッジュ キーランヴァ ムッチャティ\nダハンタン バーラマンヴェーティ\nバスマッチャンノーヴァ パーヴァコー",
+      "english": "Truly, an evil deed committed does not immediately bear fruit, like milk that does not turn sour all at once. But smoldering, it follows the fool like fire covered by ashes.",
+      "sezon": "悪い行いはすぐには実を結ばねぇ。乳がすぐには酸っぱくならねぇようにな。だがくすぶり続けて──灰に覆われた火みてぇに愚者を追いかけやがる",
+      "keywords": ["pāpa", "kamma", "khīra", "bāla", "pāvaka"]
+    },
+    {
+      "number": 72,
+      "pali": "Yāvadeva anatthāya\nñattaṃ bālassa jāyati\nhanti bālassa sukkaṃsaṃ\nmuddhamassa vipātayaṃ.",
+      "reading": "ヤーヴァデーヴァ アナッターヤ\nニャッタン バーラッサ ジャーヤティ\nハンティ バーラッサ スッカンサン\nムッダマッサ ヴィパータヤン",
+      "english": "To his own ruin the fool gains knowledge, for it cleaves his head and destroys his innate goodness.",
+      "sezon": "愚者が知識を得りゃ、自分の破滅のためにしかならねぇ。そいつは愚者の頭をカチ割って、内なる善さをブチ壊すんだ",
+      "keywords": ["bāla", "ñatta", "anattāya", "muddha"]
+    },
+    {
+      "number": 73,
+      "pali": "Asataṃ bhāvanamiccheyya\npurekkharañca bhikkhusu\nāvāsesu ca issariyaṃ\npūjā parakulesu ca.",
+      "reading": "アサタン バーヴァナミッチェッヤ\nプレッカランチャ ビックス\nアーヴァーセース チャ イッサリヤン\nプージャー パラクレース チャ",
+      "english": "The fool seeks undeserved reputation, precedence among monks, authority over monasteries, and honor among householders.",
+      "sezon": "愚者は身の丈に合わねぇ名声を欲しがり、僧の間で先頭に立ちたがり、寺院の支配権を求め、在家の連中からチヤホヤされたがる",
+      "keywords": ["bāla", "bhāvana", "bhikkhu", "issariya", "pūjā"]
+    },
+    {
+      "number": 74,
+      "pali": "Mameva kata maññantu\ngihīpabbajitā ubho\nmamevātivasā assu\nkiccākiccesu kismici\niti bālassa saṅkappo\nicchā māno ca vaḍḍhati.",
+      "reading": "マメーヴァ カタ マンニャントゥ\nギヒーパッバジター ウボー\nマメーヴァーティヴァサー アッスー\nキッチャーキッチェース キスミチ\nイティ バーラッサ サンカッポー\nイッチャー マーノー チャ ヴァッダティ",
+      "english": "\"Let both laymen and monks think that it was done by me. In every work, great and small, let them follow me\" — such is the ambition of the fool; thus his desire and pride increase.",
+      "sezon": "「在家も出家も、俺がやったと思え。大小あらゆる仕事で俺に従え」──これが愚者の野望だ。こうして欲望と慢心がどんどん膨らんでいく",
+      "keywords": ["bāla", "saṅkappa", "icchā", "māna", "gihī", "pabbajita"]
+    },
+    {
+      "number": 75,
+      "pali": "Aññā hi lābhūpanisā\naññā nibbānagāminī\nevametaṃ abhiññāya\nbhikkhu buddhassa sāvako\nsakkāraṃ nābhinandeyya\nvivekamanubrūhaye.",
+      "reading": "アンニャー ヒ ラーブーパニサー\nアンニャー ニッバーナガーミニー\nエーヴァメータン アビンニャーヤ\nビックー ブッダッサ サーヴァコー\nサッカーラン ナービナンデッヤ\nヴィヴェーカマヌブルーハイェー",
+      "english": "One is the quest for worldly gain, and quite another is the path to Nibbana. Clearly understanding this, let not the monk, the disciple of the Buddha, be carried away by worldly acclaim, but develop detachment instead.",
+      "sezon": "世俗の利得への道と、涅槃への道は全く別モンだ。これをハッキリ理解して、仏弟子たる比丘は世間の称賛に浮かれるんじゃねぇ──離欲を育てろ",
+      "keywords": ["lābha", "nibbāna", "bhikkhu", "buddha", "sāvaka", "viveka"]
+    }
+  ]
+}

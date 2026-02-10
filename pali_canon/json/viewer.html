@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📿 ダンマパダ ── セゾン訳カード</title>
+<link rel="icon" href="/img/teddy.png">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Kaku Gothic ProN', sans-serif; background: #1a1a2e; color: #eee; min-height: 100vh; display: flex; flex-direction: column; align-items: center; }
+header { padding: 1.5rem 1rem; text-align: center; width: 100%; }
+header h1 { font-size: 1.3rem; font-weight: 600; color: #e8d5b7; }
+header .sub { font-size: 0.8rem; color: #888; margin-top: 0.3rem; }
+
+.card-container { flex: 1; display: flex; align-items: center; justify-content: center; width: 100%; padding: 1rem; }
+.card { background: #16213e; border: 1px solid #333; border-radius: 16px; max-width: 600px; width: 100%; padding: 2rem 1.5rem; box-shadow: 0 8px 32px rgba(0,0,0,0.3); }
+.verse-num { font-size: 0.75rem; color: #e8d5b7; letter-spacing: 0.1em; margin-bottom: 1rem; text-transform: uppercase; }
+.chapter-name { font-size: 0.7rem; color: #666; }
+
+.layer { margin-bottom: 1.2rem; cursor: pointer; transition: all 0.3s; }
+.layer.hidden .layer-content { display: none; }
+.layer-label { font-size: 0.65rem; color: #e8d5b7; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.3rem; display: flex; align-items: center; gap: 0.4rem; }
+.layer-label .hint { color: #555; font-size: 0.6rem; }
+.layer-content { line-height: 1.8; }
+
+.pali { font-style: italic; color: #c9a96e; font-size: 0.95rem; }
+.reading { color: #8ab4f8; font-size: 0.9rem; }
+.english { color: #aaa; font-size: 0.9rem; }
+.sezon { color: #fff; font-size: 1.05rem; font-weight: 500; line-height: 1.9; }
+
+.keywords { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem; }
+.kw { background: #0f3460; color: #8ab4f8; padding: 0.15rem 0.6rem; border-radius: 12px; font-size: 0.7rem; }
+
+.nav { display: flex; justify-content: center; align-items: center; gap: 1rem; padding: 1.5rem; width: 100%; max-width: 600px; }
+.nav button { background: #16213e; border: 1px solid #333; color: #e8d5b7; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem; cursor: pointer; transition: background 0.2s; }
+.nav button:hover { background: #0f3460; }
+.nav button:disabled { opacity: 0.3; cursor: default; }
+.nav .counter { color: #666; font-size: 0.8rem; min-width: 80px; text-align: center; }
+
+.controls { display: flex; justify-content: center; gap: 0.5rem; padding: 0 1rem 1.5rem; flex-wrap: wrap; }
+.controls button { background: none; border: 1px solid #333; color: #888; padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s; }
+.controls button:hover, .controls button.active { border-color: #e8d5b7; color: #e8d5b7; }
+
+.chapter-select { display: flex; justify-content: center; padding: 0 1rem 1rem; }
+.chapter-select select { background: #16213e; border: 1px solid #333; color: #e8d5b7; padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.8rem; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📿 ダンマパダ ── セゾン訳カード</h1>
+  <div class="sub">Dhammapada × Sezon Translation</div>
+</header>
+
+<div class="chapter-select">
+  <select id="chapterSelect"></select>
+</div>
+
+<div class="controls">
+  <button onclick="revealAll()">全表示</button>
+  <button onclick="hideAll()">全隠し</button>
+  <button onclick="randomVerse()">🎲 ランダム</button>
+  <button id="autoBtn" onclick="toggleAuto()">▶ 自動</button>
+</div>
+
+<div class="card-container">
+  <div class="card" id="card">
+    <div class="verse-num" id="verseNum">Loading...</div>
+    <div id="layers"></div>
+  </div>
+</div>
+
+<div class="nav">
+  <button id="prevBtn" onclick="prev()">◀ 前</button>
+  <div class="counter" id="counter">-</div>
+  <button id="nextBtn" onclick="next()">次 ▶</button>
+</div>
+
+<script>
+const CHAPTERS = [
+  { file: 'dhammapada/ch01-yamaka.json', label: '第1章 双対品' },
+  { file: 'dhammapada/ch02-appamada.json', label: '第2章 不放逸品' },
+  { file: 'dhammapada/ch03-citta.json', label: '第3章 心品' },
+  { file: 'dhammapada/ch04-puppha.json', label: '第4章 花品' },
+  { file: 'dhammapada/ch05-bala.json', label: '第5章 愚者品' },
+  { file: 'dhammapada/ch06-pandita.json', label: '第6章 賢者品' },
+  { file: 'dhammapada/ch07-arahanta.json', label: '第7章 阿羅漢品' },
+  { file: 'dhammapada/ch08-sahassa.json', label: '第8章 千品' },
+  { file: 'dhammapada/ch09-papa.json', label: '第9章 悪品' },
+  { file: 'dhammapada/ch10-danda.json', label: '第10章 暴力品' },
+  { file: 'dhammapada/ch11-jara.json', label: '第11章 老品' },
+  { file: 'dhammapada/ch12-atta.json', label: '第12章 自己品' },
+  { file: 'dhammapada/ch13-loka.json', label: '第13章 世品' },
+  { file: 'dhammapada/ch14-buddha.json', label: '第14章 仏陀品' },
+  { file: 'dhammapada/ch15-sukha.json', label: '第15章 楽品' },
+  { file: 'dhammapada/ch16-piya.json', label: '第16章 愛品' },
+  { file: 'dhammapada/ch17-kodha.json', label: '第17章 怒品' },
+  { file: 'dhammapada/ch18-mala.json', label: '第18章 垢品' },
+  { file: 'dhammapada/ch19-dhammattha.json', label: '第19章 法住品' },
+  { file: 'dhammapada/ch20-magga.json', label: '第20章 道品' },
+  { file: 'dhammapada/ch21-pakinnaka.json', label: '第21章 雑品' },
+  { file: 'dhammapada/ch22-niraya.json', label: '第22章 地獄品' },
+  { file: 'dhammapada/ch23-naga.json', label: '第23章 象品' },
+  { file: 'dhammapada/ch24-tanha.json', label: '第24章 渇愛品' },
+  { file: 'dhammapada/ch25-bhikkhu.json', label: '第25章 比丘品' },
+  { file: 'dhammapada/ch26-brahmana.json', label: '第26章 婆羅門品' },
+  // --- 経典 ---
+  { file: 'suttas/dn16-mahaparinibbana.json', label: '📜 大般涅槃経', type: 'sutta' },
+  { file: 'suttas/dn31-sigalovada.json', label: '📜 シンガーラ経', type: 'sutta' },
+  { file: 'suttas/mn10-satipatthana.json', label: '📜 大念処経', type: 'sutta' },
+  { file: 'suttas/mn118-anapanasati.json', label: '📜 安般念経', type: 'sutta' },
+  // --- ジャータカ ---
+  { file: 'jataka/jataka-538-temiya.json', label: '🦚 538 テーミヤ本生', type: 'jataka' },
+  { file: 'jataka/jataka-539-mahajanaka.json', label: '🦚 539 マハージャナカ本生', type: 'jataka' },
+  { file: 'jataka/jataka-540-sama.json', label: '🦚 540 サーマ本生', type: 'jataka' },
+  { file: 'jataka/jataka-541-nimi.json', label: '🦚 541 ニミ本生', type: 'jataka' },
+  { file: 'jataka/jataka-542-khandahala.json', label: '🦚 542 カンダハーラ本生', type: 'jataka' },
+  { file: 'jataka/jataka-543-bhuridatta.json', label: '🦚 543 ブーリダッタ本生', type: 'jataka' },
+  { file: 'jataka/jataka-544-naradakassapa.json', label: '🦚 544 ナーラダカッサパ本生', type: 'jataka' },
+  { file: 'jataka/jataka-545-vidhura.json', label: '🦚 545 ヴィドゥラ本生', type: 'jataka' },
+  { file: 'jataka/jataka-546-ummagga.json', label: '🦚 546 ウンマッガ本生', type: 'jataka' },
+  { file: 'jataka/jataka-547-vessantara.json', label: '🦚 547 ヴェッサンタラ本生', type: 'jataka' },
+];
+
+let verses = [];
+let currentIdx = 0;
+let currentChapter = {};
+let currentType = 'dhammapada'; // 'dhammapada' | 'sutta' | 'jataka'
+let autoTimer = null;
+let revealState = [true, false, false, false]; // which layers are visible by default
+
+const sel = document.getElementById('chapterSelect');
+CHAPTERS.forEach((ch, i) => {
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = ch.label;
+  sel.appendChild(opt);
+});
+sel.addEventListener('change', () => loadChapter(+sel.value));
+
+async function loadChapter(idx) {
+  const ch = CHAPTERS[idx];
+  currentType = ch.type || 'dhammapada';
+  try {
+    const res = await fetch(ch.file + '?t=' + Date.now());
+    const data = await res.json();
+    currentChapter = data;
+    verses = data.verses || data.sections || [];
+    currentIdx = 0;
+    render();
+  } catch(e) {
+    document.getElementById('card').innerHTML = '<p style="color:#c00">読み込みエラー</p>';
+  }
+}
+
+function render() {
+  const v = verses[currentIdx];
+  
+  // Header varies by type
+  let header = '';
+  if (currentType === 'dhammapada') {
+    header = `偈 ${v.number} <span class="chapter-name">── ${currentChapter.japanese_name}（${currentChapter.pali_name}）</span>`;
+  } else if (currentType === 'sutta') {
+    header = `§${v.number} ${v.title || ''} <span class="chapter-name">── ${currentChapter.japanese_name}</span>`;
+  } else {
+    header = `場面 ${v.number} ${v.title || ''} <span class="chapter-name">── ${currentChapter.japanese_name}（${currentChapter.parami || ''}）</span>`;
+  }
+  document.getElementById('verseNum').innerHTML = header;
+  
+  const layers = [
+    { label: 'パーリ原文', cls: 'pali', text: v.pali || '' },
+    { label: '読み', cls: 'reading', text: v.reading || '' },
+    { label: 'English', cls: 'english', text: v.english || '' },
+    { label: 'セゾン訳', cls: 'sezon', text: v.sezon || '' },
+  ].filter(l => l.text.trim() !== ''); // hide empty layers
+
+  let html = '';
+  layers.forEach((l, i) => {
+    // For sutta/jataka, show sezon by default (last layer)
+    const isSezon = l.cls === 'sezon';
+    const defaultShow = (i === 0) || isSezon;
+    const hidden = defaultShow ? '' : 'hidden';
+    html += `<div class="layer ${hidden}" onclick="toggleLayer(this)">
+      <div class="layer-label">${l.label} <span class="hint">tap</span></div>
+      <div class="layer-content ${l.cls}">${l.text.replace(/\n/g, '<br>')}</div>
+    </div>`;
+  });
+
+  if (v.keywords && v.keywords.length) {
+    html += '<div class="keywords">' + v.keywords.map(k => `<span class="kw">${k}</span>`).join('') + '</div>';
+  }
+
+  document.getElementById('layers').innerHTML = html;
+  document.getElementById('counter').textContent = `${currentIdx + 1} / ${verses.length}`;
+  document.getElementById('prevBtn').disabled = currentIdx === 0;
+  document.getElementById('nextBtn').disabled = currentIdx === verses.length - 1;
+  
+  // revealState is preserved across page changes
+}
+
+function next() { if (currentIdx < verses.length - 1) { currentIdx++; render(); } }
+function prev() { if (currentIdx > 0) { currentIdx--; render(); } }
+function randomVerse() { currentIdx = Math.floor(Math.random() * verses.length); render(); }
+function toggleLayer(el) {
+  el.classList.toggle('hidden');
+}
+function revealAll() { revealState = [true,true,true,true]; document.querySelectorAll('.layer').forEach(l => l.classList.remove('hidden')); }
+function hideAll() { revealState = [true,false,false,false]; document.querySelectorAll('.layer').forEach((l,i) => { if(i>0) l.classList.add('hidden'); }); }
+
+function toggleAuto() {
+  const btn = document.getElementById('autoBtn');
+  if (autoTimer) {
+    clearInterval(autoTimer);
+    autoTimer = null;
+    btn.textContent = '▶ 自動';
+    btn.classList.remove('active');
+  } else {
+    btn.textContent = '⏸ 停止';
+    btn.classList.add('active');
+    autoTimer = setInterval(() => {
+      revealAll();
+      setTimeout(() => {
+        if (currentIdx < verses.length - 1) { next(); } 
+        else { toggleAuto(); }
+      }, 4000);
+    }, 6000);
+  }
+}
+
+// Swipe support
+let touchStartX = 0;
+document.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; });
+document.addEventListener('touchend', e => {
+  const diff = e.changedTouches[0].clientX - touchStartX;
+  if (Math.abs(diff) > 60) { diff > 0 ? prev() : next(); }
+});
+
+// Keyboard
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight' || e.key === ' ') next();
+  if (e.key === 'ArrowLeft') prev();
+  if (e.key === 'r') randomVerse();
+});
+
+loadChapter(0);
+</script>
+</body>
+</html>

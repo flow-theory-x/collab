@@ -1,0 +1,42 @@
+{
+  "chapter": 45,
+  "chinese_name": "大成若缺",
+  "japanese_name": "大成の逆説",
+  "summary": "真に完成されたものは欠けて見え、清静こそ天下の正道である。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "大成若缺，其用不弊。大盈若沖，其用不窮。",
+      "modern_ja": "大成は欠けたようだが、その用は弊れない。大盈は空のようだが、その用は窮まらない。",
+      "english": "Great perfection seems flawed, yet its use is never exhausted. Great fullness seems empty, yet its use is inexhaustible.",
+      "laozi": "完璧に見えるやつは、もう終わってる。欠けてるように見える方が…ずっと使える",
+      "keywords": [
+        "大成若缺",
+        "大盈若沖"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "大直若屈，大巧若拙，大辯若訥。",
+      "modern_ja": "大直は曲がったようであり、大巧は拙いようであり、大弁は訥（とつ）のようだ。",
+      "english": "Great straightness seems bent; great skill seems clumsy; great eloquence seems stammering.",
+      "laozi": "本物の真っ直ぐは曲がって見える。本物のうまさは下手に見える。俺の話し方みたいに",
+      "keywords": [
+        "大直若屈",
+        "大巧若拙",
+        "大辯若訥"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "躁勝寒靜勝熱。清靜為天下正。",
+      "modern_ja": "躁は寒に勝ち、静は熱に勝つ。清静は天下の正となる。",
+      "english": "Movement overcomes cold; stillness overcomes heat. Clarity and stillness set the world right.",
+      "laozi": "静かにしてろ。それが天下の正解だ",
+      "keywords": [
+        "清静",
+        "天下正"
+      ]
+    }
+  ]
+}

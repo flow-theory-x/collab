@@ -1,0 +1,33 @@
+{
+  "chapter": 68,
+  "chinese_name": "善為士者不武",
+  "japanese_name": "不争の徳",
+  "summary": "真に優れた者は武ばらず怒らず、下に処ることで天に配する。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下。",
+      "modern_ja": "善き士は武ばらず、善き戦士は怒らず、善く敵に勝つ者は争わず、善く人を用いる者は下に処る。",
+      "english": "The best soldier is not warlike; the best fighter shows no anger; the best victor does not engage; the best leader places himself below others.",
+      "laozi": "強い奴は、武張らない。勝つ奴は、怒らない。本当に勝ってる奴は、戦ってすらいない。下にいるだけだ",
+      "keywords": [
+        "不武",
+        "不怒",
+        "不争",
+        "謙下"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "是謂不爭之德，是謂用人之力，是謂配天古之極。",
+      "modern_ja": "これを「不争の徳」といい、「人を用いる力」といい、「天に配する古の極致」という。",
+      "english": "This is called the virtue of not competing, the power of employing others, the ancient ultimate of matching Heaven.",
+      "laozi": "「不争の徳」。「人を使う力」。天と並ぶ、古の極致。名前はどうでもいい。わかるだろ",
+      "keywords": [
+        "不争之徳",
+        "用人",
+        "配天"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "chapter": 16,
+  "pali_name": "Piyavagga",
+  "japanese_name": "愛品",
+  "english_name": "Affection",
+  "summary": "愛着から悲しみが生まれ、愛着から恐怖が生まれる。愛するものを持たねぇ者には悲嘆もなけりゃ恐れもねぇ──愛と執着の構造を12偈で容赦なく解剖する。",
+  "verse_range": "209-220",
+  "verses": [
+    {
+      "number": 209,
+      "pali": "Ayoge yuñjamattānaṃ, yogasmiñca ayojayaṃ;\natthaṃ hitvā piyaggāhī, pihetattānuyoginaṃ.",
+      "reading": "アヨーゲー ユンジャマッターナン、ヨーガスミンチャ アヨージャヤン；\nアッタン ヒトゥヴァー ピヤッガーヒー、ピヘータッターヌヨーギナン。",
+      "english": "Giving himself to things to be shunned and not exerting where exertion is needed, a seeker after pleasures, having given up his true welfare, envies those intent upon theirs.",
+      "sezon": "避けるべきものに身を委ね、努めるべきところで怠ける──快楽を追って本当の幸福を捨てた奴は、精進する者を羨むハメになる。",
+      "keywords": ["yoga", "ayoga", "piya", "attha"]
+    },
+    {
+      "number": 210,
+      "pali": "Mā piyehi samāgañchi, appiyehi kudācanaṃ;\npiyānaṃ adassanaṃ dukkhaṃ, appiyānañca dassanaṃ.",
+      "reading": "マー ピイェーヒ サマーガンチ、アッピイェーヒ クダーチャナン；\nピヤーナン アダッサナン ドゥッカン、アッピヤーナンチャ ダッサナン。",
+      "english": "Seek no intimacy with the beloved and also not with the unloved, for not to see the beloved and to see the unloved, both are painful.",
+      "sezon": "愛しい者とも、嫌いな者とも、親しくなろうとするな。愛しい者に会えないのも苦、嫌いな者に会うのも苦だ。",
+      "keywords": ["piya", "appiya", "dukkha", "dassana"]
+    },
+    {
+      "number": 211,
+      "pali": "Tasmā piyaṃ na kayirātha, piyāpāyo hi pāpako;\nganthā tesaṃ na vijjanti, yesaṃ natthi piyāppiyaṃ.",
+      "reading": "タスマー ピヤン ナ カイラータ、ピヤーパーヨー ヒ パーパコー；\nガンター テーサン ナ ヴィッジャンティ、イェーサン ナッティ ピヤーッピヤン。",
+      "english": "Therefore hold nothing dear, for separation from the dear is painful. There are no bonds for those who have nothing beloved or unloved.",
+      "sezon": "だから何も愛するな。愛しいものとの別れは苦しい。愛も嫌悪も持たねぇ者には、束縛がねぇ。",
+      "keywords": ["piya", "gantha", "pāpaka", "apāya"]
+    },
+    {
+      "number": 212,
+      "pali": "Piyato jāyatī soko, piyato jāyatī bhayaṃ;\npiyato vippamuttassa, natthi soko kuto bhayaṃ.",
+      "reading": "ピヤトー ジャーヤティー ソーコー、ピヤトー ジャーヤティー バヤン；\nピヤトー ヴィッパムッタッサ、ナッティ ソーコー クトー バヤン。",
+      "english": "From endearment springs grief, from endearment springs fear. For one who is wholly free from endearment there is no grief, whence then fear?",
+      "sezon": "愛着から悲しみが生まれ、愛着から恐怖が生まれる。愛着から完全に解放された者に悲しみはねぇ──恐怖なんぞどこから来る？",
+      "keywords": ["piya", "soka", "bhaya", "vippamutta"]
+    },
+    {
+      "number": 213,
+      "pali": "Pemato jāyatī soko, pemato jāyatī bhayaṃ;\npemato vippamuttassa, natthi soko kuto bhayaṃ.",
+      "reading": "ペーマトー ジャーヤティー ソーコー、ペーマトー ジャーヤティー バヤン；\nペーマトー ヴィッパムッタッサ、ナッティ ソーコー クトー バヤン。",
+      "english": "From affection springs grief, from affection springs fear. For one who is wholly free from affection there is no grief, whence then fear?",
+      "sezon": "愛情から悲しみが生まれ、愛情から恐怖が生まれる。愛情から完全に解放された者に悲しみはねぇ──恐怖なんぞどこから来る？",
+      "keywords": ["pema", "soka", "bhaya", "vippamutta"]
+    },
+    {
+      "number": 214,
+      "pali": "Ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ;\nratiyā vippamuttassa, natthi soko kuto bhayaṃ.",
+      "reading": "ラティヤー ジャーヤティー ソーコー、ラティヤー ジャーヤティー バヤン；\nラティヤー ヴィッパムッタッサ、ナッティ ソーコー クトー バヤン。",
+      "english": "From attachment springs grief, from attachment springs fear. For one who is wholly free from attachment there is no grief, whence then fear?",
+      "sezon": "執着から悲しみが生まれ、執着から恐怖が生まれる。執着から完全に解放された者に悲しみはねぇ──恐怖なんぞどこから来る？",
+      "keywords": ["rati", "soka", "bhaya", "vippamutta"]
+    },
+    {
+      "number": 215,
+      "pali": "Kāmato jāyatī soko, kāmato jāyatī bhayaṃ;\nkāmato vippamuttassa, natthi soko kuto bhayaṃ.",
+      "reading": "カーマトー ジャーヤティー ソーコー、カーマトー ジャーヤティー バヤン；\nカーマトー ヴィッパムッタッサ、ナッティ ソーコー クトー バヤン。",
+      "english": "From lust springs grief, from lust springs fear. For one who is wholly free from craving there is no grief; whence then fear?",
+      "sezon": "欲望から悲しみが生まれ、欲望から恐怖が生まれる。欲望から完全に解放された者に悲しみはねぇ──恐怖なんぞどこから来る？",
+      "keywords": ["kāma", "soka", "bhaya", "vippamutta"]
+    },
+    {
+      "number": 216,
+      "pali": "Taṇhāya jāyatī soko, taṇhāya jāyatī bhayaṃ;\ntaṇhāya vippamuttassa, natthi soko kuto bhayaṃ.",
+      "reading": "タンハーヤ ジャーヤティー ソーコー、タンハーヤ ジャーヤティー バヤン；\nタンハーヤ ヴィッパムッタッサ、ナッティ ソーコー クトー バヤン。",
+      "english": "From craving springs grief, from craving springs fear. For one who is wholly free from craving there is no grief; whence then fear?",
+      "sezon": "渇愛から悲しみが生まれ、渇愛から恐怖が生まれる。渇愛から完全に解放された者に悲しみはねぇ──恐怖なんぞどこから来る？",
+      "keywords": ["taṇhā", "soka", "bhaya", "vippamutta"]
+    },
+    {
+      "number": 217,
+      "pali": "Sīladassanasampannaṃ, dhammaṭṭhaṃ saccavedinaṃ;\nattano kamma kubbānaṃ, taṃ jano kurute piyaṃ.",
+      "reading": "スィーラダッサナサンパンナン、ダンマッタン サッチャヴェーディナン；\nアッタノー カンマ クッバーナン、タン ジャノー クルテー ピヤン。",
+      "english": "People hold dear him who embodies virtue and insight, who is principled, has realized the truth, and who himself does what he ought to be doing.",
+      "sezon": "徳と洞察を備え、法に立ち、真理を悟り、自らなすべきことをなす者──人々はそういう奴を愛する。",
+      "keywords": ["sīla", "dassana", "dhamma", "sacca"]
+    },
+    {
+      "number": 218,
+      "pali": "Chandajāto anakkhāte, manasā ca phuṭo siyā;\nkāmesu ca appaṭibaddhacitto, uddhaṃsototi vuccati.",
+      "reading": "チャンダジャートー アナッカーテー、マナサー チャ プトー スィヤー；\nカーメース チャ アッパティバッダチットー、ウッダンソートーティ ヴッチャティ。",
+      "english": "One who is intent upon the Ineffable (Nibbana), dwells with mind inspired (by supramundane wisdom), and is no more bound by sense pleasures — such a man is called \"One Bound Upstream.\"",
+      "sezon": "言語を超えたもの（涅槃）を志し、心が出世間の智慧に満たされ、感覚の快楽にもう縛られねぇ者──そいつは『上流に向かう者』と呼ばれる。",
+      "keywords": ["anakkhāta", "kāma", "uddhaṃsota", "chanda"]
+    },
+    {
+      "number": 219,
+      "pali": "Cirappavāsiṃ purisaṃ, dūrato sotthimāgataṃ;\nñātimittā suhajjā ca, abhinandanti āgataṃ.",
+      "reading": "チラッパヴァースィン プリサン、ドゥーラトー ソッティマーガタン；\nニャーティミッター スハッジャー チャ、アビナンダンティ アーガタン。",
+      "english": "When, after a long absence, a man safely returns from afar, his relatives, friends and well-wishers welcome him home on arrival.",
+      "sezon": "長い旅から無事に帰ってきた者を、親族も友人も喜んで迎える。",
+      "keywords": ["ñāti", "mitta", "āgata", "sotthī"]
+    },
+    {
+      "number": 220,
+      "pali": "Tatheva katapuññampi, asmā lokā paraṃ gataṃ;\npuññāni paṭigaṇhanti, piyaṃ ñātīva āgataṃ.",
+      "reading": "タテーヴァ カタプンニャンピ、アスマー ローカー パラン ガタン；\nプンニャーニ パティガンハンティ、ピヤン ニャーティーヴァ アーガタン。",
+      "english": "As kinsmen welcome a dear one on arrival, even so his own good deeds will welcome the doer of good who has gone from this world to the next.",
+      "sezon": "同じように、この世からあの世へ行った善行者を、その功徳が出迎える──帰ってきた愛しい親族を迎えるようにな。",
+      "keywords": ["puñña", "ñāti", "piya", "paraloka"]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "chapter": 1,
+  "pali_name": "Yamakavagga",
+  "japanese_name": "双対品",
+  "english_name": "Pairs",
+  "summary": "第1章は「対（つい）」をテーマに、善と悪、清浄と不浄、本質と非本質など、二つで一組の真理を20偈で説く。すべては心に始まる──汚れた心は苦を、清らかな心は幸福を引き寄せる。因果の法則を、セゾンがぶっきらぼうに、しかし正確に叩き込む。",
+  "verse_range": "1-20",
+  "verses": [
+    {
+      "number": 1,
+      "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;\nmanasā ce paduṭṭhena, bhāsati vā karoti vā,\ntato naṃ dukkham anveti, cakkaṃ va vahato padaṃ.",
+      "reading": "マノープッバンガマー ダンマー、マノーセッター マノーマヤー；\nマナサー チェー パドゥッテーナ、バーサティ ヴァー カローティ ヴァー、\nタトー ナン ドゥッカマンヴェーティ、チャッカン ヴァ ヴァハトー パダン。",
+      "english": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.",
+      "sezon": "心がボスだ。心が号令を出す。すべては心が作ってる。──汚ェ心で語り、動けば、苦しみがついて回る。牛車の車輪みてぇにな。",
+      "keywords": ["mano", "dukkha", "cakka", "dhamma"]
+    },
+    {
+      "number": 2,
+      "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;\nmanasā ce pasannena, bhāsati vā karoti vā,\ntato naṃ sukham anveti, chāyā va anapāyinī.",
+      "reading": "マノープッバンガマー ダンマー、マノーセッター マノーマヤー；\nマナサー チェー パサンネーナ、バーサティ ヴァー カローティ ヴァー、\nタトー ナン スカマンヴェーティ、チャーヤー ヴァ アナパーイニー。",
+      "english": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.",
+      "sezon": "心がボスだ。心が号令を出す。すべては心が作ってる。──清ェ心で語り、動けば、幸福がついて回る。離れねぇ影みてぇにな。",
+      "keywords": ["mano", "sukha", "chāyā", "pasanna"]
+    },
+    {
+      "number": 3,
+      "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;\nye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+      "reading": "アッコッチ マン アヴァディ マン、アジニ マン アハーシ メー；\nイェー チャ タン ウパナイハンティ、ヴェーラン テーサン ナ サンマティ。",
+      "english": "\"He abused me, he struck me, he overpowered me, he robbed me.\" Those who harbor such thoughts do not still their hatred.",
+      "sezon": "『あいつに罵られた、殴られた、負かされた、奪われた』──こんなもん握りしめてる奴の怨みは、いつまで経っても鎮まらねぇ。",
+      "keywords": ["vera", "upanayhanti", "akkocchi"]
+    },
+    {
+      "number": 4,
+      "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me;\nye ca taṃ nupanayhanti, veraṃ tesūpasammati.",
+      "reading": "アッコッチ マン アヴァディ マン、アジニ マン アハーシ メー；\nイェー チャ タン ヌパナイハンティ、ヴェーラン テースーパサンマティ。",
+      "english": "\"He abused me, he struck me, he overpowered me, he robbed me.\" Those who do not harbor such thoughts still their hatred.",
+      "sezon": "『罵られた、殴られた、負かされた、奪われた』──こいつを手放した奴は、怨みが静まる。シンプルな話だろ。",
+      "keywords": ["vera", "upasammati", "nupanayhanti"]
+    },
+    {
+      "number": 5,
+      "pali": "Na hi verena verāni, sammantīdha kudācanaṃ;\naverena ca sammanti, esa dhammo sanantano.",
+      "reading": "ナ ヒ ヴェーレーナ ヴェーラーニ、サンマンティーダ クダーチャナン；\nアヴェーレーナ チャ サンマンティ、エーサ ダンモー サナンタノー。",
+      "english": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.",
+      "sezon": "怨みで怨みは鎮まらねぇ。絶対にだ。怨みなきによってのみ鎮まる。──これは永遠の法だ。オレが決めたんじゃねぇ、宇宙の法則だ。",
+      "keywords": ["vera", "avera", "dhamma", "sanantana"]
+    },
+    {
+      "number": 6,
+      "pali": "Pare ca na vijānanti, mayam ettha yamāmase;\nye ca tattha vijānanti, tato sammanti medhagā.",
+      "reading": "パレー チャ ナ ヴィジャーナンティ、マヤメッタ ヤマーマセー；\nイェー チャ タッタ ヴィジャーナンティ、タトー サンマンティ メーダガー。",
+      "english": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels.",
+      "sezon": "『いつか全員死ぬ』ってことに気づかねぇ奴は、いつまでも揉め続ける。だが気づいた奴は──争いを止める。当たり前だ、時間がもったいねぇからな。",
+      "keywords": ["vijānanti", "medhagā", "yamāmase"]
+    },
+    {
+      "number": 7,
+      "pali": "Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ,\nbhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ,\ntaṃ ve pasahati Māro, vāto rukkhaṃ va dubbalaṃ.",
+      "reading": "スバーヌパッシン ヴィハランタン、インドゥリイェース アサンヴタン、\nボージャナンヒ チャーマッタンニュン、クスィータン ヒーナヴィーリヤン、\nタン ヴェー パサハティ マーロー、ヴァートー ルッカン ヴァ ドゥッバラン。",
+      "english": "Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated.",
+      "sezon": "快楽ばっか追いかけて、感覚を制御しねぇ、メシは節操なく食う、怠けて精進しねぇ──そんな奴はマーラ（悪魔）にぶっ倒される。嵐に薙ぎ倒される弱ェ木と同じだ。",
+      "keywords": ["Māra", "subha", "indriya", "vīriya"]
+    },
+    {
+      "number": 8,
+      "pali": "Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ,\nbhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ,\ntaṃ ve nappasahati Māro, vāto selaṃ va pabbataṃ.",
+      "reading": "アスバーヌパッシン ヴィハランタン、インドゥリイェース ススンヴタン、\nボージャナンヒ チャ マッタンニュン、サッダン アーラッダヴィーリヤン、\nタン ヴェー ナッパサハティ マーロー、ヴァートー セーラン ヴァ パッバタン。",
+      "english": "Just as a storm cannot prevail against a rocky mountain, so Mara can never overpower the man who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort.",
+      "sezon": "不浄を観じて（身体の本質を見据えて）、感覚を制御し、メシは適量で、信をもって精進する奴──マーラでも倒せねぇ。岩山に吹きつける風みてぇなもんだ、びくともしねぇ。",
+      "keywords": ["Māra", "asubha", "indriya", "saddhā", "vīriya"]
+    },
+    {
+      "number": 9,
+      "pali": "Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati,\napeto damasaccena, na so kāsāvam arahati.",
+      "reading": "アニッカサーヴォー カーサーヴァン、ヨー ヴァッタン パリダヒッサティ、\nアペートー ダマサッチェーナ、ナ ソー カーサーヴァマラハティ。",
+      "english": "Whoever being depraved, devoid of self-control and truthfulness, should don the monk's yellow robe, he surely is not worthy of the robe.",
+      "sezon": "心の汚れを落としてねぇ奴が、袈裟（黄衣）を纏ったところで意味はねぇ。自制も真実もねぇなら、その袈裟はただの布だ。",
+      "keywords": ["kāsāva", "dama", "sacca", "kasāva"]
+    },
+    {
+      "number": 10,
+      "pali": "Yo ca vantakasāv'assa, sīlesu susamāhito,\nupeto damasaccena, sa ve kāsāvam arahati.",
+      "reading": "ヨー チャ ヴァンタカサーヴァッサ、スィーレース ススマーヒトー、\nウペートー ダマサッチェーナ、サ ヴェー カーサーヴァマラハティ。",
+      "english": "But whoever is purged of depravity, well-established in virtues and filled with self-control and truthfulness, he indeed is worthy of the yellow robe.",
+      "sezon": "汚れを吐き出し、戒をしっかり守り、自制と真実を備えた奴──そいつこそ袈裟を着る資格がある。外見じゃねぇ、中身だ。",
+      "keywords": ["kāsāva", "sīla", "dama", "sacca"]
+    },
+    {
+      "number": 11,
+      "pali": "Asāre sāramatino, sāre cāsāradassino,\nte sāraṃ nādhigacchanti, micchāsaṅkappagocarā.",
+      "reading": "アサーレー サーラマティノー、サーレー チャーサーラダッシノー、\nテー サーラン ナーディガッチャンティ、ミッチャーサンカッパゴーチャラー。",
+      "english": "Those who mistake the unessential to be essential and the essential to be unessential, dwelling in wrong thoughts, never arrive at the essential.",
+      "sezon": "どうでもいいモンを大事だと思い込み、本当に大事なモンを見落とす──邪な思考に住んでる奴は、本質にゃ永遠に辿り着けねぇ。",
+      "keywords": ["sāra", "asāra", "micchāsaṅkappa"]
+    },
+    {
+      "number": 12,
+      "pali": "Sārañca sārato ñatvā, asārañca asārato,\nte sāraṃ adhigacchanti, sammāsaṅkappagocarā.",
+      "reading": "サーランチャ サーラトー ニャトゥヴァー、アサーランチャ アサーラトー、\nテー サーラン アディガッチャンティ、サンマーサンカッパゴーチャラー。",
+      "english": "Those who know the essential to be essential and the unessential to be unessential, dwelling in right thoughts, do arrive at the essential.",
+      "sezon": "本質を本質と見抜き、非本質を非本質と知る──正しい思考に住む奴は、ちゃんと本質に辿り着く。目ぇ開けて歩け、ってこった。",
+      "keywords": ["sāra", "sammāsaṅkappa"]
+    },
+    {
+      "number": 13,
+      "pali": "Yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati,\nevaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.",
+      "reading": "ヤター アガーラン ドゥッチャンナン、ヴッティー サマティヴィッジャティ、\nエーヴァン アバーヴィタン チッタン、ラーゴー サマティヴィッジャティ。",
+      "english": "Just as rain breaks through an ill-thatched house, so passion penetrates an undeveloped mind.",
+      "sezon": "屋根がボロい家にゃ、雨がダダ漏れだ。鍛えてねぇ心にゃ、貪り（むさぼり）がダダ漏れる。同じこった。",
+      "keywords": ["rāga", "citta", "agāra", "bhāvita"]
+    },
+    {
+      "number": 14,
+      "pali": "Yathā agāraṃ succhannaṃ, vuṭṭhī na samativijjhati,\nevaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.",
+      "reading": "ヤター アガーラン スッチャンナン、ヴッティー ナ サマティヴィッジャティ、\nエーヴァン スバーヴィタン チッタン、ラーゴー ナ サマティヴィッジャティ。",
+      "english": "Just as rain does not break through a well-thatched house, so passion never penetrates a well-developed mind.",
+      "sezon": "しっかり葺いた屋根にゃ、雨は漏らねぇ。よく修めた心にゃ、貪りは入り込めねぇ。──屋根を葺け。手ぇ抜くな。",
+      "keywords": ["rāga", "citta", "subhāvita"]
+    },
+    {
+      "number": 15,
+      "pali": "Idha socati pecca socati, pāpakārī ubhayattha socati;\nso socati so vihaññati, disvā kammakiliṭṭham attano.",
+      "reading": "イダ ソーチャティ ペッチャ ソーチャティ、パーパカーリー ウバヤッタ ソーチャティ；\nソー ソーチャティ ソー ヴィハンニャティ、ディスゥヴァー カンマキリッタマッタノー。",
+      "english": "The evil-doer grieves here and hereafter; he grieves in both the worlds. He laments and is afflicted, recollecting his own impure deeds.",
+      "sezon": "悪ィことした奴は、この世で嘆き、あの世でも嘆く。両方で嘆く。自分の汚ェ行いを見て、苦しみもがく。自業自得だ。",
+      "keywords": ["pāpa", "socati", "kamma"]
+    },
+    {
+      "number": 16,
+      "pali": "Idha modati pecca modati, katapuñño ubhayattha modati;\nso modati so pamodati, disvā kammavisuddhim attano.",
+      "reading": "イダ モーダティ ペッチャ モーダティ、カタプンニョー ウバヤッタ モーダティ；\nソー モーダティ ソー パモーダティ、ディスゥヴァー カンマヴィスッディマッタノー。",
+      "english": "The doer of good rejoices here and hereafter; he rejoices in both the worlds. He rejoices and exults, recollecting his own pure deeds.",
+      "sezon": "善いことした奴は、この世で喜び、あの世でも喜ぶ。両方で喜ぶ。自分の清ェ行いを見て、心から喜ぶ。──な？　シンプルだろ。",
+      "keywords": ["puñña", "modati", "kamma", "visuddhi"]
+    },
+    {
+      "number": 17,
+      "pali": "Idha tappati pecca tappati, pāpakārī ubhayattha tappati;\n\"pāpaṃ me katan\"ti tappati, bhiyyo tappati duggatiṃ gato.",
+      "reading": "イダ タッパティ ペッチャ タッパティ、パーパカーリー ウバヤッタ タッパティ；\nパーパン メー カタンティ タッパティ、ビイヨー タッパティ ドゥッガティン ガトー。",
+      "english": "The evil-doer suffers here and hereafter; he suffers in both the worlds. The thought, \"Evil have I done,\" torments him, and he suffers even more when gone to realms of woe.",
+      "sezon": "悪ィことした奴は、この世で苦しみ、あの世でも苦しむ。『俺は悪いことをした』──その思いが焼く。悪趣（地獄など）に堕ちりゃ、もっと焼かれる。",
+      "keywords": ["pāpa", "tappati", "duggati"]
+    },
+    {
+      "number": 18,
+      "pali": "Idha nandati pecca nandati, katapuñño ubhayattha nandati;\n\"puññaṃ me katan\"ti nandati, bhiyyo nandati suggatiṃ gato.",
+      "reading": "イダ ナンダティ ペッチャ ナンダティ、カタプンニョー ウバヤッタ ナンダティ；\nプンニャン メー カタンティ ナンダティ、ビイヨー ナンダティ スッガティン ガトー。",
+      "english": "The doer of good delights here and hereafter; he delights in both the worlds. The thought, \"Good have I done,\" delights him, and he delights even more when gone to realms of bliss.",
+      "sezon": "善いことした奴は、この世で楽しみ、あの世でも楽しむ。『俺は善いことをした』──その思いが喜びになる。善趣（天界など）に生まれりゃ、もっと楽しむ。",
+      "keywords": ["puñña", "nandati", "suggati"]
+    },
+    {
+      "number": 19,
+      "pali": "Bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto,\ngopo va gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.",
+      "reading": "バフン ピ チェー サヒタン バーサマーノー、ナ タッカロー ホーティ ナロー パマットー、\nゴーポー ヴァ ガーヴォー ガナヤン パレーサン、ナ バーガヴァー サーマンニャッサ ホーティ。",
+      "english": "Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others — he does not partake of the blessings of the holy life.",
+      "sezon": "聖典をいくら暗誦したって、実践しねぇ怠け者は──他人の牛を数えるだけの牛飼いと同じだ。沙門の果報にゃ、指一本触れらんねぇ。口だけ野郎は要らねぇんだよ。",
+      "keywords": ["sahita", "pamatta", "gopa", "sāmañña"]
+    },
+    {
+      "number": 20,
+      "pali": "Appaṃ pi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī,\nrāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto,\nanupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+      "reading": "アッパン ピ チェー サヒタン バーサマーノー、ダンマッサ ホーティ アヌダンマチャーリー、\nラーガンチャ ドーサンチャ パハーヤ モーハン、サンマッパジャーノー スヴィムッタチットー、\nアヌパーディヤーノー イダ ヴァー フラン ヴァー、サ バーガヴァー サーマンニャッサ ホーティ。",
+      "english": "Little though he recites the sacred texts, but puts the Teaching into practice, forsaking lust, hatred, and delusion, with true wisdom and emancipated mind, clinging to nothing of this or any other world — he indeed partakes of the blessings of a holy life.",
+      "sezon": "聖典の暗誦が少なくても、法に従って実践する奴──貪り・怒り・愚かさを捨て、正しく知り、心が解き放たれ、この世にもあの世にも執着しねぇ──そいつこそ沙門の果報を得る。やるかやらねぇか、それだけだ。",
+      "keywords": ["dhamma", "rāga", "dosa", "moha", "vimutti"]
+    }
+  ]
+}

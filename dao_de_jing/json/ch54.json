@@ -1,0 +1,44 @@
+{
+  "chapter": 54,
+  "chinese_name": "善建不拔",
+  "japanese_name": "徳の広がり",
+  "summary": "善く建てたものは抜けず、身から天下へ徳を修めれば普く行き渡る。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "善建不拔，善抱者不脫，子孫以祭祀不輟。",
+      "modern_ja": "善く建てたものは抜けず、善く抱いたものは脱けず、子孫の祭祀は絶えない。",
+      "english": "What is well-established cannot be uprooted; what is well-held cannot slip away. Descendants will honor it without cease.",
+      "laozi": "ちゃんと建てたものは抜けない。ちゃんと抱いたものは離れない。それだけのことだ",
+      "keywords": [
+        "善建",
+        "善抱",
+        "祭祀"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普。",
+      "modern_ja": "これを身に修めればその徳は真となり、家に修めればその徳は余り、郷に修めればその徳は長く、国に修めればその徳は豊かに、天下に修めればその徳は普（あまね）し。",
+      "english": "Cultivated in the self, virtue becomes genuine. In the family, it overflows. In the community, it endures. In the nation, it flourishes. In the world, it becomes universal.",
+      "laozi": "まず自分。それから家。郷。国。天下。徳は内から外に広がる。逆はない",
+      "keywords": [
+        "修身",
+        "修家",
+        "修天下",
+        "徳"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "故以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下。吾何以知天下然哉？以此。",
+      "modern_ja": "だから身をもって身を観、家をもって家を観、郷をもって郷を観、国をもって国を観、天下をもって天下を観る。私がなぜ天下の様子を知るかといえば、これによるのだ。",
+      "english": "Thus observe the self through the self, the family through the family, the community through the community, the nation through the nation, the world through the world. How do I know the world? Through this.",
+      "laozi": "自分で自分を観る。家で家を観る。天下のことがなぜわかるか？ …全部同じ構造だからだ",
+      "keywords": [
+        "以身観身",
+        "以天下観天下"
+      ]
+    }
+  ]
+}

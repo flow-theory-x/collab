@@ -1,0 +1,33 @@
+{
+  "chapter": 73,
+  "chinese_name": "勇於敢則殺",
+  "japanese_name": "天網恢恢",
+  "summary": "天の道は争わず勝ち、天の網は粗いが漏らさない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "勇於敢則殺，勇於不敢則活。此兩者，或利或害。天之所惡，孰知其故？是以聖人猶難之。",
+      "modern_ja": "あえてする勇は殺され、あえてしない勇は活かされる。この二つは利にも害にもなる。天が何を憎むか、誰がその理由を知ろうか。聖人すらこれを難しとする。",
+      "english": "Courage in daring leads to death; courage in not-daring leads to life. Of these two, one benefits and one harms. Who knows why Heaven hates what it hates? Even the sage finds this difficult.",
+      "laozi": "やる勇気で死ぬ。やらない勇気で生きる。どっちが正しいかって？ 天にしかわからない。俺にもわからない",
+      "keywords": [
+        "勇",
+        "敢",
+        "不敢",
+        "天"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀。天網恢恢，踈而不失。",
+      "modern_ja": "天の道は、争わずして善く勝ち、言わずして善く応じ、招かずして自ら来たり、悠然として善く謀る。天の網は広大で粗いが、漏らすことがない。",
+      "english": "Heaven's way: it does not compete yet wins well, does not speak yet responds well, does not summon yet things come of themselves, is unhurried yet plans well. Heaven's net is vast and loose, yet nothing slips through.",
+      "laozi": "天の網、知ってるか。でかい。粗い。でも、漏れない。一つも漏れない。…怖いだろ",
+      "keywords": [
+        "天網恢恢",
+        "不争善勝",
+        "不言善応"
+      ]
+    }
+  ]
+}

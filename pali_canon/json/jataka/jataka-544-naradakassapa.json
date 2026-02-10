@@ -1,0 +1,82 @@
+{
+  "jataka_number": 544,
+  "pali_name": "Mahānāradakassapa Jātaka",
+  "japanese_name": "マハーナーラダカッサパ本生",
+  "english_name": "The Story of Nārada Kassapa",
+  "parami": "捨波羅蜜（Upekkhā）",
+  "summary": "ヴィデーハ国のアンガティ王が裸行者グナ・カッサパの虚無論に騙され、快楽に溺れる。王女ルージャーが前世の記憶をもとに因果の法を説き父を諭すが改心しきれない。そこに大梵天ナーラダが天から降り、地獄の恐怖と正しい道を示して王を邪見から救い出す。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "月夜の問い",
+      "pali": "Aṅgati",
+      "reading": "アンガティ",
+      "english": "King Aṅgati of Videha, on a beautiful full-moon night, asks his three ministers how to spend the evening. Alāta suggests war, Sunāma suggests feasting, but Vijaya suggests visiting a holy man for spiritual guidance. The king agrees with Vijaya.",
+      "sezon": "ヴィデーハの王アンガティが、満月の夜に三人の大臣に聞いた。「今夜、何して遊ぶ？」アラータは「戦争だ」、スナーマは「宴だ」と言ったが、ヴィジャヤが「聖者を訪ねて法を聞こう」と。王はヴィジャヤに同意した。——まあ、ここまでは良かったんだ。問題は、誰のところに行ったかだ。",
+      "keywords": ["Aṅgati", "Videha", "満月", "三大臣", "聖者探し"]
+    },
+    {
+      "number": 2,
+      "title": "裸行者グナの邪見",
+      "pali": "Guṇa Kassapa",
+      "reading": "グナ・カッサパ",
+      "english": "Alāta recommends the naked ascetic Guṇa Kassapa. The king visits him and asks about proper conduct. Guṇa teaches nihilism: there is no merit or demerit, no other world, no use in giving, all beings are purified through 84 great aeons regardless of conduct. The king accepts this false teaching.",
+      "sezon": "アラータが勧めた先は、裸行者グナ・カッサパ。こいつがとんでもない奴でな。「善も悪もない。来世もない。布施は無駄だ。八十四大劫を経れば全員勝手に浄化される。何をしようが同じだ」と。王はまんまと信じた。大臣アラータは「俺も前世で牛殺しまくったが地獄に落ちなかった」と追認。奴隷のビージャカだけが泣いた——前世で善人だったのに今は奴隷だと。王は「運命だ、気にするな」と。邪見の完成だ。",
+      "keywords": ["Guṇa Kassapa", "裸行者", "虚無論", "邪見", "業の否定"]
+    },
+    {
+      "number": 3,
+      "title": "王女ルージャーの前世語り",
+      "pali": "Rujā",
+      "reading": "ルージャー",
+      "english": "Princess Rujā, the king's wise daughter, confronts her father's heresy. She recounts her seven past lives: from a licentious smith to a castrated goat, a monkey, an ox, a sexless person, a celestial nymph, and finally the princess. Each rebirth was determined by past actions, proving the law of kamma.",
+      "sezon": "王女ルージャーだけは正気だった。「学者に教えを請うたつもりが、子供騙しの嘘つきに引っかかっただけじゃないですか」と。そして自分の七つの前世を語った。ラージャガハの鍛冶屋の息子で人妻と通じた報いで、去勢された山羊に生まれ、次は猿、その次は牛。男でも女でもない体に生まれたこともある。天女になった時、全ての前世を思い出した。「行いの報いは、何百もの生を経ても追いかけてくる。これでも業がないと？」",
+      "keywords": ["Rujā", "前世", "七つの生", "業報", "輪廻"]
+    },
+    {
+      "number": 4,
+      "title": "ルージャーの法の教え",
+      "pali": "Dhamma",
+      "reading": "ダンマ",
+      "english": "Rujā teaches her father the true Dhamma: the law of kamma, the importance of avoiding others' wives, respecting elders, and following the threefold purity of body, speech and mind. Despite her eloquent teaching, the king is pleased by her sweet words but does not fully abandon his false views.",
+      "sezon": "ルージャーは一晩中、父に法を説いた。「他人の妻を犯すな。主人を敬え。身口意の三業を清めよ。女に生まれようと男に生まれようと、善行は善果を呼ぶ」と。だが、親ってのは子供の言葉を可愛がりはしても、自分の古い考えは捨てないもんだ。王は喜んだが、心は変わらなかった。ルージャーは諦めず、十方の神々に祈った。「この世に正しい修行者がいるなら、来て父を救ってくれ」と。",
+      "keywords": ["正法", "三業", "業報因果", "父への諫言", "祈り"]
+    },
+    {
+      "number": 5,
+      "title": "大梵天ナーラダの降臨",
+      "pali": "Nārada",
+      "reading": "ナーラダ",
+      "english": "The Bodhisatta, who was the Mahābrahma Nārada at that time, sees Rujā's prayer and descends from the Brahma realm in the guise of a glorious ascetic. He stands in the sky before the king, who is humbled by his radiance and descends from his throne.",
+      "sezon": "その時、大梵天の位にあったのが菩薩ナーラダだった。ルージャーの祈りを聞き、黄金の肌、絡み合う髪、ぼろ布の衣、真珠の紐で吊るした金の鉢——そんな出で立ちで空を飛んできた。月のように輝きながら宮殿の前に立った。王は威光に打たれ、玉座から降りて地に立った。「お前は誰だ」と。「ナーラダという。カッサパ族の者だ。梵天界から来た」。",
+      "keywords": ["Nārada", "大梵天", "降臨", "苦行者", "神威"]
+    },
+    {
+      "number": 6,
+      "title": "地獄の描写",
+      "pali": "Niraya",
+      "reading": "ニラヤ",
+      "english": "When the king mockingly offers to repay money in the next world, Nārada rebukes him and describes the horrors of hell in vivid detail: ravens devouring flesh, blind darkness between worlds, giant dogs with iron teeth, spears and arrows raining down, blazing mountains, forests of swords, the river Vetaraṇī, and the silk-cotton tree of hell.",
+      "sezon": "王が「来世で千金返すから五百貸してくれ」と笑ったら、ナーラダは容赦しなかった。「お前みたいな残忍な奴に、誰が金を貸す？地獄で取り立てに行く奴がいると思うか？」そして地獄の有様を語った。カラスに啄まれる地獄。暗黒の間隙地獄。鉄の歯の巨犬に食われる地獄。炎の山を登る地獄。剣の葉の森。熱風の地獄。そしてヴェータラニー川——沸騰した水が流れ、鉄の蓮が刃のように咲いている。「ここで千金の返済を求める奴がいるか？」",
+      "keywords": ["地獄", "Niraya", "Vetaraṇī", "恐怖", "応報"]
+    },
+    {
+      "number": 7,
+      "title": "車の譬えと正道",
+      "pali": "Rathavinīta",
+      "reading": "ラタヴィニータ",
+      "english": "The terrified king begs for guidance. Nārada teaches him the path of purity through the metaphor of a chariot: the body is the chariot, the mind is the charioteer, non-injury is the axle, generosity the covering, self-control the wheels, truthful speech its joints, faith and humility its parts, and righteousness the white umbrella.",
+      "sezon": "王は震え上がった。「教えてくれ、浄めの道を」と。ナーラダは車の譬えで法を説いた。体が車体、心が御者、不殺生が車軸、布施が覆い、自制が車輪、正語が継ぎ手、信と謙虚が部品、正義が白い傘。「この車に乗れば、全ての望みは叶う。地獄には決して行かん」。さらに過去の正しい王たちの名を挙げ、布施と善行の道を示した。王の邪見は砕かれ、戒律に帰依した。",
+      "keywords": ["車の譬え", "正道", "布施", "自制", "五戒"]
+    },
+    {
+      "number": 8,
+      "title": "梵天界への帰還",
+      "pali": "Brahmaloka",
+      "reading": "ブラフマローカ",
+      "english": "Having instructed king Aṅgati in the Dhamma, removed his false views, established him in the moral precepts, and praised princess Rujā's virtues, Nārada exhorts the royal court and wives, then passes before their eyes back to the Brahma realm with great majesty.",
+      "sezon": "邪見を取り除き、戒律に立たせ、善友に従えと命じ、ルージャーの徳を讃えた後、ナーラダは宮廷の者たちを諭し、皆の目の前で大いなる威厳をもって梵天界へ帰っていった。——ブッダが言った。「あの時もウルヴェーラ・カッサパの迷いを断ったのは私だ。今も昔も、邪見の網を断ち切るのは智慧の力だ」。結局のところ、間違った教師について行けば地獄行き、正しい友と歩めば天に至る。それだけの話だ。",
+      "keywords": ["梵天界", "帰還", "邪見の除去", "善友", "Uruvelā Kassapa"]
+    }
+  ]
+}

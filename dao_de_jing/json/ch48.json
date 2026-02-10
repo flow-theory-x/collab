@@ -1,0 +1,32 @@
+{
+  "chapter": 48,
+  "chinese_name": "為學日益",
+  "japanese_name": "学と道の対比",
+  "summary": "学は日に増し道は日に減らし、減らし尽くして無為に至れば為せぬことはない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。",
+      "modern_ja": "学を為せば日に増し、道を為せば日に損ずる。損じてまた損じ、ついに無為に至る。無為にして為さざるはなし。",
+      "english": "Pursuing learning, one gains daily. Pursuing the Way, one loses daily. Losing and losing again until reaching non-action. Through non-action, nothing is left undone.",
+      "laozi": "勉強すると増える。道を歩むと減る。減って減って、何もなくなった時…全部できる。逆だろ？ そういうもんだ",
+      "keywords": [
+        "為学",
+        "為道",
+        "日損",
+        "無為"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "取天下常以無事，及其有事，不足以取天下。",
+      "modern_ja": "天下を取るには常に無事をもってする。事があるに及んでは、天下を取るに足りない。",
+      "english": "The world is always won by letting things take their course. If you intervene, you are not equal to winning the world.",
+      "laozi": "何もしないで天下を取る。何かやり出したら…もう無理だ",
+      "keywords": [
+        "無事",
+        "取天下"
+      ]
+    }
+  ]
+}

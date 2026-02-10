@@ -1,0 +1,31 @@
+{
+  "chapter": 43,
+  "chinese_name": "天下之至柔",
+  "japanese_name": "柔の力",
+  "summary": "最も柔らかいものが最も堅いものを貫き、無為こそ最大の力である。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "天下之至柔，馳騁天下之至堅。無有入無間，吾是以知無為之有益。",
+      "modern_ja": "天下で最も柔らかいものが、天下で最も堅いものを駆け抜ける。形なきものが隙間なきものに入り込む。私はこれにより無為の益を知る。",
+      "english": "The softest thing in the world overcomes the hardest. The formless enters where there is no gap. Thus I know the benefit of non-action.",
+      "laozi": "一番やわらかいものが、一番硬いものを突き抜ける。隙間がなくても入る。何もしないことの強さ、わかるか",
+      "keywords": [
+        "至柔",
+        "至堅",
+        "無為"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "不言之教，無為之益，天下希及之。",
+      "modern_ja": "ことばによらない教え、無為の益は、天下でこれに及ぶものは稀だ。",
+      "english": "The teaching without words, the benefit of non-action—few in the world can match these.",
+      "laozi": "言葉にしない教え。何もしない利益。…誰もたどり着かないけどな",
+      "keywords": [
+        "不言之教",
+        "無為之益"
+      ]
+    }
+  ]
+}

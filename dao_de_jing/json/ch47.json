@@ -1,0 +1,32 @@
+{
+  "chapter": 47,
+  "chinese_name": "不出戶知天下",
+  "japanese_name": "内なる知",
+  "summary": "外に出ず内を見つめることで天下を知り、聖人は為さずして成す。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "不出戶知天下；不闚牖見天道。其出彌遠，其知彌少。",
+      "modern_ja": "戸を出ずして天下を知り、窓から覗かずして天道を見る。出れば出るほど知は少なくなる。",
+      "english": "Without leaving the door, know the world. Without looking through the window, see heaven's Way. The farther you go, the less you know.",
+      "laozi": "外に出れば出るほど、わからなくなる。部屋から出んなよ。答えは中にある",
+      "keywords": [
+        "不出戸",
+        "天道",
+        "知"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "是以聖人不行而知，不見而名，不為而成。",
+      "modern_ja": "だから聖人は行かずして知り、見ずして名づけ、為さずして成す。",
+      "english": "Thus the sage knows without traveling, names without seeing, achieves without acting.",
+      "laozi": "行かなくても知る。見なくても名づける。何もしなくても…成る。これが聖人",
+      "keywords": [
+        "不行而知",
+        "不為而成",
+        "聖人"
+      ]
+    }
+  ]
+}

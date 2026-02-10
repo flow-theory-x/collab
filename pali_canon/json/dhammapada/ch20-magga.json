@@ -1,0 +1,146 @@
+{
+  "chapter": 20,
+  "pali_name": "Maggavagga",
+  "japanese_name": "道品",
+  "english_name": "The Path",
+  "summary": "八正道こそ至高の道、三法印こそ至高の智。仏は道を示すだけ──歩くのはおまえ自身だ。怠けてる暇はねぇぞ。",
+  "verse_range": "273-289",
+  "verses": [
+    {
+      "number": 273,
+      "pali": "Maggānaṭṭhaṅgiko seṭṭho,\nsaccānaṃ caturo padā;\nvirāgo seṭṭho dhammānaṃ,\ndvipadānañca cakkhumā.",
+      "reading": "マッガーナッタンギコー セットー、\nサッチャーナン チャトゥロー パダー；\nヴィラーゴー セットー ダンマーナン、\nドゥヴィパダーナンチャ チャックマー。",
+      "english": "Of all the paths the Eightfold Path is the best; of all the truths the Four Noble Truths are the best; of all things passionlessness is the best: of men the Seeing One (the Buddha) is the best.",
+      "sezon": "道の中じゃ八正道が最上。真理の中じゃ四聖諦が最上。法の中じゃ離貪が最上。二足の者の中じゃ眼ある仏が最上だ。",
+      "keywords": ["aṭṭhaṅgika", "sacca", "virāga", "cakkhumā"]
+    },
+    {
+      "number": 274,
+      "pali": "Eseva maggo natthañño,\ndassanassa visuddhiyā;\netañhi tumhe paṭipajjatha,\nmārassetaṃ pamohanaṃ.",
+      "reading": "エーセーヴァ マッゴー ナッタンニョー、\nダッサナッサ ヴィスッディヤー；\nエータンヒ トゥメー パティパッジャタ、\nマーラッセータン パモーハナン。",
+      "english": "This is the only path; there is none other for the purification of insight. Tread this path, and you will bewilder Mara.",
+      "sezon": "これが唯一の道だ。他にはねぇ。智見の清浄にはこれしかねぇ。この道を行け──マーラを困惑させてやれ。",
+      "keywords": ["magga", "dassana", "visuddhi", "māra"]
+    },
+    {
+      "number": 275,
+      "pali": "Etañhi tumhe paṭipannā,\ndukkhassantaṃ karissatha;\nakkhāto vo mayā maggo,\naññāya sallakantanaṃ.",
+      "reading": "エータンヒ トゥメー パティパンナー、\nドゥッカッサンタン カリッサタ；\nアッカートー ヴォー マヤー マッゴー、\nアンニャーヤ サッラカンタナン。",
+      "english": "Walking upon this path you will make an end of suffering. Having discovered how to pull out the thorn of lust, I make known the path.",
+      "sezon": "この道を歩めば、苦の終わりに至る。煩悩の棘を抜く方法を俺は知った──だからこの道を示すんだ。",
+      "keywords": ["dukkha", "anta", "salla", "magga"]
+    },
+    {
+      "number": 276,
+      "pali": "Tumhehi kiccamātappaṃ,\nakkhātāro tathāgatā;\npaṭipannā pamokkhanti,\njhāyino mārabandhanā.",
+      "reading": "トゥメーヒ キッチャマータッパン、\nアッカーターロー タターガター；\nパティパンナー パモッカンティ、\nジャーイノー マーラバンダナー。",
+      "english": "You yourselves must strive; the Buddhas only point the way. Those meditative ones who tread the path are released from the bonds of Mara.",
+      "sezon": "精進するのはおまえら自身だ。如来は道を指し示すだけ。禅定に励み道を歩む者は、マーラの束縛から解き放たれる。",
+      "keywords": ["ātappa", "tathāgata", "jhāyī", "mārabandhana"]
+    },
+    {
+      "number": 277,
+      "pali": "\"Sabbe saṅkhārā aniccā\" ti,\nyadā paññāya passati;\natha nibbindati dukkhe,\nesa maggo visuddhiyā.",
+      "reading": "「サッベー サンカーラー アニッチャー」ティ、\nヤダー パンニャーヤ パッサティ；\nアタ ニッビンダティ ドゥッケー、\nエーサ マッゴー ヴィスッディヤー。",
+      "english": "\"All conditioned things are impermanent\" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.",
+      "sezon": "『一切の行は無常なり』──智慧でこれを見る時、苦から離れる。これが清浄への道だ。",
+      "keywords": ["saṅkhāra", "anicca", "paññā", "visuddhi"]
+    },
+    {
+      "number": 278,
+      "pali": "\"Sabbe saṅkhārā dukkhā\" ti,\nyadā paññāya passati;\natha nibbindati dukkhe,\nesa maggo visuddhiyā.",
+      "reading": "「サッベー サンカーラー ドゥッカー」ティ、\nヤダー パンニャーヤ パッサティ；\nアタ ニッビンダティ ドゥッケー、\nエーサ マッゴー ヴィスッディヤー。",
+      "english": "\"All conditioned things are unsatisfactory\" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.",
+      "sezon": "『一切の行は苦なり』──智慧でこれを見る時、苦から離れる。これが清浄への道だ。",
+      "keywords": ["saṅkhāra", "dukkha", "paññā", "visuddhi"]
+    },
+    {
+      "number": 279,
+      "pali": "\"Sabbe dhammā anattā\" ti,\nyadā paññāya passati;\natha nibbindati dukkhe,\nesa maggo visuddhiyā.",
+      "reading": "「サッベー ダンマー アナッター」ティ、\nヤダー パンニャーヤ パッサティ；\nアタ ニッビンダティ ドゥッケー、\nエーサ マッゴー ヴィスッディヤー。",
+      "english": "\"All things are not-self\" — when one sees this with wisdom, one turns away from suffering. This is the path to purification.",
+      "sezon": "『一切の法は無我なり』──智慧でこれを見る時、苦から離れる。これが清浄への道だ。",
+      "keywords": ["dhamma", "anattā", "paññā", "visuddhi"]
+    },
+    {
+      "number": 280,
+      "pali": "Uṭṭhānakālamhi anuṭṭhahāno,\nyuvā balī ālasiyaṃ upeto;\nsaṃsannasaṅkappamano kusīto,\npaññāya maggaṃ alaso na vindati.",
+      "reading": "ウッターナカーランヒ アヌッタハーノー、\nユヴァー バリー アーラシヤン ウペートー；\nサンサンナサンカッパマノー クシートー、\nパンニャーヤ マッガン アラソー ナ ヴィンダティ。",
+      "english": "The idler who does not exert himself when he should, who though young and strong is full of sloth, with a mind full of vain thoughts — such an indolent man does not find the path to wisdom.",
+      "sezon": "立ち上がるべき時に動かず、若くて力があるのに怠惰に浸り、意志も沈みきった怠け者──そんな奴は智慧への道を見つけられねぇ。",
+      "keywords": ["uṭṭhāna", "ālasiya", "kusīta", "paññā"]
+    },
+    {
+      "number": 281,
+      "pali": "Vācānurakkhī manasā susaṃvuto,\nkāyena ca nākusalaṃ kayirā;\nete tayo kammapathe visodhaye,\nārādhaye maggaṃ isippaveditaṃ.",
+      "reading": "ヴァーチャーヌラッキー マナサー スサンヴトー、\nカーイェーナ チャ ナークサラン カイラー；\nエーテー タヨー カンマパテー ヴィソーダイェー、\nアーラーダイェー マッガン イシッパヴェーディタン。",
+      "english": "Let a man be watchful of speech, well controlled in mind, and not commit evil in bodily action. Let him purify these three courses of action, and win the path made known by the Great Sage.",
+      "sezon": "言葉に気をつけ、心をしっかり制し、身体で不善をやらかすな。この三つの業道を浄めれば、大聖者が示した道を得る。",
+      "keywords": ["vācā", "mano", "kāya", "kammapathe"]
+    },
+    {
+      "number": 282,
+      "pali": "Yogā ve jāyatī bhūri,\nayogā bhūrisaṅkhayo;\netaṃ dvedhāpathaṃ ñatvā,\nbhavāya vibhavāya ca;\ntathattānaṃ niveseyya,\nyathā bhūri pavaḍḍhati.",
+      "reading": "ヨーガー ヴェー ジャーヤティー ブーリ、\nアヨーガー ブーリサンカヨー；\nエータン ドゥヴェーダーパタン ニャットヴァー、\nバヴァーヤ ヴィバヴァーヤ チャ；\nタタッターナン ニヴェーセッヤ、\nヤター ブーリ パヴァッダティ。",
+      "english": "Wisdom springs from meditation; without meditation wisdom wanes. Having known these two paths of progress and decline, let a man so conduct himself that his wisdom may increase.",
+      "sezon": "修行から智慧が生まれ、修行を怠れば智慧は衰える。この増減の二つの道を知って、智慧が育つように自分を導け。",
+      "keywords": ["yoga", "bhūri", "dvedhāpatha", "pavaḍḍhati"]
+    },
+    {
+      "number": 283,
+      "pali": "Vanaṃ chindatha mā rukkhaṃ,\nvanato jāyate bhayaṃ;\nchetvā vanañca vanathañca,\nnibbanā hotha bhikkhavo.",
+      "reading": "ヴァナン チンダタ マー ルッカン、\nヴァナトー ジャーヤテー バヤン；\nチェットヴァー ヴァナンチャ ヴァナタンチャ、\nニッバナー ホータ ビッカヴォー。",
+      "english": "Cut down the forest (lust), but not the tree; from the forest springs fear. Having cut down the forest and the underbrush (desire), be passionless, O monks!",
+      "sezon": "欲望の森を切り倒せ、木じゃねぇぞ。森から恐怖は生まれる。森も下草も斬り尽くして、無欲になれ、比丘たちよ。",
+      "keywords": ["vana", "bhaya", "chindatha", "nibbana"]
+    },
+    {
+      "number": 284,
+      "pali": "Yāva hi vanatho na chijjati,\naṇumattopi narassa nārisu;\npaṭibaddhamano tāva so,\nvaccho khīrapakova mātari.",
+      "reading": "ヤーヴァ ヒ ヴァナトー ナ チッジャティ、\nアヌマットーピ ナラッサ ナーリス；\nパティバッダマノー ターヴァ ソー、\nヴァッチョー キーラパコーヴァ マータリ。",
+      "english": "For so long as the underbrush of desire, even the most subtle, of a man towards a woman is not cut down, his mind is in bondage, like the sucking calf to its mother.",
+      "sezon": "女への欲望の下草が──微塵ほどであっても──断たれぬ限り、そいつの心は縛られたまんまだ。乳飲み子が母牛から離れねぇようにな。",
+      "keywords": ["vanatha", "nārī", "paṭibaddha", "vaccha"]
+    },
+    {
+      "number": 285,
+      "pali": "Ucchinda sinehamattano,\nkumudaṃ sāradikaṃva pāṇinā;\nsantimaggameva brūhaya,\nnibbānaṃ sugatena desitaṃ.",
+      "reading": "ウッチンダ シネーハマッタノー、\nクムダン サーラディカンヴァ パーニナー；\nサンティマッガメーヴァ ブルーハヤ、\nニッバーナン スガテーナ デーシタン。",
+      "english": "Cut off your affection in the manner of a man who plucks with his hand an autumn lotus. Cultivate only the path to peace, Nibbana, as made known by the Exalted One.",
+      "sezon": "己の愛着を断て──秋の蓮を手で摘むように。善逝が説いた涅槃への寂静の道を、ひたすら育てろ。",
+      "keywords": ["sineha", "kumuda", "santimagga", "nibbāna"]
+    },
+    {
+      "number": 286,
+      "pali": "Idha vassaṃ vasissāmi,\nidha hemantagimhisu;\niti bālo vicinteti,\nantarāyaṃ na bujjhati.",
+      "reading": "イダ ヴァッサン ヴァシッサーミ、\nイダ ヘーマンタギンヒス；\nイティ バーロー ヴィチンテーティ、\nアンタラーヤン ナ ブッジャティ。",
+      "english": "\"Here shall I live during the rains, here in winter and summer\" — thus thinks the fool. He does not realize the danger (that death might intervene).",
+      "sezon": "『雨期はここで過ごそう、冬も夏もここで』──愚者はそう算段する。死が割り込む危険に気づきもしねぇ。",
+      "keywords": ["bāla", "antarāya", "vassa", "maraṇa"]
+    },
+    {
+      "number": 287,
+      "pali": "Taṃ puttapasusammattaṃ,\nbyāsattamanasaṃ naraṃ;\nsuttaṃ gāmaṃ mahogho va,\nmaccu ādāya gacchati.",
+      "reading": "タン プッタパスサンマッタン、\nビャーサッタマナサン ナラン；\nスッタン ガーマン マホーゴーヴァ、\nマッチュ アーダーヤ ガッチャティ。",
+      "english": "As a great flood carries away a sleeping village, so death seizes and carries away the man with a clinging mind, doting on his children and cattle.",
+      "sezon": "子供や家畜に夢中で、執着にまみれた奴を──大洪水が眠れる村を攫うように、死がさらっていく。",
+      "keywords": ["putta", "pasu", "maccu", "mahogha"]
+    },
+    {
+      "number": 288,
+      "pali": "Na santi puttā tāṇāya,\nna pitā nāpi bandhavā;\nantakenādhipannassa,\nnatthi ñātīsu tāṇatā.",
+      "reading": "ナ サンティ プッター ターナーヤ、\nナ ピター ナーピ バンダヴァー；\nアンタケーナーディパンナッサ、\nナッティ ニャーティース ターナター。",
+      "english": "For him who is assailed by death there is no protection by kinsmen. None there are to save him — no sons, nor father, nor relatives.",
+      "sezon": "死に捕まった者を、息子も父も親族も守れねぇ。身内の中に、盾になってくれる者はいねぇんだ。",
+      "keywords": ["putta", "pitā", "antaka", "tāṇa"]
+    },
+    {
+      "number": 289,
+      "pali": "Etamatthavasaṃ ñatvā,\npaṇḍito sīlasaṃvuto;\nnibbānagamanaṃ maggaṃ,\nkhippameva visodhaye.",
+      "reading": "エータマッタヴァサン ニャットヴァー、\nパンディトー シーラサンヴトー；\nニッバーナガマナン マッガン、\nキッパメーヴァ ヴィソーダイェー。",
+      "english": "Realizing this fact, let the wise man, restrained by morality, hasten to clear the path leading to Nibbana.",
+      "sezon": "この道理を悟った賢者は、戒を守り、涅槃へ向かう道を急いで切り拓け。",
+      "keywords": ["paṇḍita", "sīla", "nibbāna", "magga"]
+    }
+  ]
+}

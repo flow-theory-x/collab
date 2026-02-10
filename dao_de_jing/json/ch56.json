@@ -1,0 +1,42 @@
+{
+  "chapter": 56,
+  "chinese_name": "知者不言",
+  "japanese_name": "玄同",
+  "summary": "知る者は語らず、光を和らげ塵に同じて玄同に至る者は天下に貴ばれる。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "知者不言，言者不知。",
+      "modern_ja": "知る者はことばにせず、ことばにする者は知らない。",
+      "english": "Those who know do not speak; those who speak do not know.",
+      "laozi": "知ってる奴は黙ってる。喋ってる奴は知らない。俺？ …まあ、矛盾してるな",
+      "keywords": [
+        "知者不言",
+        "言者不知"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。",
+      "modern_ja": "耳目を塞ぎ門を閉じ、鋭さを挫き紛れを解き、光を和らげ塵に同ずる。これを「玄同（深遠なる一体）」という。",
+      "english": "Block the openings, close the gates, blunt the sharp, untangle the knots, soften the glare, merge with dust. This is called 'Mysterious Unity.'",
+      "laozi": "鋭さを削れ。光を抑えろ。塵に混ざれ。…それが玄同。一番深いところで全部つながってる",
+      "keywords": [
+        "和光同塵",
+        "玄同",
+        "挫銳"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "故不可得而親，不可得而踈；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴。",
+      "modern_ja": "だから親しむことも疎むこともできず、利することも害することもできず、貴ぶことも賤しむこともできない。だから天下に貴ばれる。",
+      "english": "Therefore one cannot be drawn close or pushed away, benefited or harmed, honored or disgraced. Thus one becomes the noblest in the world.",
+      "laozi": "近づけない。遠ざけない。得もさせない。損もさせない。だから天下に貴ばれる。触れられないものが、一番貴い",
+      "keywords": [
+        "不可得",
+        "天下貴"
+      ]
+    }
+  ]
+}

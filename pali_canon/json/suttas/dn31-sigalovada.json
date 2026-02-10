@@ -1,0 +1,81 @@
+{
+  "sutta_id": "DN31",
+  "pali_name": "Sigālovāda Sutta",
+  "japanese_name": "シンガーラ経",
+  "english_name": "The Discourse to Sigala",
+  "summary": "在家者の倫理と人間関係を説いた「在家の戒律」とも呼ばれる経典。若者シンガーラが父の遺言で六方を拝んでいたのを、ブッダが真の六方礼拝——親・師・妻子・友人・使用人・聖者への正しい関わり方——として再解釈した。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "四つの悪行と四つの動機",
+      "pali": "Cattāro kamma-kilesā",
+      "reading": "チャッターロー・カンマキレーサー",
+      "english": "The noble disciple has eradicated four vices in conduct: destruction of life, stealing, sexual misconduct, and lying. He commits no evil led by desire, anger, ignorance, or fear.",
+      "sezon": "シンガーラが濡れた髪で六方を拝んでるのを見て、ブッダが声をかけた。「そうじゃねぇんだ」と。まず四つの悪行——殺し、盗み、邪淫、嘘。これを断て。そして欲・怒り・無知・恐れの四つに引きずられて悪をやるな。月の満ち欠けみたいなもんだ。Dhammaに従えば満月のように輝く。背けば闇に消える。",
+      "keywords": ["kamma-kilesa", "四悪行", "四動機", "chanda", "dosa", "moha", "bhaya"]
+    },
+    {
+      "number": 2,
+      "title": "財産を散ずる六つの門",
+      "pali": "Cha bhogānaṃ apāyamukhāni",
+      "reading": "チャ・ボーガーナン・アパーヤムカーニ",
+      "english": "Six channels for dissipating wealth: intoxicants, roaming streets at unseemly hours, frequenting shows, gambling, evil companions, and idleness. Each brings six specific evil consequences.",
+      "sezon": "金を失う六つの道がある。酒、夜遊び、見世物通い、ギャンブル、悪友、怠惰。酒飲みゃ喧嘩になるし頭も鈍る。ギャンブルで勝ちゃ恨まれ負けりゃ嘆く。怠け者は「暑い」「寒い」「早すぎる」「遅すぎる」「腹減った」「食いすぎた」——言い訳のオンパレードだ。こういう奴は新しい富も得られず、あるものも消えていく。",
+      "keywords": ["apāyamukha", "財産の散逸", "六門", "酒", "賭博", "怠惰"]
+    },
+    {
+      "number": 3,
+      "title": "偽りの友と真の友",
+      "pali": "Mittapaṭirūpaka / Suhadamittā",
+      "reading": "ミッタパティルーパカ / スハダミッター",
+      "english": "Four foes disguised as friends: the appropriator, the lip-server, the flatterer, the ruinous companion. Four true friends: the helpmate, the steadfast in joy and sorrow, the good counselor, the sympathizer.",
+      "sezon": "友のフリした敵が四種類いる。搾取する奴、口だけの奴、おべっか使い、道連れにする奴。本物の友も四種類だ。助けてくれる奴、苦楽を共にする奴、いい助言をくれる奴、共感してくれる奴。見分け方？本物は、お前が油断してる時に守ってくれる。偽物は、お前の前では褒めて裏で悪口を言う。目を開けろ。",
+      "keywords": ["mittapaṭirūpaka", "偽友", "suhadamitta", "真友", "四種の友"]
+    },
+    {
+      "number": 4,
+      "title": "東方：親子の関係",
+      "pali": "Puratthimā disā — mātāpitu",
+      "reading": "プラッティマー・ディサー — マーターピトゥ",
+      "english": "Parents as the East: children minister to parents by supporting them, doing their duties, maintaining family tradition, being worthy of inheritance, and offering alms for departed relatives. Parents reciprocate by restraining from evil, encouraging good, training in a profession, arranging marriage, and handing over inheritance.",
+      "sezon": "東は親だ。親に対して五つの務めがある。養ってくれたんだから養い返せ。家の伝統を守れ。遺産に値する人間になれ。亡くなった親族に功徳を回せ。親の方も五つ。悪から遠ざけ、善に導き、職を教え、縁談を整え、時が来たら財を渡す。互いの義務だ。一方通行じゃねぇんだよ。",
+      "keywords": ["puratthimā disā", "東方", "mātāpitu", "親子", "五つの義務"]
+    },
+    {
+      "number": 5,
+      "title": "南方と西方：師弟と夫婦",
+      "pali": "Dakkhiṇā disā / Pacchimā disā",
+      "reading": "ダッキナー・ディサー / パッチマー・ディサー",
+      "english": "South is teachers: pupils serve by rising in greeting, attending, eagerness to learn, personal service, respectful attention. Teachers reciprocate with discipline, ensuring understanding, arts instruction, introductions, and safety. West is spouse: husband shows courtesy, fidelity, authority-sharing, adornments. Wife reciprocates with duty, hospitality, faithfulness, protecting wealth, skill.",
+      "sezon": "南は師匠。立って迎えろ、仕えろ、学ぶ意欲を見せろ。師匠の方は最高の訓練を施し、友人を紹介し、あらゆる方角で安全を保証する。西は妻だ。礼儀を持て、蔑むな、浮気するな、権限を渡せ、飾りも買ってやれ。妻の方は仕事をきちんとやり、親族をもてなし、貞節を守り、財を守る。対等な関係だ。",
+      "keywords": ["dakkhiṇā disā", "pacchimā disā", "師弟", "夫婦", "南方", "西方"]
+    },
+    {
+      "number": 6,
+      "title": "北方と下方：友人と主従",
+      "pali": "Uttarā disā / Heṭṭhimā disā",
+      "reading": "ウッタラー・ディサー / ヘッティマー・ディサー",
+      "english": "North is friends: served by generosity, courteous speech, helpfulness, impartiality, sincerity. They protect the heedless, guard property, offer refuge, stand by in trouble, consider family. Nadir is servants: master assigns work by ability, provides food and wages, tends the sick, shares delicacies, grants leave. Servants rise early, sleep late, take only what's given, work well, uphold reputation.",
+      "sezon": "北は友人だ。気前よく、優しい言葉で、公平に、誠実に付き合え。友人はお前がボーッとしてる時に守ってくれる。下方は使用人。能力に合った仕事を与え、食事と給料を出し、病気の時は看病し、美味いものは分け合え。使用人の方は主人より先に起き、後に寝る。当たり前の信頼関係だ。",
+      "keywords": ["uttarā disā", "heṭṭhimā disā", "友人", "主従", "北方", "下方"]
+    },
+    {
+      "number": 7,
+      "title": "上方：聖者との関係",
+      "pali": "Uparimā disā — samaṇabrāhmaṇā",
+      "reading": "ウパリマー・ディサー — サマナブラーフマナー",
+      "english": "Zenith is ascetics and brahmans: served by lovable deeds, words, and thoughts, keeping open house, supplying material needs. They reciprocate by restraining from evil, persuading to good, loving with a kind heart, teaching the unheard, clarifying the heard, and pointing out the path to heaven.",
+      "sezon": "上方は出家者・聖者だ。身口意で愛のある行為をし、家を開放し、物質的に支えろ。聖者の方は悪から引き戻し、善に導き、慈しみの心で接し、聞いたことのない法を聞かせ、聞いたことを明確にし、天への道を示す。六つの方角——全部がDhammaに基づいた互いの義務なんだ。これがブッダの言う「六方礼拝」だ。",
+      "keywords": ["uparimā disā", "上方", "samaṇa", "brāhmaṇa", "聖者", "六方礼拝"]
+    },
+    {
+      "number": 8,
+      "title": "四摂法と在家の道の完成",
+      "pali": "Cattāri saṅgahavatthūni",
+      "reading": "チャッターリ・サンガハヴァットゥーニ",
+      "english": "Four bases of social harmony: generosity, kind speech, helpfulness, impartiality — 'these make the world go round, as the linchpin in a moving car.' The wise acquires wealth harmlessly like a bee gathering honey, divides it in four portions. Sigala takes refuge in the Triple Gem.",
+      "sezon": "世の中を回す四つの力がある。布施、愛語、利行、同事。車軸のピンみたいなもんだ。これがなきゃ親も子も敬われない。富は蜂が蜜を集めるように害なく得て、四分割しろ。一つは生活に、二つは仕事に、一つは蓄えに。シンガーラはこれを聞いて三宝に帰依した。これが在家者のDhammaだ。派手じゃないが、これが生きる道だろ。",
+      "keywords": ["saṅgahavatthu", "四摂法", "布施", "愛語", "利行", "同事", "在家の道"]
+    }
+  ]
+}

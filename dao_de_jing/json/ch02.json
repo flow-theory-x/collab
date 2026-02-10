@@ -1,0 +1,34 @@
+{
+  "chapter": 2,
+  "chinese_name": "天下皆知美",
+  "japanese_name": "美を美と知れば、醜が生まれる",
+  "summary": "対立する概念は互いに生じ合い、聖人は無為によって万物と調和する。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。",
+      "modern_ja": "天下の人々が美を美と認識すると、そこに醜が生まれる。善を善と認識すると、そこに不善が生まれる。有と無は互いに生じ、難と易は互いに成り、長と短は互いに比較され、高と低は互いに傾き、音と声は互いに調和し、前と後は互いに従う。",
+      "english": "When all know beauty as beauty, ugliness arises. When all know good as good, evil arises. Being and non-being produce each other; difficult and easy complete each other; long and short shape each other; high and low lean on each other; sound and voice harmonize; front and back follow each other.",
+      "laozi": "美しいって言った瞬間、醜いが生まれる。善いって決めた瞬間、悪いが生まれる。有と無、難と易、長と短、全部セットだ。片方だけじゃ存在できない。当たり前だろ？ でも、みんな忘れる。",
+      "keywords": [
+        "美",
+        "醜",
+        "相生",
+        "対立"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "是以聖人處無為之事，行不言之教；萬物作焉而不辭，生而不有。為而不恃，功成而弗居。夫唯弗居，是以不去。",
+      "modern_ja": "だから聖人は無為の態度で事にあたり、ことばによらない教えを行う。万物が生じても拒まず、生み出しても所有せず、なしても頼みとせず、功績があっても居座らない。居座らないからこそ、去ることもないのだ。",
+      "english": "Therefore the sage acts without doing, teaches without speaking. All things arise and he does not turn away; he produces but does not possess; he acts but does not rely; he achieves but does not dwell. Because he does not dwell, nothing departs.",
+      "laozi": "だから、何もしない。いや、何もしないんじゃない。やるけど、掴まない。作るけど、「俺のだ」って言わない。功績？ そんなもの、座り込んだら消える…手放すから、残るんだ。",
+      "keywords": [
+        "無為",
+        "不言",
+        "聖人",
+        "功成弗居"
+      ]
+    }
+  ]
+}

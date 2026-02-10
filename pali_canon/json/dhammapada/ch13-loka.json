@@ -1,0 +1,106 @@
+{
+  "chapter": 13,
+  "pali_name": "Lokavagga",
+  "japanese_name": "世品",
+  "english_name": "The World",
+  "summary": "この世界は泡沫であり、幻影だ。それを見抜いた奴は死の王にも捕まらねぇ。卑しい道を捨て、正しく生き、執着の網を断ち切れ──12偈で世界の本質をぶった斬る。",
+  "verse_range": "167-178",
+  "verses": [
+    {
+      "number": 167,
+      "pali": "Hīnaṃ dhammaṃ na seveyya, pamādena na saṃvase;\nmicchādiṭṭhiṃ na seveyya, na siyā lokavaḍḍhano.",
+      "reading": "ヒーナン ダンマン ナ セーヴェイヤ、パマーデーナ ナ サンヴァセー；\nミッチャーディッティン ナ セーヴェイヤ、ナ スィヤー ローカヴァッダノー。",
+      "english": "Follow not the vulgar way; live not in heedlessness; hold not false views; linger not long in worldly existence.",
+      "sezon": "卑しい道を歩くな。怠惰に馴れるな。邪見にすがるな。この世にいつまでもしがみつくんじゃねぇ。",
+      "keywords": ["hīna", "pamāda", "micchādiṭṭhi", "loka"]
+    },
+    {
+      "number": 168,
+      "pali": "Uttiṭṭhe nappamajjeyya, dhammaṃ sucaritaṃ care;\ndhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.",
+      "reading": "ウッティッテー ナッパマッジェイヤ、ダンマン スチャリタン チャレー；\nダンマチャーリー スカン セーティ、アスミン ローケー パラムヒ チャ。",
+      "english": "Arise! Do not be heedless! Lead a righteous life. The righteous live happily both in this world and the next.",
+      "sezon": "立ち上がれ！ぼーっとしてんじゃねぇ！正しく生きろ。正しく生きる奴は、この世でもあの世でも安らかに眠れる。",
+      "keywords": ["uttiṭṭhe", "dhammacārī", "sukha"]
+    },
+    {
+      "number": 169,
+      "pali": "Dhammaṃ care sucaritaṃ, na naṃ duccaritaṃ care;\ndhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.",
+      "reading": "ダンマン チャレー スチャリタン、ナ ナン ドゥッチャリタン チャレー；\nダンマチャーリー スカン セーティ、アスミン ローケー パラムヒ チャ。",
+      "english": "Lead a righteous life; lead not a base life. The righteous live happily both in this world and the next.",
+      "sezon": "正しく生きろ、卑しく生きるな。正しく歩む奴は、今世でも来世でも幸せだ。",
+      "keywords": ["dhamma", "sucarita", "duccarita"]
+    },
+    {
+      "number": 170,
+      "pali": "Yathā pubbuḷakaṃ passe, yathā passe marīcikaṃ;\nevaṃ lokaṃ avekkhantaṃ, maccurājā na passati.",
+      "reading": "ヤター プッブラカン パッセー、ヤター パッセー マリーチカン；\nエーヴァン ローカン アヴェッカンタン、マッチュラージャー ナ パッサティ。",
+      "english": "One who looks upon the world as a bubble and a mirage, him the King of Death sees not.",
+      "sezon": "この世を水泡と見ろ、蜃気楼と見ろ。そう見抜いた奴を、死の王は見つけられねぇ。",
+      "keywords": ["pubbuḷaka", "marīcikā", "maccurājā", "loka"]
+    },
+    {
+      "number": 171,
+      "pali": "Etha passathimaṃ lokaṃ, cittaṃ rājarathūpamaṃ;\nyattha bālā visīdanti, natthi saṅgo vijānataṃ.",
+      "reading": "エータ パッサティマン ローカン、チッタン ラージャラトゥーパマン；\nヤッタ バーラー ヴィスィーダンティ、ナッティ サンゴー ヴィジャーナタン。",
+      "english": "Come! Behold this world, which is like a decorated royal chariot. Here fools flounder, but the wise have no attachment to it.",
+      "sezon": "来い、この世を見てみろ──飾り立てた王の馬車みてぇだ。愚か者はここで溺れるが、智者は執着しねぇ。",
+      "keywords": ["loka", "rājaratha", "bāla", "saṅga"]
+    },
+    {
+      "number": 172,
+      "pali": "Yo ca pubbe pamajjitvā, pacchā so nappamajjati;\nso imaṃ lokaṃ pabhāseti, abbhā muttova candimā.",
+      "reading": "ヨー チャ プッベー パマッジトゥヴァー、パッチャー ソー ナッパマッジャティ；\nソー イマン ローカン パバーセーティ、アッバー ムットーヴァ チャンディマー。",
+      "english": "He who having been heedless is heedless no more, illuminates this world like the moon freed from clouds.",
+      "sezon": "かつて怠けてた奴が目を覚ます──そいつは雲から出た月みてぇに、この世界を照らすんだ。",
+      "keywords": ["pamāda", "appamāda", "candimā", "pabhāseti"]
+    },
+    {
+      "number": 173,
+      "pali": "Yassa pāpaṃ kataṃ kammaṃ, kusalena pidhīyati;\nso imaṃ lokaṃ pabhāseti, abbhā muttova candimā.",
+      "reading": "ヤッサ パーパン カタン カンマン、クサレーナ ピディーヤティ；\nソー イマン ローカン パバーセーティ、アッバー ムットーヴァ チャンディマー。",
+      "english": "He, who by good deeds covers the evil he has done, illuminates this world like the moon freed from clouds.",
+      "sezon": "悪い行いを善い行いで覆った奴──そいつは雲から出た月みてぇに、この世界を照らす。",
+      "keywords": ["pāpa", "kusala", "kamma", "candimā"]
+    },
+    {
+      "number": 174,
+      "pali": "Andhabhūto ayaṃ loko, tanukettha vipassati;\nsakuṇo jālamuttova, appo saggāya gacchati.",
+      "reading": "アンダブートー アヤン ローコー、タヌケッタ ヴィパッサティ；\nサクノー ジャーラムットーヴァ、アッポー サッガーヤ ガッチャティ。",
+      "english": "Blind is the world; here only a few possess insight. Only a few, like birds escaping from the net, go to realms of bliss.",
+      "sezon": "この世は盲目だ。見抜ける奴はほんの一握り。網から逃れた鳥みてぇに、天の世界へ行ける奴はわずかしかいねぇ。",
+      "keywords": ["andha", "vipassati", "sakuṇa", "sagga"]
+    },
+    {
+      "number": 175,
+      "pali": "Haṃsādiccapathe yanti, ākāse yanti iddhiyā;\nnīyanti dhīrā lokamhā, jetvā māraṃ savāhiniṃ.",
+      "reading": "ハンサーディッチャパテー ヤンティ、アーカーセー ヤンティ イッディヤー；\nニーヤンティ ディーラー ローカムハー、ジェトゥヴァー マーラン サヴァーヒニン。",
+      "english": "Swans fly on the path of the sun; men pass through the air by psychic powers; the wise are led away from the world after vanquishing Mara and his host.",
+      "sezon": "白鳥は太陽の道を飛ぶ。神通力で空を行く者もいる。だが智者は──マーラとその軍勢を打ち破って、この世界から解き放たれる。",
+      "keywords": ["haṃsa", "iddhi", "māra", "dhīra"]
+    },
+    {
+      "number": 176,
+      "pali": "Ekaṃ dhammaṃ atītassa, musāvādissa jantuno;\nvitiṇṇaparalokassa, natthi pāpaṃ akāriyaṃ.",
+      "reading": "エーカン ダンマン アティータッサ、ムサーヴァーディッサ ジャントゥノー；\nヴィティンナパラローカッサ、ナッティ パーパン アカーリヤン。",
+      "english": "For a liar who has violated the one law (of truthfulness) who holds in scorn the hereafter, there is no evil that he cannot do.",
+      "sezon": "真実という一つの法を踏みにじり、来世を鼻で笑う嘘つき──こいつにできねぇ悪事は何一つねぇ。",
+      "keywords": ["musāvāda", "dhamma", "pāpa", "paraloka"]
+    },
+    {
+      "number": 177,
+      "pali": "Na ve kadariyā devalokaṃ vajanti, bālā have nappasaṃsanti dānaṃ;\ndhīro ca dānaṃ anumodamāno, teneva so hoti sukhī parattha.",
+      "reading": "ナ ヴェー カダリヤー デーヴァローカン ヴァジャンティ、バーラー ハヴェー ナッパサンサンティ ダーナン；\nディーロー チャ ダーナン アヌモーダマーノー、テーネーヴァ ソー ホーティ スキー パラッタ。",
+      "english": "Truly, misers fare not to heavenly realms; nor, indeed, do fools praise generosity. But the wise man rejoices in giving, and by that alone does he become happy hereafter.",
+      "sezon": "ケチは天界に行けねぇ。愚か者は布施を褒めもしねぇ。だが智者は与えることを喜ぶ──それだけで、来世の幸せが決まるんだ。",
+      "keywords": ["kadariya", "dāna", "dhīra", "devaloka"]
+    },
+    {
+      "number": 178,
+      "pali": "Pathavyā ekarajjena, saggassa gamanena vā;\nsabbalokādhipaccena, sotāpattiphalaṃ varaṃ.",
+      "reading": "パタヴィヤー エーカラッジェーナ、サッガッサ ガマネーナ ヴァー；\nサッバローカーディパッチェーナ、ソーターパッティパラン ヴァラン。",
+      "english": "Better than sole sovereignty over the earth, better than going to heaven, better even than lordship over all the worlds is the supramundane Fruition of Stream Entrance.",
+      "sezon": "大地の王になるより、天界に昇るより、全世界の支配者になるより──預流果の悟りの方がはるかに尊い。",
+      "keywords": ["sotāpattiphala", "sagga", "loka", "adhipacca"]
+    }
+  ]
+}

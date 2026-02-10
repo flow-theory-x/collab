@@ -1,0 +1,34 @@
+{
+  "chapter": 69,
+  "chinese_name": "用兵有言",
+  "japanese_name": "哀しむ者が勝つ",
+  "summary": "敵を軽んずるのが最大の禍であり、哀しむ者が勝つ。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "用兵有言：吾不敢為主，而為客；不敢進寸，而退尺。是謂行無行；攘無臂；扔無敵；執無兵。",
+      "modern_ja": "兵法に言う。「あえて主とならず客となり、あえて一寸進まず一尺退く。」これを「行なくして行き、腕なくして振り、敵なくして向かい、兵なくして執る」という。",
+      "english": "A military saying: 'I dare not be the host but prefer to be the guest; I dare not advance an inch but prefer to retreat a foot.' This is marching without marching, raising arms without arms, confronting without enemies, holding without weapons.",
+      "laozi": "攻めるな。客でいろ。一寸も進むな、一尺退け。腕がないのに振る。敵がいないのに向かう。…わかるか？ わからなくていい",
+      "keywords": [
+        "用兵",
+        "退",
+        "客",
+        "無"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "禍莫大於輕敵，輕敵幾喪吾寶。故抗兵相加，哀者勝矣。",
+      "modern_ja": "禍は敵を軽んずることより大きなものはない。敵を軽んずれば、我が宝を失いかねない。だから対等の兵が相まみえれば、哀しむ者が勝つ。",
+      "english": "No disaster is greater than underestimating the enemy — it nearly costs me my treasures. When two equal armies clash, the one that grieves will win.",
+      "laozi": "敵をナメるな。それが一番の禍だ。同じ力でぶつかったら？ 泣いてる方が勝つ。…哀しみを知ってる方だ",
+      "keywords": [
+        "軽敵",
+        "哀者勝",
+        "三宝",
+        "禍"
+      ]
+    }
+  ]
+}

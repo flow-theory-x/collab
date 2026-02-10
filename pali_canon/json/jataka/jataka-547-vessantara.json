@@ -1,0 +1,82 @@
+{
+  "jataka_number": 547,
+  "pali_name": "Vessantara Jātaka",
+  "japanese_name": "ヴェッサンタラ本生",
+  "english_name": "The Story of Vessantara",
+  "parami": "布施波羅蜜（Dāna）",
+  "summary": "布施の完成を体現する王子ヴェッサンタラの物語。聖なる白象を乞われるまま与えたため国を追放され、森で隠遁生活を送る中、さらに我が子二人、そして妻までも求められるがままに施す。その究極の布施行により大地が震動し、帝釈天も讃嘆。最後には父王が迎えに来て王位に復帰し、天から七宝の雨が降る。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "プサティーの十の願いとヴェッサンタラの誕生",
+      "pali": "Dasa vare dadāmi te Phusati bhadde varārohe, yad iccheyyāsi patthayaṁ taṁ taṁ gaṇhāhi bho ito.",
+      "reading": "ダサ ヴァレー ダダーミ テー プサティ バッデー ヴァラーローヘー、ヤディッチェッヤースィ パッタヤン タン タン ガンハーヒ ボー イトー。",
+      "english": "Queen Phusatī, chief consort of Sakka, is granted ten boons before her rebirth. She chooses to be queen in Sivi's realm, to have a generous son, and other wishes. Reborn as wife of King Sañjaya, she gives birth to Prince Vessantara in Vessa Street. From age eight, the boy's desire to give is so intense that the earth quakes.",
+      "sezon": "昔な、天界にプサティーって女がいた。帝釈天の嫁だったんだが、寿命が尽きかけてな。帝釈天が「十個だけ願いを叶えてやる」って言った。女は「シヴィ国の王妃になりたい、息子が欲しい、それも途方もなく気前のいい息子を」って頼んだ。で、生まれ変わって産んだのがヴェッサンタラだ。こいつが八つの時に「誰かが目を寄越せって言ったら抉って渡す」って考えただけで大地が震えた。生まれつきの施しバカだ。",
+      "keywords": ["Phusatī", "Sakka", "十の願い", "誕生", "布施の本性"]
+    },
+    {
+      "number": 2,
+      "title": "白象の布施と追放",
+      "pali": "Dadāmi nappațikkamāmi yaṁ brāhmaṇā yācanti, etaṁ nāgaṁ gajuttamaṁ abhirūḷhaṁ mahāvīraṁ.",
+      "reading": "ダダーミ ナッパティッカマーミ ヤン ブラーフマナー ヤーチャンティ、エータン ナーガン ガジュッタマン アビルーラン マハーヴィーラン。",
+      "english": "Brahmins from drought-stricken Kāliṅga come begging for Vessantara's auspicious white elephant, believed to bring rain. He gives it away without hesitation. The citizens of Jetuttara are outraged and demand his banishment. King Sañjaya reluctantly agrees to exile his own son to Mount Vaṅka.",
+      "sezon": "ヴェッサンタラが王になって、国宝の白象に乗って町を回ってたら、カリンガ国からバラモンが来てな。「うちの国、雨降らねえんだ。その象くれ」って言う。普通断るだろ？こいつは象の背中からヒョイと降りて「はいどうぞ」だ。国民ブチ切れよ。「あの野郎、国の宝を乞食にくれてやりやがった！」って王宮に押しかけて、追放しろの大合唱。親父の王様も庇いきれなくてな。「一晩だけ猶予をやる。明日出て行け」ってなった。",
+      "keywords": ["白象", "Kāliṅga", "追放", "布施", "市民の怒り"]
+    },
+    {
+      "number": 3,
+      "title": "七百の大布施と森への旅立ち",
+      "pali": "Sattasataṁ mahādānaṁ",
+      "reading": "サッタサタン マハーダーナン",
+      "english": "Before departing, Vessantara gives away the 'Gift of Seven Hundreds' — 700 elephants, horses, chariots, women, cows, male and female slaves. His wife Maddī and children Jāli and Kaṇhājinā insist on following him into exile. They depart by chariot, but he gives away even the horses and chariot to begging brahmins along the way, and the family proceeds on foot.",
+      "sezon": "追放の前日、こいつは最後っ屁みたいに「七百の大布施」をやらかす。象七百頭、馬七百頭、戦車七百台、女七百人、奴隷七百人――全部配っちまった。嫁のマッディーは「あんたが行くなら私も行く。寡婦になるくらいなら森で死んだ方がマシ」って言い張る。子供二人連れて出発したが、道すがら馬も戦車もバラモンに施して、結局一家四人で歩くハメになった。徹底してるよ、この男。",
+      "keywords": ["七百の大布施", "Maddī", "追放の旅", "Jāli", "Kaṇhājinā"]
+    },
+    {
+      "number": 4,
+      "title": "ヴァンカ山での隠遁生活",
+      "pali": "",
+      "reading": "",
+      "english": "The family reaches Mount Vaṅka after a 60-league journey shortened by divine intervention. Sakka orders Vissakamma to build them a hermitage. They don ascetic garb and live simply — Maddī gathers wild fruits daily while Vessantara tends the children. For seven months they dwell peacefully, with even wild animals showing compassion within three leagues of their dwelling.",
+      "sezon": "帝釈天が気を利かせて、道を神通力で縮めてくれた。ヴァンカ山に着いたら、もう庵ができてる。ヴィッサカンマって天界の大工が建てたんだな。一家四人、樹皮の服着て隠者暮らし。嫁が毎朝カゴ持って森に行って、根っこだの木の実だの掘ってくる。七ヶ月間、静かに暮らした。三里四方の獣まで優しくなるってんだから、こいつの徳の力は大したもんだ。",
+      "keywords": ["Vaṅka山", "隠遁", "庵", "Vissakamma", "苦行生活"]
+    },
+    {
+      "number": 5,
+      "title": "ジューチャカと子供たちの布施",
+      "pali": "Dadāmi nappațikkamāmi brāhmaṇassa mahāyasa, ubho puttapariccāgaṁ.",
+      "reading": "ダダーミ ナッパティッカマーミ ブラーフマナッサ マハーヤサ、ウボー プッタパリッチャーガン。",
+      "english": "The greedy old brahmin Jūjaka, goaded by his young wife, comes to beg Vessantara's children as slaves. Vessantara, overjoyed at the chance to give, hands over Jāli and Kaṇhājinā despite their desperate pleas. The children are bound with creepers and beaten. Vessantara's heart burns with grief but he masters his pain, knowing that clinging to affection obstructs the path to omniscience.",
+      "sezon": "ジューチャカって欲深バラモンのジジイが来やがった。若い嫁に尻叩かれて「奴隷もらって来い」って送り出されたんだ。こいつがヴェッサンタラのとこ来て「ガキをくれ」って言う。ヴェッサンタラは――喜んだんだよ。七ヶ月ぶりの施し相手だからな。子供たちは泣いて逃げて蓮の葉の下に隠れたが、親父に呼び戻されて、蔓で手を縛られて連れて行かれた。血の涙が出たが、こいつは「執着を断て」って自分に言い聞かせた。正気じゃねえよ。でもそれが布施の究極なんだとさ。",
+      "keywords": ["Jūjaka", "子供の布施", "執着の断絶", "omniscience", "大地震動"]
+    },
+    {
+      "number": 6,
+      "title": "マッディーの嘆きと帝釈天への妻の布施",
+      "pali": "Sakko brahmā Pajāpati, Indā rājā Sujampati, Vāsavo Vāsavadānaṁ.",
+      "reading": "サッコー ブラフマー パジャーパティ、インダー ラージャー スジャンパティ、ヴァーサヴォー ヴァーサヴァダーナン。",
+      "english": "Maddī returns to find the children gone. She searches frantically through the night, covering fifteen leagues, before fainting at Vessantara's feet. He revives her and reveals the gift. She accepts it with grace. Then Sakka himself comes disguised as a brahmin and asks for Maddī. Vessantara gives her too. Sakka reveals himself, praises their virtue, returns Maddī, and grants eight boons.",
+      "sezon": "嫁のマッディーが夜遅く帰ったら子供がいない。一晩中十五里も走り回って探して、気絶した。ヴェッサンタラが水かけて起こして「バラモンにやった」って言ったら、この女がまた凄い。「よくぞ施された」って言うんだ。翌朝、今度は帝釈天がバラモンに化けて「嫁をくれ」って来た。ヴェッサンタラは二つ返事で渡した。もう何も残ってない。そしたら帝釈天が正体現して「お前は本物だ」って嫁を返して、八つの願いまでくれた。天界の王様も脱帽する施しっぷりだ。",
+      "keywords": ["Maddī", "Sakka", "究極の布施", "八つの願い", "試練"]
+    },
+    {
+      "number": 7,
+      "title": "子供たちの救出と王の帰還",
+      "pali": "",
+      "reading": "",
+      "english": "Jūjaka, guided by deities, arrives at Jetuttara instead of Kāliṅga. King Sañjaya recognizes his grandchildren, ransoms them, and Jūjaka dies from overeating. The king assembles a vast army and marches to Mount Vaṅka to bring Vessantara home. The family is reunited — six royal persons faint with emotion and Sakka sends rain to revive them.",
+      "sezon": "ジューチャカのジジイ、神様に道を変えられて、ジェートゥッタラの王宮に着いちまった。じいちゃんのサンジャヤ王が孫を見つけて、金で買い戻した。ジューチャカは？ご馳走食い過ぎて死んだ。因果応報ってやつだな。王様は大軍引き連れてヴァンカ山まで迎えに行った。親子再会の場面じゃ、六人の王族が全員気絶して、帝釈天が雨降らせて目を覚まさせた。泣ける話だよ。",
+      "keywords": ["Jūjaka因果応報", "身代金", "Sañjaya", "再会", "大雨の奇跡"]
+    },
+    {
+      "number": 8,
+      "title": "王位復帰と七宝の雨",
+      "pali": "Yadā paccāgami Vessantaro Sivīnaṁ raṭṭhavaḍḍhano, tadā devo mahāmeghā sattaratanassa pāvassī.",
+      "reading": "ヤダー パッチャーガミ ヴェッサンタロー シヴィーナン ラッタヴァッダノー、タダー デーヴォー マハーメーガー サッタラタナッサ パーヴァッスィー。",
+      "english": "Vessantara washes off his ascetic's dust, is consecrated king again, and enters Jetuttara in triumph. He frees all prisoners. That night, Sakka rains down the seven kinds of jewels upon the city — waist-high in the palace, knee-deep everywhere else. Vessantara rules righteously, giving generously until the end of his days, then passes to heaven.",
+      "sezon": "ヴェッサンタラは苦行の垢を洗い流して、また王様に戻った。六十里の道を二ヶ月かけて凱旋だ。城に入った夜、「明日来る乞食にやるもんがねえ」って心配したら、帝釈天がドカドカと七宝の雨を降らせた。宮殿の中は腰まで、町中は膝まで宝石だらけ。もう施すもんに困らねえ。こうしてこの施しバカの王様は、死ぬまで与え続けて、最後は天界に昇った。この男がのちの釈迦牟尼仏――ブッダだ。",
+      "keywords": ["王位復帰", "七宝の雨", "Sakka", "布施波羅蜜の完成", "釈迦の前世"]
+    }
+  ]
+}

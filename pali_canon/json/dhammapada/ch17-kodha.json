@@ -1,0 +1,122 @@
+{
+  "chapter": 17,
+  "pali_name": "Kodhavagga",
+  "japanese_name": "怒品",
+  "english_name": "Anger",
+  "summary": "怒りを御す者こそ真の御者だ。怒りには非怒で、悪には善で、嘘には真実で返せ──身・口・意の三業を律する道を14偈で説く。",
+  "verse_range": "221-234",
+  "verses": [
+    {
+      "number": 221,
+      "pali": "Kodhaṃ jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbamatikkameyya;\ntaṃ nāmarūpasmimasajjamānaṃ, akiñcanaṃ nānupatanti dukkhā.",
+      "reading": "コーダン ジャヘー ヴィッパジャヘイヤ マーナン、サンヨージャナン サッバマティッカメイヤ；\nタン ナーマルーパスミマサッジャマーナン、アキンチャナン ナーヌパタンティ ドゥッカー。",
+      "english": "One should give up anger, renounce pride, and overcome all fetters. Suffering never befalls him who clings not to mind and body and is detached.",
+      "sezon": "怒りを捨てろ、慢心を手放せ、一切の束縛を超えろ。名色（心身）に執着しねぇ無所有の者に、苦しみは降りかからねぇ。",
+      "keywords": ["kodha", "māna", "saṃyojana", "nāmarūpa"]
+    },
+    {
+      "number": 222,
+      "pali": "Yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃva vāraye;\ntamahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.",
+      "reading": "ヨー ヴェー ウッパティタン コーダン、ラタン バンタンヴァ ヴァーラィェー；\nタマハン サーラティン ブルーミ、ラスミッガーホー イタロー ジャノー。",
+      "english": "He who checks rising anger as a charioteer checks a rolling chariot, him I call a true charioteer. Others only hold the reins.",
+      "sezon": "暴走する馬車を止めるように怒りを制する者──そいつを俺は真の御者と呼ぶ。他の奴らは手綱を握ってるだけだ。",
+      "keywords": ["kodha", "sārathi", "ratha", "vāraye"]
+    },
+    {
+      "number": 223,
+      "pali": "Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine;\njine kadariyaṃ dānena, saccenālikavādinaṃ.",
+      "reading": "アッコーデーナ ジネー コーダン、アサードゥン サードゥナー ジネー；\nジネー カダリヤン ダーネーナ、サッチェーナーリカヴァーディナン。",
+      "english": "Overcome the angry by non-anger; overcome the wicked by goodness; overcome the miser by generosity; overcome the liar by truth.",
+      "sezon": "怒りには非怒で勝て。悪には善で勝て。ケチには布施で勝て。嘘つきには真実で勝て。",
+      "keywords": ["akkodha", "sādhu", "dāna", "sacca"]
+    },
+    {
+      "number": 224,
+      "pali": "Saccaṃ bhaṇe na kujjheyya, dajjā appampi yācito;\netehi tīhi ṭhānehi, gacche devāna santike.",
+      "reading": "サッチャン バネー ナ クッジェイヤ、ダッジャー アッパンピ ヤーチトー；\nエーテーヒ ティーヒ ターネーヒ、ガッチェー デーヴァーナ サンティケー。",
+      "english": "Speak the truth; yield not to anger; when asked, give even if you only have a little. By these three means can one reach the presence of the gods.",
+      "sezon": "真実を語れ。怒るな。頼まれたら少しでも与えろ。この三つで、神々のもとへ行ける。",
+      "keywords": ["sacca", "kodha", "dāna", "deva"]
+    },
+    {
+      "number": 225,
+      "pali": "Ahiṃsakā ye munayo, niccaṃ kāyena saṃvutā;\nte yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.",
+      "reading": "アヒンサカー イェー ムナヨー、ニッチャン カーイェーナ サンヴター；\nテー ヤンティ アッチュタン ターナン、ヤッタ ガントゥヴァー ナ ソーチャレー。",
+      "english": "Those sages who are inoffensive and ever restrained in body, go to the Deathless State, where, having gone, they grieve no more.",
+      "sezon": "害を与えず、常に身を律する聖者たちは、不死の境地へ行く──そこに至れば、もう嘆くことはねぇ。",
+      "keywords": ["ahiṃsā", "muni", "accuta", "saṃvara"]
+    },
+    {
+      "number": 226,
+      "pali": "Sadā jāgaramānānaṃ, ahorattānusikkhinaṃ;\nnibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.",
+      "reading": "サダー ジャーガラマーナーナン、アホーラッターヌスィッキナン；\nニッバーナン アディムッターナン、アッタン ガッチャンティ アーサヴァー。",
+      "english": "Those who are ever vigilant, who discipline themselves day and night, and are ever intent upon Nibbana — their defilements fade away.",
+      "sezon": "常に目覚め、昼夜問わず自らを鍛え、涅槃を志す者──そいつの煩悩は消え失せる。",
+      "keywords": ["jāgara", "nibbāna", "āsava", "sikkhā"]
+    },
+    {
+      "number": 227,
+      "pali": "Porāṇametaṃ atula, netaṃ ajjatanāmiva;\nnindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ;\nmitabhāṇimpi nindanti, natthi loke anindito.",
+      "reading": "ポーラーナメータン アトゥラ、ネータン アッジャタナーミヴァ；\nニンダンティ トゥンヒマースィーナン、ニンダンティ バフバーニナン；\nミタバーニンピ ニンダンティ、ナッティ ローケー アニンディトー。",
+      "english": "O Atula! Indeed, this is an ancient practice, not one only of today: they blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.",
+      "sezon": "アトゥラよ！これは今に始まったことじゃねぇ、昔からだ。黙ってりゃ非難され、多く語れば非難され、程々に語っても非難される。この世に非難されねぇ奴なんかいやしねぇ。",
+      "keywords": ["nindā", "loka", "porāṇa", "Atula"]
+    },
+    {
+      "number": 228,
+      "pali": "Na cāhu na ca bhavissati, na cetarahi vijjati;\nekantaṃ nindito poso, ekantaṃ vā pasaṃsito.",
+      "reading": "ナ チャーフ ナ チャ バヴィッサティ、ナ チェータラヒ ヴィッジャティ；\nエーカンタン ニンディトー ポーソー、エーカンタン ヴァー パサンスィトー。",
+      "english": "There never was, there never will be, nor is there now, a person who is wholly blamed or wholly praised.",
+      "sezon": "過去にも未来にも今にも、完全に非難される奴も、完全に称賛される奴もいねぇ。",
+      "keywords": ["nindā", "pasaṃsā", "ekanta"]
+    },
+    {
+      "number": 229,
+      "pali": "Yañce viññū pasaṃsanti, anuvicca suve suve;\nacchiddavuttiṃ medhāviṃ, paññāsīlasamāhitaṃ.",
+      "reading": "ヤンチェー ヴィンニュー パサンサンティ、アヌヴィッチャ スヴェー スヴェー；\nアッチッダヴッティン メーダーヴィン、パンニャースィーラサマーヒタン。",
+      "english": "But the man whom the wise praise, after observing him day after day, is one of flawless character, wise, and endowed with knowledge and virtue.",
+      "sezon": "だが智者が日々観察した上で褒める者──そいつは行いに欠点がなく、聡明で、智慧と徳を備えてる。",
+      "keywords": ["viññū", "pasaṃsā", "medhāvī", "sīla"]
+    },
+    {
+      "number": 230,
+      "pali": "Nikkhaṃ jambonadasseva, ko taṃ ninditumarahati;\ndevā pi naṃ pasaṃsanti, brahmunā pi pasaṃsito.",
+      "reading": "ニッカン ジャンボーナダッセーヴァ、コー タン ニンディトゥマラハティ；\nデーヴァー ピ ナン パサンサンティ、ブラムナー ピ パサンスィトー。",
+      "english": "Who can blame such a one, as worthy as a coin of refined gold? Even the gods praise him; by Brahma, too, is he praised.",
+      "sezon": "精錬された金貨みてぇな奴を、誰が非難できる？神々ですら讃え、梵天にも讃えられる。",
+      "keywords": ["nikkha", "jambonada", "deva", "brahmā"]
+    },
+    {
+      "number": 231,
+      "pali": "Kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā;\nkāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.",
+      "reading": "カーヤッパコーパン ラッケイヤ、カーイェーナ サンヴトー スィヤー；\nカーヤドゥッチャリタン ヒトゥヴァー、カーイェーナ スチャリタン チャレー。",
+      "english": "Let a man guard himself against irritability in bodily action; let him be controlled in deed. Abandoning bodily misconduct, let him practice good conduct in deed.",
+      "sezon": "身体の怒りを制しろ。行いを律しろ。身体の悪行を捨てて、身体で善行を積め。",
+      "keywords": ["kāya", "pakopa", "saṃvara", "sucarita"]
+    },
+    {
+      "number": 232,
+      "pali": "Vacīpakopaṃ rakkheyya, vācāya saṃvuto siyā;\nvacīduccaritaṃ hitvā, vācāya sucaritaṃ care.",
+      "reading": "ヴァチーパコーパン ラッケイヤ、ヴァーチャーヤ サンヴトー スィヤー；\nヴァチードゥッチャリタン ヒトゥヴァー、ヴァーチャーヤ スチャリタン チャレー。",
+      "english": "Let a man guard himself against irritability in speech; let him be controlled in speech. Abandoning verbal misconduct, let him practice good conduct in speech.",
+      "sezon": "言葉の怒りを制しろ。口を律しろ。言葉の悪行を捨てて、言葉で善行を積め。",
+      "keywords": ["vācā", "pakopa", "saṃvara", "sucarita"]
+    },
+    {
+      "number": 233,
+      "pali": "Manopakopaṃ rakkheyya, manasā saṃvuto siyā;\nmanoduccaritaṃ hitvā, manasā sucaritaṃ care.",
+      "reading": "マノーパコーパン ラッケイヤ、マナサー サンヴトー スィヤー；\nマノードゥッチャリタン ヒトゥヴァー、マナサー スチャリタン チャレー。",
+      "english": "Let a man guard himself against irritability in thought; let him be controlled in mind. Abandoning mental misconduct, let him practice good conduct in thought.",
+      "sezon": "心の怒りを制しろ。意を律しろ。心の悪行を捨てて、心で善行を積め。",
+      "keywords": ["mano", "pakopa", "saṃvara", "sucarita"]
+    },
+    {
+      "number": 234,
+      "pali": "Kāyena saṃvutā dhīrā, atho vācāya saṃvutā;\nmanasā saṃvutā dhīrā, te ve suparisaṃvutā.",
+      "reading": "カーイェーナ サンヴター ディーラー、アトー ヴァーチャーヤ サンヴター；\nマナサー サンヴター ディーラー、テー ヴェー スパリサンヴター。",
+      "english": "The wise are controlled in bodily action, controlled in speech and controlled in thought. They are truly well-controlled.",
+      "sezon": "智者は身を律し、口を律し、心を律する。そいつらこそ、真に律された者たちだ。",
+      "keywords": ["kāya", "vācā", "mano", "saṃvara", "dhīra"]
+    }
+  ]
+}

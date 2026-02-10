@@ -1,0 +1,73 @@
+{
+  "jataka_number": 545,
+  "pali_name": "Vidhura Jātaka",
+  "japanese_name": "ヴィドゥラ本生",
+  "english_name": "The Story of Vidhura the Wise",
+  "parami": "真諦波羅蜜（Saccā）",
+  "summary": "ナーガ妃イランダティーが人間の賢者ヴィドゥラの心臓を欲しがり、夜叉プンナカがその心臓を手に入れるため骰子勝負でヴィドゥラを勝ち取る。断崖から突き落とされても不死身のヴィドゥラは、法を説いて夜叉を改心させ、ナーガ界でも法を示して全てを円満に収める。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "ナーガ妃の願い",
+      "pali": "Irandatī",
+      "reading": "イランダティー",
+      "english": "Vimalā, wife of the Nāga king Varuṇa, falls ill and craves the heart of the wise man Vidhura, minister of King Dhanañjaya Korabya. Their daughter Irandatī agrees to marry whoever can bring it. The Yakkha general Puṇṇaka, smitten by Irandatī's beauty, volunteers for the quest.",
+      "sezon": "ナーガ王ヴァルナの妃ヴィマラーが病に伏した。「死ぬ前に、人間の賢者ヴィドゥラの心臓の法話が聞きたい」と。娘イランダティーは自分を餌にした。「ヴィドゥラの心臓を持ってきた者に嫁ぐ」と。四方から求婚者が殺到したが、夜叉の将軍プンナカが名乗り出た。こいつはイランダティーの美しさに一目惚れしてたからな。恋に狂った夜叉は、何でもやる気だ。",
+      "keywords": ["Irandatī", "Vimalā", "Puṇṇaka", "心臓", "ナーガ界"]
+    },
+    {
+      "number": 2,
+      "title": "骰子の勝負",
+      "pali": "Akkha",
+      "reading": "アッカ",
+      "english": "Puṇṇaka challenges King Dhanañjaya to a dice game on a magical lapis lazuli board, wagering his divine horse and jewel against any treasure. Through magical dice, Puṇṇaka wins and demands not gold or kingdom, but the sage Vidhura himself.",
+      "sezon": "プンナカは空飛ぶ馬と魔法の宝石を手土産に、コラッビヤ王ダナンジャヤに骰子勝負を挑んだ。瑠璃の盤の上でな。王は勝てると思った。だが魔法の骰子は夜叉の味方で、三戦三敗。プンナカが要求したのは金でも国でも美女でもなかった。「賢者ヴィドゥラをよこせ」。王は震えた——親友を差し出すのか。だが賭けは賭けだ。真実を守る者は約束を破れない。",
+      "keywords": ["骰子", "Dhanañjaya", "賭け", "Puṇṇaka", "瑠璃盤"]
+    },
+    {
+      "number": 3,
+      "title": "ヴィドゥラの遺言",
+      "pali": "Ovāda",
+      "reading": "オーヴァーダ",
+      "english": "Before departing, Vidhura gives his final counsel to the court: instructions on proper governance, treatment of wives, raising children, managing wealth, and the duties of a king. His advice covers all aspects of righteous living.",
+      "sezon": "ヴィドゥラは死を覚悟した。出発前に王宮で最後の法話をした。「妻を大切にしろ。子供には教育を。財産は四分割して使え。王は偏りなく民を守れ。怒りを捨てよ、貪りを捨てよ、恐れるな」と。家族も大臣も泣いたが、ヴィドゥラは動じなかった。真実に生きる者に、死の恐怖はない。「俺の心臓を取りに来たんだろう？ さあ行こう」と、夜叉の馬に乗った。",
+      "keywords": ["遺言", "統治の法", "妻子への教え", "覚悟", "真実"]
+    },
+    {
+      "number": 4,
+      "title": "夜叉の試練",
+      "pali": "Kāḷapabbata",
+      "reading": "カーラパッバタ",
+      "english": "Puṇṇaka tries every method to terrify Vidhura into dying of fright: dragging him through the sky at incredible speed, plunging into the ocean, hanging him from a cliff, casting him among serpents and demons. But Vidhura remains calm and shows no fear.",
+      "sezon": "プンナカはヴィドゥラを殺そうとした。空を飛ぶ馬で引きずり回し、海に突っ込み、黒山の断崖から逆さ吊りにした。蛇の群れに放り込み、夜叉の軍勢で脅した。だがヴィドゥラは涼しい顔だ。「死ぬなら死ぬ。それだけのことだ」と。プンナカは困った。脅しが効かない。殴っても蹴っても平気な顔で法を語り始める。こいつは一体何者なんだと。",
+      "keywords": ["Kāḷapabbata", "黒山", "恐怖の試練", "不動", "勇気"]
+    },
+    {
+      "number": 5,
+      "title": "断崖の法話",
+      "pali": "Dhammadesanā",
+      "reading": "ダンマデーサナー",
+      "english": "On the cliff edge, Vidhura teaches Puṇṇaka the Dhamma. He explains that \"heart\" does not mean the physical organ but the heart of wisdom. He teaches the Yakkha about kamma, the dangers of violence, and the path of righteousness. Puṇṇaka is converted and vows to protect Vidhura.",
+      "sezon": "断崖の上でヴィドゥラは問うた。「お前、なぜ俺の心臓が欲しい？」。プンナカが事情を話すと、ヴィドゥラは笑った。「心臓ってのは肉の塊のことじゃない。ナーガ妃が欲しいのは智慧の心、法の心だ。俺を殺しても何も得られんぞ」。そして法を説いた。殺生の報い、正しい生き方、善行の果報。夜叉プンナカの心が動いた。武器を捨て、跪いた。「先生、俺が間違っていた」と。恐怖で人は変わらん。真実の言葉でこそ、心は変わる。",
+      "keywords": ["法話", "心臓の真意", "智慧", "夜叉の改心", "真諦"]
+    },
+    {
+      "number": 6,
+      "title": "ナーガ界での説法",
+      "pali": "Nāgabhavana",
+      "reading": "ナーガバヴァナ",
+      "english": "Puṇṇaka carries Vidhura to the Nāga world. There, Vidhura teaches the Dhamma to the assembled Nāgas, including Queen Vimalā. He explains the Four Noble Truths and the Noble Eightfold Path, curing Vimalā's spiritual illness.",
+      "sezon": "プンナカに守られてナーガ界へ降りたヴィドゥラは、ナーガの民全員を前に法を説いた。ヴィマラー妃も病床から聞いた。「苦しみには原因がある。欲が原因だ。欲を断てば苦は消える。その道は八つある」と。ヴィマラーの病は癒えた。肉の心臓なんぞいらなかった。法の心に触れれば、病も苦も晴れる。ナーガたちは歓喜し、ヴィドゥラに宝物を山と積んだ。",
+      "keywords": ["ナーガ界", "四聖諦", "八正道", "Vimalā", "法の心"]
+    },
+    {
+      "number": 7,
+      "title": "帰還と大団円",
+      "pali": "Samāgama",
+      "reading": "サマーガマ",
+      "english": "Vidhura returns to the human world laden with treasures. Puṇṇaka receives Irandatī as his bride. King Dhanañjaya is overjoyed at the sage's return. All beings—humans, Nāgas, and Yakkhas—are united in the Dhamma. The power of truth triumphs over violence.",
+      "sezon": "ヴィドゥラは宝を抱えて人間界に帰った。プンナカはイランダティーを嫁にもらい、夜叉の世界でも法が広まった。ダナンジャヤ王は賢者の帰還に涙した。人間もナーガも夜叉も、皆が法の下に集まった。——ブーリダッタは戒で耐えた。ナーラダは智慧で邪見を砕いた。ヴィドゥラは真実で夜叉を変えた。真実の言葉は、剣より強い。それがこの話の全てだ。",
+      "keywords": ["帰還", "大団円", "Irandatī", "真実の勝利", "法の力"]
+    }
+  ]
+}

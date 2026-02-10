@@ -1,0 +1,32 @@
+{
+  "chapter": 50,
+  "chinese_name": "出生入死",
+  "japanese_name": "生と死地",
+  "summary": "生に執着しすぎることが死を招き、死地を持たない者は何にも傷つけられない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "出生入死。生之徒，十有三；死之徒，十有三；人之生，動之死地，十有三。夫何故？以其生，生之厚。",
+      "modern_ja": "生まれ出て死に入る。生の仲間は十に三、死の仲間は十に三、人が生きていて死地に動くのも十に三。なぜか。生を生かそうとしすぎるからだ。",
+      "english": "Coming forth into life, entering into death. Three in ten are followers of life, three in ten followers of death, and three in ten move toward death while alive. Why? Because they cling too thickly to life.",
+      "laozi": "生きようとしすぎて、死に向かう奴が十人中三人。なんでだと思う？ 生に執着しすぎるからだ",
+      "keywords": [
+        "出生入死",
+        "生之厚",
+        "死地"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "蓋聞善攝生者，陸行不遇兕虎，入軍不被甲兵；兕無所投其角，虎無所措其爪，兵無所容其刃。夫何故？以其無死地。",
+      "modern_ja": "聞くところによれば、善く生を保つ者は陸を行っても兕（じ）や虎に遇わず、軍に入っても甲冑や兵器を被らない。兕は角を突き立てるところがなく、虎は爪をかけるところがなく、兵は刃を入れるところがない。なぜか。死地がないからだ。",
+      "english": "One skilled at nurturing life walks the land without meeting rhinoceros or tiger, enters battle without armor or weapons. The rhinoceros finds nowhere to thrust its horn, the tiger nowhere to sink its claws, weapons nowhere to lodge their blades. Why? Because he has no place of death.",
+      "laozi": "虎も角も刃も、刺すところがない。死ぬ場所を持ってないから。死地がなければ、死なない。単純だろ",
+      "keywords": [
+        "善摂生",
+        "無死地",
+        "兕虎"
+      ]
+    }
+  ]
+}

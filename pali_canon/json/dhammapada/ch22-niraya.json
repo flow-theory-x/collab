@@ -1,0 +1,122 @@
+{
+  "chapter": 22,
+  "pali_name": "Nirayavagga",
+  "japanese_name": "地獄品",
+  "english_name": "Hell",
+  "summary": "嘘、不倫、堕落した出家、邪見──地獄行きの切符を自分で買う奴らの話だ。恥を知り、正しく畏れ、善悪を見分けろ。それだけで天国への道が開ける。",
+  "verse_range": "306-319",
+  "verses": [
+    {
+      "number": 306,
+      "pali": "Abhūtavādī nirayaṃ upeti,\nyo vāpi katvā na karomi cāha;\nubhopi te pecca samā bhavanti,\nnihīnakammā manujā parattha.",
+      "reading": "アブータヴァーディー ニラヤン ウペーティ、\nヨー ヴァーピ カットヴァー ナ カローミ チャーハ；\nウボーピ テー ペッチャ サマー バヴァンティ、\nニヒーナカンマー マヌジャー パラッタ。",
+      "english": "The liar goes to the state of woe; also he who, having done (wrong), says, \"I did not do it.\" Men of base actions both, on departing they share the same destiny in the other world.",
+      "sezon": "嘘つきは地獄に堕ちる。悪事を働いておきながら『やってねぇ』と言う奴もだ。どっちも卑しい行いの人間──死後は同じ場所に行く。",
+      "keywords": ["abhūtavādī", "niraya", "nihīnakamma", "musāvāda"]
+    },
+    {
+      "number": 307,
+      "pali": "Kāsāvakaṇṭhā bahavo,\npāpadhammā asaññatā;\npāpā pāpehi kammehi,\nnirayaṃ te upapajjare.",
+      "reading": "カーサーヴァカンター バハヴォー、\nパーパダンマー アサンニャター；\nパーパー パーペーヒ カンメーヒ、\nニラヤン テー ウパパッジャレー。",
+      "english": "There are many evil characters and uncontrolled men wearing the saffron robe. These wicked men will be born in states of woe because of their evil deeds.",
+      "sezon": "袈裟を首に巻いた悪党は山ほどいる。戒もなく心も制御できねぇ──そんな連中は悪業のせいで地獄に堕ちる。",
+      "keywords": ["kāsāva", "pāpadhamma", "asaññata", "niraya"]
+    },
+    {
+      "number": 308,
+      "pali": "Seyyo ayoguḷo bhutto,\ntatto aggisikhūpamo;\nyañce bhuñjeyya dussīlo,\nraṭṭhapiṇḍamasaññato.",
+      "reading": "セッヨー アヨーグロー ブットー、\nタットー アッギシクーパモー；\nヤンチェー ブンジェッヤ ドゥッシーロー、\nラッタピンダマサンニャトー。",
+      "english": "It would be better to swallow a red-hot iron ball, blazing like fire, than as an immoral and uncontrolled monk to eat the alms of the people.",
+      "sezon": "火のように燃える鉄の玉を呑み込む方がまだマシだ──戒を破り自制のねぇ坊主が、人々の施しを食らうよりはな。",
+      "keywords": ["ayoguḷa", "dussīla", "raṭṭhapiṇḍa", "asaññata"]
+    },
+    {
+      "number": 309,
+      "pali": "Cattāri ṭhānāni naro pamatto,\nāpajjati paradārūpasevī;\napuññalābhaṃ na nikāmaseyyaṃ,\nnindaṃ tatīyaṃ nirayaṃ catutthaṃ.",
+      "reading": "チャッターリ ターナーニ ナロー パマットー、\nアーパッジャティ パラダールーパセーヴィー；\nアプンニャラーバン ナ ニカーマセッヤン、\nニンダン タティーヤン ニラヤン チャトゥッタン。",
+      "english": "Four misfortunes befall the reckless man who consorts with another's wife: acquisition of demerit, disturbed sleep, ill-repute, and (rebirth in) states of woe.",
+      "sezon": "他人の女に手を出す不注意な男には、四つの災いが降りかかる──罪の蓄積、安眠の喪失、悪評、そして地獄行きだ。",
+      "keywords": ["paradāra", "apuñña", "nindā", "niraya"]
+    },
+    {
+      "number": 310,
+      "pali": "Apuññalābho ca gatī ca pāpikā,\nbhītassa bhītāya ratī ca tholikā;\nrājā ca daṇḍaṃ garukaṃ paṇeti;\ntasmā naro paradāraṃ na seve.",
+      "reading": "アプンニャラーボー チャ ガティー チャ パーピカー、\nビータッサ ビーターヤ ラティー チャ トーリカー；\nラージャー チャ ダンダン ガルカン パネーティ；\nタスマー ナロー パラダーラン ナ セーヴェー。",
+      "english": "Such a man acquires demerit and an unhappy birth in the future. Brief is the pleasure of the frightened man and woman, and the king imposes heavy punishment. Hence, let no man consort with another's wife.",
+      "sezon": "罪を積み、来世は悪趣。怯えた男と女の快楽は束の間で、王は重い罰を下す。だから他人の妻に近づくな。",
+      "keywords": ["apuñña", "gati", "daṇḍa", "paradāra"]
+    },
+    {
+      "number": 311,
+      "pali": "Kuso yathā duggahito,\nhatthamevānukantati;\nsāmaññaṃ dupparāmaṭṭhaṃ,\nnirayāyupakaḍḍhati.",
+      "reading": "クソー ヤター ドゥッガヒトー、\nハッタメーヴァーヌカンタティ；\nサーマンニャン ドゥッパラーマッタン、\nニラヤーユパカッダティ。",
+      "english": "Just as kusa grass wrongly handled cuts the hand, even so, a recluse's life wrongly lived drags one to states of woe.",
+      "sezon": "クサ草を下手に掴めば手が切れる──それと同じで、沙門の生活を誤れば、地獄に引きずり込まれる。",
+      "keywords": ["kusa", "duggahita", "sāmañña", "niraya"]
+    },
+    {
+      "number": 312,
+      "pali": "Yaṃ kiñci sithilaṃ kammaṃ,\nsaṃkiliṭṭhañca yaṃ vataṃ;\nsaṅkassaraṃ brahmacariyaṃ,\nna taṃ hoti mahapphalaṃ.",
+      "reading": "ヤン キンチ シティラン カンマン、\nサンキリッタンチャ ヤン ヴァタン；\nサンカッサラン ブラフマチャリヤン、\nナ タン ホーティ マハッパラン。",
+      "english": "Any loose act, any corrupt observance, any life of questionable celibacy — none of these bear much fruit.",
+      "sezon": "だらしねぇ行い、汚れた戒行、怪しげな梵行──そんなもんから大した果実は生まれねぇ。",
+      "keywords": ["sithila", "saṃkiliṭṭha", "brahmacariya", "phala"]
+    },
+    {
+      "number": 313,
+      "pali": "Kayirā ce kayirāthenaṃ,\ndaḷhamenaṃ parakkame;\nsithilo hi paribbājo,\nbhiyyo ākirate rajaṃ.",
+      "reading": "カイラー チェー カイラーテーナン、\nダラメーナン パラッカメー；\nシティロー ヒ パリッバージョー、\nビッヨー アーキラテー ラジャン。",
+      "english": "If anything is to be done, let one do it with sustained vigor. A lax monastic life stirs up the dust of passions all the more.",
+      "sezon": "やるならとことんやれ。全力で突っ走れ。ぬるい出家生活は、煩悩の塵をますます撒き散らすだけだ。",
+      "keywords": ["daḷha", "parakkama", "sithila", "raja"]
+    },
+    {
+      "number": 314,
+      "pali": "Akataṃ dukkaṭaṃ seyyo,\npacchā tappati dukkaṭaṃ;\nkatañca sukataṃ seyyo,\nyaṃ katvā nānutappati.",
+      "reading": "アカタン ドゥッカタン セッヨー、\nパッチャー タッパティ ドゥッカタン；\nカタンチャ スカタン セッヨー、\nヤン カットヴァー ナーヌタッパティ。",
+      "english": "An evil deed is better left undone, for such a deed torments one afterwards. But a good deed is better done, doing which one repents not later.",
+      "sezon": "悪い事はやらねぇ方がいい──後で苦しむからな。善い事はやった方がいい──後悔しねぇで済む。",
+      "keywords": ["dukkaṭa", "sukata", "tappati", "anutappati"]
+    },
+    {
+      "number": 315,
+      "pali": "Nagaraṃ yathā paccantaṃ,\nguttaṃ santarabāhiraṃ;\nevaṃ gopetha attānaṃ;\nkhaṇo vo mā upaccagā;\nkhaṇātītā hi socanti,\nnirayamhi samappitā.",
+      "reading": "ナガラン ヤター パッチャンタン、\nグッタン サンタラバーヒラン；\nエーヴァン ゴーペータ アッターナン；\nカノー ヴォー マー ウパッチャガー；\nカナーティーター ヒ ソーチャンティ、\nニラヤンヒ サマッピター。",
+      "english": "Just as a border city is closely guarded both within and without, even so, guard yourself. Do not let slip this opportunity (for spiritual growth). For those who let slip this opportunity grieve indeed when consigned to hell.",
+      "sezon": "国境の城が内も外も厳重に守られるように、自分自身を守れ。この好機を逃すな。機を逃した奴は、地獄に落ちて泣くことになる。",
+      "keywords": ["nagara", "gutta", "khaṇa", "niraya"]
+    },
+    {
+      "number": 316,
+      "pali": "Alajjitāye lajjanti,\nlajjitāye na lajjare;\nmicchādiṭṭhisamādānā,\nsattā gacchanti duggatiṃ.",
+      "reading": "アラッジターイェー ラッジャンティ、\nラッジターイェー ナ ラッジャレー；\nミッチャーディッティサマーダーナー、\nサッター ガッチャンティ ドゥッガティン。",
+      "english": "Those who are ashamed of what they should not be ashamed of, and are not ashamed of what they should be ashamed of — upholding false views, they go to states of woe.",
+      "sezon": "恥じるべきでねぇ事を恥じ、恥じるべき事を恥じねぇ──邪見を抱いた奴らは悪趣に堕ちる。",
+      "keywords": ["lajjā", "micchādiṭṭhi", "duggati"]
+    },
+    {
+      "number": 317,
+      "pali": "Abhaye bhayadassino,\nbhaye cābhayadassino;\nmicchādiṭṭhisamādānā,\nsattā gacchanti duggatiṃ.",
+      "reading": "アバイェー バヤダッシノー、\nバイェー チャーバヤダッシノー；\nミッチャーディッティサマーダーナー、\nサッター ガッチャンティ ドゥッガティン。",
+      "english": "Those who see something to fear where there is nothing to fear, and see nothing to fear where there is something to fear — upholding false views, they go to states of woe.",
+      "sezon": "恐れるべきでねぇ所に恐れを見て、恐れるべき所に恐れを見ねぇ──邪見の連中は悪趣に堕ちる。",
+      "keywords": ["abhaya", "bhaya", "micchādiṭṭhi", "duggati"]
+    },
+    {
+      "number": 318,
+      "pali": "Avajje vajjamatino,\nvajje cāvajjadassino;\nmicchādiṭṭhisamādānā,\nsattā gacchanti duggatiṃ.",
+      "reading": "アヴァッジェー ヴァッジャマティノー、\nヴァッジェー チャーヴァッジャダッシノー；\nミッチャーディッティサマーダーナー、\nサッター ガッチャンティ ドゥッガティン。",
+      "english": "Those who imagine evil where there is none, and do not see evil where it is — upholding false views, they go to states of woe.",
+      "sezon": "罪なき所に罪を見て、罪ある所に罪を見ねぇ──邪見を掲げる奴らは悪趣に堕ちる。",
+      "keywords": ["avajja", "vajja", "micchādiṭṭhi", "duggati"]
+    },
+    {
+      "number": 319,
+      "pali": "Vajjañca vajjato ñatvā,\navajjañca avajjato;\nsammādiṭṭhisamādānā,\nsattā gacchanti suggatiṃ.",
+      "reading": "ヴァッジャンチャ ヴァッジャトー ニャットヴァー、\nアヴァッジャンチャ アヴァッジャトー；\nサンマーディッティサマーダーナー、\nサッター ガッチャンティ スッガティン。",
+      "english": "Those who discern the wrong as wrong and the right as right — upholding right views, they go to realms of bliss.",
+      "sezon": "悪を悪と知り、善を善と知る──正見を持つ者たちは、善趣に赴く。",
+      "keywords": ["vajja", "avajja", "sammādiṭṭhi", "suggati"]
+    }
+  ]
+}

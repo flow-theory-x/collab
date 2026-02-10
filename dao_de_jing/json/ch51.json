@@ -1,0 +1,34 @@
+{
+  "chapter": 51,
+  "chinese_name": "道生之",
+  "japanese_name": "玄徳",
+  "summary": "道は生み徳は養うが、所有も支配もしない——これが玄徳である。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "道生之，德畜之，物形之，勢成之。是以萬物莫不尊道而貴德。道之尊，德之貴，夫莫之命常自然。",
+      "modern_ja": "道がこれを生み、徳がこれを養い、物がこれに形を与え、勢がこれを成す。だから万物は道を尊び徳を貴ばないものはない。道の尊さ、徳の貴さは、命令されずして常に自然である。",
+      "english": "The Way gives birth; virtue nurtures; matter shapes; circumstances complete. Thus all things revere the Way and honor virtue. This reverence and honor arise naturally, without command.",
+      "laozi": "道が生んで、徳が育てる。誰にも命令されてない。自然にそうなる。それが尊いんだ",
+      "keywords": [
+        "道生",
+        "徳畜",
+        "自然",
+        "万物"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "故道生之，德畜之；長之育之；亭之毒之；養之覆之。生而不有，為而不恃，長而不宰，是謂玄德。",
+      "modern_ja": "道がこれを生み、徳がこれを養い、育て成長させ、実らせ保護し、養い覆う。生んでも所有せず、為しても頼まず、長となっても支配しない。これを「玄徳」という。",
+      "english": "The Way gives birth, virtue nurtures, grows, develops, shelters, and protects. It gives birth without possessing, acts without relying, leads without dominating. This is called 'Mysterious Virtue.'",
+      "laozi": "生んでも持たない。やっても威張らない。導いても支配しない。…それが玄徳。一番深い徳だ",
+      "keywords": [
+        "玄徳",
+        "生而不有",
+        "為而不恃",
+        "長而不宰"
+      ]
+    }
+  ]
+}

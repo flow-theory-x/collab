@@ -1,0 +1,31 @@
+{
+  "chapter": 60,
+  "chinese_name": "治大國若烹小鮮",
+  "japanese_name": "小魚を煮るように",
+  "summary": "大国の統治は小魚を煮るように手を加えすぎず、道によれば互いに傷つけ合わない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "治大國若烹小鮮。",
+      "modern_ja": "大国を治めるのは小魚を煮るようなものだ。",
+      "english": "Governing a great nation is like cooking a small fish.",
+      "laozi": "大国を治める？ 小魚を煮るようにやれ。いじりすぎるな。崩れる",
+      "keywords": [
+        "治大国",
+        "烹小鮮"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "以道蒞天下，其鬼不神；非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人。夫兩不相傷，故德交歸焉。",
+      "modern_ja": "道をもって天下に臨めば、鬼も神通力を発揮しない。鬼が神通力を発揮しないのではなく、その神通力が人を傷つけないのだ。聖人もまた人を傷つけない。両者が互いに傷つけ合わないから、徳が交わって帰する。",
+      "english": "When the Way governs the world, ghosts lose their power—not that they have no power, but their power does not harm people. The sage also does not harm people. Since neither harms the other, virtue flows between them.",
+      "laozi": "道で治めれば、鬼も暴れない。鬼が弱くなったんじゃない。傷つけなくなるんだ。聖人も傷つけない。誰も傷つけない。…徳が行き交う。それだけだ",
+      "keywords": [
+        "鬼不神",
+        "両不相傷",
+        "徳交帰"
+      ]
+    }
+  ]
+}

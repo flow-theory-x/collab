@@ -1,0 +1,122 @@
+{
+  "chapter": 6,
+  "pali_name": "Paṇḍitavagga",
+  "japanese_name": "賢者品",
+  "english_name": "The Wise",
+  "summary": "賢者とは何か──欠点を指摘してくれる奴を宝の案内人として従え。岩のように動じず、深い湖のように澄み、此岸でウロウロせず彼岸に渡る者、それが賢者ってもんだ。",
+  "verse_range": "76-89",
+  "verses": [
+    {
+      "number": 76,
+      "pali": "Nidhīnaṃva pavattāraṃ\nyaṃ passe vajjadassinaṃ\nniggayhavādiṃ medhāviṃ\ntādisaṃ paṇḍitaṃ bhaje\ntādisaṃ bhajamānassa\nseyyo hoti na pāpiyo.",
+      "reading": "ニディーナンヴァ パヴァッターラン\nヤン パッセー ヴァッジャダッシナン\nニッガイハヴァーディン メーダーヴィン\nターディサン パンディタン バジェー\nターディサン バジャマーナッサ\nセッヨー ホーティ ナ パーピヨー",
+      "english": "Should one find a man who points out faults and who reproves, let him follow such a wise and sagacious person as one would a guide to hidden treasure. It is always better, and never worse, to cultivate such an association.",
+      "sezon": "欠点を指摘し、叱ってくれる奴を見つけたら──埋蔵金の案内人に従うように、そいつについていけ。そういう付き合いは常に良くなることはあっても、悪くなることはねぇ",
+      "keywords": ["nidhi", "vajjadassī", "paṇḍita", "medhāvī"]
+    },
+    {
+      "number": 77,
+      "pali": "Ovadeyyānusāseyya\nasabbhā ca nivāraye\nsataṃ hi so piyo hoti\nasataṃ hoti appiyo.",
+      "reading": "オーヴァデッヤーヌサーセッヤ\nアサッバー チャ ニヴァーラエー\nサタン ヒ ソー ピヨー ホーティ\nアサタン ホーティ アッピヨー",
+      "english": "Let him admonish, instruct and shield one from wrong; he, indeed, is dear to the good and detestable to the evil.",
+      "sezon": "忠告し、教え導き、悪から守ってくれる奴──そいつは善人に愛され、悪人には嫌われる。嫌われるのは勲章ってもんだ",
+      "keywords": ["ovāda", "anusāsana", "sat", "asat"]
+    },
+    {
+      "number": 78,
+      "pali": "Na bhaje pāpake mitte\nna bhaje purisādhame\nbhajetha mitte kalyāṇe\nbhajetha purisuttame.",
+      "reading": "ナ バジェー パーパケー ミッテー\nナ バジェー プリサーダメー\nバジェータ ミッテー カリヤーネー\nバジェータ プリスッタメー",
+      "english": "Do not associate with evil companions; do not seek the fellowship of the vile. Associate with the good friends; seek the fellowship of noble men.",
+      "sezon": "悪い仲間とつるむな。卑しい奴らと群れるな。善き友と交われ。高貴な人間を求めろ",
+      "keywords": ["pāpaka", "mitta", "kalyāṇa", "purisuttama"]
+    },
+    {
+      "number": 79,
+      "pali": "Dhammapīti sukhaṃ seti\nvippasannena cetasā\nariyappavedite dhamme\nsadā ramati paṇḍito.",
+      "reading": "ダンマピーティ スカン セーティ\nヴィッパサンネーナ チェータサー\nアリヤッパヴェーディテー ダンメー\nサダー ラマティ パンディトー",
+      "english": "He who drinks deep the Dhamma lives happily with a tranquil mind. The wise man ever delights in the Dhamma made known by the Noble One (the Buddha).",
+      "sezon": "法（ダンマ）を深く飲み干した者は、澄んだ心で幸福に暮らす。賢者は聖者が説いた法を常に楽しむんだ",
+      "keywords": ["dhamma", "pīti", "sukha", "ariya", "paṇḍita"]
+    },
+    {
+      "number": 80,
+      "pali": "Udakañhi nayanti nettikā\nusukārā namayanti tejanaṃ\ndāruṃ namayanti tacchakā\nattānaṃ damayanti paṇḍitā.",
+      "reading": "ウダカンヒ ナヤンティ ネッティカー\nウスカーラー ナマヤンティ テージャナン\nダールン ナマヤンティ タッチャカー\nアッターナン ダマヤンティ パンディター",
+      "english": "Irrigators regulate the rivers; fletchers straighten the arrow shaft; carpenters shape the wood; the wise control themselves.",
+      "sezon": "水路師は水を導き、矢師は矢を真っ直ぐにし、大工は木を削る。賢者は──自分自身を調御するんだ",
+      "keywords": ["nettika", "usukāra", "tacchaka", "paṇḍita", "dama"]
+    },
+    {
+      "number": 81,
+      "pali": "Selo yathā ekaghano\nvātena na samīrati\nevaṃ nindāpasaṃsāsu\nna samiñjanti paṇḍitā.",
+      "reading": "セーロー ヤター エーカガノー\nヴァーテーナ ナ サミーラティ\nエーヴァン ニンダーパサンサースー\nナ サミンジャンティ パンディター",
+      "english": "Just as a solid rock is not shaken by the storm, even so the wise are not affected by praise or blame.",
+      "sezon": "堅固な岩が嵐にビクともしねぇように──賢者は称賛にも非難にも動じねぇ",
+      "keywords": ["sela", "vāta", "nindā", "pasaṃsā", "paṇḍita"]
+    },
+    {
+      "number": 82,
+      "pali": "Yathāpi rahado gambhīro\nvippasanno anāvilo\nevaṃ dhammāni sutvāna\nvippasīdanti paṇḍitā.",
+      "reading": "ヤターピ ラハドー ガンビーロー\nヴィッパサンノー アナーヴィロー\nエーヴァン ダンマーニ ストヴァーナ\nヴィッパシーダンティ パンディター",
+      "english": "On hearing the Teachings, the wise become perfectly purified, like a lake deep, clear and still.",
+      "sezon": "深くて、澄んでいて、濁りのねぇ湖のように──教えを聞いた賢者は完全に浄化される",
+      "keywords": ["rahada", "gambhīra", "vippasanna", "dhamma", "paṇḍita"]
+    },
+    {
+      "number": 83,
+      "pali": "Sabbattha ve sappurisā cajanti\nna kāmakāmā lapayanti santo\nsukhena phuṭṭhā atha vā dukhena\nna uccāvacaṃ paṇḍitā dassayanti.",
+      "reading": "サッバッタ ヴェー サップリサー チャジャンティ\nナ カーマカーマー ラパヤンティ サントー\nスケーナ プッター アタ ヴァー ドゥケーナ\nナ ウッチャーヴァチャン パンディター ダッサヤンティ",
+      "english": "The good renounce (attachment for) everything. The virtuous do not prattle with a yearning for pleasures. The wise show no elation or depression when touched by happiness or sorrow.",
+      "sezon": "善人はあらゆるものへの執着を手放す。徳ある者は快楽を求めてペラペラ喋らねぇ。幸にも不幸にも触れられて──賢者は浮きも沈みもしねぇ",
+      "keywords": ["sappurisa", "santa", "sukha", "dukkha", "paṇḍita"]
+    },
+    {
+      "number": 84,
+      "pali": "Na attahetu na parassa hetu\nna puttamicche na dhanaṃ na raṭṭhaṃ\nna iccheyya adhammena samiddhimattano\nsa sīlavā paññavā dhammiko siyā.",
+      "reading": "ナ アッタヘートゥ ナ パラッサ ヘートゥ\nナ プッタミッチェー ナ ダナン ナ ラッタン\nナ イッチェッヤ アダンメーナ サミッディマッタノー\nサ シーラヴァー パンニャヴァー ダンミコー シヤー",
+      "english": "He is indeed virtuous, wise, and righteous who neither for his own sake nor for the sake of another (does any wrong), who does not crave for sons, wealth, or kingdom, and does not desire success by unjust means.",
+      "sezon": "自分のためにも他人のためにも悪事を働かず、息子も財産も王国も欲しがらず、不正な手段で成功を求めねぇ──そいつが戒律あり、智慧あり、正しき者ってもんだ",
+      "keywords": ["sīlavā", "paññavā", "dhammika", "putta", "dhana"]
+    },
+    {
+      "number": 85,
+      "pali": "Appakā te manussesu\nye janā pāragāmino\nathāyaṃ itarā pajā\ntīramevānudhāvati.",
+      "reading": "アッパカー テー マヌッセース\nイェー ジャナー パーラガーミノー\nアターヤン イタラー パジャー\nティーラメーヴァーヌダーヴァティ",
+      "english": "Few among men are those who cross to the farther shore. The rest, the bulk of men, only run up and down the hither bank.",
+      "sezon": "彼岸に渡る人間なんざ少数だ。残りの大多数は──此岸をウロウロ走り回ってるだけだ",
+      "keywords": ["pāragāmī", "manussa", "tīra", "pajā"]
+    },
+    {
+      "number": 86,
+      "pali": "Ye ca kho sammadakkhāte\ndhamme dhammānuvattino\nte janā pāramessanti\nmaccudheyyaṃ suduttaraṃ.",
+      "reading": "イェー チャ コー サンマダッカーテー\nダンメー ダンマーヌヴァッティノー\nテー ジャナー パーラメッサンティ\nマッチュデッヤン スドゥッタラン",
+      "english": "But those who act according to the perfectly taught Dhamma will cross the realm of Death, so difficult to cross.",
+      "sezon": "だが正しく説かれた法（ダンマ）に従って行動する者──そいつらは渡りがたい死の領域をブッちぎって渡るんだ",
+      "keywords": ["dhamma", "dhammānuvattī", "maccu", "pāra"]
+    },
+    {
+      "number": 87,
+      "pali": "Kaṇhaṃ dhammaṃ vippahāya\nsukkaṃ bhāvetha paṇḍito\nokā anokamāgamma\nviveke yattha dūramaṃ.",
+      "reading": "カンハン ダンマン ヴィッパハーヤ\nスッカン バーヴェータ パンディトー\nオーカー アノーカマーガンマ\nヴィヴェーケー ヤッタ ドゥーラマン",
+      "english": "Abandoning the dark way, let the wise man cultivate the bright path. Having gone from home to homelessness, let him yearn for that delight in detachment, so difficult to enjoy.",
+      "sezon": "暗い道を捨てて、賢者よ明るい道を歩め。家を出て出家の身となり──味わうのが難しい離欲の喜びを求めろ",
+      "keywords": ["kaṇha", "sukka", "paṇḍita", "viveka", "anoka"]
+    },
+    {
+      "number": 88,
+      "pali": "Tatrābhiratimiccheyya\nhitvā kāme akiñcano\npariyodapeyya attānaṃ\ncittaklesehi paṇḍito.",
+      "reading": "タトラービラティミッチェッヤ\nヒトヴァー カーメー アキンチャノー\nパリヨーダペッヤ アッターナン\nチッタクレーセーヒ パンディトー",
+      "english": "Giving up sensual pleasures, with no attachment, let the wise man cleanse himself of defilements of the mind.",
+      "sezon": "感覚の快楽をブン投げて、何も所有せず、賢者は心の汚れから自分をピカピカに洗い清めろ",
+      "keywords": ["kāma", "akiñcana", "paṇḍita", "cittakilesa"]
+    },
+    {
+      "number": 89,
+      "pali": "Yesaṃ sambodhiyaṅgesu\nsammā cittaṃ subhāvitaṃ\nādānapaṭinissagge\nanupādāya ye ratā\nkhīṇāsavā jutimanto\nte loke parinibbutā.",
+      "reading": "イェーサン サンボーディヤンゲース\nサンマー チッタン スバーヴィタン\nアーダーナパティニッサッゲー\nアヌパーダーヤ イェー ラター\nキーナーサヴァー ジュティマントー\nテー ローケー パリニッブター",
+      "english": "Those whose minds have reached full excellence in the factors of enlightenment, who, having renounced acquisitiveness, rejoice in not clinging to things — rid of cankers, glowing with wisdom, they have attained Nibbana in this very life.",
+      "sezon": "覚りの要素において心を完全に修めた者、執着を手放し、何にもしがみつかねぇことを喜ぶ者──煩悩を滅ぼし、智慧で輝くそいつらは、この世にいながらにして涅槃に達してるんだ",
+      "keywords": ["sambodhiyaṅga", "ādāna", "paṭinissagga", "khīṇāsava", "parinibbuta"]
+    }
+  ]
+}

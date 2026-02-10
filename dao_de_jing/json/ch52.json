@@ -1,0 +1,43 @@
+{
+  "chapter": 52,
+  "chinese_name": "天下有始",
+  "japanese_name": "母と子の道",
+  "summary": "根源（母）を守り感覚の門を閉じれば、身に災いはない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "天下有始，以為天下母。既得其母，以知其子，既知其子，復守其母，沒身不殆。",
+      "modern_ja": "天下に始まりがあり、それが天下の母となる。すでにその母を知れば、その子を知ることができ、その子を知ってさらにその母を守れば、身が滅んでも危うくない。",
+      "english": "The world has a beginning, which is the mother of the world. Having found the mother, you know the children. Knowing the children, return to the mother, and you will endure beyond death.",
+      "laozi": "根っこを見つけたら、枝葉はわかる。枝葉がわかったら根っこに戻れ。それで終わりだ",
+      "keywords": [
+        "天下母",
+        "母子",
+        "守母"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "塞其兌，閉其門，終身不勤。開其兌，濟其事，終身不救。",
+      "modern_ja": "耳目の穴を塞ぎ、その門を閉じれば、終身労することがない。穴を開き事を済ませようとすれば、終身救われない。",
+      "english": "Block the openings, close the gates, and you will never toil. Open the openings and meddle in affairs, and you will never be saved.",
+      "laozi": "目と耳を閉じろ。開けっ放しにして走り回ったら、一生救われない",
+      "keywords": [
+        "塞兌閉門",
+        "感覚"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "見小曰明，守柔曰強。用其光，復歸其明，無遺身殃；是為習常。",
+      "modern_ja": "小を見るを明といい、柔を守るを強という。その光を用いてその明に帰れば、身に災いを残さない。これを「常に習う」という。",
+      "english": "To see the small is called clarity; to hold to the soft is called strength. Use the light to return to clarity, leaving no disaster for yourself. This is called 'practicing the eternal.'",
+      "laozi": "小さいものが見える、それが明。柔らかさを守れる、それが強さ。光を使って明に戻れ。…それが「常」だ",
+      "keywords": [
+        "見小曰明",
+        "守柔曰強",
+        "習常"
+      ]
+    }
+  ]
+}

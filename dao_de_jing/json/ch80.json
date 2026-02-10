@@ -1,0 +1,33 @@
+{
+  "chapter": 80,
+  "chinese_name": "小國寡民",
+  "japanese_name": "小国寡民の理想",
+  "summary": "小さく素朴な国で、民が食を甘しとし俗を楽しむ。それが理想郷。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "小國寡民。使有什伯之器而不用；使民重死而不遠徙。雖有舟輿，無所乘之，雖有甲兵，無所陳之。",
+      "modern_ja": "国は小さく民は少なくあれ。十倍百倍の道具があっても使わせず、民に死を重んじて遠くに移らせない。舟や車があっても乗るところなく、甲冑や兵器があっても並べるところなし。",
+      "english": "A small country with few people. Though there are tools of tenfold efficiency, they are not used. People take death seriously and do not travel far. Though there are boats and carriages, no one rides them. Though there are armor and weapons, no one displays them.",
+      "laozi": "小さい国。少ない民。便利な道具があっても、使わない。船があっても、乗らない。武器があっても、並べない。それでいい",
+      "keywords": [
+        "小国寡民",
+        "不用",
+        "素朴"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "使民復結繩而用之，甘其食，美其服，安其居，樂其俗。鄰國相望，雞犬之聲相聞，民至老死，不相往來。",
+      "modern_ja": "民をして再び縄を結んで用いさせよ。その食を甘しとし、その服を美しとし、その居を安んじ、その俗を楽しむ。隣国が相望み、鶏犬の声が互いに聞こえても、民は老死に至るまで行き来しない。",
+      "english": "Let people return to knotting cords. They find their food sweet, their clothes beautiful, their homes secure, their customs joyful. Neighboring countries are within sight, the sounds of roosters and dogs can be heard — yet people grow old and die without ever visiting each other.",
+      "laozi": "飯がうまい。服がきれい。家が落ち着く。隣の国の鶏の声が聞こえる。でも行かない。行く必要がない。…それが、幸せだ",
+      "keywords": [
+        "結縄",
+        "甘食",
+        "安居",
+        "不相往来"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "chapter": 75,
+  "chinese_name": "民之飢",
+  "japanese_name": "上の有為が民を苦しめる",
+  "summary": "民の飢え・反抗・死の軽視はすべて上の者の作為が原因である。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "民之飢，以其上食稅之多，是以飢。民之難治，以其上之有為，是以難治。民之輕死，以其求生之厚，是以輕死。",
+      "modern_ja": "民が飢えるのは、上が税を多く取るからだ。民が治めにくいのは、上が作為するからだ。民が死を軽んずるのは、上が生を厚く求めるからだ。",
+      "english": "People starve because their rulers consume too much in taxes. People are hard to govern because their rulers act too much. People take death lightly because their rulers pursue life too greedily.",
+      "laozi": "民が飢える？ 上が取りすぎだ。治まらない？ 上がやりすぎだ。死を怖がらない？ 上が生にしがみつきすぎだ。全部、上のせいだ",
+      "keywords": [
+        "飢",
+        "税",
+        "有為",
+        "軽死"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "夫唯無以生為者，是賢於貴生。",
+      "modern_ja": "ただ生のために何もしない者こそ、生を貴ぶ者より賢い。",
+      "english": "Only those who do not strive for life are wiser than those who value life too highly.",
+      "laozi": "生きることに必死な奴より、何もしてない奴の方が賢い。皮肉じゃないぞ。本当の話だ",
+      "keywords": [
+        "無以生為",
+        "貴生",
+        "無為"
+      ]
+    }
+  ]
+}

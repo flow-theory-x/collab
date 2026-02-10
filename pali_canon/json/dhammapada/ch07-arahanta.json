@@ -1,0 +1,90 @@
+{
+  "chapter": 7,
+  "pali_name": "Arahantavagga",
+  "japanese_name": "阿羅漢品",
+  "english_name": "The Arahant",
+  "summary": "旅を終えた者──阿羅漢。すべての絆を断ち、煩悩の熱病から自由になった完成者たち。その足跡は空の鳥のように追えねぇ。神々すら敬う存在だ。",
+  "verse_range": "90-99",
+  "verses": [
+    {
+      "number": 90,
+      "pali": "Gataddhino visokassa\nvippamuttassa sabbadhi\nsabbaganthappahīnassa\npariḷāho na vijjati.",
+      "reading": "ガタッディノー ヴィソーカッサ\nヴィッパムッタッサ サッバディ\nサッバガンタッパヒーナッサ\nパリラーホー ナ ヴィッジャティ",
+      "english": "The fever of passion exists not for him who has completed the journey, who is sorrowless and wholly set free, and has broken all ties.",
+      "sezon": "旅を終えた者、憂いなき者、一切から解き放たれた者、すべての結び目をブッた斬った者──そいつに煩悩の熱病はもう存在しねぇ",
+      "keywords": ["gataddhi", "visoka", "vippamutta", "gantha", "pariḷāha"]
+    },
+    {
+      "number": 91,
+      "pali": "Uyyuñjanti satimanto\nna nikete ramanti te\nhaṃsāva pallalaṃ hitvā\nokamokaṃ jahanti te.",
+      "reading": "ウッユンジャンティ サティマントー\nナ ニケーテー ラマンティ テー\nハンサーヴァ パッララン ヒトヴァー\nオーカモーカン ジャハンティ テー",
+      "english": "The mindful ones exert themselves. They are not attached to any home; like swans that abandon the lake, they leave home after home behind.",
+      "sezon": "念（サティ）ある者は精進する。どんな住処にも執着しねぇ。白鳥が池を捨てるように、次々と住処を後にしていくんだ",
+      "keywords": ["sati", "niketa", "haṃsa", "oka"]
+    },
+    {
+      "number": 92,
+      "pali": "Yesaṃ sannicayo natthi\nye pariññātabhojanā\nsuññato animitto ca\nvimokkho yesaṃ gocaro\nākāseva sakuntānaṃ\ngati tesaṃ durannayā.",
+      "reading": "イェーサン サンニチャヨー ナッティ\nイェー パリンニャータボージャナー\nスンニャトー アニミットー チャ\nヴィモッコー イェーサン ゴーチャロー\nアーカーセーヴァ サクンターナン\nガティ テーサン ドゥランナヤー",
+      "english": "Those who do not accumulate and are wise regarding food, whose object is the Void, the Unconditioned Freedom — their track cannot be traced, like that of birds in the air.",
+      "sezon": "蓄えを持たず、食について智慧ある者、空（くう）と無相の解脱を境地とする者──そいつらの足跡は、空を飛ぶ鳥のように追跡できねぇ",
+      "keywords": ["sannicaya", "suññata", "animitta", "vimokkha", "ākāsa"]
+    },
+    {
+      "number": 93,
+      "pali": "Yassāsavā parikkhīṇā\nāhāre ca anissito\nsuññato animitto ca\nvimokkho yassa gocaro\nākāseva sakuntānaṃ\npadaṃ tassa durannayaṃ.",
+      "reading": "ヤッサーサヴァー パリッキーナー\nアーハーレー チャ アニッシトー\nスンニャトー アニミットー チャ\nヴィモッコー ヤッサ ゴーチャロー\nアーカーセーヴァ サクンターナン\nパダン タッサ ドゥランナヤン",
+      "english": "He whose cankers are destroyed and who is not attached to food, whose object is the Void, the Unconditioned Freedom — his path cannot be traced, like that of birds in the air.",
+      "sezon": "煩悩が滅び尽くし、食に執着せず、空と無相の解脱を境地とする者──そいつの道は、空の鳥の軌跡のように辿れやしねぇ",
+      "keywords": ["āsava", "parikkhīṇa", "suññata", "animitta", "vimokkha"]
+    },
+    {
+      "number": 94,
+      "pali": "Yass'indriyāni samathaṅgatāni\nassā yathā sārathinā sudantā\npahīnamānassa anāsavassa\ndevāpi tassa pihayanti tādino.",
+      "reading": "ヤッシンドリヤーニ サマタンガターニ\nアッサー ヤター サーラティナー スダンター\nパヒーナマーナッサ アナーサヴァッサ\nデーヴァーピ タッサ ピハヤンティ ターディノー",
+      "english": "Even the gods hold dear the wise one, whose senses are subdued like horses well trained by a charioteer, whose pride is destroyed and who is free from the cankers.",
+      "sezon": "御者に見事に調教された馬のように感覚器官を制御し、慢心を滅ぼし、煩悩から自由な者──そいつは神々にすら愛されるんだ",
+      "keywords": ["indriya", "samatha", "danta", "māna", "āsava", "deva"]
+    },
+    {
+      "number": 95,
+      "pali": "Paṭhavīsamova khuddāne\nindakhīlūpamo tādi\nrahado va apetakaddamo\nsaṃsārā na bhavanti tādino.",
+      "reading": "パタヴィーサモーヴァ クッダーネー\nインダキールーパモー ターディ\nラハドー ヴァ アペータカッダモー\nサンサーラー ナ バヴァンティ ターディノー",
+      "english": "There is no more worldly existence for the wise one who, like the earth, resents nothing, who is firm as a high pillar and as pure as a deep pool free from mud.",
+      "sezon": "大地のように何も恨まず、門柱のように揺るぎなく、泥のねぇ深い池のように清らかな者──そいつにもう輪廻はねぇ",
+      "keywords": ["paṭhavī", "indakhīla", "rahada", "saṃsāra"]
+    },
+    {
+      "number": 96,
+      "pali": "Santaṃ tassa manaṃ hoti\nsantā vācā ca kamma ca\nsammadaññā vimuttassa\nupasantassa tādino.",
+      "reading": "サンタン タッサ マナン ホーティ\nサンター ヴァーチャー チャ カンマ チャ\nサンマダンニャー ヴィムッタッサ\nウパサンタッサ ターディノー",
+      "english": "Calm is his thought, calm his speech, and calm his deed, who, truly knowing, is wholly freed, perfectly tranquil and wise.",
+      "sezon": "その者の思考は静かだ。言葉も静かだ。行いも静かだ。正しく知り、完全に解脱し、寂静に達した者──そいつは全部が静まり返ってる",
+      "keywords": ["santa", "mana", "vācā", "kamma", "vimutta", "upasanta"]
+    },
+    {
+      "number": 97,
+      "pali": "Assaddho akataññū ca\nsandhicchedo ca yo naro\nhatāvakāso vantāso\nsa ve uttamaporiso.",
+      "reading": "アッサッドー アカタンニュー チャ\nサンディッチェードー チャ ヨー ナロー\nハターヴァカーソー ヴァンターソー\nサ ヴェー ウッタマポーリソー",
+      "english": "The man who is without blind faith, who knows the Uncreated, who has severed all links, destroyed all causes (for karma, good and evil), and thrown out all desires — he, truly, is the most excellent of men.",
+      "sezon": "盲信なく、作られざるもの（涅槃）を知り、すべての繋がりを断ち切り、業の因を滅ぼし、欲望を吐き出した者──そいつこそ真に最上の人間だ",
+      "keywords": ["asaddha", "akataññū", "sandhiccheda", "vantāsa", "uttamaporisa"]
+    },
+    {
+      "number": 98,
+      "pali": "Gāme vā yadi vāraññe\nninne vā yadi vā thale\nyatthārahanto viharanti\ntaṃ bhūmiṃ rāmaṇeyyakaṃ.",
+      "reading": "ガーメー ヴァー ヤディ ヴァーランニェー\nニンネー ヴァー ヤディ ヴァー タレー\nヤッターラハントー ヴィハランティ\nタン ブーミン ラーマネッヤカン",
+      "english": "Inspiring, indeed, is that place where Arahants dwell, be it a village, a forest, a vale, or a hill.",
+      "sezon": "阿羅漢が住む場所は──村だろうが森だろうが谷だろうが丘だろうが──そこは心が洗われる場所になる",
+      "keywords": ["gāma", "arañña", "arahant", "rāmaṇeyyaka"]
+    },
+    {
+      "number": 99,
+      "pali": "Ramaṇīyāni araññāni\nyattha na ramatī jano\nvītarāgā ramissanti\nna te kāmagavesino.",
+      "reading": "ラマニーヤーニ アランニャーニ\nヤッタ ナ ラマティー ジャノー\nヴィーターラーガー ラミッサンティ\nナ テー カーマガヴェーシノー",
+      "english": "Inspiring are the forests in which worldlings find no pleasure. There the passionless will rejoice, for they seek no sensual pleasures.",
+      "sezon": "凡人には何の楽しみもねぇ森──だが貪りを離れた者はそこで歓喜する。欲楽を求めねぇからこそ、森が最高の楽園になるんだ",
+      "keywords": ["arañña", "vītarāga", "kāma", "ramaṇīya"]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "chapter": 12,
+  "pali_name": "Attavagga",
+  "japanese_name": "自己品",
+  "english_name": "The Self",
+  "summary": "自分を守れるのは自分だけだ。自分を調え、自分で善悪を選ぶ──他人は浄めてくれねぇ。己こそ己の主、まずテメェを整えてから他人に説け。",
+  "verse_range": "157-166",
+  "verses": [
+    {
+      "number": 157,
+      "pali": "Attānañce piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ;\ntiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.",
+      "reading": "アッターナンチェー ピヤン ジャンニャー、ラッケッヤ ナン スラッキタン；\nティンナン アンニャタラン ヤーマン、パティジャッゲッヤ パンディトー。",
+      "english": "If one holds oneself dear, one should diligently watch oneself. Let the wise man keep vigil during any of the three watches of the night.",
+      "sezon": "自分が大事なら、ちゃんと自分を守れ。夜の三更のうちどれか一つでも、賢い奴は目を覚まして修行しろ。",
+      "keywords": ["attā", "piya", "rakkheyya", "paṇḍita"]
+    },
+    {
+      "number": 158,
+      "pali": "Attānameva paṭhamaṃ, patirūpe nivesaye;\nathaññamanusāseyya, na kilisseyya paṇḍito.",
+      "reading": "アッターナメーヴァ パタマン、パティルーペー ニヴェーサイェー；\nアタンニャマヌサーセッヤ、ナ キリッセッヤ パンディトー。",
+      "english": "One should first establish oneself in what is proper; then only should one instruct others. Thus the wise man will not be reproached.",
+      "sezon": "まず自分をちゃんとした道に据えろ。それから他人に教えろ。──そうすりゃ賢い奴は非難されねぇ。",
+      "keywords": ["attā", "patirūpa", "anusāseyya", "paṇḍita"]
+    },
+    {
+      "number": 159,
+      "pali": "Attānaṃ ce tathā kayirā, yathāññamanusāsati;\nsudanto vata dametha, attā hi kira duddamo.",
+      "reading": "アッターナン チェー タター カイラー、ヤターンニャマヌサーサティ；\nスダントー ヴァタ ダメータ、アッター ヒ キラ ドゥッダモー。",
+      "english": "One should do what one teaches others to do; if one would train others, one should be well controlled oneself. Difficult, indeed, is self-control.",
+      "sezon": "人に教えることを自分でやれ。他人を調えたきゃ、まず自分を調えろ。──自分を御すのが一番難しいんだよ。",
+      "keywords": ["attā", "dama", "sudanta", "duddama"]
+    },
+    {
+      "number": 160,
+      "pali": "Attā hi attano nātho, ko hi nātho paro siyā;\nattanā hi sudantena, nāthaṃ labhati dullabhaṃ.",
+      "reading": "アッター ヒ アッタノー ナートー、コー ヒ ナートー パロー シヤー；\nアッタナー ヒ スダンテーナ、ナータン ラバティ ドゥッラバン。",
+      "english": "One truly is the protector of oneself; who else could the protector be? With oneself fully controlled, one gains a mastery that is hard to gain.",
+      "sezon": "自分の主は自分だ。他に誰が守ってくれる？──自分をきっちり調えた奴だけが、得がたい拠り所を手に入れる。",
+      "keywords": ["attā", "nātha", "sudanta", "dullabha"]
+    },
+    {
+      "number": 161,
+      "pali": "Attanā va kataṃ pāpaṃ, attajaṃ attasambhavaṃ;\nabhimatthati dummedhaṃ, vajiraṃ vasmamayaṃ maṇiṃ.",
+      "reading": "アッタナー ヴァ カタン パーパン、アッタジャン アッタサンバヴァン；\nアビマッタティ ドゥンメーダン、ヴァジラン ヴァスママヤン マニン。",
+      "english": "The evil a witless man does by himself, born of himself and produced by himself, grinds him as a diamond grinds a hard gem.",
+      "sezon": "自分で作った悪が、自分から生まれた悪が、愚か者を磨り潰す──金剛石が硬い宝石を砕くようにな。",
+      "keywords": ["pāpa", "attaja", "vajira", "dummedha"]
+    },
+    {
+      "number": 162,
+      "pali": "Yassa accantadussīlyaṃ, māluvā sālamivotthataṃ;\nkaroti so tathattānaṃ, yathā naṃ icchatī diso.",
+      "reading": "ヤッサ アッチャンタドゥッスィーリャン、マールヴァー サーラミヴォッタタン；\nカローティ ソー タターッターナン、ヤター ナン イッチャティー ディソー。",
+      "english": "Just as a single creeper strangles the tree on which it grows, even so, a man who is exceedingly depraved harms himself as only an enemy might wish.",
+      "sezon": "蔓が大樹を絞め殺すように、底なしに堕落した奴は──敵が望む通りに自分を滅ぼす。",
+      "keywords": ["dussīlya", "māluvā", "diso"]
+    },
+    {
+      "number": 163,
+      "pali": "Sukarāni asādhūni, attano ahitāni ca;\nyaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.",
+      "reading": "スカラーニ アサードゥーニ、アッタノー アヒターニ チャ；\nヤン ヴェー ヒタンチャ サードゥンチャ、タン ヴェー パラマドゥッカラン。",
+      "english": "Easy to do are things that are bad and harmful to oneself. But exceedingly difficult to do are things that are good and beneficial.",
+      "sezon": "悪くて自分を傷つけることは簡単だ。善くて自分の為になることは、とことん難しい。──だからやる価値がある。",
+      "keywords": ["sukara", "asādhu", "hita", "dukkara"]
+    },
+    {
+      "number": 164,
+      "pali": "Yo sāsanaṃ arahataṃ, ariyānaṃ dhammajīvinaṃ;\npaṭikkosati dummedho, diṭṭhiṃ nissāya pāpikaṃ;\nphalāni kaṭṭhakasseva, attaghaññāya phallati.",
+      "reading": "ヨー サーサナン アラハタン、アリヤーナン ダンマジーヴィナン；\nパティッコーサティ ドゥンメードー、ディッティン ニッサーヤ パーピカン；\nパラーニ カッタカッセーヴァ、アッタガンニャーヤ パッラティ。",
+      "english": "Whoever, on account of perverted views, scorns the Teaching of the Perfected Ones, the Noble and Righteous Ones — that fool, like the bamboo, produces fruits only for self destruction.",
+      "sezon": "邪な見解に頼って聖者の教えを蔑む愚か者は──竹みてぇに、実を結んだら自分が滅びる。",
+      "keywords": ["sāsana", "arahata", "diṭṭhi", "attaghaññā"]
+    },
+    {
+      "number": 165,
+      "pali": "Attanā va kataṃ pāpaṃ, attanā saṃkilissati;\nattanā akataṃ pāpaṃ, attanā va visujjhati;\nsuddhi asuddhi paccattaṃ, nāñño aññaṃ visodhaye.",
+      "reading": "アッタナー ヴァ カタン パーパン、アッタナー サンキリッサティ；\nアッタナー アカタン パーパン、アッタナー ヴァ ヴィスッジャティ；\nスッディ アスッディ パッチャッタン、ナーンニョー アンニャン ヴィソーダイェー。",
+      "english": "By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure. Purity and impurity depend on oneself; no one can purify another.",
+      "sezon": "悪をなすのも自分、汚れるのも自分。悪をなさねぇのも自分、浄まるのも自分だ。──清浄も不浄もテメェ次第。他人にゃ浄めてもらえねぇ。",
+      "keywords": ["attā", "pāpa", "suddhi", "asuddhi", "paccattaṃ"]
+    },
+    {
+      "number": 166,
+      "pali": "Attadatthaṃ paratthena, bahunāpi na hāpaye;\nattadatthamabhiññāya, sadatthapasuto siyā.",
+      "reading": "アッタダッタン パラッテーナ、バフナーピ ナ ハーパイェー；\nアッタダッタマビンニャーヤ、サダッタパスートー シヤー。",
+      "english": "Let one not neglect one's own welfare for the sake of another, however great. Clearly understanding one's own welfare, let one be intent upon the good.",
+      "sezon": "どんなに立派な他人の利益のためでも、自分の本当の利益を疎かにするな。──自分の為すべきことをはっきり見極めて、そこに専念しろ。",
+      "keywords": ["attadattha", "parattha", "sadattha", "abhiññāya"]
+    }
+  ]
+}

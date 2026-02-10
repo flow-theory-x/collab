@@ -1,0 +1,146 @@
+{
+  "chapter": 19,
+  "pali_name": "Dhammatthavagga",
+  "japanese_name": "法住品",
+  "english_name": "The Just",
+  "summary": "肩書きや見た目じゃねぇ──正しい裁き、真の智者、真の長老、真の比丘とは何か。ラベルを剥がして本質を問う、セゾン流の「名と実」の品。",
+  "verse_range": "256-272",
+  "verses": [
+    {
+      "number": 256,
+      "pali": "Na tena hoti dhammaṭṭho,\nyenatthaṃ sahasā naye;\nyo ca atthaṃ anatthañca,\nubho niccheyya paṇḍito.",
+      "reading": "ナ テーナ ホーティ ダンマットー、\nイェーナッタン サハサー ナイェー；\nヨー チャ アッタン アナッタンチャ、\nウボー ニッチェッヤ パンディトー。",
+      "english": "Not by passing arbitrary judgments does a man become just; a wise man is he who investigates both right and wrong.",
+      "sezon": "力ずくで裁いたって「正しい者」にはなれねぇ。賢い奴は、正と不正の両方をちゃんと吟味する。",
+      "keywords": ["dhammaṭṭha", "sahasa", "niccheyya", "paṇḍita"]
+    },
+    {
+      "number": 257,
+      "pali": "Asāhasena dhammena,\nsamena nayati pare;\ndhammassa gutto medhāvī,\n\"dhammaṭṭho\" ti pavuccati.",
+      "reading": "アサーハセーナ ダンメーナ、\nサメーナ ナヤティ パレー；\nダンマッサ グットー メーダーヴィー、\n「ダンマットー」ティ パヴッチャティ。",
+      "english": "He who does not judge others arbitrarily, but passes judgment impartially according to the truth, that sagacious man is a guardian of law and is called just.",
+      "sezon": "独断じゃなく、法に従い、公平に人を導く。法を守り抜く智者こそ『法に住する者』と呼ばれるんだ。",
+      "keywords": ["dhamma", "sama", "medhāvī", "dhammaṭṭha"]
+    },
+    {
+      "number": 258,
+      "pali": "Na tena paṇḍito hoti,\nyāvatā bahu bhāsati;\nkhemī averī abhayo,\n\"paṇḍito\" ti pavuccati.",
+      "reading": "ナ テーナ パンディトー ホーティ、\nヤーヴァター バフ バーサティ；\nケーミー アヴェーリー アバヨー、\n「パンディトー」ティ パヴッチャティ。",
+      "english": "One is not wise because one speaks much. He who is peaceable, friendly and fearless is called wise.",
+      "sezon": "べらべら喋るから賢いわけじゃねぇ。平穏で、怨みなく、恐れなき者──そいつが『智者』だ。",
+      "keywords": ["paṇḍita", "khemī", "averī", "abhaya"]
+    },
+    {
+      "number": 259,
+      "pali": "Na tāvatā dhammadharo,\nyāvatā bahu bhāsati;\nyo ca appampi sutvāna,\ndhammaṃ kāyena passati;\nsa ve dhammadharo hoti,\nyo dhammaṃ nappamajjati.",
+      "reading": "ナ ターヴァター ダンマダロー、\nヤーヴァター バフ バーサティ；\nヨー チャ アッパンピ スットヴァーナ、\nダンマン カーイェーナ パッサティ；\nサ ヴェー ダンマダロー ホーティ、\nヨー ダンマン ナッパマッジャティ。",
+      "english": "A man is not versed in Dhamma because he speaks much. He who, after hearing a little Dhamma, realizes its truth directly and is not heedless of it, is truly versed in the Dhamma.",
+      "sezon": "たくさん語るから法を知る者ってわけじゃねぇ。少しでも聞いて、身をもって真理を見、怠らねぇ奴──そいつが本物の『法を持つ者』だ。",
+      "keywords": ["dhammadhara", "kāyena passati", "appamāda"]
+    },
+    {
+      "number": 260,
+      "pali": "Na tena thero so hoti,\nyenassa palitaṃ siro;\nparipakko vayo tassa,\n\"moghajiṇṇo\" ti vuccati.",
+      "reading": "ナ テーナ テーロー ソー ホーティ、\nイェーナッサ パリタン シロー；\nパリパッコー ヴァヨー タッサ、\n「モーガジンノー」ティ ヴッチャティ。",
+      "english": "A monk is not an elder because his head is gray. He is but ripe in age, and he is called one grown old in vain.",
+      "sezon": "白髪だからって長老じゃねぇ。歳だけ食って中身が空っぽなら、『空しく老いた者』と呼ばれるだけだ。",
+      "keywords": ["thera", "palita", "moghajiṇṇa", "vayo"]
+    },
+    {
+      "number": 261,
+      "pali": "Yamhi saccañca dhammo ca,\nahiṃsā saṃyamo damo;\nsa ve vantamalo dhīro,\n\"thero\" iti pavuccati.",
+      "reading": "ヤンヒ サッチャンチャ ダンモー チャ、\nアヒンサー サンヤモー ダモー；\nサ ヴェー ヴァンタマロー ディーロー、\n「テーロー」イティ パヴッチャティ。",
+      "english": "One in whom there is truthfulness, virtue, inoffensiveness, restraint and self-mastery, who is free from defilements and is wise — he is truly called an Elder.",
+      "sezon": "真実、戒、不害、自制、調御を備え、垢を吐き出した智慧ある者──そいつこそ本当の『長老』だ。",
+      "keywords": ["sacca", "ahiṃsā", "saṃyama", "thera"]
+    },
+    {
+      "number": 262,
+      "pali": "Na vākkaraṇamattena,\nvaṇṇapokkharatāya vā;\nsādhurūpo naro hoti,\nissukī maccharī saṭho.",
+      "reading": "ナ ヴァッカラナマッテーナ、\nヴァンナポッカラターヤ ヴァー；\nサードゥルーポー ナロー ホーティ、\nイッスキー マッチャリー サトー。",
+      "english": "Not by mere eloquence nor by beauty of form does a man become accomplished, if he is jealous, selfish and deceitful.",
+      "sezon": "口がうまいだけ、見た目がいいだけじゃ、善い人間にはなれねぇ。嫉妬深く、ケチで、ずる賢ぇなら論外だ。",
+      "keywords": ["vākkaraṇa", "vaṇṇa", "issukī", "maccharī"]
+    },
+    {
+      "number": 263,
+      "pali": "Yassa cetaṃ samucchinnaṃ,\nmūlaghaccaṃ samūhataṃ;\nsa vantadoso medhāvī,\n\"sādhurūpo\" ti vuccati.",
+      "reading": "ヤッサ チェータン サムッチンナン、\nムーラガッチャン サムーハタン；\nサ ヴァンタドーソー メーダーヴィー、\n「サードゥルーポー」ティ ヴッチャティ。",
+      "english": "But he in whom these are wholly destroyed, uprooted and extinct, and who has cast out hatred — that wise man is truly accomplished.",
+      "sezon": "そいつらを根こそぎ断ち、怒りを吐き捨てた智者──そういう奴こそ『善き人』と呼ばれるにふさわしい。",
+      "keywords": ["samucchinna", "vantadosa", "medhāvī", "sādhurūpa"]
+    },
+    {
+      "number": 264,
+      "pali": "Na muṇḍakena samaṇo,\nabbato alikaṃ bhaṇaṃ;\nicchālobhasamāpanno,\nsamaṇo kiṃ bhavissati.",
+      "reading": "ナ ムンダケーナ サマノー、\nアッバトー アリカン バナン；\nイッチャーローバサマーパンノー、\nサマノー キン バヴィッサティ。",
+      "english": "Not by shaven head does a man who is indisciplined and untruthful become a monk. How can he who is full of desire and greed be a monk?",
+      "sezon": "頭を丸めたって沙門にはなれねぇ。戒もなく嘘をつく奴が──欲と貪りに塗れて、どうやって沙門になるってんだ。",
+      "keywords": ["muṇḍaka", "samaṇa", "icchālobha", "abbata"]
+    },
+    {
+      "number": 265,
+      "pali": "Yo ca sameti pāpāni,\naṇuṃ thūlāni sabbaso;\nsamitattā hi pāpānaṃ,\n\"samaṇo\" ti pavuccati.",
+      "reading": "ヨー チャ サメーティ パーパーニ、\nアヌン トゥーラーニ サッバソー；\nサミタッター ヒ パーパーナン、\n「サマノー」ティ パヴッチャティ。",
+      "english": "He who wholly subdues evil both small and great is called a monk, because he has overcome all evil.",
+      "sezon": "大小すべての悪を鎮め尽くした者──悪を鎮めたからこそ『沙門』と呼ばれる。",
+      "keywords": ["sameti", "pāpa", "samaṇa", "samita"]
+    },
+    {
+      "number": 266,
+      "pali": "Na tena bhikkhu so hoti,\nyāvatā bhikkhate pare;\nvissaṃ dhammaṃ samādāya,\nbhikkhu hoti na tāvatā.",
+      "reading": "ナ テーナ ビック ソー ホーティ、\nヤーヴァター ビッカテー パレー；\nヴィッサン ダンマン サマーダーヤ、\nビック ホーティ ナ ターヴァター。",
+      "english": "He is not a monk just because he lives on others' alms. Not by adopting outward form does one become a true monk.",
+      "sezon": "托鉢して回るだけじゃ比丘にはなれねぇ。外見を整えたくらいで、真の比丘にはなれねぇんだ。",
+      "keywords": ["bhikkhu", "bhikkhate", "vissa", "dhamma"]
+    },
+    {
+      "number": 267,
+      "pali": "Yo'dha puññañca pāpañca,\nbāhetvā brahmacariyavā;\nsaṅkhāya loke carati,\nsa ve \"bhikkhū\" ti vuccati.",
+      "reading": "ヨーダ プンニャンチャ パーパンチャ、\nバーヘットヴァー ブラフマチャリヤヴァー；\nサンカーヤ ローケー チャラティ、\nサ ヴェー 「ビックー」ティ ヴッチャティ。",
+      "english": "Whoever here (in the Dispensation) lives a holy life, transcending both merit and demerit, and walks with understanding in this world — he is truly called a monk.",
+      "sezon": "善悪を超え、梵行に生き、この世を智慧で歩む者──そいつが本当の『比丘』だ。",
+      "keywords": ["puñña", "pāpa", "brahmacariya", "saṅkhāya"]
+    },
+    {
+      "number": 268,
+      "pali": "Na monena munī hoti,\nmūḷharūpo aviddasu;\nyo ca tulaṃva paggayha,\nvaramādāya paṇḍito.",
+      "reading": "ナ モーネーナ ムニー ホーティ、\nムーラルーポー アヴィッダス；\nヨー チャ トゥランヴァ パッガイハ、\nヴァラマーダーヤ パンディトー。",
+      "english": "Not by observing silence does one become a sage, if he be foolish and ignorant. But that man is wise who, as if holding a balance-scale accepts only the good.",
+      "sezon": "黙ってるだけじゃ聖者にはなれねぇ──愚かで無知ならなおさらだ。天秤を手に、善きものだけを選び取る者こそ賢者だ。",
+      "keywords": ["mona", "muni", "tulā", "vara"]
+    },
+    {
+      "number": 269,
+      "pali": "Pāpāni parivajjeti,\nsa munī tena so munī;\nyo munāti ubho loke,\n\"munī\" tena pavuccati.",
+      "reading": "パーパーニ パリヴァッジェーティ、\nサ ムニー テーナ ソー ムニー；\nヨー ムナーティ ウボー ローケー、\n「ムニー」テーナ パヴッチャティ。",
+      "english": "The sage (thus) rejecting the evil, is truly a sage. Since he comprehends both (present and future) worlds, he is called a sage.",
+      "sezon": "悪を退ける者が聖者だ。両方の世界を見通す者──だから『牟尼』と呼ばれる。",
+      "keywords": ["pāpa", "munī", "parivajjeti", "ubho loke"]
+    },
+    {
+      "number": 270,
+      "pali": "Na tena ariyo hoti,\nyena pāṇāni hiṃsati;\nahiṃsā sabbapāṇānaṃ,\n\"ariyo\" ti pavuccati.",
+      "reading": "ナ テーナ アリヨー ホーティ、\nイェーナ パーナーニ ヒンサティ；\nアヒンサー サッバパーナーナン、\n「アリヨー」ティ パヴッチャティ。",
+      "english": "He is not noble who injures living beings. He is called noble because he is harmless towards all living beings.",
+      "sezon": "生きものを傷つける奴は高貴じゃねぇ。一切の命あるものに害を与えねぇ者──そいつが『聖者（アリヤ）』だ。",
+      "keywords": ["ariyo", "hiṃsā", "ahiṃsā", "pāṇa"]
+    },
+    {
+      "number": 271,
+      "pali": "Na sīlabbatamattena,\nbāhusaccena vā pana;\nathavā samādhilābhena,\nvivittasayanena vā.",
+      "reading": "ナ シーラッバタマッテーナ、\nバーフサッチェーナ ヴァー パナ；\nアタヴァー サマーディラーベーナ、\nヴィヴィッタサヤネーナ ヴァー。",
+      "english": "Not by rules and observances, not even by much learning, nor by gain of absorption, nor by a life of seclusion,",
+      "sezon": "戒律と禁戒だけじゃダメだ。多聞でも、禅定を得ても、独居の暮らしでも──",
+      "keywords": ["sīlabbata", "bāhusacca", "samādhi", "vivitta"]
+    },
+    {
+      "number": 272,
+      "pali": "Phusāmi nekkhammasukhaṃ,\naputhujjanasevitaṃ;\nbhikkhu vissāsamāpādi,\nappatto āsavakkhayaṃ.",
+      "reading": "プサーミ ネッカンマスカン、\nアプトゥッジャナセーヴィタン；\nビック ヴィッサーサマーパーディ、\nアッパットー アーサヴァッカヤン。",
+      "english": "nor by thinking, \"I enjoy the bliss of renunciation, which is not experienced by the worldling\" should you, O monks, rest content, until the utter destruction of cankers (Arahantship) is reached.",
+      "sezon": "──『凡夫には味わえねぇ出離の楽を俺は享受してる』と慢心するんじゃねぇ。漏尽に至るまで、比丘よ、安心するな。",
+      "keywords": ["nekkhamma", "āsavakkhaya", "vissāsa", "puthujjana"]
+    }
+  ]
+}

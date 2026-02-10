@@ -1,0 +1,98 @@
+{
+  "chapter": 3,
+  "pali_name": "Cittavagga",
+  "japanese_name": "心品",
+  "english_name": "The Mind",
+  "summary": "心とは何か。落ち着きなく、捉えどころなく、好き勝手に飛び回る厄介な代物──だが、そいつを手懐けた者だけが本当の幸福を手にする。セゾンが「心」という最強にして最凶の武器について、叩き込む11偈。",
+  "verse_range": "33-43",
+  "verses": [
+    {
+      "number": 33,
+      "pali": "Phandanaṃ capalaṃ cittaṃ\ndurakkhaṃ dunnivārayaṃ\nujuṃ karoti medhāvī\nusukāro va tejanaṃ.",
+      "reading": "パンダナン チャパラン チッタン\nドゥラッカン ドゥンニヴァーラヤン\nウジュン カローティ メーダーヴィー\nウスカーロー ヴァ テージャナン",
+      "english": "Just as a fletcher straightens an arrow shaft, even so the discerning man straightens his mind — so fickle and unsteady, so difficult to guard.",
+      "sezon": "心ってのはな、ビクビク震えて落ち着きがねぇ。守るのも抑えるのも至難の業だ。だが賢ェ奴は──矢師が矢柄をまっすぐに正すように──そのじゃじゃ馬をビシッと真っ直ぐにしやがる",
+      "keywords": ["citta", "capala", "usukāra", "medhāvī"]
+    },
+    {
+      "number": 34,
+      "pali": "Vārijoʼva thale khitto\nokamokata ubbhato\npariphandatidaṃ cittaṃ\nmāradheyyaṃ pahātave.",
+      "reading": "ヴァーリジョーヴァ ターレー キットー\nオーカモーカタ ウッバトー\nパリパンダティダン チッタン\nマーラデッヤン パハータヴェー",
+      "english": "As a fish when pulled out of water and cast on land throbs and quivers, even so is this mind agitated. Hence should one abandon the realm of Mara.",
+      "sezon": "水から引きずり出されて陸にブン投げられた魚みてぇに、心はビチビチ跳ね回る。だからこそ──マーラの領域をブッ叩いて抜け出せ",
+      "keywords": ["citta", "vārija", "Māra"]
+    },
+    {
+      "number": 35,
+      "pali": "Dunniggahassa lahuno\nyatthakāmanipātino\ncittassa damatho sādhu\ncittaṃ dantaṃ sukhāvahaṃ.",
+      "reading": "ドゥンニッガハッサ ラフノー\nヤッタカーマニパーティノー\nチッタッサ ダマトー サードゥ\nチッタン ダンタン スカーヴァハン",
+      "english": "Wonderful, indeed, it is to subdue the mind, so difficult to subdue, ever swift, and seizing whatever it desires. A tamed mind brings happiness.",
+      "sezon": "抑えるのが難しくて、軽くて速くて、好き勝手なとこに飛んでいく──そんな心を調伏するってのは、実にいいことだ。調教された心は、幸福を運んでくる",
+      "keywords": ["citta", "dama", "danta", "sukha"]
+    },
+    {
+      "number": 36,
+      "pali": "Sududdasaṃ sunipuṇaṃ\nyatthakāmanipātinaṃ\ncittaṃ rakkhetha medhāvī\ncittaṃ guttaṃ sukhāvahaṃ.",
+      "reading": "スドゥッダサン スニプナン\nヤッタカーマニパーティナン\nチッタン ラッケータ メーダーヴィー\nチッタン グッタン スカーヴァハン",
+      "english": "Let the discerning man guard the mind, so difficult to detect and extremely subtle, seizing whatever it desires. A guarded mind brings happiness.",
+      "sezon": "心ってのは見えにくくて、途轍もなく繊細で、好きなとこに勝手に着地しやがる。賢ェ奴はそいつを見張れ。守られた心は──幸福を連れてくる",
+      "keywords": ["citta", "gutta", "sukha", "medhāvī"]
+    },
+    {
+      "number": 37,
+      "pali": "Dūraṅgamaṃ ekacaraṃ\nasarīraṃ guhāsayaṃ\nye cittaṃ saṃyamessanti\nmokkhanti mārabandhanā.",
+      "reading": "ドゥーランガマン エーカチャラン\nアサリーラン グハーサヤン\nイェー チッタン サンヤメッサンティ\nモッカンティ マーラバンダナー",
+      "english": "Dwelling in the cave (of the heart), the mind, without form, wanders far and alone. Those who subdue this mind are liberated from the bonds of Mara.",
+      "sezon": "心は遠くまで飛んでいく。たった一人で彷徨う。体もなく、心臓の洞窟に棲んでいやがる。──こいつを制御できた奴は、マーラの縛めから解き放たれる",
+      "keywords": ["citta", "guhā", "Māra", "mokkha"]
+    },
+    {
+      "number": 38,
+      "pali": "Anavatthitacittassa\nsaddhammaṃ avijānato\npariplavapasādassa\npaññā na paripūrati.",
+      "reading": "アナヴァッティタチッタッサ\nサッダンマン アヴィジャーナトー\nパリプラヴァパサーダッサ\nパンニャー ナ パリプーラティ",
+      "english": "Wisdom never becomes perfect in one whose mind is not steadfast, who knows not the Good Teaching and whose faith wavers.",
+      "sezon": "心がグラグラで、正しい法（ダンマ）を知らず、信がフラフラ揺れてる奴──そんな野郎の智慧は、絶対に完成しねぇ",
+      "keywords": ["citta", "saddhamma", "pasāda", "paññā"]
+    },
+    {
+      "number": 39,
+      "pali": "Anavassutacittassa\nananvāhatacetaso\npuññapāpapahīnassa\nnatthi jāgarato bhayaṃ.",
+      "reading": "アナヴァッスタチッタッサ\nアナンヴァーハタチェータソー\nプンニャパーパパヒーナッサ\nナッティ ジャーガラトー バヤン",
+      "english": "There is no fear for an awakened one, whose mind is not sodden (by lust) nor afflicted (by hate), and who has gone beyond both merit and demerit.",
+      "sezon": "貪りに浸されてねぇ心、怒りに打ちのめされてねぇ心──善悪の両方をブッた斬った、目覚めた奴に恐怖はねぇ",
+      "keywords": ["citta", "puñña", "pāpa", "bhaya", "jāgara"]
+    },
+    {
+      "number": 40,
+      "pali": "Kumbhūpamaṃ kāyamimaṃ viditvā\nnagarūpamaṃ cittamidaṃ ṭhapetvā\nyodhetha māraṃ paññāvudhena\njitañca rakkhe anivesano siyā.",
+      "reading": "クンブーパマン カーヤミマン ヴィディトヴァー\nナガルーパマン チッタミダン タペートヴァー\nヨーデータ マーラン パンニャーヴデーナ\nジタンチャ ラッケー アニヴェーサノー シヤー",
+      "english": "Realizing that this body is as fragile as a clay pot, and fortifying this mind like a well-fortified city, fight out Mara with the sword of wisdom. Then, guarding the conquest, remain unattached.",
+      "sezon": "この体が土の壺みてぇにもろいと知れ。心を堅固な城塞のごとく築き上げろ。そして智慧の剣でマーラと戦え。──勝ったら勝ったで、そこに居座るな。執着すんじゃねぇぞ",
+      "keywords": ["kāya", "citta", "Māra", "paññā", "anivesana"]
+    },
+    {
+      "number": 41,
+      "pali": "Aciraṃ vatayaṃ kāyo\npaṭhaviṃ adhisessati\nchuddho apetaviññāṇo\nniratthaṃva kaliṅgaraṃ.",
+      "reading": "アチラン ヴァタヤン カーヨー\nパタヴィン アディセッサティ\nチュッドー アペータヴィンニャーノー\nニラッタンヴァ カリンガラン",
+      "english": "Ere long, alas! this body will lie upon the earth, unheeded and lifeless, like a useless log.",
+      "sezon": "じきにな、この体は地面に転がることになる。意識は抜け落ち、打ち捨てられて──使えねぇ丸太みてぇにな。そうなる前に目ェ覚ませ",
+      "keywords": ["kāya", "viññāṇa", "paṭhavī"]
+    },
+    {
+      "number": 42,
+      "pali": "Diso disaṃ yaṃ taṃ kayirā\nverī vā pana verinaṃ\nmicchāpaṇihitaṃ cittaṃ\npāpiyo naṃ tato kare.",
+      "reading": "ディソー ディサン ヤン タン カイラー\nヴェーリー ヴァー パナ ヴェーリナン\nミッチャーパニヒタン チッタン\nパーピヨー ナン タトー カレー",
+      "english": "Whatever harm an enemy may do to an enemy, or a hater to a hater, an ill-directed mind inflicts on oneself a greater harm.",
+      "sezon": "敵が敵にやらかすこと、恨みを持つ奴が恨みの相手にやらかすこと──そんなもんより、間違った方向に向いた自分の心の方が、よっぽどデケェ害をもたらしやがる",
+      "keywords": ["citta", "verī", "micchā"]
+    },
+    {
+      "number": 43,
+      "pali": "Na taṃ mātā pitā kayirā\naññe vāpi ca ñātakā\nsammāpaṇihitaṃ cittaṃ\nseyyaso naṃ tato kare.",
+      "reading": "ナ タン マーター ピター カイラー\nアンニェー ヴァーピ チャ ニャータカー\nサンマーパニヒタン チッタン\nセッヤソー ナン タトー カレー",
+      "english": "Neither mother, father, nor any other relative can do one greater good than one's own well-directed mind.",
+      "sezon": "母親にも、親父にも、どんな親戚にもできねぇことがある。──正しく方向づけられた自分の心は、そいつら以上にお前を幸せにしてくれるんだよ",
+      "keywords": ["citta", "sammā", "mātā", "pitā"]
+    }
+  ]
+}

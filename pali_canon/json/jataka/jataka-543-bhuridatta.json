@@ -1,0 +1,82 @@
+{
+  "jataka_number": 543,
+  "pali_name": "Bhūridatta Jātaka",
+  "japanese_name": "ブーリダッタ本生",
+  "english_name": "The Story of Bhuridatta",
+  "parami": "持戒波羅蜜（Sīla）",
+  "summary": "ナーガ（蛇龍）の王子ブーリダッタが、天界への再生を願って人間界で戒律を守る修行をしていたところ、裏切り者のバラモンに蛇使いへ売り渡される。激しい苦痛を受けても怒りを抑え、戒を破らず耐え抜く。兄弟たちが救出に向かい、最後に偽りのバラモン教義を論破して真の法を説く。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "ナーガ王家の誕生",
+      "pali": "Dhataraṭṭha",
+      "reading": "ダタラッタ",
+      "english": "A prince of Benares living as a hermit by the sea takes a Nāga woman as his wife. They have children including Samuddajā. The prince returns to become king, taking his children but leaving their Nāga mother behind. Through a series of events involving a turtle and Nāga youths, princess Samuddajā is given in marriage to the Nāga king Dhataraṭṭha.",
+      "sezon": "昔な、ベナレスの王子が海辺で隠者やってたら、ナーガの女と出来ちまった。子供もできた。で、親父が死んで王位を継ぐことになったが、ナーガの嫁は「私は行けない、怒ったら毒の目で人を殺しちまう」と。子供だけ預けて、泣きながら消えた。その後、色々あってナーガ王ダタラッタが人間の姫サムッダジャーを嫁にもらった。これがブーリダッタの親だ。",
+      "keywords": ["Dhataraṭṭha", "Samuddajā", "Nāga", "ベナレス", "異種婚"]
+    },
+    {
+      "number": 2,
+      "title": "ブーリダッタの修行決意",
+      "pali": "Uposatha",
+      "reading": "ウポーサタ",
+      "english": "Bhūridatta, son of Dhataraṭṭha and Samuddajā, grows up in the Nāga world. After visiting Sakka's heaven and seeing its glory, he longs for rebirth there. He resolves to keep the Uposatha fast in the human world, lying on an ant-hill near a banyan tree by the Yamunā river, vulnerable to anyone who might capture him.",
+      "sezon": "ブーリダッタはナーガ界で育ったが、帝釈天の宮殿を見て衝撃を受けた。「こんなカエル食いの蛇の身分なんぞいらん、天界に生まれ変わりたい」と。で、人間界のヤムナー川のほとりで、蟻塚の上に身を丸めて布薩の戒を守り始めた。「皮でも骨でも血でも、欲しい奴には差し出す」と誓ってな。毎朝、ナーガの娘たちが迎えに来る生活だ。",
+      "keywords": ["Uposatha", "布薩", "蟻塚", "Yamunā", "天界への憧れ"]
+    },
+    {
+      "number": 3,
+      "title": "狩人バラモンとの出会い",
+      "pali": "Nesādabrāhmaṇa",
+      "reading": "ネーサーダブラーフマナ",
+      "english": "A hunter-brahmin and his son Somadatta discover Bhūridatta's secret when they see the Nāga maidens attending him at dawn. Bhūridatta, fearing the brahmin might betray him to a snake-charmer, invites him to the Nāga world and bestows divine prosperity upon him for a year. But the brahmin grows discontented and wishes to return to the human world.",
+      "sezon": "ある日、猟師のバラモンが偶然、ブーリダッタの正体を知っちまった。ブーリダッタは考えた——こいつは残忍だ、蛇使いに売るかもしれん。じゃあナーガ界に連れてって厚遇すりゃ、黙ってくれるだろうと。案の定、一年も経つとこのバラモン、天国みたいなナーガ界が牢獄に見えてきた。人間の嫁が恋しいとゴネ始めた。結局、願い叶える宝珠まで断って人間界に帰っちまった。",
+      "keywords": ["狩人バラモン", "Somadatta", "ナーガ界", "不満", "宝珠"]
+    },
+    {
+      "number": 4,
+      "title": "裏切りと捕獲",
+      "pali": "Ālambāyana",
+      "reading": "アーランバーヤナ",
+      "english": "A brahmin named Ālambāyana obtains a powerful snake-charming spell. The hunter-brahmin, seeing Ālambāyana's wish-fulfilling jewel, betrays Bhūridatta's location in exchange for it. Somadatta refuses to participate and flees to become an ascetic. Ālambāyana captures Bhūridatta, who refuses to break his precepts by fighting back despite terrible suffering.",
+      "sezon": "蛇使いの呪文を手に入れたアーランバーヤナと、あの裏切りバラモンが出会った。バラモンは宝珠欲しさにブーリダッタの居場所を売った。息子ソーマダッタは「恩人を裏切るな」と泣いて懇願したが、親父は聞かん。ソーマダッタは「こんな罪人とは歩けん」と叫んで去り、ヒマラヤで出家した。で、アーランバーヤナはブーリダッタを捕まえた。蛇王は目を閉じ、怒りを封じた。戒を守る、それだけが全てだったからな。",
+      "keywords": ["Ālambāyana", "裏切り", "蛇使い", "Somadatta", "持戒"]
+    },
+    {
+      "number": 5,
+      "title": "蛇の踊りと屈辱",
+      "pali": "Nāgamacchaṁ",
+      "reading": "ナーガマッチャン",
+      "english": "Ālambāyana forces Bhūridatta to perform snake dances in villages and cities, earning vast wealth. For a month Bhūridatta is displayed, humiliated, and made to assume hundreds of forms. He refuses food, enduring starvation. Meanwhile his mother has a prophetic dream and his brothers set out to search for him.",
+      "sezon": "ブーリダッタは籠に入れられ、村から村へ引き回された。「大きくなれ」「小さくなれ」「百の頭を出せ」——命じられるまま踊った。一つの村で十万金貨を稼いだ蛇使いは、欲に目がくらんでベナレスを目指した。ブーリダッタは食事も取らず、ただ耐えた。母サムッダジャーは不吉な夢を見て嘆き、兄スダッサナは人間界へ、弟スバガはヒマラヤへ、アリッタは神界へと、それぞれ捜索に出た。",
+      "keywords": ["蛇踊り", "屈辱", "ベナレス", "母の夢", "兄弟の捜索"]
+    },
+    {
+      "number": 6,
+      "title": "兄スダッサナの救出",
+      "pali": "Sudassana",
+      "reading": "スダッサナ",
+      "english": "Sudassana, disguised as an ascetic, tracks Bhūridatta to Benares. At the king's court, he challenges Ālambāyana to a contest of snake-charming powers, using his sister Accimukhī (in frog form) whose three drops of venom are so potent they could destroy the land. Ālambāyana is struck with leprosy. Bhūridatta is freed and reveals his royal lineage to the king.",
+      "sezon": "兄スダッサナは苦行者に変装してベナレスに辿り着いた。王の前で蛇使いに勝負を挑んだ。「俺のカエルとお前の蛇、どっちが強い？賭け金五千」と。妹アッチムキーがカエルの姿から現れ、たった三滴の毒を落とした。その毒は地に落とせば草木が枯れ、空に投げれば七年雨が降らんほどの代物だ。毒の熱でアーランバーヤナは白癩になった。ブーリダッタは籠から出て、輝く姿で立った。スダッサナが王に言った。「こいつらは、あなたの妹サムッダジャーの息子だ。甥だぞ」と。",
+      "keywords": ["Sudassana", "Accimukhī", "蛙の毒", "救出", "ベナレス王"]
+    },
+    {
+      "number": 7,
+      "title": "偽りの教えへの論破",
+      "pali": "Micchādiṭṭhi",
+      "reading": "ミッチャーディッティ",
+      "english": "Back in the Nāga world, Kāṇāriṭṭha praises brahmins and Vedic sacrifices, nearly misleading the Nāga assembly. Bhūridatta, still recovering, rises from his sickbed to deliver a powerful discourse dismantling false brahmin doctrines about sacrifice, caste, fire-worship, and Brahma's creation, establishing the true Dhamma instead.",
+      "sezon": "ナーガ界に戻ったブーリダッタは病床にいたが、弟アリッタがバラモン礼賛を始めたと聞いて黙っちゃいなかった。「ヴェーダの学問は罠だ。火は崇拝に値しない——ゴミの上でも死体の上でも燃えるじゃないか。カーストをブラフマーが作った？なら、なぜ世に不正がはびこる？」と。供犠で天界に行けるなら、バラモンは自分で供犠になればいい。生き物を殺す儀式に真の功徳はない。こうしてブーリダッタは偽りの教えを粉砕し、ナーガの民に真の法を示した。戒を守り通した蛇王の、最後の説法だ。",
+      "keywords": ["ヴェーダ批判", "供犠否定", "カースト", "真の法", "Dhamma"]
+    },
+    {
+      "number": 8,
+      "title": "再会と天界への道",
+      "pali": "Samagama",
+      "reading": "サマーガマ",
+      "english": "Bhūridatta's family gathers at their grandfather's hermitage. Sāgara Brahmadatta meets the Nāga princes. Samuddajā dies in the Nāga world. The outcaste brahmin, stricken with guilt, is captured by Subhaga but ultimately released. Bhūridatta lives out his life keeping the precepts and leads the Nāga host to heaven.",
+      "sezon": "最後に、一族全員が祖父の庵に集まった。蛇の王子たちは人間の王族と再会し、涙を流した。裏切り者のバラモンは罪悪感に溺れ、弟スバガに捕まったが、ブーリダッタは一言も侮辱の言葉を浴びせずに解放した。母サムッダジャーはナーガ界で亡くなった。ブーリダッタは生涯戒を守り通し、最期にはナーガの民を率いて天界に昇った。——怒りを捨て、戒を守り抜いた者の行く先は、天だ。",
+      "keywords": ["再会", "赦し", "天界", "持戒の完成", "Samuddajā"]
+    }
+  ]
+}

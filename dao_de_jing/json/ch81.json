@@ -1,0 +1,46 @@
+{
+  "chapter": 81,
+  "chinese_name": "信言不美",
+  "japanese_name": "為して争わず",
+  "summary": "真実の言葉は美しくなく、聖人は与えるほど豊かになる。天の道は利して害さず。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。",
+      "modern_ja": "信実なることばは美しくなく、美しいことばは信実でない。善い者は弁じず、弁じる者は善くない。知る者は博くなく、博い者は知らない。",
+      "english": "Truthful words are not beautiful; beautiful words are not truthful. The good do not argue; those who argue are not good. The wise are not learned; the learned are not wise.",
+      "laozi": "本当のことは、きれいじゃない。きれいな言葉は、嘘だ。善い奴は喋らない。喋る奴は善くない。知ってる奴は広くない。広い奴は知らない。…全部、逆だ",
+      "keywords": [
+        "信言不美",
+        "善者不弁",
+        "知者不博"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "聖人不積，既以為人己愈有，既以與人己愈多。",
+      "modern_ja": "聖人は蓄えない。人のために尽くすほど自分はますます有り、人に与えるほど自分はますます多い。",
+      "english": "The sage does not hoard. The more he does for others, the more he has. The more he gives, the richer he becomes.",
+      "laozi": "溜め込むな。人にやればやるほど、自分が増える。与えれば与えるほど、豊かになる。信じなくていい。…でも本当だ",
+      "keywords": [
+        "不積",
+        "為人",
+        "与人",
+        "愈有"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "天之道，利而不害；聖人之道，為而不爭。",
+      "modern_ja": "天の道は利して害さず、聖人の道は為して争わない。",
+      "english": "The Way of Heaven benefits and does not harm. The Way of the sage acts and does not compete.",
+      "laozi": "天は利して害さず。聖人は為して争わず。…これで終わりだ。全部言った",
+      "keywords": [
+        "利而不害",
+        "為而不争",
+        "天道",
+        "聖人之道"
+      ]
+    }
+  ]
+}

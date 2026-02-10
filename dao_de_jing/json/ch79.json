@@ -1,0 +1,34 @@
+{
+  "chapter": 79,
+  "chinese_name": "和大怨",
+  "japanese_name": "余怨と天道",
+  "summary": "大きな怨みを和解しても余怨は残る。徳ある者は人を責めない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。",
+      "modern_ja": "大きな怨みを和解しても、必ず余怨が残る。どうしてこれを善とできようか。だから聖人は契約の左半分を持ち、人を責めない。",
+      "english": "When a great resentment is reconciled, some resentment always remains. How can this be considered good? The sage holds the left tally of a contract but does not demand payment from others.",
+      "laozi": "大きな恨みを仲直りさせても、残るんだよ、しこりが。聖人はな、契約書は持ってる。でも取り立てない。…そういうことだ",
+      "keywords": [
+        "余怨",
+        "和解",
+        "左契",
+        "不責"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "有德司契，無德司徹。天道無親，常與善人。",
+      "modern_ja": "徳ある者は契約を守り、徳なき者は取り立てをする。天道は親疏なく、常に善人とともにある。",
+      "english": "The virtuous manage the contract; the virtueless manage the collection. Heaven's way has no favorites — it always sides with the good.",
+      "laozi": "徳のある奴は、約束を守る。徳のない奴は、取り立てる。天はえこひいきしない。ただ、善い奴のそばにいる。いつも",
+      "keywords": [
+        "有徳",
+        "無徳",
+        "天道無親",
+        "善人"
+      ]
+    }
+  ]
+}

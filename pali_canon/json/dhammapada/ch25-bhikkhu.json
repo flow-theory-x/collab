@@ -1,0 +1,194 @@
+{
+  "chapter": 25,
+  "pali_name": "Bhikkhuvagga",
+  "japanese_name": "比丘品",
+  "english_name": "The Monk",
+  "summary": "眼・耳・鼻・舌・身・意──六つの門を制御し、身口意を調え、法に住するクルーこそが、一切の苦から解放される。若くして法に打ち込むクルーは、雲を離れた月のようにこの世を照らす。",
+  "verse_range": "360-382",
+  "verses": [
+    {
+      "number": 360,
+      "pali": "Cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro;\nghānena saṃvaro sādhu, sādhu jivhāya saṃvaro.",
+      "reading": "チャックナー サンヴァロー サードゥ、サードゥ ソーテーナ サンヴァロー；\nガーネーナ サンヴァロー サードゥ、サードゥ ジヴァーヤ サンヴァロー。",
+      "english": "Good is restraint over the eye; good is restraint over the ear; good is restraint over the nose; good is restraint over the tongue.",
+      "sezon": "眼の制御は善い。耳の制御は善い。鼻の制御は善い。舌の制御は善い。",
+      "keywords": ["saṃvara", "cakkhu", "sota", "jivhā"]
+    },
+    {
+      "number": 361,
+      "pali": "Kāyena saṃvaro sādhu, sādhu vācāya saṃvaro;\nmanasā saṃvaro sādhu, sādhu sabbattha saṃvaro;\nsabbattha saṃvuto bhikkhu, sabbadukkhā pamuccati.",
+      "reading": "カーイェーナ サンヴァロー サードゥ、サードゥ ヴァーチャーヤ サンヴァロー；\nマナサー サンヴァロー サードゥ、サードゥ サッバッタ サンヴァロー；\nサッバッタ サンヴトー ビック、サッバドゥッカー パムッチャティ。",
+      "english": "Good is restraint in the body; good is restraint in speech; good is restraint in thought. Restraint everywhere is good. The monk restrained in every way is freed from all suffering.",
+      "sezon": "身の制御は善い。言葉の制御は善い。心の制御は善い。あらゆる面での制御が善い。──すべてにおいて制御されたクルーは、一切の苦から解放される。",
+      "keywords": ["saṃvara", "kāya", "vācā", "manas", "bhikkhu"]
+    },
+    {
+      "number": 362,
+      "pali": "Hatthasaṃyato pādasaṃyato, vācāsaṃyato saṃyatuttamo;\najjhattarato samāhito, eko santusito tam āhu bhikkhuṃ.",
+      "reading": "ハッタサンヤトー パーダサンヤトー、ヴァーチャーサンヤトー サンヤタッタモー；\nアッジャッタラトー サマーヒトー、エーコー サントゥシトー タマーフ ビックン。",
+      "english": "He who has control over his hands, feet and tongue; who is fully controlled, delights in inward development, is absorbed in meditation, keeps to himself and is contented — him do people call a monk.",
+      "sezon": "手を制し、足を制し、舌を制し、最高に制御された者。内なる修行を喜び、禅定に入り、独り満足している──そういう奴を人はクルーと呼ぶ。",
+      "keywords": ["saṃyata", "ajjhattarata", "samāhita", "bhikkhu"]
+    },
+    {
+      "number": 363,
+      "pali": "Yo mukhasaṃyato bhikkhu, mantabhāṇī anuddhato;\natthaṃ dhammañca dīpeti, madhuraṃ tassa bhāsitaṃ.",
+      "reading": "ヨー ムカサンヤトー ビック、マンタバーニー アヌッダトー；\nアッタン ダンマンチャ ディーペーティ、マドゥラン タッサ バーシタン。",
+      "english": "That monk who has control over his tongue, is moderate in speech, unassuming and who explains the Teaching in both letter and spirit — whatever he says is pleasing.",
+      "sezon": "口を制し、穏やかに語り、驕らず、教えの文と義を明かすクルー──そいつの言葉は甘美だ。",
+      "keywords": ["mukhasaṃyata", "mantabhāṇī", "dhamma"]
+    },
+    {
+      "number": 364,
+      "pali": "Dhammārāmo dhammarato, dhammaṃ anuvicintayaṃ;\ndhammaṃ anussaraṃ bhikkhu, saddhammā na parihāyati.",
+      "reading": "ダンマーラーモー ダンマラトー、ダンマン アヌヴィチンタヤン；\nダンマン アヌッサラン ビック、サッダンマー ナ パリハーヤティ。",
+      "english": "The monk who abides in the Dhamma, delights in the Dhamma, meditates on the Dhamma, and bears the Dhamma well in mind — he does not fall away from the sublime Dhamma.",
+      "sezon": "法に住し、法を喜び、法を深く考え、法をよく憶念するクルー──そいつは正法から堕ちることがねぇ。",
+      "keywords": ["dhammārāma", "dhammarata", "saddhamma"]
+    },
+    {
+      "number": 365,
+      "pali": "Salābhaṃ nātimaññeyya, nāññesaṃ pihayaṃ care;\naññesaṃ pihayaṃ bhikkhu, samādhiṃ nādhigacchati.",
+      "reading": "サラーバン ナーティマンニェッヤ、ナーンニェーサン ピハヤン チャレー；\nアンニェーサン ピハヤン ビック、サマーディン ナーディガッチャティ。",
+      "english": "One should not despise what one has received, nor envy the gains of others. The monk who envies the gains of others does not attain to meditative absorption.",
+      "sezon": "自分が受けたものを軽んじるな。他人の得たものを羨むな。他人の利得を羨むクルーは、禅定に達しねぇ。",
+      "keywords": ["salābha", "pihā", "samādhi"]
+    },
+    {
+      "number": 366,
+      "pali": "Appalābhopi ce bhikkhu, salābhaṃ nātimaññati;\ntaṃ ve devā pasaṃsanti, suddhājīviṃ atanditaṃ.",
+      "reading": "アッパラーボーピ チェー ビック、サラーバン ナーティマンニャティ；\nタン ヴェー デーヴァー パサンサンティ、スッダージーヴィン アタンディタン。",
+      "english": "A monk who does not despise what he has received, even though it be little, who is pure in livelihood and unremitting in effort — him even the gods praise.",
+      "sezon": "たとえ少なくても受けたものを軽んじず、清浄な生活を送り、精進を怠らねぇクルー──そいつは神々にさえ讃えられる。",
+      "keywords": ["appalābha", "suddhājīvī", "atandita"]
+    },
+    {
+      "number": 367,
+      "pali": "Sabbaso nāmarūpasmiṃ, yassa natthi mamāyitaṃ;\nasatā ca na socati, sa ve bhikkhū ti vuccati.",
+      "reading": "サッバソー ナーマルーパスミン、ヤッサ ナッティ ママーイタン；\nアサター チャ ナ ソーチャティ、サ ヴェー ビックーティ ヴッチャティ。",
+      "english": "He who has no attachment whatsoever for the mind and body, who does not grieve for what he has not — he is truly called a monk.",
+      "sezon": "名色（心身）に対して一切の執着がなく、持っていないものを嘆かない者──そいつこそ真のクルーと呼ばれる。",
+      "keywords": ["nāmarūpa", "mamāyita", "bhikkhu"]
+    },
+    {
+      "number": 368,
+      "pali": "Mettāvihārī yo bhikkhu, pasanno buddhasāsane;\nadhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.",
+      "reading": "メッターヴィハーリー ヨー ビック、パサンノー ブッダサーサネー；\nアディガッチェー パダン サンタン、サンカールーパサマン スカン。",
+      "english": "The monk who abides in universal love and is deeply devoted to the Teaching of the Buddha attains the peace of Nibbana, the bliss of the cessation of all conditioned things.",
+      "sezon": "慈しみに住し、仏陀の教えに深く帰依するクルーは、涅槃の平安──一切の行の止滅という至福──に到達する。",
+      "keywords": ["mettā", "buddhasāsana", "nibbāna", "saṅkhārūpasama"]
+    },
+    {
+      "number": 369,
+      "pali": "Siñca bhikkhu imaṃ nāvaṃ, sittā te lahumessati;\nchetvā rāgañca dosañca, tato nibbānam ehisi.",
+      "reading": "シンチャ ビック イマン ナーヴァン、シッター テー ラフメッサティ；\nチェトヴァー ラーガンチャ ドーサンチャ、タトー ニッバーナメーヒシ。",
+      "english": "Empty this boat, O monk! Emptied, it will sail lightly. Rid of lust and hatred, you shall reach Nibbana.",
+      "sezon": "この舟の水を汲み出せ、クルー！空にすりゃ軽く進む。貪りと怒りを断ち切れば、涅槃に至る。",
+      "keywords": ["nāva", "rāga", "dosa", "nibbāna"]
+    },
+    {
+      "number": 370,
+      "pali": "Pañca chinde pañca jahe, pañca cuttari bhāvaye;\npañca saṅgātigo bhikkhu, oghatiṇṇo ti vuccati.",
+      "reading": "パンチャ チンデー パンチャ ジャヘー、パンチャ チュッタリ バーヴァイェー；\nパンチャ サンガーティゴー ビック、オーガティンノーティ ヴッチャティ。",
+      "english": "Cut off the five, abandon the five, and cultivate the five. The monk who has overcome the five bonds is called one who has crossed the flood.",
+      "sezon": "五つを断て、五つを捨てろ、五つを育てろ。五つの結縛を超えたクルーは「激流を渡った者」と呼ばれる。",
+      "keywords": ["pañca", "saṅga", "oghatiṇṇa"]
+    },
+    {
+      "number": 371,
+      "pali": "Jhāya bhikkhu mā ca pamādo, mā te kāmaguṇe ramessu cittaṃ;\nmā lohaguḷaṃ gilī pamatto, mā kandi dukkham idan ti dayhamāno.",
+      "reading": "ジャーヤ ビック マー チャ パマードー、マー テー カーマグネー ラメッス チッタン；\nマー ローハグラン ギリー パマットー、マー カンディ ドゥッカミダンティ ダイハマーノー。",
+      "english": "Meditate, O monk! Do not be heedless. Let not your mind whirl on sensual pleasures. Heedless, do not swallow a red-hot iron ball, lest you cry when burning, \"O this is painful!\"",
+      "sezon": "禅定しろ、クルー！放逸になるな。心を欲楽に遊ばせるな。うっかり真っ赤に焼けた鉄球を飲んで、焼かれながら『痛ぇ！』と泣くなよ。",
+      "keywords": ["jhāna", "pamāda", "kāmaguṇa"]
+    },
+    {
+      "number": 372,
+      "pali": "Natthi jhānaṃ apaññassa, paññā natthi ajhāyato;\nyamhi jhānañca paññā ca, sa ve nibbānasantike.",
+      "reading": "ナッティ ジャーナン アパンニャッサ、パンニャー ナッティ アジャーヤトー；\nヤンヒ ジャーナンチャ パンニャー チャ、サ ヴェー ニッバーナサンティケー。",
+      "english": "There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana.",
+      "sezon": "智慧のねぇ奴に禅定はなく、禅定のねぇ奴に智慧はねぇ。禅定と智慧の両方を持つ者──そいつは涅槃の間近にいる。",
+      "keywords": ["jhāna", "paññā", "nibbāna"]
+    },
+    {
+      "number": 373,
+      "pali": "Suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno;\namānusī rati hoti, sammā dhammaṃ vipassato.",
+      "reading": "スンニャーガーラン パヴィッタッサ、サンタチッタッサ ビックノー；\nアマーヌシー ラティ ホーティ、サンマー ダンマン ヴィパッサトー。",
+      "english": "The monk who has retired to a solitary abode and calmed his mind, who comprehends the Dhamma with insight, in him there arises a delight that transcends all human delights.",
+      "sezon": "空なる住処に入り、心を静めたクルーが、正しく法を観じる時──人間の喜びを超えた喜びが生じる。",
+      "keywords": ["suññāgāra", "santacitta", "vipassanā"]
+    },
+    {
+      "number": 374,
+      "pali": "Yato yato sammasati, khandhānaṃ udayabbayaṃ;\nlabhati pītipāmojjaṃ, amataṃ taṃ vijānataṃ.",
+      "reading": "ヤトー ヤトー サンマサティ、カンダーナン ウダヤッバヤン；\nラバティ ピーティパーモッジャン、アマタン タン ヴィジャーナタン。",
+      "english": "Whenever he sees with insight the rise and fall of the aggregates, he is full of joy and happiness. To the discerning one this reflects the Deathless.",
+      "sezon": "五蘊の生滅を観るたびに、喜びと歓喜に満たされる。明察する者にとって、それは不死を映し出すものだ。",
+      "keywords": ["khandha", "udayabbaya", "pīti", "amata"]
+    },
+    {
+      "number": 375,
+      "pali": "Tatrāyam ādi bhavati, idha paññassa bhikkhuno;\nindriyagutti santuṭṭhi, pātimokkhe ca saṃvaro.",
+      "reading": "タトラーヤマーディ バヴァティ、イダ パンニャッサ ビックノー；\nインドリヤグッティ サントゥッティ、パーティモッケー チャ サンヴァロー。",
+      "english": "Control of the senses, contentment, restraint according to the code of monastic discipline — these form the basis of holy life here for the wise monk.",
+      "sezon": "根の防護、知足、戒律に基づく制御──これが賢いクルーにとっての聖なる暮らしの土台だ。",
+      "keywords": ["indriyagutti", "santuṭṭhi", "pātimokkha", "saṃvara"]
+    },
+    {
+      "number": 376,
+      "pali": "Mitte bhajassu kalyāṇe, suddhājīve atandite;\npaṭisanthāravutyassa, ācārakusalo siyā;\ntato pāmojjabahulo, dukkhassantaṃ karissati.",
+      "reading": "ミッテー バジャッス カルヤーネー、スッダージーヴェー アタンディテー；\nパティサンターラヴッティヤッサ、アーチャーラクサロー シヤー；\nタトー パーモッジャバフロー、ドゥッカッサンタン カリッサティ。",
+      "english": "Let him associate with friends who are noble, energetic, and pure in life, let him be cordial and refined in conduct. Thus, full of joy, he will make an end of suffering.",
+      "sezon": "高貴で精進に満ち、清浄に暮らす友と付き合え。親切で洗練された振る舞いをしろ。そうすりゃ喜びに満ちて、苦の終わりに至る。",
+      "keywords": ["kalyāṇamitta", "suddhājīvī", "pāmojja"]
+    },
+    {
+      "number": 377,
+      "pali": "Vassikā viya pupphāni, maddavāni pamuñcati;\nevaṃ rāgañca dosañca, vippamuñcetha bhikkhavo.",
+      "reading": "ヴァッシカー ヴィヤ プッパーニ、マッダヴァーニ パムンチャティ；\nエーヴァン ラーガンチャ ドーサンチャ、ヴィッパムンチェータ ビッカヴォー。",
+      "english": "Just as the jasmine creeper sheds its withered flowers, even so, O monks, should you totally shed lust and hatred!",
+      "sezon": "ジャスミンの蔓が萎れた花を落とすように──クルーたちよ、貪りと怒りを完全に振り落とせ！",
+      "keywords": ["vassikā", "rāga", "dosa", "vippamuñca"]
+    },
+    {
+      "number": 378,
+      "pali": "Santakāyo santavāco, santavā susamāhito;\nvantalokāmiso bhikkhu, upasanto ti vuccati.",
+      "reading": "サンタカーヨー サンタヴァーコー、サンタヴァー スサマーヒトー；\nヴァンタローカーミソー ビック、ウパサントーティ ヴッチャティ。",
+      "english": "The monk who is calm in body, calm in speech, calm in thought, well-composed and who has spewn out worldliness — he, truly, is called serene.",
+      "sezon": "身が静か、言葉が静か、心が静か、よく統御されて世俗の餌を吐き出したクルー──そいつこそ「寂静な者」と呼ばれる。",
+      "keywords": ["santa", "samāhita", "upasanta"]
+    },
+    {
+      "number": 379,
+      "pali": "Attanā codayattānaṃ, paṭimaṃsetha attanā;\nso attagutto satimā, sukhaṃ bhikkhu vihāhisi.",
+      "reading": "アッタナー チョーダヤッターナン、パティマンセータ アッタナー；\nソー アッタグットー サティマー、スカン ビック ヴィハーヒシ。",
+      "english": "By oneself one must censure oneself and scrutinize oneself. The self-guarded and mindful monk will always live in happiness.",
+      "sezon": "自分で自分を戒め、自分で自分を省みろ。自らを守り正念あるクルーは、常に安楽に住む。",
+      "keywords": ["attā", "codaya", "satimā"]
+    },
+    {
+      "number": 380,
+      "pali": "Attā hi attano nātho, attā hi attano gati;\ntasmā saṃyamayattānaṃ, assaṃ bhadraṃ va vāṇijo.",
+      "reading": "アッター ヒ アッタノー ナートー、アッター ヒ アッタノー ガティ；\nタスマー サンヤマヤッターナン、アッサン バドラン ヴァ ヴァーニジョー。",
+      "english": "One is one's own protector, one is one's own refuge. Therefore, one should control oneself, even as a trader controls a noble steed.",
+      "sezon": "自分の守り手は自分だ。自分の拠り所は自分だ。──だから自分を制御しろ、商人が良馬を御するように。",
+      "keywords": ["attā", "nātha", "gati", "saṃyama"]
+    },
+    {
+      "number": 381,
+      "pali": "Pāmojjabahulo bhikkhu, pasanno buddhasāsane;\nadhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.",
+      "reading": "パーモッジャバフロー ビック、パサンノー ブッダサーサネー；\nアディガッチェー パダン サンタン、サンカールーパサマン スカン。",
+      "english": "Full of joy, full of faith in the Teaching of the Buddha, the monk attains the Peaceful State, the bliss of cessation of conditioned things.",
+      "sezon": "喜びに満ち、仏陀の教えへの信に満ちたクルーは、寂静の境地──諸行の止滅という至福──に到達する。",
+      "keywords": ["pāmojja", "buddhasāsana", "saṅkhārūpasama"]
+    },
+    {
+      "number": 382,
+      "pali": "Yo have daharo bhikkhu, yuñjati buddhasāsane;\nso imaṃ lokaṃ pabhāseti, abbhā mutto va candimā.",
+      "reading": "ヨー ハヴェー ダハロー ビック、ユンジャティ ブッダサーサネー；\nソー イマン ローカン パバーセーティ、アッバー ムットー ヴァ チャンディマー。",
+      "english": "That monk who while young devotes himself to the Teaching of the Buddha illumines this world like the moon freed from clouds.",
+      "sezon": "若くして仏陀の教えに打ち込むクルー──そいつは雲を離れた月のように、この世を照らす。",
+      "keywords": ["dahara", "buddhasāsana", "candimā", "pabhāseti"]
+    }
+  ]
+}

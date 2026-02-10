@@ -1,0 +1,45 @@
+{
+  "chapter": 58,
+  "chinese_name": "其政悶悶",
+  "japanese_name": "禍福の転変",
+  "summary": "禍と福は表裏一体で際限なく変転し、聖人は方正でも裁断しない。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "其政悶悶，其民淳淳；其政察察，其民缺缺。",
+      "modern_ja": "その政治がぼんやりしていれば、その民は純朴。その政治が厳しければ、その民は狡猾。",
+      "english": "When governance is relaxed, the people are simple. When governance is harsh, the people are cunning.",
+      "laozi": "ゆるい政治の民は素朴。厳しい政治の民はずる賢い。どっちが得か、わかるだろ",
+      "keywords": [
+        "悶悶",
+        "察察",
+        "淳淳",
+        "缺缺"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "禍兮福之所倚，福兮禍之所伏。孰知其極？其無正。正復為奇，善復為妖。人之迷，其日固久。",
+      "modern_ja": "禍は福の倚るところ、福は禍の伏すところ。誰がその究極を知ろうか。それには正がない。正はまた奇に変じ、善はまた妖に変じる。人の迷い、その日すでに久しい。",
+      "english": "Misfortune leans on fortune; fortune hides within misfortune. Who knows the ultimate? There is no fixed standard. The upright turns strange; the good turns monstrous. Humanity's confusion has lasted long indeed.",
+      "laozi": "禍の中に福がある。福の中に禍がある。正しいものが奇妙に変わり、善いものが妖しくなる。…ずっとそうだ。みんなずっと迷ってる",
+      "keywords": [
+        "禍福",
+        "正復為奇",
+        "善復為妖"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "是以聖人方而不割，廉而不劌，直而不肆，光而不燿。",
+      "modern_ja": "だから聖人は方正だが裁断せず、廉直だが傷つけず、まっすぐだが放埓でなく、光るが眩（まぶ）しくない。",
+      "english": "Thus the sage is square but does not cut, sharp but does not pierce, straight but not reckless, bright but not dazzling.",
+      "laozi": "四角いけど切らない。鋭いけど刺さない。光るけど眩しくない。そういう在り方がある",
+      "keywords": [
+        "方而不割",
+        "光而不燿",
+        "聖人"
+      ]
+    }
+  ]
+}

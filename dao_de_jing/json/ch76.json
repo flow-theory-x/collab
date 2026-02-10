@@ -1,0 +1,33 @@
+{
+  "chapter": 76,
+  "chinese_name": "人之生也柔弱",
+  "japanese_name": "柔弱は生の仲間",
+  "summary": "柔弱は生に属し堅強は死に属す。強大は下に処り柔弱は上に処る。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "人之生也柔弱，其死也堅強。萬物草木之生也柔脆，其死也枯槁。",
+      "modern_ja": "人は生まれるとき柔弱で、死ぬとき堅強になる。草木は生まれるとき柔脆で、死ぬとき枯槁する。",
+      "english": "When alive, people are soft and supple; when dead, they are hard and stiff. When alive, plants are tender and pliant; when dead, they are dry and brittle.",
+      "laozi": "生きてるもの、触ってみろ。柔らかいだろ。死んだら？ 固い。…それだけで全部わかる",
+      "keywords": [
+        "柔弱",
+        "堅強",
+        "生",
+        "死"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "故堅強者死之徒，柔弱者生之徒。是以兵強則不勝，木強則共。強大處下，柔弱處上。",
+      "modern_ja": "だから堅強は死の仲間であり、柔弱は生の仲間だ。だから兵が強ければ勝てず、木が強ければ折れる。強大は下に処り、柔弱は上に処る。",
+      "english": "Thus the hard and stiff are companions of death; the soft and yielding are companions of life. A rigid army will be defeated; a stiff tree will break. The strong and great sink below; the soft and weak rise above.",
+      "laozi": "硬い＝死。柔らかい＝生。強い軍は負ける。硬い木は折れる。強い奴が下。弱い奴が上。逆だろ？ いや、これが正しい",
+      "keywords": [
+        "柔弱処上",
+        "堅強処下",
+        "生死"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "chapter": 4,
+  "pali_name": "Pupphavagga",
+  "japanese_name": "花品",
+  "english_name": "Flowers",
+  "summary": "この世界を花に喩えて説く16偈。花の香りは風に逆らえねぇが、徳の香りは風にも逆らって広がる──ゴミ溜めの中でさえ蓮は咲くってもんだ。",
+  "verse_range": "44-59",
+  "verses": [
+    {
+      "number": 44,
+      "pali": "Ko imaṃ paṭhaviṃ vijessati\nyamalokañca imaṃ sadevakaṃ\nko dhammapadaṃ sudesitaṃ\nkusalo pupphamiva pacessati.",
+      "reading": "コー イマン パタヴィン ヴィジェッサティ\nヤマローカンチャ イマン サデーヴァカン\nコー ダンマパダン スデーシタン\nクサロー プッパミヴァ パチェッサティ",
+      "english": "Who shall overcome this earth, this realm of Yama and this sphere of men and gods? Who shall bring to perfection the well-taught path of wisdom as an expert garland-maker would his floral design?",
+      "sezon": "誰がこの大地を、閻魔の世界を、神々と人間のこの領域を征服するってんだ？ 誰が──熟練の花師が花飾りを仕上げるように──よく説かれた法の道を完成させるってんだ？",
+      "keywords": ["paṭhavī", "yamaloka", "dhammapada", "kusala", "puppha"]
+    },
+    {
+      "number": 45,
+      "pali": "Sekho paṭhaviṃ vijessati\nyamalokañca imaṃ sadevakaṃ\nsekho dhammapadaṃ sudesitaṃ\nkusalo pupphamiva pacessati.",
+      "reading": "セーコー パタヴィン ヴィジェッサティ\nヤマローカンチャ イマン サデーヴァカン\nセーコー ダンマパダン スデーシタン\nクサロー プッパミヴァ パチェッサティ",
+      "english": "A striver-on-the-path shall overcome this earth, this realm of Yama and this sphere of men and gods. The striver-on-the-path shall bring to perfection the well-taught path of wisdom, as an expert garland-maker would his floral design.",
+      "sezon": "修行者（セーカ）がこの大地を征服する。閻魔の世界も、神々と人間の世界もだ。修行者が──花師が花を選ぶように──よく説かれた法の道を完成させるんだ",
+      "keywords": ["sekha", "paṭhavī", "yamaloka", "dhammapada", "puppha"]
+    },
+    {
+      "number": 46,
+      "pali": "Pheṇūpamaṃ kāyamimaṃ viditvā\nmarīcidhammaṃ abhisambudhāno\nchetvāna mārassa papupphakāni\nadassanaṃ maccurājassa gacche.",
+      "reading": "フェーヌーパマン カーヤミマン ヴィディトヴァー\nマリーチダンマン アビサンブダーノー\nチェートヴァーナ マーラッサ パプッパカーニ\nアダッサナン マッチュラージャッサ ガッチェー",
+      "english": "Realizing that this body is like froth, penetrating its mirage-like nature, and plucking out Mara's flower-tipped arrows of sensuality, go beyond sight of the King of Death!",
+      "sezon": "この体が泡みてぇなもんだと知れ。蜃気楼みてぇな本質を見抜け。マーラの花飾りの矢をブチ折って──死の王の目の届かねぇとこまで行っちまえ！",
+      "keywords": ["pheṇa", "kāya", "marīci", "Māra", "maccu"]
+    },
+    {
+      "number": 47,
+      "pali": "Pupphāni heva pacinantaṃ\nbyāsattamanasaṃ naraṃ\nsuttaṃ gāmaṃ mahoghova\nmaccu ādāya gacchati.",
+      "reading": "プッパーニ ヘーヴァ パチナンタン\nビヤーサッタマナサン ナラン\nスッタン ガーマン マホーゴーヴァ\nマッチュ アーダーヤ ガッチャティ",
+      "english": "As a mighty flood sweeps away the sleeping village, so death carries away the person of distracted mind who only plucks the flowers (of pleasure).",
+      "sezon": "大洪水が眠る村を押し流すように、快楽の花ばっか摘んでる心ここにあらずの奴を──死がさらっていく",
+      "keywords": ["puppha", "maccu", "ogha", "byāsatta"]
+    },
+    {
+      "number": 48,
+      "pali": "Pupphāni heva pacinantaṃ\nbyāsattamanasaṃ naraṃ\natittaṃyeva kāmesu\nantako kurute vasaṃ.",
+      "reading": "プッパーニ ヘーヴァ パチナンタン\nビヤーサッタマナサン ナラン\nアティッタンイェーヴァ カーメース\nアンタコー クルテー ヴァサン",
+      "english": "The Destroyer brings under his sway the person of distracted mind who, insatiate in sense desires, only plucks the flowers (of pleasure).",
+      "sezon": "快楽の花ばっか摘みやがって、欲に満足することを知らねぇ散漫な野郎──そいつを破壊者（死神）が支配下に置くんだ",
+      "keywords": ["puppha", "kāma", "antaka", "byāsatta"]
+    },
+    {
+      "number": 49,
+      "pali": "Yathāpi bhamaro pupphaṃ\nvaṇṇagandhaṃ aheṭhayaṃ\npaleti rasam ādāya\nevaṃ gāme munī care.",
+      "reading": "ヤターピ バマロー プッパン\nヴァンナガンダン アヘータヤン\nパレーティ ラサマーダーヤ\nエーヴァン ガーメー ムニー チャレー",
+      "english": "As a bee gathers honey from the flower without injuring its color or fragrance, even so the sage goes on his alms-round in the village.",
+      "sezon": "蜜蜂が花の色も香りも傷つけずに蜜を集めるように──聖者は村で托鉢して回るんだ。奪わず、荒らさず、必要なだけいただく",
+      "keywords": ["bhamara", "puppha", "muni", "gāma"]
+    },
+    {
+      "number": 50,
+      "pali": "Na paresaṃ vilomāni\nna paresaṃ katākataṃ\nattanova avekkheyya\nkatāni akatāni ca.",
+      "reading": "ナ パレーサン ヴィローマーニ\nナ パレーサン カターカタン\nアッタノーヴァ アヴェッケッヤ\nカターニ アカターニ チャ",
+      "english": "Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.",
+      "sezon": "他人の粗探しをするんじゃねぇ。他人がやったこと、やらなかったことを見るんじゃねぇ。自分がやったこと、やってねぇこと──そっちを見ろ",
+      "keywords": ["paresa", "attā", "kata", "akata"]
+    },
+    {
+      "number": 51,
+      "pali": "Yathāpi ruciraṃ pupphaṃ\nvaṇṇavantaṃ agandhakaṃ\nevaṃ subhāsitā vācā\naphalā hoti akubbato.",
+      "reading": "ヤターピ ルチラン プッパン\nヴァンナヴァンタン アガンダカン\nエーヴァン スバーシター ヴァーチャー\nアパラー ホーティ アクッバトー",
+      "english": "Like a beautiful flower full of color but without fragrance, even so, fruitless are the fair words of one who does not practice them.",
+      "sezon": "色鮮やかだが香りのねぇ花みてぇなもんだ。美しい言葉を並べても、実践しねぇ奴の言葉は──実を結ばねぇ",
+      "keywords": ["puppha", "vaṇṇa", "gandha", "vācā"]
+    },
+    {
+      "number": 52,
+      "pali": "Yathāpi ruciraṃ pupphaṃ\nvaṇṇavantaṃ sagandhakaṃ\nevaṃ subhāsitā vācā\nsaphalā hoti sakubbato.",
+      "reading": "ヤターピ ルチラン プッパン\nヴァンナヴァンタン サガンダカン\nエーヴァン スバーシター ヴァーチャー\nサパラー ホーティ サクッバトー",
+      "english": "Like a beautiful flower full of color and also fragrant, even so, fruitful are the fair words of one who practices them.",
+      "sezon": "色も鮮やかで香りもある花のようにな──美しい言葉を語り、しかもそれを実践する奴の言葉は、ちゃんと実を結ぶってもんだ",
+      "keywords": ["puppha", "vaṇṇa", "gandha", "vācā", "saphala"]
+    },
+    {
+      "number": 53,
+      "pali": "Yathāpi puppharāsimhā\nkayirā mālāguṇe bahū\nevaṃ jātena maccena\nkattabbaṃ kusalaṃ bahuṃ.",
+      "reading": "ヤターピ プッパラーシムハー\nカイラー マーラーグネー バフー\nエーヴァン ジャーテーナ マッチェーナ\nカッタッバン クサラン バフン",
+      "english": "As from a great heap of flowers many garlands can be made, even so should many good deeds be done by one born a mortal.",
+      "sezon": "花の大山盛りから何本もの花輪が作れるように──死すべき身に生まれた以上、善い行いを山ほどやれ",
+      "keywords": ["puppha", "mālā", "macca", "kusala"]
+    },
+    {
+      "number": 54,
+      "pali": "Na pupphagandho paṭivātameti\nna candanaṃ tagaramallikā vā\nsatañca gandho paṭivātameti\nsabbā disā sappuriso pavāyati.",
+      "reading": "ナ プッパガンドー パティヴァータメーティ\nナ チャンダナン タガラマッリカー ヴァー\nサタンチャ ガンドー パティヴァータメーティ\nサッバー ディサー サップリソー パヴァーヤティ",
+      "english": "Not the sweet smell of flowers, not even the fragrance of sandal, tagara, or jasmine blows against the wind. But the fragrance of the virtuous blows against the wind. Truly the virtuous man pervades all directions with the fragrance of his virtue.",
+      "sezon": "花の香りは風に逆らって届かねぇ。栴檀も、タガラも、ジャスミンもだ。だがな──徳ある者の香りは風に逆らって広がるんだ。善き人は全方位にその徳の香りを行き渡らせる",
+      "keywords": ["puppha", "gandha", "candana", "tagara", "sappurisa"]
+    },
+    {
+      "number": 55,
+      "pali": "Candanaṃ tagaraṃ vāpi\nuppalaṃ atha vassikī\netesaṃ gandhajātānaṃ\nsīlagandho anuttaro.",
+      "reading": "チャンダナン タガラン ヴァーピ\nウッパラン アタ ヴァッシキー\nエーテーサン ガンダジャーターナン\nシーラガンドー アヌッタロー",
+      "english": "Of all the fragrances — sandal, tagara, blue lotus and jasmine — the fragrance of virtue is the sweetest.",
+      "sezon": "栴檀、タガラ、青蓮華、ジャスミン──あらゆる香りの中で、戒律（シーラ）の香りが最上だ。他の全部をブッちぎる",
+      "keywords": ["candana", "tagara", "uppala", "sīla", "gandha"]
+    },
+    {
+      "number": 56,
+      "pali": "Appamatto ayaṃ gandho\nyāyaṃ tagaracandanī\nyo ca sīlavataṃ gandho\nvāti devesu uttamo.",
+      "reading": "アッパマットー アヤン ガンドー\nヤーヤン タガラチャンダニー\nヨー チャ シーラヴァタン ガンドー\nヴァーティ デーヴェース ウッタモー",
+      "english": "Faint is the fragrance of tagara and sandal, but excellent is the fragrance of the virtuous, wafting even amongst the gods.",
+      "sezon": "タガラや栴檀の香りなんざ微々たるもんだ。だが徳ある者の香りは最高級──神々の間にまで漂っていくんだよ",
+      "keywords": ["gandha", "tagara", "candana", "sīlavant", "deva"]
+    },
+    {
+      "number": 57,
+      "pali": "Tesaṃ sampannasīlānaṃ\nappamādavihārinaṃ\nsammadaññā vimuttānaṃ\nmāro maggaṃ na vindati.",
+      "reading": "テーサン サンパンナシーラーナン\nアッパマーダヴィハーリナン\nサンマダンニャー ヴィムッターナン\nマーロー マッガン ナ ヴィンダティ",
+      "english": "Mara never finds the path of the truly virtuous, who abide in heedfulness and are freed by perfect knowledge.",
+      "sezon": "戒律を完成させ、不放逸に住み、正しい智で解脱した者──そいつらの道をマーラは見つけられねぇ。絶対にだ",
+      "keywords": ["sīla", "appamāda", "vimutta", "Māra", "magga"]
+    },
+    {
+      "number": 58,
+      "pali": "Yathā saṅkāradhānasmiṃ\nujjhitasmiṃ mahāpathe\npadumaṃ tattha jāyetha\nsucigandhaṃ manoramaṃ.",
+      "reading": "ヤター サンカーラダーナスミン\nウッジタスミン マハーパテー\nパドゥマン タッタ ジャーイェータ\nスチガンダン マノーラマン",
+      "english": "Upon a heap of rubbish in the road-side ditch blooms a lotus, fragrant and pleasing.",
+      "sezon": "道端のゴミ山の上に──蓮の花が咲く。香りよく、心を喜ばせてな",
+      "keywords": ["saṅkāra", "paduma", "gandha"]
+    },
+    {
+      "number": 59,
+      "pali": "Evaṃ saṅkārabhūtesu\nandhabhūte puthujjane\natirocati paññāya\nsammāsambuddhasāvako.",
+      "reading": "エーヴァン サンカーラブーテース\nアンダブーテー プトゥッジャネー\nアティローチャティ パンニャーヤ\nサンマーサンブッダサーヴァコー",
+      "english": "Even so, on the rubbish heap of blinded mortals the disciple of the Supremely Enlightened One shines resplendent in wisdom.",
+      "sezon": "そのようにな──盲目の凡夫どものゴミ溜めの中で、正等覚者の弟子は智慧をもって燦然と輝くんだ",
+      "keywords": ["saṅkāra", "puthujjana", "paññā", "sammāsambuddha", "sāvaka"]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "jataka_number": 539,
+  "pali_name": "Mahājanaka Jātaka",
+  "japanese_name": "マハージャナカ本生",
+  "english_name": "The Story of King Mahājanaka",
+  "parami": "精進波羅蜜（Viriya）",
+  "summary": "亡国の王子マハージャナカは、父の王国を取り戻すため船出するが難破。大海原で7日間泳ぎ続け、天女に救われてミティラーの王となる。長年の善政の後、果実のないマンゴーの木の教えに触発され、一切を捨てて出家した。精進と放棄の物語。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "王国の喪失と亡命",
+      "pali": "Ariṭṭhajanaka",
+      "reading": "アリッタジャナカ",
+      "english": "King Ariṭṭhajanaka is killed by his brother Polajanaka. The pregnant queen disguises herself and flees. Sakka creates a divine carriage that carries her 30 leagues to Campā in a single day. A brahmin takes her in as his 'sister.'",
+      "sezon": "ミティラーの王アリッタジャナカは弟に殺された。身重の后は金と宝石を籠に入れ、上に米をかぶせて頭に載せ、汚れた服で城を出た。誰も気づかない。帝釈天が馬車を用意して、30由旬を一日で運んだ。カンパー城でバラモンが「妹です」と嘘をついて匿った。こうしてマハージャナカは異国で生まれた。",
+      "keywords": ["亡命", "母の逃避行", "帝釈天の助け", "誕生"]
+    },
+    {
+      "number": 2,
+      "title": "大海の精進",
+      "pali": "Viriya",
+      "reading": "ヴィリヤ",
+      "english": "At 16, Mahājanaka sails for Suvaṇṇabhūmi. The ship breaks apart in mid-ocean. While everyone else drowns, he eats his fill, oils his garments, and leaps from the mast. He swims for 7 days straight in the blood-red sea.",
+      "sezon": "16歳で「親父の王国を取り戻す」と船に乗った。7日目に船が沈む。乗客は魚の餌になり、海が血の色に染まった。だがマハージャナカは違う。砂糖とギーを腹一杯食い、服に油を塗り、マストから140キュビト飛んだ。そこから7日間、宝石色の波の中を泳ぎ続けた。これが精進だ。希望がなくても手足を動かし続ける。",
+      "keywords": ["難破", "大海", "7日間", "精進"]
+    },
+    {
+      "number": 3,
+      "title": "天女マニメーカラーとの問答",
+      "pali": "Maṇimekhalā",
+      "reading": "マニメーカラー",
+      "english": "The sea-guardian goddess Maṇimekhalā tests him: 'Your striving is in vain—you'll die here.' He responds: 'He who does all he can is free from guilt. The unknown future shows the rest.' Impressed, she carries him to Mithilā.",
+      "sezon": "天女マニメーカラーが空中に現れて試す。「陸も見えない大海原で泳いで何になる？死ぬだけだぞ」。マハージャナカは答えた。「やれることを全部やった奴は、天にも親族にも恥じない。結果は知らん。だが動く」。天女は感服して、彼を胸に抱いて空を飛び、ミティラーまで運んだ。努力する者だけが、運命に拾われる。",
+      "keywords": ["天女", "問答", "精進の哲学", "救済"]
+    },
+    {
+      "number": 4,
+      "title": "祝祭の戦車と王位継承",
+      "pali": "Sīvalīdevī",
+      "reading": "シーヴァリーデーヴィー",
+      "english": "Polajanaka dies the same day. His daughter Sīvalī tests all suitors but none pass. The ceremonial chariot, sent to find a worthy king, rolls through the city and stops at the stone where Mahājanaka sleeps. He passes every test—pleasing the princess, stringing the great bow, finding the 16 treasures.",
+      "sezon": "ポーラジャナカがちょうどその日に死んだ。因果ってやつだ。娘のシーヴァリーは将軍だの大臣だの全員を試して蹴り飛ばした。祝祭の戦車が走り出し、城中を巡って、マンゴー園の石板で寝ているマハージャナカの前で止まった。音楽が鳴っても顔を覆って寝返りを打つだけ。「こいつは大物だ」と司祭が見抜いた。弓を引き、宝を掘り当て、全ての試験に合格。王座は泳ぎ切った男のものになった。",
+      "keywords": ["王位継承", "試験", "16の宝", "シーヴァリー王女"]
+    },
+    {
+      "number": 5,
+      "title": "二本のマンゴーの木の悟り",
+      "pali": "",
+      "reading": "",
+      "english": "After 7,000 years of righteous rule, the king visits his garden. One mango tree, full of fruit, has been stripped bare by crowds. The barren tree stands green and whole. He realizes: 'Possessions invite destruction. The fruitless tree is free.' He resolves to renounce.",
+      "sezon": "7千年、善き王として治めた。ある日、庭園で二本のマンゴーの木を見た。実のなる木は群衆に枝を折られ、葉を毟られ、ボロボロだ。実のない木は青々と美しい。マハージャナカは雷に打たれたように悟った。「持つ者は奪われる。持たない者は自由だ。俺は実のない木になる」。その日、王宮に戻って門を閉じた。",
+      "keywords": ["マンゴーの木", "執着", "無所有", "出離の決意"]
+    },
+    {
+      "number": 6,
+      "title": "大放棄——シーヴァリーとの別れ",
+      "pali": "Nekkhamma",
+      "reading": "ネッカンマ",
+      "english": "He shaves his head, dons yellow robes. Queen Sīvalī and 700 queens pursue him. She fakes fires and bandit attacks. He draws a line no one may cross. She crosses it. A girl with one bracelet and an arrow-maker both teach: 'The single is silent; only the lonely are happy.' He cuts a muñja reed: 'Like this stalk, our bond is severed.'",
+      "sezon": "黄色い衣をまとい、托鉢の器を肩にかけて宮殿を降りた。后シーヴァリーは700人の美女を連れて追いかける。「火事だ」と嘘をつき、「賊が来た」と芝居を打つ。全部無視。道に線を引いて「ここを越えるな」。后は越えた。すると腕輪一つの少女が言う。「二つは鳴る、一つは静か。孤独だけが幸せだ」。矢師も同じことを言った。マハージャナカはムンジャ草を折って后に渡した。「この草のように、もう繋がらない」。そしてヒマラヤへ消えた。",
+      "keywords": ["大放棄", "シーヴァリー", "孤独の教え", "ムンジャ草"]
+    }
+  ]
+}

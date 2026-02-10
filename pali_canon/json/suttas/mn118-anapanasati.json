@@ -1,0 +1,81 @@
+{
+  "sutta_id": "MN118",
+  "pali_name": "Ānāpānasati Sutta",
+  "japanese_name": "安般念経",
+  "english_name": "Mindfulness of Breathing",
+  "summary": "呼吸の気づき（ānāpānasati）の16段階を体系的に説き、それが四念処を完成させ、四念処が七覚支を完成させ、七覚支が明知と解脱を完成させるという、瞑想修行の完全な階梯を示した経典。",
+  "sections": [
+    {
+      "number": 1,
+      "title": "布薩の夜：サンガの荘厳さ",
+      "pali": "Pavāraṇā",
+      "reading": "パヴァーラナー",
+      "english": "On the full-moon Uposatha of the Pavarana ceremony, the Buddha surveys the silent assembly and expresses deep contentment. He describes the assembly as worthy of gifts, offerings, and respect — an incomparable field of merit. Monks of all four stages of awakening are present, along with those developing various practices.",
+      "sezon": "パヴァーラナーの満月の夜。ブッダは静まり返ったサンガを見渡して言った。「この修行に満足している」と。阿羅漢もいる、不還者もいる、一来者も預流者もいる。四念処を修めてる者、七覚支を育ててる者、慈悲喜捨を修めてる者。そして呼吸の気づきに専念してる者。これが世界最高の福田だ。供養に値する集いだ。",
+      "keywords": ["pavāraṇā", "uposatha", "布薩", "サンガ", "福田"]
+    },
+    {
+      "number": 2,
+      "title": "呼吸の気づきの16段階：総説",
+      "pali": "Soḷasa ānāpānasati",
+      "reading": "ソーラサ・アーナーパーナサティ",
+      "english": "The Buddha presents the complete 16-step framework: Steps 1-4 (body tetrad), Steps 5-8 (feeling tetrad), Steps 9-12 (mind tetrad), Steps 13-16 (dhamma tetrad). This is how mindfulness of breathing is developed to be of great fruit and benefit.",
+      "sezon": "呼吸の気づきは大きな果報をもたらす。十六段階ある。四つずつ四組だ。森に行け、木の下に座れ、足を組め。常に念を持って吸い、念を持って吐け。これが全ての土台だ。ここから身体→感受→心→法と段階を登っていく。一本の呼吸から涅槃まで。これがānāpānasatiの全体構造だ。",
+      "keywords": ["ānāpānasati", "soḷasa", "十六段階", "四組四段"]
+    },
+    {
+      "number": 3,
+      "title": "第一組：身体の四段階（身随観）",
+      "pali": "Kāyānupassanā — dīgha/rassa, sabbakāya, passambhayaṃ kāyasaṅkhāraṃ",
+      "reading": "カーヤーヌパッサナー",
+      "english": "Steps 1-4: (1) Discerning long breaths, (2) Discerning short breaths, (3) Breathing in/out sensitive to the entire body, (4) Breathing in/out calming bodily fabrication. The in-&-out breath is classed as 'a body among bodies.'",
+      "sezon": "第一組は身体だ。①長い息を「長い」と知る。②短い息を「短い」と知る。③全身を感じながら吸い吐きする。④身行を静めながら吸い吐きする。呼吸は「身体の中の身体」だとブッダは言った。だからこの四つのステップは、そのまま身随観になる。まず身体に錨を下ろせ。話はそれからだ。",
+      "keywords": ["kāyānupassanā", "身随観", "dīgha", "rassa", "sabbakāya", "kāyasaṅkhāra"]
+    },
+    {
+      "number": 4,
+      "title": "第二組：感受の四段階（受随観）",
+      "pali": "Vedanānupassanā — pīti, sukha, cittasaṅkhāra, passambhayaṃ cittasaṅkhāraṃ",
+      "reading": "ヴェーダナーヌパッサナー",
+      "english": "Steps 5-8: (5) Sensitive to rapture (pīti), (6) Sensitive to pleasure (sukha), (7) Sensitive to mental fabrication, (8) Calming mental fabrication. Careful attention to breaths is classed as 'a feeling among feelings.'",
+      "sezon": "第二組は感受だ。⑤喜（pīti）を感じながら呼吸する。⑥楽（sukha）を感じながら呼吸する。⑦心行——知覚と感受を感じながら呼吸する。⑧心行を静めながら呼吸する。身体が静まると喜びが生じる。禅定の喜びだ。肉体の快楽じゃない。呼吸への丁寧な注意、それ自体が「感受の中の感受」になるんだ。",
+      "keywords": ["vedanānupassanā", "受随観", "pīti", "sukha", "cittasaṅkhāra", "喜", "楽"]
+    },
+    {
+      "number": 5,
+      "title": "第三組：心の四段階（心随観）",
+      "pali": "Cittānupassanā — citta, abhippamodayaṃ, samādahaṃ, vimocayaṃ",
+      "reading": "チッターヌパッサナー",
+      "english": "Steps 9-12: (9) Sensitive to the mind, (10) Satisfying the mind, (11) Steadying/concentrating the mind, (12) Releasing the mind. The meditator now works directly with consciousness itself through the medium of breath.",
+      "sezon": "第三組は心そのものだ。⑨心を感じながら呼吸する。⑩心を満足させながら呼吸する。⑪心を安定させながら呼吸する。⑫心を解放しながら呼吸する。ここまで来ると、呼吸を通じて心そのものを操縦してる。集中を深め、禅定の各段階を上り、心を重荷から一つずつ解き放っていく。まだゴールじゃない。次が本番だ。",
+      "keywords": ["cittānupassanā", "心随観", "citta", "samādhi", "vimocanā", "解放"]
+    },
+    {
+      "number": 6,
+      "title": "第四組：法の四段階（法随観）",
+      "pali": "Dhammānupassanā — aniccā, virāga, nirodha, paṭinissagga",
+      "reading": "ダンマーヌパッサナー",
+      "english": "Steps 13-16: (13) Focusing on inconstancy (anicca), (14) Focusing on dispassion/fading (virāga), (15) Focusing on cessation (nirodha), (16) Focusing on relinquishment (paṭinissagga). This is the culmination — seeing impermanence leads to letting go.",
+      "sezon": "最終組は法だ。⑬無常（anicca）に焦点を当てながら呼吸する。⑭離貪（virāga）に焦点を当てながら呼吸する。⑮滅（nirodha）に焦点を当てながら呼吸する。⑯放棄（paṭinissagga）に焦点を当てながら呼吸する。全ては変わる、だから離れる、だから滅する、だから手放す。これが呼吸から涅槃への直通ルートだ。",
+      "keywords": ["dhammānupassanā", "法随観", "anicca", "virāga", "nirodha", "paṭinissagga", "無常", "離貪"]
+    },
+    {
+      "number": 7,
+      "title": "四念処から七覚支へ",
+      "pali": "Satipaṭṭhānā → Bojjhaṅgā",
+      "reading": "サティパッターナー → ボッジャンガー",
+      "english": "The four frames of reference, when developed through breath meditation, naturally give rise to the seven factors of awakening in sequence: mindfulness → investigation → persistence → rapture → serenity → concentration → equanimity. Each arises from the preceding one.",
+      "sezon": "四念処が育つと、七覚支が自然に芽を出す。身を観じていると念が安定する。念が安定すると、智慧で観察し始める（択法）。観察すると精進が湧く。精進すると肉体を超えた喜びが生じる。喜びがあると身心が軽安になる。軽安だと定が深まる。定が深まると捨——完全な平静が来る。全部つながってるんだ。一本の呼吸から。",
+      "keywords": ["satipaṭṭhāna", "bojjhaṅga", "四念処", "七覚支", "念", "択法", "精進", "喜", "軽安", "定", "捨"]
+    },
+    {
+      "number": 8,
+      "title": "七覚支から明知と解脱へ",
+      "pali": "Bojjhaṅgā → Vijjā-vimutti",
+      "reading": "ボッジャンガー → ヴィッジャー・ヴィムッティ",
+      "english": "The seven factors for awakening, when developed dependent on seclusion, dispassion, and cessation, resulting in relinquishment, bring clear knowing (vijjā) and release (vimutti) to their culmination. This is the complete chain: breath → four foundations → seven factors → liberation.",
+      "sezon": "七覚支を遠離に依り、離貪に依り、滅に依り、放棄に帰結するように修めれば、明知（vijjā）と解脱（vimutti）が完成する。これが全体の構造だ。呼吸→四念処→七覚支→明知と解脱。一本の呼吸から完全な解放まで。ブッダはこれを一つの経典にまとめた。やることはシンプルだ。座って、吸って、吐いて、観ろ。それだけで全部つながる。",
+      "keywords": ["vijjā", "vimutti", "明知", "解脱", "viveka", "遠離", "完全な解放"]
+    }
+  ]
+}

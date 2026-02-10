@@ -1,0 +1,154 @@
+{
+  "chapter": 14,
+  "pali_name": "Buddhavagga",
+  "japanese_name": "仏陀品",
+  "english_name": "The Buddha",
+  "summary": "仏陀とは何者か。足跡なき者、渇愛なき者、目覚めた者。その教えは単純だ──悪を為すな、善を行え、心を清めろ。仏・法・僧への帰依こそ真の拠り所だと、18偈で叩き込む。",
+  "verse_range": "179-196",
+  "verses": [
+    {
+      "number": 179,
+      "pali": "Yassa jitaṃ nāvajīyati, jitaṃ yassa no yāti koci loke;\ntaṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.",
+      "reading": "ヤッサ ジタン ナーヴァジーヤティ、ジタン ヤッサ ノー ヤーティ コーチ ローケー；\nタン ブッダマナンタゴーチャラン、アパダン ケーナ パデーナ ネッサタ。",
+      "english": "By what track can you trace that trackless Buddha of limitless range, whose victory nothing can undo, whom none of the vanquished defilements can ever pursue?",
+      "sezon": "足跡のないブッダを、どうやって追跡する？果てしない境地を持ち、勝利は覆せず、打ち負かした煩悩は二度と追いつけねぇ。",
+      "keywords": ["buddha", "apada", "jita", "ananta"]
+    },
+    {
+      "number": 180,
+      "pali": "Yassa jālinī visattikā, taṇhā natthi kuhiñci netave;\ntaṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.",
+      "reading": "ヤッサ ジャーリニー ヴィサッティカー、タンハー ナッティ クヒンチ ネータヴェー；\nタン ブッダマナンタゴーチャラン、アパダン ケーナ パデーナ ネッサタ。",
+      "english": "By what track can you trace that trackless Buddha of limitless range, in whom exists no longer, the entangling and embroiling craving that perpetuates becoming?",
+      "sezon": "絡みつく渇愛、存在を繰り返させる渇望──それがもう存在しねぇブッダを、どの足跡で追える？",
+      "keywords": ["taṇhā", "jālinī", "buddha", "apada"]
+    },
+    {
+      "number": 181,
+      "pali": "Ye jhānapasutā dhīrā, nekkhammūpasame ratā;\ndevā pi tesaṃ pihayanti, sambuddhānaṃ satīmataṃ.",
+      "reading": "イェー ジャーナパスター ディーラー、ネッカンムーパサメー ラター；\nデーヴァー ピ テーサン ピハヤンティ、サンブッダーナン サティーマタン。",
+      "english": "Those wise ones who are devoted to meditation and who delight in the calm of renunciation — such mindful ones, Supreme Buddhas, even the gods hold dear.",
+      "sezon": "禅定に打ち込み、出離の静けさを楽しむ智者たち──正念を持つ正等覚者を、神々でさえ慕う。",
+      "keywords": ["jhāna", "nekkhamma", "sambuddha", "deva"]
+    },
+    {
+      "number": 182,
+      "pali": "Kiccho manussapaṭilābho, kicchaṃ maccāna jīvitaṃ;\nkicchaṃ saddhammassavanaṃ, kiccho buddhānamuppādo.",
+      "reading": "キッチョー マヌッサパティラーボー、キッチャン マッチャーナ ジーヴィタン；\nキッチャン サッダンマッサヴァナン、キッチョー ブッダーナムッパードー。",
+      "english": "Hard is it to be born a man; hard is the life of mortals. Hard is it to gain the opportunity of hearing the Sublime Truth, and hard to encounter is the arising of the Buddhas.",
+      "sezon": "人間に生まれるのは難しい。死すべき者の人生も厳しい。正しい教えを聞く機会も稀だ。仏陀が現れることなんざ、もっと稀だ。",
+      "keywords": ["manussa", "saddhamma", "buddha", "kiccha"]
+    },
+    {
+      "number": 183,
+      "pali": "Sabbapāpassa akaraṇaṃ, kusalassa upasampadā;\nsacittapariyodapanaṃ, etaṃ buddhāna sāsanaṃ.",
+      "reading": "サッバパーパッサ アカラナン、クサラッサ ウパサンパダー；\nサチッタパリヨーダパナン、エータン ブッダーナ サーサナン。",
+      "english": "To avoid all evil, to cultivate good, and to cleanse one's mind — this is the teaching of the Buddhas.",
+      "sezon": "一切の悪を為すな。善を積め。自分の心を浄めろ。──これが仏陀たちの教えだ。シンプルだろ。",
+      "keywords": ["pāpa", "kusala", "citta", "sāsana"]
+    },
+    {
+      "number": 184,
+      "pali": "Khantī paramaṃ tapo titikkhā, nibbānaṃ paramaṃ vadanti buddhā;\nna hi pabbajito parūpaghātī, na samaṇo hoti paraṃ viheṭhayanto.",
+      "reading": "カンティー パラマン タポー ティティッカー、ニッバーナン パラマン ヴァダンティ ブッダー；\nナ ヒ パッバジトー パルーパガーティー、ナ サマノー ホーティ パラン ヴィヘータヤントー。",
+      "english": "Enduring patience is the highest austerity. \"Nibbana is supreme,\" say the Buddhas. He is not a true monk who harms another, nor a true renunciate who oppresses others.",
+      "sezon": "忍耐こそ最高の苦行だ。『涅槃こそ至高』と仏陀たちは言う。他人を傷つける奴は出家者じゃねぇし、他人を虐げる奴は沙門じゃねぇ。",
+      "keywords": ["khantī", "nibbāna", "pabbajita", "samaṇa"]
+    },
+    {
+      "number": 185,
+      "pali": "Anūpavādo anūpaghāto, pātimokkhe ca saṃvaro;\nmattaññutā ca bhattasmiṃ, pantañca sayanāsanaṃ;\nadhicitte ca āyogo, etaṃ buddhāna sāsanaṃ.",
+      "reading": "アヌーパヴァードー アヌーパガートー、パーティモッケー チャ サンヴァロー；\nマッタンニュター チャ バッタスミン、パンタンチャ サヤナーサナン；\nアディチッテー チャ アーヨーゴー、エータン ブッダーナ サーサナン。",
+      "english": "Not despising, not harming, restraint according to the code of monastic discipline, moderation in food, dwelling in solitude, devotion to meditation — this is the teaching of the Buddhas.",
+      "sezon": "人を蔑むな、傷つけるな。戒律を守れ。食は程々に。静かな場所に住め。禅定に励め。──これが仏陀たちの教えだ。",
+      "keywords": ["anūpavāda", "pātimokkha", "sayanāsana", "adhicitta"]
+    },
+    {
+      "number": 186,
+      "pali": "Na kahāpaṇavassena, titti kāmesu vijjati;\nappassādā dukhā kāmā, iti viññāya paṇḍito.",
+      "reading": "ナ カハーパナヴァッセーナ、ティッティ カーメース ヴィッジャティ；\nアッパッサーダー ドゥカー カーマー、イティ ヴィンニャーヤ パンディトー。",
+      "english": "There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain. Having understood this, the wise man finds no delight even in heavenly pleasures.",
+      "sezon": "金貨の雨が降っても、欲望は満たされねぇ。感覚的な快楽なんざ、喜びは少なく苦しみが多い。それを見抜いた賢者は──",
+      "keywords": ["kāma", "kahāpaṇa", "appassāda", "paṇḍita"]
+    },
+    {
+      "number": 187,
+      "pali": "Api dibbesu kāmesu, ratiṃ so nādhigacchati;\ntaṇhakkhayarato hoti, sammāsambuddhasāvako.",
+      "reading": "アピ ディッベース カーメース、ラティン ソー ナーディガッチャティ；\nタンハッカヤラトー ホーティ、サンマーサンブッダサーヴァコー。",
+      "english": "The disciple of the Supreme Buddha delights in the destruction of craving.",
+      "sezon": "──天上の快楽にすら喜びを見ない。正等覚者の弟子は、渇愛の滅尽を楽しむ。",
+      "keywords": ["taṇhakkhaya", "sammāsambuddha", "sāvaka", "dibba"]
+    },
+    {
+      "number": 188,
+      "pali": "Bahuṃ ve saraṇaṃ yanti, pabbatāni vanāni ca;\nārāmarukkhacetyāni, manussā bhayatajjitā.",
+      "reading": "バフン ヴェー サラナン ヤンティ、パッバターニ ヴァナーニ チャ；\nアーラーマルッカチェッティヤーニ、マヌッサー バヤタッジター。",
+      "english": "Driven only by fear, do men go for refuge to many places — to hills, woods, groves, trees and shrines.",
+      "sezon": "恐怖に駆られて、人は山や森、園林や木や祠にすがる。あちこちに拠り所を求めるんだ。",
+      "keywords": ["saraṇa", "bhaya", "pabbata", "cetiya"]
+    },
+    {
+      "number": 189,
+      "pali": "Netaṃ kho saraṇaṃ khemaṃ, netaṃ saraṇamuttamaṃ;\nnetaṃ saraṇamāgamma, sabbadukkhā pamuccati.",
+      "reading": "ネータン コー サラナン ケーマン、ネータン サラナムッタマン；\nネータン サラナマーガンマ、サッバドゥッカー パムッチャティ。",
+      "english": "Such, indeed, is no safe refuge; such is not the refuge supreme. Not by resorting to such a refuge is one released from all suffering.",
+      "sezon": "だが、そんなもんは安全な拠り所じゃねぇ。最高の拠り所でもねぇ。そこに頼ったって、一切の苦しみからは解放されねぇ。",
+      "keywords": ["saraṇa", "khema", "dukkha"]
+    },
+    {
+      "number": 190,
+      "pali": "Yo ca buddhañca dhammañca, saṅghañca saraṇaṃ gato;\ncattāri ariyasaccāni, sammappaññāya passati.",
+      "reading": "ヨー チャ ブッダンチャ ダンマンチャ、サンガンチャ サラナン ガトー；\nチャッターリ アリヤサッチャーニ、サンマッパンニャーヤ パッサティ。",
+      "english": "He who has gone for refuge to the Buddha, the Teaching and his Order, penetrates with transcendental wisdom the Four Noble Truths — suffering, the cause of suffering, the cessation of suffering, and the Noble Eightfold Path leading to the cessation of suffering.",
+      "sezon": "仏・法・僧に帰依した者は、正しい智慧で四つの聖なる真理を見抜く──苦、苦の原因、苦の滅、そして苦の滅に至る八正道を。",
+      "keywords": ["buddha", "dhamma", "saṅgha", "ariyasacca"]
+    },
+    {
+      "number": 191,
+      "pali": "Dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ;\nariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.",
+      "reading": "ドゥッカン ドゥッカサムッパーダン、ドゥッカッサ チャ アティッカマン；\nアリヤン チャッタンギカン マッガン、ドゥックーパサマガーミナン。",
+      "english": "suffering, the cause of suffering, the cessation of suffering, and the Noble Eightfold Path leading to the cessation of suffering.",
+      "sezon": "苦、苦の生起、苦の超克、そして苦の鎮静へ向かう聖なる八支の道を。",
+      "keywords": ["dukkha", "magga", "aṭṭhaṅgika", "ariya"]
+    },
+    {
+      "number": 192,
+      "pali": "Etaṃ kho saraṇaṃ khemaṃ, etaṃ saraṇamuttamaṃ;\netaṃ saraṇamāgamma, sabbadukkhā pamuccati.",
+      "reading": "エータン コー サラナン ケーマン、エータン サラナムッタマン；\nエータン サラナマーガンマ、サッバドゥッカー パムッチャティ。",
+      "english": "This indeed is the safe refuge, this the refuge supreme. Having gone to such a refuge, one is released from all suffering.",
+      "sezon": "これこそ安全な拠り所だ。これこそ最高の拠り所だ。ここに帰依すれば、一切の苦しみから解放される。",
+      "keywords": ["saraṇa", "khema", "dukkha", "pamuccati"]
+    },
+    {
+      "number": 193,
+      "pali": "Dullabho purisājañño, na so sabbattha jāyati;\nyattha so jāyati dhīro, taṃ kulaṃ sukhamedhati.",
+      "reading": "ドゥッラボー プリサージャンニョー、ナ ソー サッバッタ ジャーヤティ；\nヤッタ ソー ジャーヤティ ディーロー、タン クラン スカメーダティ。",
+      "english": "Hard to find is the thoroughbred man (the Buddha); he is not born everywhere. Where such a wise man is born, that clan thrives happily.",
+      "sezon": "真の偉人は見つけがたい。どこにでも生まれるわけじゃねぇ。そんな智者が生まれた一族は、幸せに栄える。",
+      "keywords": ["purisājañña", "dhīra", "kula", "dullabha"]
+    },
+    {
+      "number": 194,
+      "pali": "Sukho buddhānamuppādo, sukhā saddhammadesanā;\nsukhā saṅghassa sāmaggī, samaggānaṃ tapo sukho.",
+      "reading": "スコー ブッダーナムッパードー、スカー サッダンマデーサナー；\nスカー サンガッサ サーマッギー、サマッガーナン タポー スコー。",
+      "english": "Blessed is the birth of the Buddhas; blessed is the enunciation of the sacred Teaching; blessed is the harmony in the Order, and blessed is the spiritual pursuit of the united truth-seeker.",
+      "sezon": "仏陀の出現は幸いだ。正法の説示も幸いだ。僧伽の和合も幸いだ。和合した者たちの修行も幸いだ。",
+      "keywords": ["buddha", "saddhamma", "saṅgha", "sāmaggī"]
+    },
+    {
+      "number": 195,
+      "pali": "Pūjārahe pūjayato, buddhe yadi va sāvake;\npapañcasamatikkante, tiṇṇasokapariddave.",
+      "reading": "プージャーラヘー プージャヤトー、ブッデー ヤディ ヴァ サーヴァケー；\nパパンチャサマティッカンテー、ティンナソーカパリッダヴェー。",
+      "english": "He who reveres those worthy of reverence, the Buddhas and their disciples, who have transcended all obstacles and passed beyond the reach of sorrow and lamentation —",
+      "sezon": "敬うべき者を敬う人──仏陀とその弟子たち、一切の障碍を超え、悲しみと嘆きを渡り越えた者たちを──",
+      "keywords": ["pūjā", "buddha", "sāvaka", "papañca"]
+    },
+    {
+      "number": 196,
+      "pali": "Te tādise pūjayato, nibbute akutobhaye;\nna sakkā puññaṃ saṅkhātuṃ, imettamapi kenaci.",
+      "reading": "テー ターディセー プージャヤトー、ニッブテー アクトーバイェー；\nナ サッカー プンニャン サンカートゥン、イメッタマピ ケーナチ。",
+      "english": "he who reveres such peaceful and fearless ones, his merit none can compute by any measure.",
+      "sezon": "──そういう安らかで恐れなき者たちを敬う者の功徳は、誰にも、どんな尺度でも量れねぇ。",
+      "keywords": ["puñña", "nibbuta", "akutobhaya", "pūjā"]
+    }
+  ]
+}

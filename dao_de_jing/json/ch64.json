@@ -1,0 +1,58 @@
+{
+  "chapter": 64,
+  "chinese_name": "其安易持",
+  "japanese_name": "千里の行も足下から",
+  "summary": "すべては微かな始まりから生じる。作為を捨て、自然を助けよ。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "其安易持，其未兆易謀。其脆易泮，其微易散。為之於未有，治之於未亂。",
+      "modern_ja": "安定しているものは保ちやすく、兆しのないものは謀りやすい。脆いものは割れやすく、微かなものは散りやすい。まだ起きていないうちに為し、まだ乱れていないうちに治めよ。",
+      "english": "What is stable is easy to hold; what shows no sign is easy to plan for. What is brittle is easy to break; what is minute is easy to scatter. Act before things exist; govern before disorder begins.",
+      "laozi": "壊れる前に直せ。乱れる前に治めろ。当たり前だろ？ でも誰もやらない",
+      "keywords": [
+        "予防",
+        "未兆",
+        "先手"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。",
+      "modern_ja": "抱えるほどの大木も毫末から生じ、九層の台も累土から起こり、千里の行も足下から始まる。",
+      "english": "A tree you can barely embrace grows from a tiny sprout. A nine-story tower rises from a heap of earth. A journey of a thousand miles begins beneath your feet.",
+      "laozi": "千里の旅、知ってるか。足元だ。今、ここの一歩。それだけ",
+      "keywords": [
+        "千里之行",
+        "足下",
+        "毫末",
+        "漸進"
+      ]
+    },
+    {
+      "number": 3,
+      "original": "為者敗之，執者失之。是以聖人無為故無敗；無執故無失。",
+      "modern_ja": "作為する者は敗れ、執着する者は失う。だから聖人は無為ゆえに敗れず、無執ゆえに失わない。",
+      "english": "Those who act with force fail; those who cling lose. The sage does not force, so does not fail; does not cling, so does not lose.",
+      "laozi": "掴もうとするから、こぼれる。やろうとするから、壊れる。手を放せ",
+      "keywords": [
+        "無為",
+        "無執",
+        "執着"
+      ]
+    },
+    {
+      "number": 4,
+      "original": "民之從事，常於幾成而敗之。慎終如始，則無敗事，是以聖人欲不欲，不貴難得之貨；學不學，復衆人之所過，以輔萬物之自然，而不敢為。",
+      "modern_ja": "民が事を為すとき、いつもほとんど完成したところで失敗する。終わりを慎むこと始めのごとくすれば、敗事はない。だから聖人は欲しないことを欲し、得がたい財貨を貴ばない。学ばないことを学び、衆人の過ちを正し、万物の自然を助けて敢えて作為しない。",
+      "english": "People commonly fail when they are almost finished. Be as careful at the end as at the beginning, and there will be no failure. The sage desires not to desire, values no rare goods, learns to unlearn, corrects the errors of others, and assists nature without daring to act.",
+      "laozi": "あと少し、ってとこで人は失敗する。最初の緊張感を、最後まで持てるか。欲しがらないことを欲しがれ。…矛盾してるだろ？ でもそれが正解だ",
+      "keywords": [
+        "慎終如始",
+        "欲不欲",
+        "自然",
+        "学不学"
+      ]
+    }
+  ]
+}

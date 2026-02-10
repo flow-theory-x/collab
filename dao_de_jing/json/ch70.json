@@ -1,0 +1,33 @@
+{
+  "chapter": 70,
+  "chinese_name": "吾言甚易知",
+  "japanese_name": "被褐懐玉",
+  "summary": "私の言葉は簡単なのに誰も理解しない。聖人は粗末な衣の下に玉を懐く。",
+  "verses": [
+    {
+      "number": 1,
+      "original": "吾言甚易知，甚易行。天下莫能知，莫能行。",
+      "modern_ja": "私のことばはいたって知りやすく、いたって行いやすい。だが天下はこれを知ることも行うこともできない。",
+      "english": "My words are very easy to understand and very easy to practice. Yet no one in the world can understand or practice them.",
+      "laozi": "簡単なんだけどな。すごく簡単。でも誰もわからない。誰もやらない。…なんでだろうな",
+      "keywords": [
+        "易知",
+        "易行",
+        "不知"
+      ]
+    },
+    {
+      "number": 2,
+      "original": "言有宗，事有君。夫唯無知，是以不我知。知我者希，則我者貴。是以聖人被褐懷玉。",
+      "modern_ja": "ことばには宗（根本）があり、事には君（主体）がある。ただ無知なるがゆえに、私を知らない。私を知る者は稀であり、私に倣う者は貴い。だから聖人は粗末な衣の下に玉を懐く。",
+      "english": "My words have an ancestor; my deeds have a lord. Because people lack this knowledge, they do not know me. Those who know me are rare; those who follow me are precious. Thus the sage wears coarse cloth but carries jade within.",
+      "laozi": "俺を知る奴は少ない。倣う奴はもっと少ない。別にいい。ボロ着て、玉を懐に入れてる。…それでいい",
+      "keywords": [
+        "被褐懐玉",
+        "知我者希",
+        "宗",
+        "君"
+      ]
+    }
+  ]
+}
