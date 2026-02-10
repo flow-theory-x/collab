@@ -1,0 +1,19 @@
+{
+  "files": [
+    "workflow.md"
+  ],
+  "dirs": {
+    "dao_de_jing": {
+      "files": [
+        "characters.md",
+        "plan.md"
+      ]
+    },
+    "pali_canon": {
+      "files": [
+        "characters.md",
+        "pali-lightnovel-plan.md"
+      ]
+    }
+  }
+}

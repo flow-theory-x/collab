@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📂 Work — FLOW × Teddy</title>
+<link rel="icon" href="/img/teddy.png">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', sans-serif; font-size: 16px; line-height: 1.8; color: #333; background: #fff; }
+header { border-bottom: 1px solid #eee; padding: 1.5rem 1rem; text-align: center; }
+header h1 { font-size: 1.4rem; font-weight: 600; }
+header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-family: monospace; }
+#content { max-width: 800px; margin: 2rem auto; padding: 0 1.5rem; }
+#content h1, #content h2, #content h3, #content h4 { margin: 1.5em 0 0.5em; font-weight: 600; }
+#content h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.3rem; }
+#content h2 { font-size: 1.4rem; border-bottom: 1px solid #eee; padding-bottom: 0.2rem; }
+#content h3 { font-size: 1.15rem; }
+#content p { margin: 0.8em 0; }
+#content a { color: #0969da; text-decoration: none; }
+#content a:hover { text-decoration: underline; }
+#content ul, #content ol { padding-left: 1.8em; margin: 0.8em 0; }
+#content li { margin: 0.3em 0; }
+#content blockquote { border-left: 4px solid #ddd; padding: 0.5em 1em; margin: 1em 0; color: #666; background: #fafafa; }
+#content code { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 0.9em; background: #f0f0f0; padding: 0.15em 0.4em; border-radius: 3px; }
+#content pre { background: #f6f6f6; border: 1px solid #e8e8e8; border-radius: 6px; padding: 1em; overflow-x: auto; margin: 1em 0; }
+#content pre code { background: none; padding: 0; font-size: 0.85em; }
+#content table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.95em; }
+#content th, #content td { border: 1px solid #ddd; padding: 0.6em 0.8em; text-align: left; }
+#content th { background: #f6f6f6; font-weight: 600; }
+#content tr:nth-child(even) { background: #fafafa; }
+#content img { max-width: 100%; height: auto; border-radius: 4px; }
+#content hr { border: none; border-top: 1px solid #eee; margin: 2rem 0; }
+.loading { text-align: center; color: #999; padding: 3rem; }
+.error { text-align: center; color: #c00; padding: 3rem; }
+</style>
+</head>
+<body>
+<header>
+<h1>📂 Work — FLOW × Teddy</h1>
+<div class="filename" id="filename"></div>
+</header>
+<div id="content"><div class="loading">Loading…</div></div>
+<script>
+(async () => {
+  const params = new URLSearchParams(location.search);
+  const file = params.get('file');
+
+  if (file) {
+    // Single file mode
+    document.getElementById('filename').textContent = file;
+    try {
+      const res = await fetch(file);
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+      const md = await res.text();
+      document.getElementById('content').innerHTML = marked.parse(md);
+    } catch (e) {
+      document.getElementById('content').innerHTML = `<div class="error">⚠️ ${file} の読み込みに失敗しました<br><small>${e.message}</small></div>`;
+    }
+  } else {
+    // File list mode
+    document.getElementById('filename').textContent = 'ファイル一覧';
+    let html = '';
+
+    // Show README.md at top
+    try {
+      const res = await fetch('README.md');
+      if (res.ok) {
+        const md = await res.text();
+        html += '<div style="margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid #eee">' + marked.parse(md) + '</div>';
+      }
+    } catch(_) {}
+
+    // Fetch file list
+    try {
+      const res = await fetch('files.json');
+      if (!res.ok) throw new Error('files.json not found');
+      const data = await res.json();
+
+      const fileLink = (f, dir) => {
+        const path = dir ? `${dir}/${f}` : f;
+        const name = f.replace(/\.md$/, '');
+        return `<a href="?file=${encodeURIComponent(path)}" style="display:block;padding:0.7rem 1rem;background:#f8f9fa;border:1px solid #e8e8e8;border-radius:6px;color:#333;text-decoration:none;transition:background 0.15s"
+          onmouseover="this.style.background='#e8f0fe'" onmouseout="this.style.background='#f8f9fa'">
+          📄 <strong>${name}</strong> <span style="color:#aaa;font-size:0.8rem;margin-left:0.5rem">${path}</span>
+        </a>`;
+      };
+
+      // Directories
+      if (data.dirs && Object.keys(data.dirs).length > 0) {
+        for (const [dir, info] of Object.entries(data.dirs)) {
+          const displayName = dir.replace(/_/g, ' ');
+          html += `<h2 style="font-size:1.2rem;margin:1.5rem 0 0.8rem">📁 ${displayName}</h2>`;
+          html += '<div style="display:grid;gap:0.5rem">';
+          if (info.files && info.files.length > 0) {
+            info.files.forEach(f => { html += fileLink(f, dir); });
+          } else {
+            html += '<p style="color:#aaa;padding:0.5rem 1rem;font-size:0.9rem">まだドキュメントがありません</p>';
+          }
+          html += '</div>';
+        }
+      }
+
+      // Root files
+      if (data.files && data.files.length > 0) {
+        html += '<h2 style="font-size:1.2rem;margin:1.5rem 0 0.8rem">📄 ドキュメント</h2>';
+        html += '<div style="display:grid;gap:0.5rem">';
+        data.files.forEach(f => { html += fileLink(f); });
+        html += '</div>';
+      }
+
+      if ((!data.files || data.files.length === 0) && (!data.dirs || Object.keys(data.dirs).length === 0)) {
+        html += '<p style="color:#888">mdファイルがありません</p>';
+      }
+    } catch (e) {
+      html += `<div class="error">⚠️ ファイル一覧の読み込みに失敗しました<br><small>${e.message}</small><br><small>update_files.sh を実行してください</small></div>`;
+    }
+
+    document.getElementById('content').innerHTML = html;
+  }
+})();
+</script>
+</body>
+</html>
