@@ -1,8 +1,7 @@
-Appamadavagga: Heedfulness
-==========================
+# Appamadavagga: Heedfulness
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 21. Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already. [[3]](dhp.intro.budd.html#fn-3)
 

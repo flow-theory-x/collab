@@ -1,8 +1,7 @@
-Cittavagga: The Mind
-====================
+# Cittavagga: The Mind
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 33. Just as a fletcher straightens an arrow shaft, even so the discerning man straightens his mind — so fickle and unsteady, so difficult to guard.
 

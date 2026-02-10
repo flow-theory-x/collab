@@ -1,8 +1,7 @@
-Balavagga: The Fool
-===================
+# Balavagga: The Fool
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 60. Long is the night to the sleepless; long is the league to the weary. Long is worldly existence to fools who know not the Sublime Truth.
 

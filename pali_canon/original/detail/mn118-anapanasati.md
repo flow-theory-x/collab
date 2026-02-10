@@ -1,8 +1,7 @@
-Anapanasati Sutta: Mindfulness of Breathing
-===========================================
+# Anapanasati Sutta: Mindfulness of Breathing
 
-Source: https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 I have heard that on one occasion the Blessed One was staying at Savatthi in the Eastern Monastery, the palace of Migara's mother, together with many well-known elder disciples — with Ven. Sariputta, Ven. Maha Moggallana, Ven. Maha Kassapa, Ven. Maha Kaccana, Ven. Maha Kotthita, Ven. Maha Kappina, Ven. Maha Cunda, Ven. Revata, Ven. Ananda, and other well-known elder disciples. On that occasion the elder monks were teaching & instructing. Some elder monks were teaching & instructing ten monks, some were teaching & instructing twenty monks, some were teaching & instructing thirty monks, some were teaching & instructing forty monks. The new monks, being taught & instructed by the elder monks, were discerning grand, successive distinctions.
 

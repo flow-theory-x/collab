@@ -1,8 +1,7 @@
-The Discourse on the Arousing of Mindfulness
-============================================
+# The Discourse on the Arousing of Mindfulness
 
-Source: https://www.accesstoinsight.org/tipitaka/mn/mn.010.soma.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/mn/mn.010.soma.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 Thus have I heard.
 

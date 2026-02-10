@@ -1,8 +1,7 @@
-The Buddha's Path of Wisdom
-===========================
+# The Buddha's Path of Wisdom
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 ## Preface #top
 

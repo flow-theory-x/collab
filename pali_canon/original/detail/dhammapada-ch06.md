@@ -1,8 +1,7 @@
-Panditavagga: The Wise
-======================
+# Panditavagga: The Wise
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 76. Should one find a man who points out faults and who reproves, let him follow such a wise and sagacious person as one would a guide to hidden treasure. It is always better, and never worse, to cultivate such an association.
 

@@ -1,8 +1,7 @@
-Last Days of the Buddha
-=======================
+# Last Days of the Buddha
 
-Source: https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 Foreword
 The translation of the Maha-parinibbana Sutta which is offered here is a work of collaboration, but is based upon a text prepared by Sister Vajira of Germany, to whom credit for the initial work must be given. The final revision of the text was done by Mr Francis Story. The notes and references which, it is hoped, will help in the understanding of the text have been contributed by the Venerable Nyanaponika Mahathera, much of the material for them being taken from the Pali Commentary.
@@ -26,7 +25,7 @@ The third chapter, almost exclusively, is devoted to depicting the circumstances
  Ceylon
  May 1961
 
-Part One: In Magadha  
+## Part One: In Magadha
 1. Thus have I heard. Once the Blessed One [1] dwelt at Rajagaha, on the hill called Vultures' Peak. At that time the king of Magadha, Ajatasattu, son of the Videhi queen, [2] desired to wage war against the Vajjis. He spoke in this fashion: "These Vajjis, powerful and glorious as they are, I shall annihilate them, I shall make them perish, I shall utterly destroy them."
 2. And Ajatasattu, the king of Magadha, addressed his chief minister, the brahman Vassakara, saying: "Come, brahman, go to the Blessed One, pay homage in my name at his feet, wish him good health, strength, ease, vigour, and comfort, and speak thus: 'O Lord, Ajatasattu, the king of Magadha, desires to wage war against the Vajjis. He has spoken in this fashion: "These Vajjis, powerful and glorious as they are, I shall annihilate them, I shall make them perish, I shall utterly destroy them."' And whatever the Blessed One should answer you, keep it well in mind and inform me; for Tathagatas [3] do not speak falsely."
 3. "Very well, sire," said the brahman Vassakara in assent to Ajatasattu, king of Magadha. And he ordered a large number of magnificent carriages to be made ready, mounted one himself, and accompanied by the rest, drove out to Rajagaha towards Vultures' Peak. He went by carriage as far as the carriage could go, then dismounting, he approached the Blessed One on foot. After exchanging courteous greetings with the Blessed One, together with many pleasant words, he sat down at one side and addressed the Blessed One thus: "Venerable Gotama, Ajatasattu, the king of Magadha, pays homage at the feet of the Venerable Gotama and wishes him good health, strength, ease, vigour, and comfort. He desires to wage war against the Vajjis, and he has spoken in this fashion: 'These Vajjis, powerful and glorious as they are, I shall annihilate them, I shall make them perish, I shall utterly destroy them.'"
@@ -160,7 +159,7 @@ Leaving the lowlands far behind,
 While others still their frail rafts bind,
 Are saved by wisdom unsurpassed.
 
-Part Two: The Journey to Vesali  
+## Part Two: The Journey to Vesali
 
 The Four Noble Truths
 1. Now the Blessed One spoke to the Venerable Ananda, saying: "Come, Ananda, let us go to Kotigama."
@@ -240,7 +239,7 @@ The Blessed One's Deadly Sickness
 34. "When he dwells contemplating the body in the body, earnestly, clearly comprehending, and mindfully, after having overcome desire and sorrow in regard to the world; when he dwells contemplating feelings in feelings, the mind in the mind, and mental objects in mental objects, earnestly, clearly comprehending, and mindfully, after having overcome desire and sorrow in regard to the world, then, truly, he is an island unto himself, a refuge unto himself, seeking no external refuge; having the Dhamma as his island, the Dhamma as his refuge, seeking no other refuge.
 35. "Those bhikkhus of mine, Ananda, who now or after I am gone, abide as an island unto themselves, as a refuge unto themselves, seeking no other refuge; having the Dhamma as their island and refuge, seeking no other refuge: it is they who will become the highest, [20] if they have the desire to learn."
 
-Part Three: Relinquishing the Will to Live  
+## Part Three: Relinquishing the Will to Live
 
 The Blessed One's Prompting
 1. Then the Blessed One, getting ready in the forenoon, took bowl and robe and went into Vesali for alms. After the alms round and meal, on his return, he spoke to the Venerable Ananda, saying: "Take up a mat, Ananda, and let us spend the day at the Capala shrine."

@@ -1,8 +1,7 @@
-Yamakavagga: Pairs
-==================
+# Yamakavagga: Pairs
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 1. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
 

@@ -1,8 +1,7 @@
-Pupphavagga: Flowers
-====================
+# Pupphavagga: Flowers
 
-Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.04.budd.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.04.budd.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 44. Who shall overcome this earth, this realm of Yama and this sphere of men and gods? Who shall bring to perfection the well-taught path of wisdom as an expert garland-maker would his floral design?
 

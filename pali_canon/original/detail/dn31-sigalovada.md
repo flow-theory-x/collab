@@ -1,8 +1,7 @@
-Sigalovada Sutta: The Discourse to Sigala
-=========================================
+# Sigalovada Sutta: The Discourse to Sigala
 
-Source: https://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html
-Translation: Acharya Buddharakkhita (Access to Insight)
+> Source: https://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html
+> Translation: Acharya Buddharakkhita (Access to Insight)
 
 Thus have I heard:
 
