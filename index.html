@@ -89,7 +89,7 @@ header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-fam
 
       // Sibling files navigation
       try {
-        const fjRes = await fetch('files.json');
+        const fjRes = await fetch('files.json?t=' + Date.now());
         if (fjRes.ok) {
           const data = await fjRes.json();
           const fileParts = file.split('/');
@@ -139,7 +139,7 @@ header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-fam
       // File fetch failed — try to show as directory listing
       let shown = false;
       try {
-        const fjRes = await fetch('files.json');
+        const fjRes = await fetch('files.json?t=' + Date.now());
         if (fjRes.ok) {
           const data = await fjRes.json();
           // Collect files under this path prefix
@@ -247,7 +247,7 @@ header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-fam
 
     // Fetch file list
     try {
-      const res = await fetch('files.json');
+      const res = await fetch('files.json?t=' + Date.now());
       if (!res.ok) throw new Error('files.json not found');
       const data = await res.json();
 
