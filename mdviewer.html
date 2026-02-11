@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📂 Work — FLOW × Teddy</title>
+<link rel="icon" href="/img/teddy.png">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Kaku Gothic ProN', sans-serif; font-size: 16px; line-height: 1.8; color: #333; background: #fff; }
+header { border-bottom: 1px solid #eee; padding: 1.5rem 1rem; text-align: center; }
+header h1 { font-size: 1.4rem; font-weight: 600; }
+header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-family: monospace; }
+#content { max-width: 800px; margin: 2rem auto; padding: 0 1.5rem; }
+#content h1, #content h2, #content h3, #content h4 { margin: 1.5em 0 0.5em; font-weight: 600; }
+#content h1 { font-size: 1.8rem; border-bottom: 2px solid #eee; padding-bottom: 0.3rem; }
+#content h2 { font-size: 1.4rem; border-bottom: 1px solid #eee; padding-bottom: 0.2rem; }
+#content h3 { font-size: 1.15rem; }
+#content p { margin: 0.8em 0; }
+#content a { color: #0969da; text-decoration: none; }
+#content a:hover { text-decoration: underline; }
+#content ul, #content ol { padding-left: 1.8em; margin: 0.8em 0; }
+#content li { margin: 0.3em 0; }
+#content blockquote { border-left: 4px solid #ddd; padding: 0.5em 1em; margin: 1em 0; color: #666; background: #fafafa; }
+#content code { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 0.9em; background: #f0f0f0; padding: 0.15em 0.4em; border-radius: 3px; }
+#content pre { background: #f6f6f6; border: 1px solid #e8e8e8; border-radius: 6px; padding: 1em; overflow-x: auto; margin: 1em 0; }
+#content pre code { background: none; padding: 0; font-size: 0.85em; }
+#content table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.95em; }
+#content th, #content td { border: 1px solid #ddd; padding: 0.6em 0.8em; text-align: left; }
+#content th { background: #f6f6f6; font-weight: 600; }
+#content tr:nth-child(even) { background: #fafafa; }
+#content img { max-width: 100%; height: auto; border-radius: 4px; }
+#content hr { border: none; border-top: 1px solid #eee; margin: 2rem 0; }
+.loading { text-align: center; color: #999; padding: 3rem; }
+.error { text-align: center; color: #c00; padding: 3rem; }
+</style>
+</head>
+<body>
+<header>
+<h1>📂 Work — FLOW × Teddy</h1>
+<div class="filename" id="filename"></div>
+</header>
+<div id="content"><div class="loading">Loading…</div></div>
+<script>
+(async () => {
+  const params = new URLSearchParams(location.search);
+  const file = params.get('file');
+
+  if (file) {
+    // Single file mode
+    document.getElementById('filename').textContent = file;
+
+    // Breadcrumb
+    const parts = file.split('/');
+    const bc = document.createElement('div');
+    bc.style.cssText = 'font-size:0.85rem;color:#888;max-width:800px;margin:1rem auto 0;padding:0 1.5rem;';
+    const a = document.createElement('a');
+    a.href = 'index.html';
+    a.textContent = '📂 Work';
+    a.style.cssText = 'color:#888;text-decoration:none;';
+    a.onmouseover = () => a.style.textDecoration = 'underline';
+    a.onmouseout = () => a.style.textDecoration = 'none';
+    bc.appendChild(a);
+    parts.forEach((p, i) => {
+      bc.appendChild(document.createTextNode(' > '));
+      if (i < parts.length - 1) {
+        const da = document.createElement('a');
+        da.href = '?file=' + encodeURIComponent(parts.slice(0, i + 1).join('/'));
+        da.textContent = p;
+        da.style.cssText = 'color:#888;text-decoration:none;';
+        da.onmouseover = () => da.style.textDecoration = 'underline';
+        da.onmouseout = () => da.style.textDecoration = 'none';
+        bc.appendChild(da);
+      } else {
+        const s = document.createElement('span');
+        s.style.color = '#555';
+        s.textContent = p;
+        bc.appendChild(s);
+      }
+    });
+    document.getElementById('content').before(bc);
+
+    try {
+      const res = await fetch(file + (file.includes('?') ? '&' : '?') + 't=' + Date.now(), { redirect: 'manual' });
+      if (!res.ok || res.type === 'opaqueredirect') throw new Error(`${res.status} ${res.statusText}`);
+      const ct = res.headers.get('content-type') || '';
+      if (ct.includes('text/html')) throw new Error('Not a markdown file');
+      const md = await res.text();
+      document.getElementById('content').innerHTML = marked.parse(md);
+
+      // Sibling files navigation
+      try {
+        const fjRes = await fetch('files.json?t=' + Date.now());
+        if (fjRes.ok) {
+          const data = await fjRes.json();
+          const fileParts = file.split('/');
+          const dirName = fileParts.length > 1 ? fileParts.slice(0, -1).join('/') : null;
+          const fileName = fileParts[fileParts.length - 1];
+
+          let siblings = [];
+          if (dirName) {
+            // Find files in the same directory from files.json
+            const topDir = fileParts[0];
+            const dirInfo = data.dirs && data.dirs[topDir];
+            if (dirInfo && dirInfo.files) {
+              if (fileParts.length === 2) {
+                // Direct files in this dir
+                siblings = dirInfo.files.filter(f => !f.includes('/'));
+              } else {
+                // Nested: find files matching subdir prefix
+                const subPrefix = fileParts.slice(1, -1).join('/') + '/';
+                siblings = dirInfo.files.filter(f => f.startsWith(subPrefix)).map(f => f.substring(subPrefix.length));
+              }
+            }
+          } else {
+            siblings = data.files || [];
+          }
+
+          if (siblings.length > 1) {
+            const nav = document.createElement('div');
+            nav.style.cssText = 'margin-top:3rem;padding-top:1.5rem;border-top:1px solid #eee;font-size:0.82rem;color:#888;line-height:2;';
+            let html = '<div style="margin-bottom:0.5rem;font-weight:600;color:#999;">📂 同じディレクトリのファイル</div><div style="word-break:break-word;">';
+            siblings.forEach((f, i) => {
+              if (i > 0) html += ' <span style="color:#ddd">|</span> ';
+              const displayName = f.replace(/\.md$/, '');
+              if (f === fileName) {
+                html += `<strong style="color:#333;">${displayName}</strong>`;
+              } else {
+                const fullPath = dirName ? `${dirName}/${f}` : f;
+                html += `<a href="?file=${encodeURIComponent(fullPath)}" style="color:#0969da;text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${displayName}</a>`;
+              }
+            });
+            html += '</div>';
+            nav.innerHTML = html;
+            document.getElementById('content').appendChild(nav);
+          }
+        }
+      } catch(_) {}
+    } catch (e) {
+      // File fetch failed — try to show as directory listing
+      let shown = false;
+      try {
+        const fjRes = await fetch('files.json?t=' + Date.now());
+        if (fjRes.ok) {
+          const data = await fjRes.json();
+          // Collect files under this path prefix
+          const prefix = file.endsWith('/') ? file.slice(0, -1) : file;
+          const prefixParts = prefix.split('/');
+          const topDir = prefixParts[0];
+          const dirInfo = data.dirs && data.dirs[topDir];
+
+          // Also check if prefix itself is a top-level dir
+          let matchedFiles = [];
+          if (dirInfo && dirInfo.files) {
+            if (prefixParts.length === 1) {
+              // Top-level dir: all files
+              matchedFiles = dirInfo.files.map(f => ({ name: f, path: topDir + '/' + f }));
+            } else {
+              // Sub-path within dir
+              const subPrefix = prefixParts.slice(1).join('/') + '/';
+              dirInfo.files.forEach(f => {
+                if (f.startsWith(subPrefix)) {
+                  matchedFiles.push({ name: f.substring(subPrefix.length), path: topDir + '/' + f });
+                } else if (f === prefixParts.slice(1).join('/')) {
+                  // Exact file match (shouldn't happen since fetch failed, but just in case)
+                  matchedFiles.push({ name: f.split('/').pop(), path: topDir + '/' + f });
+                }
+              });
+            }
+          }
+
+          if (matchedFiles.length > 0) {
+            shown = true;
+            let html = '';
+
+            // Check for README.md in this directory
+            const readmePath = prefix + '/README.md';
+            try {
+              const readmeRes = await fetch(readmePath + '?t=' + Date.now());
+              if (readmeRes.ok) {
+                const readmeMd = await readmeRes.text();
+                html += '<div style="margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid #eee">' + marked.parse(readmeMd) + '</div>';
+              }
+            } catch(_) {}
+
+            // Separate into direct files and subdirectories
+            const directFiles = [];
+            const subdirs = {};
+            matchedFiles.forEach(({ name, path }) => {
+              const slash = name.indexOf('/');
+              if (slash === -1) {
+                directFiles.push({ name, path });
+              } else {
+                const sub = name.substring(0, slash);
+                if (!subdirs[sub]) subdirs[sub] = [];
+                subdirs[sub].push({ name: name.substring(slash + 1), path });
+              }
+            });
+
+            const fileLink = (displayName, fullPath) => {
+              const label = displayName.replace(/\.md$/, '');
+              return `<a href="?file=${encodeURIComponent(fullPath)}" style="display:block;padding:0.7rem 1rem;background:#f8f9fa;border:1px solid #e8e8e8;border-radius:6px;color:#333;text-decoration:none;transition:background 0.15s"
+                onmouseover="this.style.background='#e8f0fe'" onmouseout="this.style.background='#f8f9fa'">
+                📄 <strong>${label}</strong>
+              </a>`;
+            };
+
+            // Subdirectories as links
+            for (const sub of Object.keys(subdirs)) {
+              const subPath = prefix + '/' + sub;
+              const count = subdirs[sub].length;
+              const displaySub = sub.replace(/_/g, ' ');
+              html += `<a href="?file=${encodeURIComponent(subPath)}" style="display:block;padding:0.7rem 1rem;background:#f8f9fa;border:1px solid #e8e8e8;border-radius:6px;color:#333;text-decoration:none;transition:background 0.15s;margin-bottom:0.5rem"
+                onmouseover="this.style.background='#e8f0fe'" onmouseout="this.style.background='#f8f9fa'">
+                📁 <strong>${displaySub}</strong> <span style="background:#e8e8e8;color:#666;font-size:0.75rem;padding:0.1rem 0.5rem;border-radius:10px;font-weight:500">${count}</span>
+              </a>`;
+            }
+
+            // Direct files
+            if (directFiles.length > 0) {
+              html += '<div style="display:grid;gap:0.5rem">';
+              directFiles.forEach(({ name, path }) => { html += fileLink(name, path); });
+              html += '</div>';
+            }
+
+            document.getElementById('content').innerHTML = html;
+          }
+        }
+      } catch(_) {}
+
+      if (!shown) {
+        document.getElementById('content').innerHTML = `<div class="error">⚠️ ${file} の読み込みに失敗しました<br><small>${e.message}</small></div>`;
+      }
+    }
+  } else {
+    // File list mode
+    document.getElementById('filename').textContent = 'ファイル一覧';
+    let html = '';
+
+    // Show README.md at top
+    try {
+      const res = await fetch('README.md?t=' + Date.now());
+      if (res.ok) {
+        const md = await res.text();
+        html += '<div style="margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid #eee">' + marked.parse(md) + '</div>';
+      }
+    } catch(_) {}
+
+    // Fetch file list
+    try {
+      const res = await fetch('files.json?t=' + Date.now());
+      if (!res.ok) throw new Error('files.json not found');
+      const data = await res.json();
+
+      const fileLink = (f, dir) => {
+        const path = dir ? `${dir}/${f}` : f;
+        const name = f.replace(/\.md$/, '');
+        return `<a href="?file=${encodeURIComponent(path)}" style="display:block;padding:0.7rem 1rem;background:#f8f9fa;border:1px solid #e8e8e8;border-radius:6px;color:#333;text-decoration:none;transition:background 0.15s"
+          onmouseover="this.style.background='#e8f0fe'" onmouseout="this.style.background='#f8f9fa'">
+          📄 <strong>${name}</strong> <span style="color:#aaa;font-size:0.8rem;margin-left:0.5rem">${path}</span>
+        </a>`;
+      };
+
+      const toggleDir = (id) => {
+        const el = document.getElementById(id);
+        const arrow = document.getElementById(id + '-arrow');
+        if (el.style.display === 'none') {
+          el.style.display = 'block';
+          arrow.textContent = '▼';
+        } else {
+          el.style.display = 'none';
+          arrow.textContent = '▶';
+        }
+      };
+      window.toggleDir = toggleDir;
+
+      let dirIdx = 0;
+      const buildTree = (files, dirBase) => {
+        // Separate root files and subdirectory files
+        const rootFiles = [];
+        const subdirs = {};
+        files.forEach(f => {
+          const slash = f.indexOf('/');
+          if (slash === -1) {
+            rootFiles.push(f);
+          } else {
+            const sub = f.substring(0, slash);
+            const rest = f.substring(slash + 1);
+            if (!subdirs[sub]) subdirs[sub] = [];
+            subdirs[sub].push(rest);
+          }
+        });
+        let out = '';
+        // Root files first
+        rootFiles.forEach(f => { out += fileLink(f, dirBase); });
+        // Subdirectories
+        for (const [sub, subFiles] of Object.entries(subdirs)) {
+          const id = 'dir-' + (dirIdx++);
+          const displaySub = sub.replace(/_/g, ' ');
+          const count = subFiles.length;
+          out += `<div style="margin-top:0.5rem">
+            <div onclick="toggleDir('${id}')" style="cursor:pointer;user-select:none;padding:0.5rem 0.5rem;font-weight:600;font-size:1rem;color:#333;display:flex;align-items:center;gap:0.4rem">
+              <span id="${id}-arrow" style="font-size:0.75rem;width:1em;text-align:center">▶</span> 📁 ${displaySub} <span style="background:#e8e8e8;color:#666;font-size:0.75rem;padding:0.1rem 0.5rem;border-radius:10px;font-weight:500">${count}</span>
+            </div>
+            <div id="${id}" style="display:none;padding-left:1.2rem">
+              <div style="display:grid;gap:0.5rem">
+                ${subFiles.map(f => fileLink(f, dirBase + '/' + sub)).join('')}
+              </div>
+            </div>
+          </div>`;
+        }
+        return out;
+      };
+
+      // Root files (always visible)
+      if (data.files && data.files.length > 0) {
+        html += '<h2 style="font-size:1.2rem;margin:1.5rem 0 0.8rem">📄 ドキュメント</h2>';
+        html += '<div style="display:grid;gap:0.5rem">';
+        data.files.forEach(f => { html += fileLink(f); });
+        html += '</div>';
+      }
+
+      // Directories (collapsible)
+      if (data.dirs && Object.keys(data.dirs).length > 0) {
+        for (const [dir, info] of Object.entries(data.dirs)) {
+          const displayName = dir.replace(/_/g, ' ');
+          const id = 'dir-' + (dirIdx++);
+          const count = info.files ? info.files.length : 0;
+          html += `<div style="margin-top:1.2rem">
+            <div onclick="toggleDir('${id}')" style="cursor:pointer;user-select:none;display:flex;align-items:center;gap:0.4rem;font-size:1.2rem;font-weight:600">
+              <span id="${id}-arrow" style="font-size:0.8rem;width:1em;text-align:center">▶</span> 📁 ${displayName} <span style="background:#e8e8e8;color:#666;font-size:0.75rem;padding:0.1rem 0.5rem;border-radius:10px;font-weight:500">${count}</span>
+            </div>
+            <div id="${id}" style="display:none;padding-left:1.2rem;margin-top:0.5rem">
+              <div style="display:grid;gap:0.5rem">`;
+          if (info.files && info.files.length > 0) {
+            html += buildTree(info.files, dir);
+          } else {
+            html += '<p style="color:#aaa;padding:0.5rem 1rem;font-size:0.9rem">まだドキュメントがありません</p>';
+          }
+          html += '</div></div></div>';
+        }
+      }
+
+      if ((!data.files || data.files.length === 0) && (!data.dirs || Object.keys(data.dirs).length === 0)) {
+        html += '<p style="color:#888">mdファイルがありません</p>';
+      }
+    } catch (e) {
+      html += `<div class="error">⚠️ ファイル一覧の読み込みに失敗しました<br><small>${e.message}</small><br><small>update_files.sh を実行してください</small></div>`;
+    }
+
+    document.getElementById('content').innerHTML = html;
+  }
+})();
+</script>
+</body>
+</html>
