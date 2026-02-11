@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>法華経キャラクター設定</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #1a0a2e; color: #e0d0f0; font-family: 'Helvetica Neue', sans-serif; }
+h1 { text-align: center; padding: 2rem 1rem 0.5rem; font-size: 1.8rem; color: #c084fc; }
+.subtitle { text-align: center; color: #888; font-size: 0.9rem; margin-bottom: 2rem; }
+.group-title { color: #c084fc; font-size: 1.2rem; padding: 1.5rem 1rem 0.5rem; text-align: center; border-top: 1px solid #333; margin-top: 1rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1rem; padding: 0 1rem 1rem; max-width: 1200px; margin: 0 auto; }
+.card { background: #251540; border-radius: 12px; overflow: hidden; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; }
+.card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(192,132,252,0.2); }
+.card img { width: 100%; aspect-ratio: 938/768; object-fit: cover; display: block; }
+.card .info { padding: 0.6rem 0.8rem; }
+.card .name-ja { font-size: 1.1rem; font-weight: bold; color: #c084fc; }
+.card .name-en { font-size: 0.75rem; color: #888; }
+.card .title { font-size: 0.7rem; color: #a78bfa; margin-top: 0.2rem; }
+.sheets { max-width: 1200px; margin: 0 auto; padding: 0.5rem 1rem 1rem; display: flex; flex-direction: column; gap: 1rem; }
+.sheets img { width: 100%; border-radius: 8px; cursor: pointer; transition: transform 0.2s; }
+.sheets img:hover { transform: scale(1.02); }
+.modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.93); z-index: 100; justify-content: center; align-items: center; flex-direction: column; }
+.modal.active { display: flex; }
+.modal img { max-height: 85vh; max-width: 95vw; object-fit: contain; border-radius: 8px; }
+.modal .caption { color: #c084fc; font-size: 1.2rem; margin-top: 1rem; text-align: center; }
+.modal .close { position: absolute; top: 1rem; right: 1.5rem; color: #fff; font-size: 2rem; cursor: pointer; }
+footer { text-align: center; padding: 2rem; color: #555; font-size: 0.8rem; }
+footer a { color: #c084fc; text-decoration: none; }
+</style>
+</head>
+<body>
+
+<h1>法華経キャラクター設定</h1>
+<p class="subtitle">法華曼荼羅 ─ 伝説になった後の物語</p>
+
+<div class="group-title">◆ 仏・地涌の菩薩</div>
+<div class="grid" id="buddhas"></div>
+
+<div class="group-title">◆ 他方の菩薩・護法</div>
+<div class="grid" id="bodhisattvas"></div>
+
+<div class="group-title">◆ キャラクターシート</div>
+<div class="sheets">
+  <img src="../img/charsheet-1.jpg" alt="Sheet 1/2" onclick="openModal(this.src,'Sheet 1/2: 多宝如来、上行菩薩、無辺行菩薩、浄行菩薩、安立行菩薩、普賢菩薩')">
+  <img src="../img/charsheet-2.jpg" alt="Sheet 2/2" onclick="openModal(this.src,'Sheet 2/2: 文殊菩薩、弥勒菩薩、薬王菩薩、龍女、鬼子母神、観世音菩薩')">
+</div>
+
+<div class="modal" id="modal" onclick="this.classList.remove('active')">
+  <span class="close">&times;</span>
+  <img id="modal-img" src="" alt="">
+  <div class="caption" id="modal-caption"></div>
+</div>
+
+<footer>
+  <a href="../../pali_canon/characters/">パーリ経典キャラクター</a> ｜ 
+  <a href="../../dao_de_jing/characters/">道徳経キャラクター</a> ｜
+  東洋思想フルコース
+</footer>
+
+<script>
+const characters = {
+  "buddhas": [
+    { file: "../img/taho-nyorai.jpg", ja: "多宝如来", en: "Prabhūtaratna", title: "法華経の証明者、永遠の真理を象徴" },
+    { file: "../img/jogyo.jpg", ja: "上行菩薩", en: "Viśiṣṭacāritra", title: "地涌の菩薩の筆頭、法華経弘通の中心" },
+    { file: "../img/muhengyo.jpg", ja: "無辺行菩薩", en: "Anantacāritra", title: "無限の修行を司る菩薩" },
+    { file: "../img/jogyo-clean.jpg", ja: "浄行菩薩", en: "Śuddhacāritra", title: "清浄な行いを体現する菩薩" },
+    { file: "../img/anryugyo.jpg", ja: "安立行菩薩", en: "Supratiṣṭhitacāritra", title: "安定した実践を導く菩薩" },
+    { file: "../img/fugen.jpg", ja: "普賢菩薩", en: "Samantabhadra", title: "修行と実践の象徴、法華経の守護者" },
+  ],
+  "bodhisattvas": [
+    { file: "../img/monju.jpg", ja: "文殊菩薩", en: "Mañjuśrī", title: "智慧の菩薩、仏の智慧を代表" },
+    { file: "../img/miroku.jpg", ja: "弥勒菩薩", en: "Maitreya", title: "未来仏、慈悲の象徴" },
+    { file: "../img/yakuo.jpg", ja: "薬王菩薩", en: "Bhaiṣajyarāja", title: "法華経への献身を示す菩薩" },
+    { file: "../img/ryunyo.jpg", ja: "龍女", en: "Nāga Girl", title: "即身成仏、8歳の龍王の娘" },
+    { file: "../img/kishimojin.jpg", ja: "鬼子母神", en: "Hārītī", title: "子供と安産の守護神、法華経の護法神" },
+    { file: "../img/kannon.jpg", ja: "観世音菩薩", en: "Avalokiteśvara", title: "無限の慈悲、普門品の主役" },
+  ]
+};
+
+function openModal(src, caption) {
+  document.getElementById('modal-img').src = src;
+  document.getElementById('modal-caption').textContent = caption;
+  document.getElementById('modal').classList.add('active');
+}
+
+function createCard(char) {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `
+    <img src="${char.file}" alt="${char.ja}" loading="lazy">
+    <div class="info">
+      <div class="name-ja">${char.ja}</div>
+      <div class="name-en">${char.en}</div>
+      <div class="title">${char.title}</div>
+    </div>`;
+  card.onclick = () => openModal(char.file, `${char.ja}（${char.en}）`);
+  return card;
+}
+
+Object.entries(characters).forEach(([groupId, chars]) => {
+  const grid = document.getElementById(groupId);
+  chars.forEach(c => grid.appendChild(createCard(c)));
+});
+</script>
+</body>
+</html>
