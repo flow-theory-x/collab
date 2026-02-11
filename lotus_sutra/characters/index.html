@@ -38,17 +38,21 @@ footer a { color: #c084fc; text-decoration: none; }
 <div class="group-title">◆ 仏・地涌の菩薩</div>
 <div class="grid" id="buddhas"></div>
 
-<div class="group-title">◆ 他方の菩薩・護法</div>
+<div class="group-title">◆ 菩薩・護法（法華経登場）</div>
 <div class="grid" id="bodhisattvas"></div>
 
-<div class="group-title">◆ 天部・護法・王族</div>
+<div class="group-title">◆ 天部・護法・王族（法華経登場）</div>
 <div class="grid" id="devas"></div>
 
-<div class="group-title">◆ 四天王・天体神</div>
+<div class="group-title">◆ 四天王・天体神（法華経登場）</div>
 <div class="grid" id="guardians"></div>
 
-<div class="group-title">◆ 龍族・阿修羅・王</div>
+<div class="group-title">◆ 龍族・阿修羅・王（法華経登場）</div>
 <div class="grid" id="others"></div>
+
+<div class="group-title" style="border-top: 2px solid #c084fc; margin-top: 2rem; padding-top: 2rem;">◆ ゲスト（他経典・密教系）</div>
+<p style="text-align:center; color:#888; font-size:0.8rem; margin-bottom:1rem;">※ サッダルマプンダリーカには直接登場しないキャラクター</p>
+<div class="grid" id="guests"></div>
 
 <div class="group-title">◆ キャラクターシート</div>
 <div class="sheets">
@@ -85,7 +89,6 @@ const characters = {
     { file: "../img/manjusri.jpg", ja: "マンジュシュリー（文殊菩薩）", en: "Mañjuśrī", title: "智慧の菩薩、仏の智慧を代表" },
     { file: "../img/maitreya.jpg", ja: "マイトレーヤ（弥勒菩薩）", en: "Maitreya", title: "未来仏、慈悲の象徴" },
     { file: "../img/baira.jpg", ja: "バイラ（薬王菩薩）", en: "Bhaiṣajyarāja", title: "Lotus Sutraへの献身を示す菩薩" },
-    { file: "../img/kshitigarbha.jpg", ja: "クシティ（地蔵菩薩）", en: "Kṣitigarbha", title: "「地獄が空になるまで悟らない」究極の救済者" },
     { file: "../img/ryunyo.jpg", ja: "龍女", en: "Nāga Girl", title: "即身成仏、8歳の龍王の娘" },
     { file: "../img/kishimojin.jpg", ja: "鬼子母神", en: "Hārītī", title: "子供と安産の守護神、Lotus Sutraの護法神" },
     { file: "../img/avalon.jpg", ja: "アヴァロン（観音菩薩）", en: "Avalokiteśvara", title: "無限の慈悲、普門品の主役" },
@@ -115,8 +118,6 @@ function createCard(char) {
 const devas = [
   { file: "../img/charsheet-3.jpg", ja: "帝釈天（シャクラ）", en: "Śakra", title: "三十三天の王、雷の戦士", crop: 0 },
   { file: "../img/charsheet-3.jpg", ja: "大梵天（ブラフマー）", en: "Mahābrahmā", title: "色界の最高神", crop: 1 },
-  { file: "../img/charsheet-3.jpg", ja: "不動明王（フドウ）", en: "Acalanātha", title: "不動の意志力、炎の守護者", crop: 2 },
-  { file: "../img/charsheet-3.jpg", ja: "愛染明王（アイゼン）", en: "Rāgarāja", title: "愛欲を菩提心に転ずる明王", crop: 3 },
   { file: "../img/charsheet-3.jpg", ja: "阿闍世王", en: "Ajātaśatru", title: "父殺しの王、後に帰依", crop: 4 },
   { file: "../img/charsheet-3.jpg", ja: "十羅刹女", en: "Daśa-rākṣasī", title: "Lotus Sutra行者を守護する羅刹女", crop: 5 },
 ];
@@ -136,6 +137,26 @@ const others = [
   { file: "../img/charsheet-5.jpg", ja: "大龍王（ナーガラージャ）", en: "Nāgarāja", title: "龍族の王、水と豊穣の守護者", crop: 2 },
   { file: "../img/charsheet-5.jpg", ja: "阿修羅王", en: "Asura-rāja", title: "戦闘の神、正義への闘争心", crop: 3 },
 ];
+
+const guests = [
+  { file: "../img/kshitigarbha.jpg", ja: "クシティ（地蔵菩薩）", en: "Kṣitigarbha", title: "「地獄が空になるまで悟らない」究極の救済者", hasImg: true },
+  { file: "../img/charsheet-3.jpg", ja: "不動明王（フドウ）", en: "Acalanātha", title: "不動の意志力、炎の守護者" },
+  { file: "../img/charsheet-3.jpg", ja: "愛染明王（アイゼン）", en: "Rāgarāja", title: "愛欲を菩提心に転ずる明王" },
+];
+
+// Render guests
+const guestsGrid = document.getElementById('guests');
+guests.forEach(c => {
+  if (c.hasImg) {
+    guestsGrid.appendChild(createCard(c));
+  } else {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `<div class="info"><div class="name-ja">${c.ja}</div><div class="name-en">${c.en}</div><div class="title">${c.title}</div></div>`;
+    card.onclick = () => openModal(c.file, `${c.ja}（${c.en}）`);
+    guestsGrid.appendChild(card);
+  }
+});
 
 // For sheet-based chars, just show the sheet card linking to modal
 ["devas", "guardians", "others"].forEach(groupId => {
