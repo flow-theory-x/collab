@@ -82,7 +82,7 @@ header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-fam
     document.getElementById('content').before(bc);
 
     try {
-      const res = await fetch(file);
+      const res = await fetch(file + (file.includes('?') ? '&' : '?') + 't=' + Date.now());
       if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
       const md = await res.text();
       document.getElementById('content').innerHTML = marked.parse(md);
@@ -175,7 +175,7 @@ header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-fam
             // Check for README.md in this directory
             const readmePath = prefix + '/README.md';
             try {
-              const readmeRes = await fetch(readmePath);
+              const readmeRes = await fetch(readmePath + '?t=' + Date.now());
               if (readmeRes.ok) {
                 const readmeMd = await readmeRes.text();
                 html += '<div style="margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid #eee">' + marked.parse(readmeMd) + '</div>';
@@ -238,7 +238,7 @@ header .filename { font-size: 0.85rem; color: #888; margin-top: 0.3rem; font-fam
 
     // Show README.md at top
     try {
-      const res = await fetch('README.md');
+      const res = await fetch('README.md?t=' + Date.now());
       if (res.ok) {
         const md = await res.text();
         html += '<div style="margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid #eee">' + marked.parse(md) + '</div>';
